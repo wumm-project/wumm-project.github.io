@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="stylesheets/bootstrap.min.css">
+    <link rel="stylesheet" href="stylesheets/symbolicdata.css">
+  </head>
+  <body>
+    <nav class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+	<li><a href="." class="navbar-left">
+	    <img width="60em" src="stylesheets/Logo.jpg"></a></li>
+	<li><a href=".">Home</a></li> 
+	<li><a href="About.html">About</a></li>
+	<li><a href="Guide.html">Site-Guide</a></li>
+	<li><a href="Disclaimer.html">Privacy</a></li>
+      </ul>
+    </nav>
+    <div class="container" >
+    <div class="jumbotron" >
+      {{ content }}
+    </div>
+    </div>
+    <footer>
+      <div class="container">
+        <p class="center-text"> &copy; The WUMM Project, since 2018</p>
+      </div>
+    </footer>
+  </body>
+</html>
