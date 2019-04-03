@@ -20,4 +20,4 @@ title: Material
 # Folien
 
 * [ARIZ-Grundmuster](Material/ARIZ-Folien.pdf)
-* to be added: ProHEAL Wegeprogramm
+* Das [ProHEAL Wegemodell](Material/Wegemodell.pdf)
