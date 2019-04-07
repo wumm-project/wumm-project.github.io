@@ -3,6 +3,8 @@ layout: default
 title: Vocabulary
 ---
 
+# This page is under reconstruction
+
 This is a short description of the vocabulary developed so far.  We use the
 [SKOS Ontology](https://www.w3.org/2004/02/skos/) as basic modeling frame.
 
