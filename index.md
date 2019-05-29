@@ -1,15 +1,18 @@
 ---
 layout: default
-title: The Open Discovery Project
+title: The WUMM Project
 ---
 
-This is a first small hack of a web site for the upcoming Open Discovery
-Project that aims at collecting different information about the [TRIZ
-methodology](https://en.wikipedia.org/wiki/TRIZ) in RDF format for the
-public as [Linked Open Data](http://lod-cloud.net/).
+This is a first small hack of a web site for the WUMM Project that aims at
+collecting different information about contradition oriented innovation
+methods, in particular the [TRIZ
+methodology](https://en.wikipedia.org/wiki/TRIZ), in RDF format for the public
+as [Linked Open Data](http://lod-cloud.net/).
 
-The Project operates a [github
-repository](https://github.com/wumm-project/OpenDiscovery).
+The Project operates a [github organizational
+account](https://github.com/wumm-project).
 
-All material is available under the terms of the [Creative Commons CC Zero
-License](http://creativecommons.org/publicdomain/zero/1.0/).
+One of the main goals of the project is the clarification of the licensing
+situation of texts, presentations an pictures in use within the community. All
+material should be explicitely made available under the terms of approrpiate
+[Creative Commons CC Licenses](http://creativecommons.org).
