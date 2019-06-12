@@ -31,14 +31,16 @@ understandings of the cognitive process itself:
 
 * Discoveries are part of an academic cognitive process in which
   referencability, connectivity, and cooperative review processes are at the
-  forefront. The conditions for such a "standing on the shoulders of giants,
-  which also allows dwarfs to look a little further" (source), have improved
-  with the networking possibilities of the digital change once again by orders
-  of magnitude.
+  forefront. The conditions for such a ["standing on the shoulders of giants,
+  which also allows dwarfs to look a little
+  further"](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants),
+  have improved with the networking possibilities of the digital change once
+  again by orders of magnitude.
 
 * Inventions are part of the economic-practical design process of the
-  "Metabolism with Nature" (source in the German Text Archive), in which the
-  appropriate appreciation of the use of economic resources has to be ensured.
+  ["Metabolism with Nature"](https://en.wikipedia.org/wiki/Metabolic_rift), in
+  which the appropriate appreciation of the use of economic resources has to be
+  ensured.
 
 However, in the first case, too, considerable expenditure is required (for
 example, for the construction and operation of major research facilities such
@@ -62,11 +64,16 @@ practical experiences with this methodology were collected in the GDR inventor
 schools, analyzed and extended to socio-technical contradictions. These
 developments, which have always been suspiciously eyed by the leading
 ideologues of the GDR, are part of practical experiences of socio-technical
-management at the lower level of GDR trust structures (Komninate), which in
-many respects were organized and operated like corporations. Hansjürgen
-Linde's dissertation 1988 at TU Dresden and his "contradiction-oriented
-innovation strategies" (WOIS) were a first attempt to systematically summarize
-these approaches.
+management at the lower level of GDR trust structures (Kombinate), which in
+many respects were organized and operated like corporations. Hansjürgen Linde's
+dissertation 1988 at TU Dresden and his "contradiction-oriented innovation
+strategies" (WOIS) were a first attempt to systematically summarize these
+approaches.  Another approach - ProHEAL ("Programm zur Herausarbeitung von
+Erfindungen und Lösungen", Program for the Elaboration of Inventions and
+SSolutions) - by Hans-Joachim Rindfleisch and Rainer Thiel was developed at the
+same time in parallel and has many overlap with Linde's methodological approach
+(to be honest: both were developed in tight cooperation with Rainer Thiel, one
+of the reviewers of Linde's thesis, as linking edge).
 
 With CMMI and ISO/IEC 15504, maturity models for the evaluation of
 entrepreneurial management structures have been established in the field of
@@ -82,5 +89,6 @@ As in TRIZ and WOIS, WUMM focuses on the dialectical approach to such
 contradictions. Unlike WOIS that has protected their own approaches through
 trademark rights thus constituting a closed world, and other TRIZ communities
 with similar closure approaches, WUMM stand on the position of Open Culture.
-One of its main goals is to make avaiable a substantial stock of TRIZ
-material, texts and tools under the terms of the Apache 2.0 license. 
+One of its main goals is to make avaiable a substantial stock of TRIZ material,
+texts and tools under the terms of the Apache 2.0 license.  In particular, we
+concentrate on making available the ProHEAL methodology on such a basis.

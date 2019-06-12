@@ -14,5 +14,8 @@ account](https://github.com/wumm-project).
 
 One of the main goals of the project is the clarification of the licensing
 situation of texts, presentations an pictures in use within the community. All
-material should be explicitely made available under the terms of approrpiate
+material should be explicitely made available under the terms of appropriate
 [Creative Commons CC Licenses](http://creativecommons.org).
+
+See the [About Section](About "wikilink") for detailed information about the
+goals and motivation of our project.
