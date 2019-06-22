@@ -49,10 +49,10 @@ community are
 * [Konstantin Mulyarchik](https://www.bsu.by/main.aspx?guid=245061) (Minsk)
 
 Cited publications:
-* (1) https://eacea.ec.europa.eu/erasmus-plus/actions/key-action-2-cooperation-for-innovation-and-exchange-good-practices_en
-* (2) https://eacea.ec.europa.eu/erasmus-plus/funding/capacity-building-higher-education-2018_en
-* (3) https://eacea.ec.europa.eu/sites/eacea-site/files/faq_selection_cbhe_2019_published.pdf
-* (4) https://ec.europa.eu/programmes/erasmus-plus/programme-guide/part-a/who-can-participate/eligible-countries_en
+* (1) [https://eacea.ec.europa.eu/erasmus-plus/actions/key-action-2-cooperation-for-innovation-and-exchange-good-practices_en]
+* (2) [https://eacea.ec.europa.eu/erasmus-plus/funding/capacity-building-higher-education-2018_en]
+* (3) [https://eacea.ec.europa.eu/sites/eacea-site/files/faq_selection_cbhe_2019_published.pdf]
+* (4) [https://ec.europa.eu/programmes/erasmus-plus/programme-guide/part-a/who-can-participate/eligible-countries_en]
 
 ## Rough Structure of the Proposal
 
@@ -87,6 +87,8 @@ We designed a raw draft of a possible proposal:
 A strong link should be made to OER (Open Educational Resources), i.e. compile
 a stock of freely available common material that can serve local business
 (both in education and training). So earn money not from IP but from Services.
+Note that we started with this [WUMM Project](About wikilink) already an
+initiative in that direction and set up a certain github based infrastructure.
 
 One has to fit the proposal along the "political lines" pretended by the EU
 "that benefit principally and directly the organisations from eligible Partner
@@ -105,7 +107,7 @@ application will be successful, take the regional responsibility for the
 implementation of the project. 
 
 Cited publications:
-* (5) https://ec.europa.eu/programmes/erasmus-plus/sites/erasmusplus2/files/erasmus-plus-programme-guide-2019_en_0.pdf
+* (5) [https://ec.europa.eu/programmes/erasmus-plus/sites/erasmusplus2/files/erasmus-plus-programme-guide-2019_en_0.pdf]
 
 ## Communication Infrastructure
 
