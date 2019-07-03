@@ -2,17 +2,17 @@
 require_once 'lib/EasyRdf.php';
 require_once 'helper.php';
 
-function process($a) {
+function process($a,$sep) {
     $out='';
+    $b=array();
     foreach($a as $v) {
         $l=$v->getLang();
-        $out.="<p>$l: $v</p>";
+        $b[]="$l: $v";
     }
-    return $out;
+    return join($sep,$b);
 }
 
-
-function getAbstractsAutoren($node) 
+function getAutoren($node) 
 {
     $s=array();
     foreach ($node->all("dcterms:creator") as $a) {
@@ -33,24 +33,24 @@ function abstracts($src)
     EasyRdf_Namespace::set('swc', 'http://data.semanticweb.org/ns/swc/ontology#');
     $graph = new EasyRdf_Graph('http://opendiscovery.org/rdf/Conferences/TRIZ-Summit-2019/');
     $graph->parseFile($src);
-    // $graph->parseFile('http://www.leibniz-institut.de/rdf/'.$src.'.rdf');
-    $out='<h3>Beiträge</h3><div class="talks">';
+    $out='<h3>Contributions</h3><div class="talks">';
     $res = $graph->allOfType('od:Talk');
     foreach ($res as $talk) {
-        $autoren=getAbstractsAutoren($talk);
-        $presenter=$talk->get("lifis:presentedBy");
-        $titel=process($talk->all("dcterms:title"));
-        $abstract=process($talk->all("dcterms:abstract"));
+        $autoren=getAutoren($talk);
+        $presenter=$talk->get("od:presentedBy");
+        $titel=process($talk->all("dcterms:title"),"<br>");
+        $abstract=process($talk->all("dcterms:abstract"),"<p>");
         $section=$talk->get("swc:relatedToEvent");
-        $urlPaper=$talk->get("lifis:urlPaper");
-        $urlSlides=$talk->get("lifis:urlSlides");
-        $out.='
+        $urlPaper=$talk->get("od:urlPaper");
+        $urlSlides=$talk->get("od:urlSlides");
+        $out.='<hr/>
 <div itemscope itemtype="http://schema.org/CreativeWork" class="talk">
-  <h4 itemprop="title" class="talktitle">'.$titel.'</h4>
+  <h4>
+  <div itemprop="title" class="talktitle">'.$titel.'</div></h4>
   <div class="referent"><p><strong>Author(s):</strong> '. $autoren.'</p></div>';
         if ($presenter) { 
             $out.='
-  <div class="presenter"><p><strong>Präsentiert von:</strong> <span itemprop="creator">'
+  <div class="presenter"><p><strong>Presented by:</strong> <span itemprop="creator">'
             . $presenter->get("foaf:name") .'</span></p></div>';
         }
         if ($section) { 
@@ -60,17 +60,17 @@ function abstracts($src)
         }
         if ($urlSlides) { 
             $out.='
-  <div class="slides"> <img alt="" src="https://www.leibniz-institut.de/images/13_icon_pdf.gif"'
-            .' width="18px"/>&nbsp;<a href="'.$urlSlides.'">Vortragsfolien</a> </div>';
+  <div class="slides"> <img alt="" src="images/13_icon_pdf.gif"'
+            .' width="18px"/>&nbsp;<a href="'.$urlSlides.'">Slides</a> </div>';
         } 
         if ($urlPaper) { 
             $out.='
-  <div class="paper"> <img alt="" src="https://www.leibniz-institut.de/images/13_icon_pdf.gif"'
-            .' width="18px"/>&nbsp;<a href="'.$urlPaper.'">Aufsatz</a> </div>';
+  <div class="paper"> <img alt="" src="images/13_icon_pdf.gif"'
+            .' width="18px"/>&nbsp;<a href="'.$urlPaper.'">Paper</a> </div>';
         } 
         if ($abstract) { 
             $out.='
-  <div itemprop="description" class="abstract"><p><strong>Abstract:</strong> '
+  <div itemprop="description" class="abstract"><p><strong>Abstract:</strong><br/> '
             . $abstract .'</p></div>';
         }
         $out.='
@@ -92,7 +92,7 @@ function abstracts($src)
             .join('<br/>',$b).'</p></div>';
     }
     ksort($a);
-    $out.='<h3>Referenten</h3>
+    $out.='<h3>Speakers</h3>
 <div class="people">
 '.join("\n", $a).'
 </div> <!-- end class people -->';

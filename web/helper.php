@@ -18,12 +18,3 @@ function fixEncoding($out)
         array("„","“","–"), array("&#8222","&#8221","&ndash;"), $out
     );
 }
-
-function getFile($fn) 
-{
-    if (! defined('ABSPATH') ) {
-        return $fn; 
-    } else {
-        return plugin_dir_path(__FILE__).$fn; 
-    } 
-}
