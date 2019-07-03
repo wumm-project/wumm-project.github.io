@@ -2,6 +2,16 @@
 require_once 'lib/EasyRdf.php';
 require_once 'helper.php';
 
+function process($a) {
+    $out='';
+    foreach($a as $v) {
+        $l=$v->getLang();
+        $out.="<p>$l: $v</p>";
+    }
+    return $out;
+}
+
+
 function getAbstractsAutoren($node) 
 {
     $s=array();
@@ -16,29 +26,28 @@ function getAbstractsAutoren($node)
     return join(", ", $s);
 }
 
-function abstracts($atts) 
+function abstracts($src) 
 {
-    $src=$atts['source'];
     EasyRdf_Namespace::set('od', 'http://opendiscovery.org/rdf/Model#');
     EasyRdf_Namespace::set('dcterms', 'http://purl.org/dc/terms/');
     EasyRdf_Namespace::set('swc', 'http://data.semanticweb.org/ns/swc/ontology#');
     $graph = new EasyRdf_Graph('http://opendiscovery.org/rdf/Conferences/TRIZ-Summit-2019/');
-    $graph->parseFile('/home/graebe/git/WUMM/RDFData/Conferences/a.rdf');
+    $graph->parseFile($src);
     // $graph->parseFile('http://www.leibniz-institut.de/rdf/'.$src.'.rdf');
     $out='<h3>Beiträge</h3><div class="talks">';
     $res = $graph->allOfType('od:Talk');
     foreach ($res as $talk) {
         $autoren=getAbstractsAutoren($talk);
         $presenter=$talk->get("lifis:presentedBy");
-        $titel=$talk->get("dcterms:title");
-        $abstract=join("<br/>",$talk->all("dcterms:abstract"));
+        $titel=process($talk->all("dcterms:title"));
+        $abstract=process($talk->all("dcterms:abstract"));
         $section=$talk->get("swc:relatedToEvent");
         $urlPaper=$talk->get("lifis:urlPaper");
         $urlSlides=$talk->get("lifis:urlSlides");
         $out.='
 <div itemscope itemtype="http://schema.org/CreativeWork" class="talk">
   <h4 itemprop="title" class="talktitle">'.$titel.'</h4>
-  <div class="referent"><p><strong>Autor(en):</strong> '. $autoren.'</p></div>';
+  <div class="referent"><p><strong>Author(s):</strong> '. $autoren.'</p></div>';
         if ($presenter) { 
             $out.='
   <div class="presenter"><p><strong>Präsentiert von:</strong> <span itemprop="creator">'
@@ -46,7 +55,7 @@ function abstracts($atts)
         }
         if ($section) { 
             $out.='
-  <div class="section"><p><strong>Thema:</strong> '
+  <div class="section"><p><strong>Track:</strong> '
             . $section->get("rdfs:label") .'</p></div>';
         }
         if ($urlSlides) { 
@@ -90,6 +99,6 @@ function abstracts($atts)
     return fixEncoding($out);
 }
 
-echo htmlEnv(abstracts($s)); // for testing
+echo htmlEnv(abstracts('../rdf/TRIZ-Summit-2019.rdf')); // for testing
 
 ?>
