@@ -27,7 +27,7 @@ records (see the record of "Hans-Gert Gräbe"). Note that
 [Academia.edu](https://www.academia.edu/) is less suited for such a purpose
 since it offers detailed information for members only.
 
-A first list of [People](web/People.html) was mainly extracted from the web
+A first list of [People](http://pcai042.informatik.uni-leipzig.de/~graebe/web/people.php?people=rdf/People.rdf) was mainly extracted from the web
 pages of the TRIZ Summit 2019 in Minsk.
 
 ## Conferences
@@ -41,4 +41,4 @@ years. I prepared a similar report about the **TRIZ Summit 2019** (see the
 RDFData subproject) that is mirrored &ndash; as proof of concepts &ndash;
 below.
 
-* [TRIZ Summit 2019](web/TRIZ-Summit-2019.html)
+* [TRIZ Summit 2019](http://pcai042.informatik.uni-leipzig.de/~graebe/web/conferences.php?conference=rdf/TRIZ-Summit-2019.rdf&people=rdf/People.rdf)
