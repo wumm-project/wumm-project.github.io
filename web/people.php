@@ -6,15 +6,19 @@ function thePeople($people)
 {
     EasyRdf_Namespace::set('od', 'http://opendiscovery.org/rdf/Model#');
     EasyRdf_Namespace::set('foaf', 'http://xmlns.com/foaf/0.1/');
+    EasyRdf_Namespace::set('owl', 'http://www.w3.org/2002/07/owl#');
     $graph = new EasyRdf_Graph('http://opendiscovery.org/rdf/People/');
     $graph->parseFile($people);
     $a=array();
     $res = $graph->allOfType('foaf:Person');
     foreach ($res as $autor) {
         $b=array();
-        foreach ($autor->all("foaf:affil") as $affil) {
+        foreach ($autor->all("foaf:affil") as $e) {
             $b[]='<span itemprop="affiliation" class="foaf:affil">'
-                .$affil->getValue().'</span>';
+                .$e->getValue().'</span>';
+        }
+        foreach ($autor->all("owl:sameAs") as $e) {
+            $b[]=createLink($e,$e);
         }
         $a[$autor->getUri()]='<div itemscope itemtype="http://schema.org/Person" class="creator">'
             .'<p><span itemprop="name" class="foaf:name">'

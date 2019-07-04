@@ -40,7 +40,7 @@
   </foaf:Person>
   <foaf:Person rdf:about="http://opendiscovery.org/rdf/Person/Chuang_CT">
     <foaf:affil xml:lang="en">Minghsin University, Research Assistant, Innovative method teacher</foaf:affil>
-    <foaf:name>Chuang, Cheng Tai</foaf:name>
+    <foaf:name>Cheng Tai Chuang</foaf:name>
   </foaf:Person>
   <foaf:Person rdf:about="http://opendiscovery.org/rdf/Person/Curikov_V">
     <foaf:affil xml:lang="ru">True Machina, Главный архитектор интеллектульных систем</foaf:affil>
@@ -67,7 +67,7 @@
   </foaf:Person>
   <foaf:Person rdf:about="http://opendiscovery.org/rdf/Person/Fey_V">
     <foaf:affil>Altshuller Institute for TRIZ Studies</foaf:affil>
-    <foaf:name xml:lang="en">Victor Fey</foaf:name>
+    <foaf:name>Victor Fey</foaf:name>
   </foaf:Person>
   <foaf:Person rdf:about="http://opendiscovery.org/rdf/Person/Fomenko_A">
     <foaf:affil xml:lang="ru">Группа ГАЗ, Директор Департамента ТРИЗ</foaf:affil>
@@ -77,7 +77,9 @@
     <foaf:name>Oleg Gerasimov</foaf:name>
   </foaf:Person>
   <foaf:Person rdf:about="http://opendiscovery.org/rdf/Person/Graebe_HG">
-    <foaf:affil>Leipzig University, Germany</foaf:affil>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/109790235"/>
+    <owl:sameAs rdf:resource="https://orcid.org/0000-0002-3934-413X"/>
+    <owl:sameAs rdf:resource="https://www.researchgate.net/profile/Hans_Gert_Graebe"/>
     <foaf:affil xml:lang="en">Leipzig University, Germany</foaf:affil>
     <foaf:name>Hans-Gert Gräbe</foaf:name>
   </foaf:Person>
@@ -122,7 +124,7 @@
   </foaf:Person>
   <foaf:Person rdf:about="http://opendiscovery.org/rdf/Person/Lin_YJ">
     <foaf:affil xml:lang="en">Minghsin University, Professor, TRIZ trainer</foaf:affil>
-    <foaf:name>Lin, Youn Jan</foaf:name>
+    <foaf:name>Youn Jan Lin</foaf:name>
   </foaf:Person>
   <foaf:Person rdf:about="http://opendiscovery.org/rdf/Person/Litvin_S">
     <foaf:affil>International TRIZ Association (MATRIZ)</foaf:affil>
@@ -154,7 +156,7 @@
   <foaf:Person rdf:about="http://opendiscovery.org/rdf/Person/Petrov_VM">
     <foaf:affil xml:lang="en">Innovation Technology</foaf:affil>
     <foaf:affil>International TRIZ Association (MATRIZ)</foaf:affil>
-    <foaf:name xml:lang="en">Vladimir Michailovich Petrov</foaf:name>
+    <foaf:name>Vladimir Petrov</foaf:name>
   </foaf:Person>
   <foaf:Person rdf:about="http://opendiscovery.org/rdf/Person/Podobed_I">
     <foaf:affil xml:lang="en">@ Awem Games, Technical Fellow</foaf:affil>
@@ -175,7 +177,7 @@
   </foaf:Person>
   <foaf:Person rdf:about="http://opendiscovery.org/rdf/Person/Rubina_NV">
     <foaf:affil xml:lang="ru">ОО "Саммит разработчиков ТРИЗ", Руководитель проекта "Кубок ТРИЗ Саммита"</foaf:affil>
-    <foaf:name>Nataliya Viktorovna Rubina</foaf:name>
+    <foaf:name>Nataliya Rubina</foaf:name>
     <foaf:name xml:lang="ru">Рубина Наталия Викторовна</foaf:name>
   </foaf:Person>
   <foaf:Person rdf:about="http://opendiscovery.org/rdf/Person/Saunin_N">
