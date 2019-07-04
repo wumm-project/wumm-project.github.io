@@ -78,6 +78,7 @@
   </foaf:Person>
   <foaf:Person rdf:about="http://opendiscovery.org/rdf/Person/Graebe_HG">
     <owl:sameAs rdf:resource="http://d-nb.info/gnd/109790235"/>
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/7966504"/>
     <owl:sameAs rdf:resource="https://orcid.org/0000-0002-3934-413X"/>
     <owl:sameAs rdf:resource="https://www.researchgate.net/profile/Hans_Gert_Graebe"/>
     <foaf:affil xml:lang="en">Leipzig University, Germany</foaf:affil>
