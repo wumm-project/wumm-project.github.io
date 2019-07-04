@@ -2,18 +2,7 @@
 require_once 'lib/EasyRdf.php';
 require_once 'helper.php';
 
-function process($a,$sep) {
-    $out='';
-    $b=array();
-    foreach($a as $v) {
-        $l=$v->getLang();
-        $b[]="$l: $v";
-    }
-    return join($sep,$b);
-}
-
-function getAutoren($node) 
-{
+function getAutoren($node) {
     $s=array();
     foreach ($node->all("dcterms:creator") as $a) {
         $title=$a->get("foaf:title");
@@ -26,20 +15,46 @@ function getAutoren($node)
     return join(", ", $s);
 }
 
-function abstracts($src) 
+function theEvent($v) {
+    $label=$v->get("rdfs:label");
+    $description=$v->get("ical:description");
+    $start=$v->get("ical:dtstart");
+    $end=$v->get("ical:dtend");
+    $location=$v->get("ical:location");
+    $url=$v->get("ical:url");
+    return '
+<h1>'.$label.'</h1>
+<dl>
+<dt>From '.$start.' until '.$end.'</dt>
+<dt><strong>Location: </strong>'.$location.'</dt>
+<dt><strong>URL: </strong>'.createLink($url,$url).'</dt>
+<dt><strong>Description: </strong>'.$description.'</dt>
+
+';
+}
+
+function abstracts($src,$people) 
 {
     EasyRdf_Namespace::set('od', 'http://opendiscovery.org/rdf/Model#');
     EasyRdf_Namespace::set('dcterms', 'http://purl.org/dc/terms/');
+    EasyRdf_Namespace::set('foaf', 'http://xmlns.com/foaf/0.1/');
+    EasyRdf_Namespace::set('ical', 'http://www.w3.org/2002/12/cal/ical#');
     EasyRdf_Namespace::set('swc', 'http://data.semanticweb.org/ns/swc/ontology#');
     $graph = new EasyRdf_Graph('http://opendiscovery.org/rdf/Conferences/TRIZ-Summit-2019/');
     $graph->parseFile($src);
-    $out='<h3>Contributions</h3><div class="talks">';
+    $graph->parseFile($people);
+    $out='';
+    $res = $graph->allOfType('swc:ConferenceEvent');
+    foreach ($res as $entry) {
+        $out.=theEvent($entry);
+    }
+    $out.='<h3>Contributions</h3><div class="talks">';
     $res = $graph->allOfType('od:Talk');
     foreach ($res as $talk) {
         $autoren=getAutoren($talk);
         $presenter=$talk->get("od:presentedBy");
-        $titel=process($talk->all("dcterms:title"),"<br>");
-        $abstract=process($talk->all("dcterms:abstract"),"<p>");
+        $titel=showLanguage($talk->all("dcterms:title"),"<br>");
+        $abstract=showLanguage($talk->all("dcterms:abstract"),"<p>");
         $section=$talk->get("swc:relatedToEvent");
         $urlPaper=$talk->get("od:urlPaper");
         $urlSlides=$talk->get("od:urlSlides");
@@ -76,29 +91,9 @@ function abstracts($src)
         $out.='
 </div> <!-- end class talk -->';
     }
-    $out.='
-</div> <!-- end class talks -->';
-    $a=array();
-    $res = $graph->allOfType('foaf:Person');
-    foreach ($res as $autor) {
-        $b=array();
-        foreach ($autor->all("foaf:affil") as $affil) {
-            $b[]='<span itemprop="affiliation" class="foaf:affil">'
-                .$affil->getValue().'</span>';
-        }
-        $a[$autor->getUri()]='<div itemscope itemtype="http://schema.org/Person" class="creator">'
-            .'<p><span itemprop="name" class="foaf:name">'
-            .$autor->get("foaf:name").'</span><br/>'
-            .join('<br/>',$b).'</p></div>';
-    }
-    ksort($a);
-    $out.='<h3>Speakers</h3>
-<div class="people">
-'.join("\n", $a).'
-</div> <!-- end class people -->';
-    return fixEncoding($out);
+    return htmlEnv($out);
 }
 
-echo htmlEnv(abstracts('../rdf/TRIZ-Summit-2019.rdf')); // for testing
+echo abstracts('../rdf/TRIZ-Summit-2019.rdf','../rdf/People.rdf'); // for testing
 
 ?>

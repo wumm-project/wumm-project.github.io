@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:od="http://opendiscovery.org/rdf/Model#"
+   xmlns:odp="http://opendiscovery.org/rdf/Person/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <owl:Ontology rdf:about="http://opendiscovery.org/rdf/People/">
+    <cc:attributionName>The Open Discovery Project</cc:attributionName>
+    <cc:attributionURL rdf:resource="http://opendiscovery.org"/>
+    <cc:license rdf:resource="http://www.apache.org/licenses/LICENSE-2.0"/>
+    <rdfs:label>People in the TRIZ Community</rdfs:label>
+  </owl:Ontology>
+  <foaf:Person rdf:about="http://opendiscovery.org/rdf/Person/Ageed_S">
+    <foaf:name>Sharaf Ageed</foaf:name>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://opendiscovery.org/rdf/Person/Amnuel_P">
+    <foaf:affil xml:lang="ru">художественно-публицистический журнал "Млечный Путь" и одноименное издательство, редактор</foaf:affil>
+    <foaf:name>Pavel Amnuel'</foaf:name>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://opendiscovery.org/rdf/Person/Arutyunov_Y">
+    <foaf:name>Yurij Arutyunov</foaf:name>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://opendiscovery.org/rdf/Person/Arutyunova_E">
+    <foaf:name>Ekaterina Arutyunova</foaf:name>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://opendiscovery.org/rdf/Person/Bezdel_Z">
+    <foaf:affil xml:lang="ru">IPMA, Менеджер проектов</foaf:affil>
+    <foaf:name>Zoya Bezdel'</foaf:name>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://opendiscovery.org/rdf/Person/Borisevich_S">
+    <foaf:affil xml:lang="en">EPAM Systems, Director, User Experience Desing</foaf:affil>
+    <foaf:name>Stanislav Borisevich</foaf:name>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://opendiscovery.org/rdf/Person/Chizhevskaya_N">
+    <foaf:affil xml:lang="ru">Преподаватель БГАИ, педагог дополнительного образования «ГУО ЦДОДиМ «Виктория» г. Минска, Педагог дополнительного образования</foaf:affil>
+    <foaf:name>Nataliya Chizhevskaya</foaf:name>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://opendiscovery.org/rdf/Person/Chuang_CT">
+    <foaf:affil xml:lang="en">Minghsin University, Research Assistant, Innovative method teacher</foaf:affil>
+    <foaf:name>Chuang, Cheng Tai</foaf:name>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://opendiscovery.org/rdf/Person/Curikov_V">
+    <foaf:affil xml:lang="ru">True Machina, Главный архитектор интеллектульных систем</foaf:affil>
+    <foaf:name>Valerij Curikov</foaf:name>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://opendiscovery.org/rdf/Person/Devojno_I">
+    <foaf:affil xml:lang="en">IHS Markit, Product Analysis and Design Associate Director</foaf:affil>
+    <foaf:name>Igor Devojno</foaf:name>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://opendiscovery.org/rdf/Person/Domkin_K">
+    <foaf:affil xml:lang="ru">Компания АО "Научно-промышленные консультанты", Руководитель проекта</foaf:affil>
+    <foaf:name>Kirill Domkin</foaf:name>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://opendiscovery.org/rdf/Person/Dusmikeev_A">
+    <foaf:affil xml:lang="ru">Компания МедиуМ, бренд SolarEnrg, Директор</foaf:affil>
+    <foaf:name>Andrei Dusmikeev</foaf:name>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://opendiscovery.org/rdf/Person/Eckardt_O">
+    <foaf:affil xml:lang="en">Sparkling Spring GmbH (Director), Wilo SE (Senior Business Consultant, Project Manager)</foaf:affil>
+    <foaf:name>Olga Eckardt</foaf:name>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://opendiscovery.org/rdf/Person/Falkov_D">
+    <foaf:name>Dmitrij Falkov</foaf:name>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://opendiscovery.org/rdf/Person/Fey_V">
+    <foaf:affil>Altshuller Institute for TRIZ Studies</foaf:affil>
+    <foaf:name xml:lang="en">Victor Fey</foaf:name>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://opendiscovery.org/rdf/Person/Fomenko_A">
+    <foaf:affil xml:lang="ru">Группа ГАЗ, Директор Департамента ТРИЗ</foaf:affil>
+    <foaf:name>Aleksej Fomenko</foaf:name>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://opendiscovery.org/rdf/Person/Gerasimov_O">
+    <foaf:name>Oleg Gerasimov</foaf:name>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://opendiscovery.org/rdf/Person/Graebe_HG">
+    <foaf:affil>Leipzig University, Germany</foaf:affil>
+    <foaf:affil xml:lang="en">Leipzig University, Germany</foaf:affil>
+    <foaf:name>Hans-Gert Gräbe</foaf:name>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://opendiscovery.org/rdf/Person/Han_B">
+    <foaf:affil xml:lang="en">Tianjin Innovation and Development Institute, TRIZ trainer</foaf:affil>
+    <foaf:name>Bing Han</foaf:name>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://opendiscovery.org/rdf/Person/Hiltmann_K">
+    <foaf:affil>FH Coburg, Germany</foaf:affil>
+    <foaf:name>Kai Hiltmann</foaf:name>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://opendiscovery.org/rdf/Person/Horenyan_R">
+    <foaf:affil xml:lang="ru">EPAM Systems, Проектный менеджер</foaf:affil>
+    <foaf:name>Rostislav Horenyan</foaf:name>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://opendiscovery.org/rdf/Person/Hovanov_S">
+    <foaf:name>Sergej Hovanov</foaf:name>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://opendiscovery.org/rdf/Person/Koblenc_P">
+    <foaf:affil xml:lang="ru">EPAM Systems, Проектный менеджер</foaf:affil>
+    <foaf:name>Pavel Koblenc</foaf:name>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://opendiscovery.org/rdf/Person/Korotkih_S">
+    <foaf:affil xml:lang="ru">Красноярский техникум промышленного сервиса, преподаватель</foaf:affil>
+    <foaf:name>Svetlana Korotkih</foaf:name>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://opendiscovery.org/rdf/Person/Kozhemyako_A">
+    <foaf:affil xml:lang="ru">Бизнес-ассоциация ТРИЗ (БА ТРИЗ), Учредитель</foaf:affil>
+    <foaf:name>Anton Kozhemyako</foaf:name>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://opendiscovery.org/rdf/Person/Kucharavy_D">
+    <foaf:affil xml:lang="ru">SeeCore Project, исследователь, преподаватель, консультант</foaf:affil>
+    <foaf:name>Dmitry Kucharavy</foaf:name>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://opendiscovery.org/rdf/Person/Kuryan_A">
+    <foaf:affil xml:lang="en">EPAM Systems, TRIZ trainer, Innovation consultant</foaf:affil>
+    <foaf:name>Andrei Kuryan</foaf:name>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://opendiscovery.org/rdf/Person/Li_H">
+    <foaf:affil xml:lang="ru">Санкт-Петербургский государственный инженерно-экономический университет, технический директор IMA-InnoCloud (Пекин) Technology Co., Ltd</foaf:affil>
+    <foaf:name>Huangye Li</foaf:name>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://opendiscovery.org/rdf/Person/Lin_YJ">
+    <foaf:affil xml:lang="en">Minghsin University, Professor, TRIZ trainer</foaf:affil>
+    <foaf:name>Lin, Youn Jan</foaf:name>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://opendiscovery.org/rdf/Person/Litvin_S">
+    <foaf:affil>International TRIZ Association (MATRIZ)</foaf:affil>
+    <foaf:name xml:lang="en">Simon Litvin</foaf:name>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://opendiscovery.org/rdf/Person/Mann_D">
+    <foaf:affil xml:lang="en">Systematic Innovation Ltd, CEO</foaf:affil>
+    <foaf:name>Darell Mann</foaf:name>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://opendiscovery.org/rdf/Person/Martinovskij_G">
+    <foaf:affil xml:lang="ru">EPAM Systems, Главный бизнес консультант</foaf:affil>
+    <foaf:name>Georgij Martinovskij</foaf:name>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://opendiscovery.org/rdf/Person/Nesterenko_A">
+    <foaf:affil xml:lang="ru">ПКИРО (Владивосток), ГБОУ г. Москвы «Школа № 2101 «Филевский образовательный центр», доцент, методист</foaf:affil>
+    <foaf:name>Alla Nesterenko</foaf:name>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://opendiscovery.org/rdf/Person/Nikitin_V">
+    <foaf:affil xml:lang="ru">Компания АО "Научно-промышленные консультанты", Руководитель проекта</foaf:affil>
+    <foaf:name>Vladimir Nikitin</foaf:name>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://opendiscovery.org/rdf/Person/Ogievich_D">
+    <foaf:affil xml:lang="en">Banuba, exp(capital), CEO</foaf:affil>
+    <foaf:name>Dmitrij Ogievich</foaf:name>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://opendiscovery.org/rdf/Person/Petrov_D">
+    <foaf:name>Dmitrij Petrov</foaf:name>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://opendiscovery.org/rdf/Person/Petrov_VM">
+    <foaf:affil xml:lang="en">Innovation Technology</foaf:affil>
+    <foaf:affil>International TRIZ Association (MATRIZ)</foaf:affil>
+    <foaf:name xml:lang="en">Vladimir Michailovich Petrov</foaf:name>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://opendiscovery.org/rdf/Person/Podobed_I">
+    <foaf:affil xml:lang="en">@ Awem Games, Technical Fellow</foaf:affil>
+    <foaf:name>Ivan Podobed</foaf:name>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://opendiscovery.org/rdf/Person/Prosvetova_N">
+    <foaf:affil xml:lang="ru">"Спинакер"</foaf:affil>
+    <foaf:name>Natalya Prosvetova</foaf:name>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://opendiscovery.org/rdf/Person/Redkolis_E">
+    <foaf:affil xml:lang="ru">АО "Научно-промышленные консультанты", Руководитель проекта</foaf:affil>
+    <foaf:name>Elena Redkolis</foaf:name>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://opendiscovery.org/rdf/Person/Rubin_M">
+    <foaf:affil>International TRIZ Association (MATRIZ)</foaf:affil>
+    <foaf:affil xml:lang="ru">РУСАЛ Глобал Менеджмент, Руководитель группы проектов Дирекции по ТРИЗ</foaf:affil>
+    <foaf:name xml:lang="en">Mikhail Rubin </foaf:name>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://opendiscovery.org/rdf/Person/Rubina_NV">
+    <foaf:affil xml:lang="ru">ОО "Саммит разработчиков ТРИЗ", Руководитель проекта "Кубок ТРИЗ Саммита"</foaf:affil>
+    <foaf:name>Nataliya Viktorovna Rubina</foaf:name>
+    <foaf:name xml:lang="ru">Рубина Наталия Викторовна</foaf:name>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://opendiscovery.org/rdf/Person/Saunin_N">
+    <foaf:affil xml:lang="ru">АО «НПК», Руководитель направления, Дирекция по ТРИЗ</foaf:affil>
+    <foaf:name>Nikolaj Saunin</foaf:name>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://opendiscovery.org/rdf/Person/Severinec_G">
+    <foaf:affil xml:lang="ru">Компания АО "Научно-промышленные консультанты", Руководитель проекта</foaf:affil>
+    <foaf:name>Georgij Severinec</foaf:name>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://opendiscovery.org/rdf/Person/Shpakovskij_N">
+    <foaf:affil xml:lang="ru">Target Invention, Ведущий эксперт</foaf:affil>
+    <foaf:name>Nikolaj Shpakovskij</foaf:name>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://opendiscovery.org/rdf/Person/Skuratovich_А">
+    <foaf:affil xml:lang="ru">ОАО «АМКОДОР - управляющая компания холдинга», Руководитель проекта по оптимизации бизнес-процессов</foaf:affil>
+    <foaf:name>Alexander Skuratovich</foaf:name>
+    <foaf:name xml:lang="ru">Александр Скуратович</foaf:name>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://opendiscovery.org/rdf/Person/Sokolov_S">
+    <foaf:affil xml:lang="ru">Преподаватель ТРИЗ</foaf:affil>
+    <foaf:name>Sergej Sokolov</foaf:name>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://opendiscovery.org/rdf/Person/Sushkov_V">
+    <foaf:affil xml:lang="ru">ICG Training &amp; Consulting, Управляющий Директор</foaf:affil>
+    <foaf:name>Valerij Sushkov</foaf:name>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://opendiscovery.org/rdf/Person/Sysoev_S">
+    <foaf:name>Sergej Sysoev</foaf:name>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://opendiscovery.org/rdf/Person/Terekhova_G">
+    <foaf:affil xml:lang="ru">ЮУрГГПУ, Челябинск, Доцент кафедры теоретической и прикладной психологии</foaf:affil>
+    <foaf:name>Galina Terekhova</foaf:name>
+  </foaf:Person>
+</rdf:RDF>
