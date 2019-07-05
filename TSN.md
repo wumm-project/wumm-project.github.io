@@ -20,15 +20,12 @@ reasons) and links are produced to view this data.
 For each person listed in the data base a URI is created to reference this
 person in subsequent files (in particular as speakers in conference reports).
 We store only spare information and encourage people to add more information,
-in particular links to their profile pages in [ORCID](https://orcid.org/),
-[VIAF](https://viaf.org) or [ResearchGate](https://www.researchgate.net/),
-popular academic platforms that allow you to maintain your own academic
-records (see the record of "Hans-Gert Gräbe"). Note that
-[Academia.edu](https://www.academia.edu/) is less suited for such a purpose
-since it offers detailed information for members only.
+in particular links to their homepages.
 
-A first list of [People](http://pcai042.informatik.uni-leipzig.de/~graebe/web/people.php?people=rdf/People.rdf) was mainly extracted from the web
-pages of the TRIZ Summit 2019 in Minsk.
+A first list of
+[People](http://wumm.uni-leipzig.de/people.php?people=rdf/People.rdf) was
+mainly extracted from the web pages of the TRIZ Summit 2019 in Minsk and
+enriched with some additional information.
 
 ## Conferences
 
@@ -41,4 +38,4 @@ years. I prepared a similar report about the **TRIZ Summit 2019** (see the
 RDFData subproject) that is mirrored &ndash; as proof of concepts &ndash;
 below.
 
-* [TRIZ Summit 2019](http://pcai042.informatik.uni-leipzig.de/~graebe/web/conferences.php?conference=rdf/TRIZ-Summit-2019.rdf&people=rdf/People.rdf)
+* [TRIZ Summit 2019](http://wumm.uni-leipzig.de/conferences.php?conference=rdf/TRIZ-Summit-2019.rdf&people=rdf/People.rdf)
