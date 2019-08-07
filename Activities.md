@@ -21,6 +21,10 @@ title: Activities
       Russian (1:11:40)
     * [Facebook discussion](https://www.facebook.com/valeri.souchkov/posts/10212251519998280)
       (in Russian), 477 comments (as of 2019-08-07)
+    * [Part of the
+      discussion](http://wumm.uni-leipzig.de/Presentations/2019-08-07.pdf)
+      about TRIZ and system thinking (Russian original and a raw English
+      translation using Google Translate)
 
 ## TRIZ Links
 
