@@ -24,7 +24,9 @@ title: Activities
     * [Part of the
       discussion](http://wumm.uni-leipzig.de/Presentations/2019-08-07.pdf)
       about TRIZ and system thinking (Russian original and a raw English
-      translation using Google Translate)
+      translation using Google Translate) - the LaTeX Source is available in
+      the Sources subdirectory of the [WUMM OpenDiscovery
+      Repo](https://github.com/wumm-project/OpenDiscovery)
 
 ## TRIZ Links
 
