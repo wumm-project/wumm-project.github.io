@@ -16,20 +16,18 @@ third parties.  Of course, you are invited to join the team ...
 In part we found out so far that a significant portion of the debates are
 conducted in Russian in the Russian-speaking TRIZ community. We started to
 compile a little guide to that debates within our [TRIZ Social Network](TSN
-wikilink) subproject.
+"wikilink") subproject.
 
 ## This Wiki
-* [About](About wikilink) &ndash; A general description about the background
+* [About](About "wikilink") &ndash; A general description about the background
   and goals of the WUMM project  
-* [TRIZ Trainings Network](TTN wikilink) &ndash; Summary of the current
+* [TRIZ Trainings Network](TTN "wikilink") &ndash; Summary of the current
   discussion status to set up a multiregional ERASMUS project on Innovation
   Trainings
-
-* [TRIZ Social Network](TSN wikilink) &ndash; First attempts to set up a
+* [TRIZ Social Network](TSN "wikilink") &ndash; First attempts to set up a
   Social Network of people interested in TRIZ and more genereal innovation
   methodologies 
-
-* [Vocabulary](Ontology wikilink) &ndash; A short (and probably not up to
+* [Vocabulary](Ontology "wikilink") &ndash; A short (and probably not up to
   date) description of the taxonomy, ontology and vocabulary used within the
   RDFData subproject. 
 
