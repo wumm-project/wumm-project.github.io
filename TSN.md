@@ -22,10 +22,9 @@ person in subsequent files (in particular as speakers in conference reports).
 We store only spare information and encourage people to add more information,
 in particular links to their homepages.
 
-A first list of
-[People](http://wumm.uni-leipzig.de/people.php?people=rdf/People.rdf) was
-mainly extracted from the web pages of the TRIZ Summit 2019 in Minsk and
-enriched with some additional information.
+A first list of [People](http://wumm.uni-leipzig.de/people.php) was mainly
+extracted from the web pages of the TRIZ Summit 2019 in Minsk and enriched
+with some additional information.
 
 ## Conferences
 
@@ -39,3 +38,10 @@ RDFData subproject) that is mirrored &ndash; as proof of concepts &ndash;
 below.
 
 * [TRIZ Summit 2019](http://wumm.uni-leipzig.de/conferences.php?conference=rdf/TRIZ-Summit-2019.rdf&people=rdf/People.rdf)
+
+## Presentations
+
+We collect [Presentations](http://wumm.uni-leipzig.de/presentations.php) from
+different parties that are supplied to the public under the Terms of a
+Creative Commons License.  See also the Presentations directory in our [web
+repo](https://github.com/wumm-project/web).

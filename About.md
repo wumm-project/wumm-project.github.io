@@ -11,23 +11,22 @@ Contradictions and management methodologies (WUMM abbreviates the German
 implementation of TRIZ (Teoria Reschenija Isobretatjelskich Sadatsch), the
 theory of solving invention problems of the Russian invention researcher
 Genrich Saulowitsch Altshuller, who worked over 50 years on such questions,
-especially based on patent searches. However, WUMM goes far beyond this
-approach and focuses on complex innovation and management scenarios in
-companies.
+especially based on patent searches. However, WUMM goes beyond this approach
+and focuses on complex innovation and management scenarios in companies.
 
-While Altschullers considerations are directed more on solving technical
+While Altshuller's considerations are directed more on solving technical
 problems and thus to possible technical solution the WUMM approach
-concentrates on the broader scope of practical innovation challenge to the
+concentrates on the broader scope of practical innovation challenges to the
 management of internal processes.
 
-In doing so, terminological shifts and clarifications of the last 50 years
-have to be considered. Altshuller's foundation are patents that can refer to
-inventions only, not to discoveries. Nevertheless, concrete discoveries also
-play a major role in Altshuller's texts. A theoretical distinction between
-these two concepts, which is practically tied to the question of
-patentability, has been tried many times. However, an unbiased analysis of
-these attempts shows that they arise, above all, from different epistemic
-understandings of the cognitive process itself:
+In doing so, terminological shifts and clarifications already made during the
+last 50 years have to be considered. Altshuller's foundation are patents that
+refer to inventions only, not to discoveries. Nevertheless, concrete
+discoveries also play a major role in Altshuller's texts. A theoretical
+distinction between these two concepts, which is practically tied to the
+question of patentability, has been tried many times. However, an unbiased
+analysis of these attempts shows that they arise, above all, from different
+epistemic understandings of the cognitive process itself:
 
 * Discoveries are part of an academic cognitive process in which
   referencability, connectivity, and cooperative review processes are at the
@@ -39,7 +38,7 @@ understandings of the cognitive process itself:
 
 * Inventions are part of the economic-practical design process of the
   ["Metabolism with Nature"](https://en.wikipedia.org/wiki/Metabolic_rift), in
-  which the appropriate appreciation of the use of economic resources has to be
+  which an appropriate appreciation of the use of economic resources has to be
   ensured.
 
 However, in the first case, too, considerable expenditure is required (for
@@ -65,15 +64,16 @@ schools, analyzed and extended to socio-technical contradictions. These
 developments, which have always been suspiciously eyed by the leading
 ideologues of the GDR, are part of practical experiences of socio-technical
 management at the lower level of GDR trust structures (Kombinate), which in
-many respects were organized and operated like corporations. Hansjürgen Linde's
-dissertation 1988 at TU Dresden and his "contradiction-oriented innovation
-strategies" (WOIS) were a first attempt to systematically summarize these
-approaches.  Another approach - ProHEAL ("Programm zur Herausarbeitung von
-Erfindungen und Lösungen", Program for the Elaboration of Inventions and
-SSolutions) - by Hans-Joachim Rindfleisch and Rainer Thiel was developed at the
-same time in parallel and has many overlap with Linde's methodological approach
-(to be honest: both were developed in tight cooperation with Rainer Thiel, one
-of the reviewers of Linde's thesis, as linking edge).
+many respects were organized and operated like corporations. Hansjürgen
+Linde's dissertation 1988 at TU Dresden and his "contradiction-oriented
+innovation strategies" (WOIS) was one of the early attempt to systematically
+summarize these approaches.  Another approach &ndash; ProHEAL ("Programm zur
+Herausarbeitung von Erfindungen und Lösungen", Program for the Elaboration of
+Inventions and Solutions) &ndash; by Hans-Joachim Rindfleisch and Rainer Thiel
+was developed at the same time in parallel and has many overlap with Linde's
+methodological approach (to be honest: both were developed in tight
+cooperation with Rainer Thiel, one of the reviewers of Linde's thesis, as
+linking edge).
 
 With CMMI and ISO/IEC 15504, maturity models for the evaluation of
 entrepreneurial management structures have been established in the field of
@@ -89,6 +89,7 @@ As in TRIZ and WOIS, WUMM focuses on the dialectical approach to such
 contradictions. Unlike WOIS that has protected their own approaches through
 trademark rights thus constituting a closed world, and other TRIZ communities
 with similar closure approaches, WUMM stand on the position of Open Culture.
-One of its main goals is to make avaiable a substantial stock of TRIZ material,
-texts and tools under the terms of the Apache 2.0 license.  In particular, we
-concentrate on making available the ProHEAL methodology on such a basis.
+One of its main goals is to make available a substantial stock of TRIZ
+material, texts and tools under the terms of the Apache 2.0 license.  In
+particular, we concentrate on making available the ProHEAL methodology on such
+a basis.
