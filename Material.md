@@ -5,8 +5,16 @@ title: Material
 
 # Literature
 
+## Publication lists
+
+* [Publication list maintained by Valeri Souchkov](http://www.xtriz.com/publications)
+* [TRIZ Body of Knowledge](http://wumm.uni-leipzig.de/Presentations/TRIZ-Body-of-Knowledge.pdf) (2012)
+
+
+## Some More Single Readings 
+
 * Altschuller, G.S. Algorithm of Inventive Problem Solving.
-  * [english version](Material/ariz85c.pdf) compiled at the Altshuller
+  * [english version](http://wumm.uni-leipzig.de/Presentations/ariz85c.pdf) compiled at the Altshuller
     Institute
   * see also Seljutzki, A.B. (ed.). [Правила игры без правил](http://ratriz.ru/wp-content/uploads/2015/07/%D0%A1%D0%B5%D0%BB%D1%8E%D1%86%D0%BA%D0%B8%D0%B9-%D0%90.%D0%91.-%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0-%D0%B8%D0%B3%D1%80%D1%8B-%D0%B1%D0%B5%D0%B7-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB.pdf). Petrozavodsk, 1989. (in russian)
 * Altschuller G.S. Erfinden – (k)ein Problem. Berlin, 1973. Original «Алгоритм

@@ -24,5 +24,5 @@ title: Activities
 
 ## TRIZ Links
 
-* https://www.youtube.com/results?search_query=%23%D0%A2%D0%A0%D0%98%D0%97
+* [[https://www.youtube.com/results?search_query=%23%D0%A2%D0%A0%D0%98%D0%97]]
   (material in Russian)
