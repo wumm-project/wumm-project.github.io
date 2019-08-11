@@ -32,7 +32,7 @@ feeling. The natural boundaries of the artificial".)
     Russian)
   * There was a short discussion about the odds and evens of Podorogi's
     concepts. This and some additional material is recorded and translated in
-    English in a [separate TSN Thread](Discussion/2019-07-12 "wikilink").
+    English in a [separate TSN Thread](2019-07-12 "wikilink").
 
 July 5, 2019: Hans-Gert Gräbe started operate the
 [wumm.uni-leipzig.de](http://wumm.uni-leipzig.de) web site.
