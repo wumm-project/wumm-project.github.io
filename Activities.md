@@ -30,11 +30,9 @@ Bakhturin introduced the visionary lecture of V.A. Podorogi &ndash; “General
 feeling. The natural boundaries of the artificial".)
   * The [lecture at Youtube](https://www.youtube.com/watch?v=dXTvRzcUREQ) (in
     Russian)
-  * There was a short discussion about the odds and evens of the notion of the
-    feelings of the sublime and the beautiful (чувства возвышенного и
-    красивого) as ecxplained in the presentation between Dmitri and Hans-Gert
-    on [Dmitris Facebook
-    channel](https://www.facebook.com/dmitriy.bakhturin/posts/2837979666275007)
+  * There was a short discussion about the odds and evens of Podorogi's
+    concepts. This and some additional material is recorded and translated in
+    English in a [separate TSN Thread](Discussion/2019-07-12 "wikilink").
 
 July 5, 2019: Hans-Gert Gräbe started operate the
 [wumm.uni-leipzig.de](http://wumm.uni-leipzig.de) web site.
