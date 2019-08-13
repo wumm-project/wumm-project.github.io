@@ -3,9 +3,11 @@ layout: default
 title: Vocabulary
 ---
 
-# This page is under reconstruction
+# Description of the RDF Model used in the RDFData Subproject
 
-This is a short description of the vocabulary developed so far.
+This is a short description of the vocabulary developed so far.  Note that all
+these RDF graphs are experimentally so far and subject to future changes
+without notice until a more stable version is reached.  
 
 Different data is collected in different **RDF Graphs** in [Turtle
 format](https://www.w3.org/TR/turtle/). Each such Graph
