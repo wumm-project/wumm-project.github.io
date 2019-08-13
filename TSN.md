@@ -39,7 +39,7 @@ subproject](https://github.com/wumm-project/RDFData) there is a subfolder
 Linked Open Data rules about TRIZ conferences (for the moment only about the
 **TRIZ Summit 2019** in Minsk).  As proof of concept this information is
 extracted and displayed at our [Conference
-Page](http://wumm.uni-leipzig.de/presentations.php).
+Page](http://wumm.uni-leipzig.de/conferences.php).
 
 ## Presentations
 
