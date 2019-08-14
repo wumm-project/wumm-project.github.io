@@ -145,12 +145,15 @@ od:Presentation
     - dcterms:creator foaf:Person = one or several authors (reference to the
       People Database) 
     - dcterms:title Literal = title
-    - od:urlSlides URL = Link to the presentation
+    - od:urlSlides URL = Link to the slides of the presentation
+    - od:urlVideo URL = Link to the video of the presentation
     - dcterms:rights Literal or URI = legal notice
     - dcterms:extent Literal = size of the presentation 
-    - dcterms:format MediaType = media type as DCMI MediaType
+    - dcterms:format MediaType = media type as one of the 
+      [Media Types](https://www.iana.org/assignments/media-types/media-types.xhtml)
+      standardized by the IANA
     - dcterms:language Literal = language of the presentation as defined in
-      the RFC4646 standard   
+      the RFC4646 standard
     - dcterms:issued Literal = year of creation of the presentation as defined
       in the W3CDTF standard. 
 
