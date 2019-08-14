@@ -3,16 +3,29 @@ layout: default
 title: TTN
 ---
 
-# TRIZ Trainings Network
+# TRIZ Trainings Network (ТРИЗ Сеть Тренингов)
 
 At the [TRIZ Summit 2019](https://communities.by/events/triz-summit-2019-eng/)
 in Minsk we discussed in more detail plans to set up an *European TRIZ
 Trainings Network* and compile an ERASMUS+ proposal to support these plans.
+In a discussion within the core group we decided to use both English and
+Russian als working languages in the preparation of the proposal.
 
 **This is a raw first draft of a proposal, subject to further changes in any
   place and point.**
 
-## The Overall Structure
+На [Саммите ТРИЗ 2019] (https://communities.by/events/triz-summit-2019-eng/) в
+Минске мы более детально обсудили планы по созданию *европейской ТРИЗ Сеть
+Тренингов* и по составлению заявки на программу ERASMUS+ европейского союза
+для поддержки этих планов. В дискуссии в основной группе мы решили
+использовать английский и русский как рабочие языки при подготовке
+предложения.
+
+** Это самые первые рассуждения о такой заявке. **
+
+## The Overall Structure (Общая структура)
+
+### Who initiates the proposal (Кто инициирует предложение)
 
 This is a joint initiative of the universities in Leipzig (Germany) and Minsk
 (Belarus) that operate a bilateral ERASMUS cooperation agreement since 2006.
@@ -27,6 +40,21 @@ period of the EU parliament.
 There was a similar call for 2018 (2) that we use as a raw guide to set up the
 required consortium and agree upon the principal goals of the proposal.
 
+Это совместная инициатива университетов в Лейпциге (Германия) и Минске.
+(Беларусь), связанные двусторонним соглашением о сотрудничестве ERASMUS с 2006 года.
+
+Мы обсудили с местной администрации в Минске (А. Рытов) и Лейпциге
+(A. Vorpagel), что лучшие шансы для такого предложения находятся в Key
+Action 2 (1) программе «Наращивание потенциала в сфере высшего образования».
+Новый вызов будет выпущен в октябре 2019 года. Это последний вызов в этой
+программе, так как программы будут меняться в связи с предстоящим новым
+периодом парламента ЕС.
+
+Был аналогичный вызов в 2018 году (2), который мы используем в качестве
+примера как настроить консорциум и согласовать основные цели заявки.
+
+### How the proposal should be structures (Структурные требования)
+
 Due to the special structure of the potential partners we plan to set up a
 multiregional project (3, see 3.5 and 3.6 - this has to be evaluated in more
 detail). "Eligible countries" (4) are divided into *Programme Countries*
@@ -37,24 +65,53 @@ Countries* (neighbouring the EU)
 * Region 3 - South-Mediterranean countries
 * Region 4 - Russian Federation
 
-For the moment we got expressions of interest to join the proposal from
-partners in the Member States and in the Regions 2 and 4.
-
+We plan to include partners from the Member States and the Regions 2 and 4.
 The project will be coordinated by the Leipzig University (Dept. of
-Mathematics and Computer Science - some technical questions remains to be
-clarified) and co-coordinated by the Belarussian State University Minsk.
-Coordinating partners ("project development team") on behalf of the TRIZ
-community are
-* [Hans-Gert Gräbe](http://bis.informatik.uni-leipzig.de/HansGertGraebe/) (Leipzig)
-* [Konstantin Mulyarchik](https://www.bsu.by/main.aspx?guid=245061) (Minsk)
+Mathematics and Computer Science) and co-coordinated by the Belarussian State
+University Minsk.
 
-Cited publications:
+Из-за структуры потенциальных партнеров мы планируем создать
+мультирегиональный проект (3, см. 3.5 и 3.6 - это должно быть обсуждено более
+подробно). «Приемлемые страны» (4) делятся на *Программные Страны* (то есть
+государства-члены Европейского Союза и некоторые партнеры) и *Партнер Страны*
+(соседствующие с ЕС)
+* Регион 1 - Западный Балкан
+* Регион 2 - Страны Восточного Партнерства
+* Регион 3 - Страны Южного Средиземноморья
+* Регион 4 - Российская Федерация
+
+Мы планируем включить партнеров из государств-членов и регионов 2 и 4.
+Проект будет координироваться Лейпцигским Университетом (кафедра математика и
+информатика) и ко-кординироваться Минским Государственным Университетом.
+
+### Cited publications
 * (1) https://eacea.ec.europa.eu/erasmus-plus/actions/key-action-2-cooperation-for-innovation-and-exchange-good-practices_en
 * (2) https://eacea.ec.europa.eu/erasmus-plus/funding/capacity-building-higher-education-2018_en
 * (3) https://eacea.ec.europa.eu/sites/eacea-site/files/faq_selection_cbhe_2019_published.pdf
 * (4) https://ec.europa.eu/programmes/erasmus-plus/programme-guide/part-a/who-can-participate/eligible-countries_en
 
+### Project coordination and supporters (Координация проекта и сторонники)
+
+Act as coordinating partners in specific locations (“developer team of the
+project”) within TRIZ community so far readiness announced
+
+Действовать как координирующие партнеры в отдельных местах («команда
+разработчиков проекта») с ТРИЗ сообщества пока готовность объявили
+
+* [Hans-Gert Gräbe](http://bis.informatik.uni-leipzig.de/HansGertGraebe/) (Leipzig)
+* [Konstantin Mulyarchik](https://www.bsu.by/main.aspx?guid=245061) (Minsk)
+
+Interest in cooperation has so far signaled
+
+Интерес к сотрудничеству до сих пор сигнализировали
+
+* Kobus Cilliers (systematic-innovation.com)
+* Nikolay Shparkovski (Minsk, Belarus)
+* Dmitri Kucharavy (Strassbourg, France)
+
 ## Rough Structure of the Proposal
+
+Остальная часть текста еще не переведена на русский язык.
 
 As explained in the 2019 guidelines (5, p. 164) “Joint Projects aim at
 producing outcomes that benefit principally and directly the organisations
@@ -122,4 +179,4 @@ archive accessible to the members only) as communcation medium to have all
 discussions in a common place.
 
 
-Hans-Gert Gräbe, June 22, 2019
+Hans-Gert Gräbe - Last update August 14, 2019
