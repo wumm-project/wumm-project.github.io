@@ -50,6 +50,13 @@ repo](https://github.com/wumm-project/web).
 
 ## Local TRIZ Structures 
 
-* [TRIZ Club Minsk](https://www.facebook.com/minsktrizclub/) (in Russian)
-* [Leipzig Seminar, WUMM Project](http://www.leipzig-netz.de/index.php/WUMM)
-  (in German) 
+* "TRIZ Solution" Chelyabinsk (in Russian)
+  * https://www.facebook.com/triz.solution/
+  * https://www.facebook.com/sales.metodika/
+  * https://vk.com/triz.solution
+  * https://vk.com/sales.metodika
+* Leipzig Seminar, WUMM Project (in German)
+  * http://www.leipzig-netz.de/index.php/WUMM
+  * https://github.com/wumm-project/Leipzig-Seminar
+* TRIZ Club Minsk (in Russian)
+  * https://www.facebook.com/minsktrizclub/
