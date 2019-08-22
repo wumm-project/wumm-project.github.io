@@ -29,6 +29,20 @@ extracted from the web pages of the TRIZ Summit 2019 in Minsk and enriched
 with some additional information. See our [FAQ](TSN-FAQ "wikilink") about some
 consideration on privacy.
 
+## Inteernational Organizations
+
+* [MA TRIZ - the International TRIZ Organization](https://matriz.org/)
+  * For the most part MA TRIZ activity deals with TRIZ specialists attestation
+    and certification, organization of conferences, holding international TRIZ
+    contests for schoolchildren and students, examining TRIZ methods and other
+    materials, providing TRIZ specialists with informational support,
+    publishing activity, keeping memory of TRIZ founder H.S. Altshuller, etc.
+  * [More about MATRIZ](https://matriz.org/about-matriz/)
+* [ETRIA - The European TRIZ Association](http://etria.eu/portal/)
+  * The ETRIA Portal is the official website of the European TRIZ Association,
+    where we inform public about our activities and events, and maintain a
+    virtual venue for the ETRIA community to communicate and collaborate.
+
 ## Conferences
 
 A special function within the TSN could be overviews about past conferences,
