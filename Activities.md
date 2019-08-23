@@ -7,6 +7,12 @@ title: Activities
 
 This is a small channel with metadata of certain TRIZ activities 
 
+August 23, 2019: There was a discussion about the differences between TRIZ and
+Design Thinking on[Valeri
+Souchkov's](https://www.facebook.com/valeri.souchkov) Facebook channel. Some
+of the material is recorded and translated in English in a [separate TSN
+Thread](2019-08-23 "wikilink").
+
 July 27, 2019: [Valeri Souchkov](https://www.facebook.com/valeri.souchkov)
 published a youtube video with a presentation (in Russian) "Прорывное мышление
 в малом и среднем бизнес. ТРИЗ для предпринимателей" (Breakthrough thinking in
