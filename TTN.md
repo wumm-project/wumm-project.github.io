@@ -23,6 +23,9 @@ If you are interested to join the project, please send a mail to [Hans-Gert
 Gräbe](http://bis.informatik.uni-leipzig.de/HansGertGraebe/) as the main
 coordinator of the project.
 
+In parallel we are discussing to apply for a EC project to set up a [Research
+Network on Systematic Innovation (ReNSI)](ReNSI "wikilink"). 
+
 ## The Overall Structure
 
 ### Who initiates the proposal
@@ -75,7 +78,7 @@ of the project”) within TRIZ community so far announced
 Interest in cooperation has so far signaled
 
 * Kobus Cilliers (systematic-innovation.com)
-* Nikolay Shparkovski (Minsk, Belarus)
+* Nikolay Shpakovski (Minsk, Belarus)
 * Dmitri Kucharavy (Strassbourg, France)
 
 ## Rough Structure of the Proposal

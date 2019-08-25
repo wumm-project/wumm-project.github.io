@@ -5,40 +5,14 @@ title: Activities
 
 # TRIZ Activities
 
-This is a small channel with metadata of certain TRIZ activities 
+This was a small channel with metadata of certain TRIZ activities.  I closed
+this page in favour of [HGG's Blog](HGG-Blog "wikilink") due to the character
+of the recordings so far.
 
-August 23, 2019: There was a discussion about the differences between TRIZ and
-Design Thinking on[Valeri
-Souchkov's](https://www.facebook.com/valeri.souchkov) Facebook channel. Some
-of the material is recorded and translated in English in a [separate TSN
-Thread](2019-08-23 "wikilink").
+## Recording of the Main Activities in this Web Site
 
-July 27, 2019: [Valeri Souchkov](https://www.facebook.com/valeri.souchkov)
-published a youtube video with a presentation (in Russian) "Прорывное мышление
-в малом и среднем бизнес. ТРИЗ для предпринимателей" (Breakthrough thinking in
-small and medium-sized businesses. TRIZ for business) that initiated a strong
-discussion at his Facebook channel.
-  * [Youtube Lecture](https://www.youtube.com/watch?v=srh23Ug6D6s) in Russian
-    (1:11:40)
-  * [Facebook
-      discussion](https://www.facebook.com/valeri.souchkov/posts/10212251519998280)
-    (in Russian), 477 comments (as of 2019-08-07)  
-  * [Part of the
-    discussion](http://wumm.uni-leipzig.de/Presentations/2019-08-07.pdf) about
-    TRIZ and system thinking (Russian original and a raw English translation
-    using Google Translate) - the LaTeX Source is available in the Sources
-    subdirectory of the [WUMM OpenDiscovery
-    Repo](https://github.com/wumm-project/OpenDiscovery)
-      
-July 12, 2019: Дмитрий Бахтурин представил визионерскую лекцию В.А.Подороги
-&ndash; «Общее чувство. Естественные границы искусственного». (Dmitry
-Bakhturin introduced the visionary lecture of V.A. Podorogi &ndash; “General
-feeling. The natural boundaries of the artificial".)
-  * The [lecture at Youtube](https://www.youtube.com/watch?v=dXTvRzcUREQ) (in
-    Russian)
-  * There was a short discussion about the odds and evens of Podorogi's
-    concepts. This and some additional material is recorded and translated in
-    English in a [separate TSN Thread](2019-07-12 "wikilink").
+August 25, 2019: Hans-Gert Gräbe compiled a first version of a proposal for EC
+support for a [Research Network on Systematic Innovation](ReNSI "wikilink")
 
 July 5, 2019: Hans-Gert Gräbe started operate the
 [wumm.uni-leipzig.de](http://wumm.uni-leipzig.de) web site.
