@@ -15,7 +15,7 @@ subproject](https://github.com/wumm-project/RDFData).  For the moment the
 `People` and the `TRIZ-Summit-2019` data is mirrored (due to performance
 reasons) and links are produced to view this data. 
 
-* [Frequently asked questions](TSN-FAQ "wikilink")
+* [Frequently asked questions](TSN-QA "wikilink")
 
 ## People in the TRIZ Social Network
 
@@ -37,6 +37,7 @@ consideration on privacy.
     contests for schoolchildren and students, examining TRIZ methods and other
     materials, providing TRIZ specialists with informational support,
     publishing activity, keeping memory of TRIZ founder H.S. Altshuller, etc.
+  * By its bylaws MA TRIZ is an "organization of organizations".
   * [More about MATRIZ](https://matriz.org/about-matriz/)
 * [ETRIA - The European TRIZ Association](http://etria.eu/portal/)
   * The ETRIA Portal is the official website of the European TRIZ Association,
@@ -54,6 +55,26 @@ Linked Open Data rules about TRIZ conferences (for the moment only about the
 **TRIZ Summit 2019** in Minsk).  As proof of concept this information is
 extracted and displayed at our [Conference
 Page](http://wumm.uni-leipzig.de/conferences.php).
+
+What I learned so far the main Conferences in the area are
+
+* [TRIZ Future](http://etria.eu/portal/index.php/past-etria-conferences-mainmenu-67)
+  - Annual Conference organized by ETRIA since 2001 (in English).
+* [TRIZ Summit](http://triz-summit.ru/confer/)
+  - Annual Conference since 2005 (in Russian).
+* [TRIZFest](https://matriz.org)
+  - Annual Conference since 2016, organized by MA TRIZ (in English).
+
+## TRIZ on Facebook
+
+As far as I understand most of new TRIZ-relevant information can be found in
+different Facebook channels as 
+* https://www.facebook.com/matriz.org
+* https://www.facebook.com/valeri.souchkov
+* https://www.facebook.com/InventoriumGames
+* https://www.facebook.com/triz.solution/
+* https://www.facebook.com/sales.metodika/
+* https://www.facebook.com/minsktrizclub/
 
 ## Presentations
 
