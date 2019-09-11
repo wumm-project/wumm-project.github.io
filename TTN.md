@@ -74,12 +74,16 @@ of the project”) within TRIZ community so far announced
 * [Hans-Gert Gräbe](http://bis.informatik.uni-leipzig.de/HansGertGraebe/) (Leipzig) for Germany
 * [Konstantin Mulyarchik](https://www.bsu.by/main.aspx?guid=245061) (Minsk) for Belarus
 * [Anton Kozhemyako](https://bmtriz.ru/about/) (Chelyabinsk) for the Ural region
+* [Elena Redkolis](https://www.facebook.com/eredkolis) (Moscow) for the Moscow region
+In progress
+* [Denis Cavallucci](https://www.insa-strasbourg.fr/fr/denis-cavallucci/) (Strasbourg) for INSA Strasbourg
+* [Peter Jantschgi](https://www.jantschgi.at/) (Graz) for FH Graz
 
 Interest in cooperation has so far signaled
 
 * Kobus Cilliers (systematic-innovation.com)
 * Nikolay Shpakovski (Minsk, Belarus)
-* Dmitri Kucharavy (Strassbourg, France)
+* Dmitri Kucharavy (Strasbourg, France)
 
 ## Rough Structure of the Proposal
 
