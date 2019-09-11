@@ -75,6 +75,7 @@ of the project”) within TRIZ community so far announced
 * [Konstantin Mulyarchik](https://www.bsu.by/main.aspx?guid=245061) (Minsk) for Belarus
 * [Anton Kozhemyako](https://bmtriz.ru/about/) (Chelyabinsk) for the Ural region
 * [Elena Redkolis](https://www.facebook.com/eredkolis) (Moscow) for the Moscow region
+
 In progress
 * [Denis Cavallucci](https://www.insa-strasbourg.fr/fr/denis-cavallucci/) (Strasbourg) for INSA Strasbourg
 * [Peter Jantschgi](https://www.jantschgi.at/) (Graz) for FH Graz
