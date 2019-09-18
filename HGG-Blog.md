@@ -36,3 +36,17 @@ feeling. The natural boundaries of the artificial".)
   * There was a short discussion about the odds and evens of Podorogi's
     concepts. This and some additional material is recorded and translated in
     English in a [separate TSN Thread](2019-07-12 "wikilink").
+
+February 02, 2019: In Hamburg we had a meeting about TRIZ, dialectics and the
+development of the GDR Inventor Schools with Rainer Thiel, Justus Schollmeyer,
+Kai Hiltmann and others.
+  * There is a [report](http://www.leipzig-netz.de/index.php/HGG.2019-02)
+    about that meeting (in German).
+  * Justus Schollmeyer recommended two readings about the history of TRIZ
+    ideas within the "Soviet Empire" 
+    * Yevgeni Karasik: Why was TRIZ born in Baku? Published in the 
+      [TRIZ Resrach Journal](http://www3.sympatico.ca/karasik/), March 2010. 
+    * Slava Gerovitch. «Perestroika of the History of Technology and Science
+      in the USSR: Changes in the Discourse». Technology and Culture, Vol. 37
+      (1996), No. 1, pp. 102-134.  
+
