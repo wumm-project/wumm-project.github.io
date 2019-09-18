@@ -13,6 +13,8 @@ otherwise.  May be removed in a later version.
   method to integrate the TRIZ teaching in the Design Thinking process.)
   Bachelorarbeit an der HS Landshut, 2019. 
   [pdf, in German](Texts/BayerTobias-2019.pdf).
+  * The paper got one of the 3 TRIZ student's awards at the TRIZ-Fest 2019 in
+    Heilbronn.
 * Rainer Thiel: Wie wird Dialektik nutzbar als Heuristik? (How is dialectic
   usable as a heuristic?) EWE 17 (2006) 2: 230–233.
   [pdf, in German](Texts/HegelHoerz-05.pdf).
