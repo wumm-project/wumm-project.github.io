@@ -29,7 +29,7 @@ extracted from the web pages of the TRIZ Summit 2019 in Minsk and enriched
 with some additional information. See our [FAQ](TSN-FAQ "wikilink") about some
 consideration on privacy.
 
-## Inteernational Organizations
+## International Organizations
 
 * [MA TRIZ - the International TRIZ Organization](https://matriz.org/)
   * For the most part MA TRIZ activity deals with TRIZ specialists attestation
@@ -60,10 +60,12 @@ What I learned so far the main Conferences in the area are
 
 * [TRIZ Future](http://etria.eu/portal/index.php/past-etria-conferences-mainmenu-67)
   - Annual Conference organized by ETRIA since 2001 (in English).
+  - [Proceedings](http://etria.eu/portal/index.php/conference-papers-and-proceedings)
 * [TRIZ Summit](http://triz-summit.ru/confer/)
   - Annual Conference since 2005 (in Russian).
 * [TRIZFest](https://matriz.org)
-  - Annual Conference since 2016, organized by MA TRIZ (in English).
+  - Annual Conference since 2011, organized by MA TRIZ (in English).
+  - [Proceedings](https://matriz.org/trizfest-proceedings/)
 
 ## TRIZ on Facebook
 
@@ -95,3 +97,6 @@ repo](https://github.com/wumm-project/web).
   * https://github.com/wumm-project/Leipzig-Seminar
 * TRIZ Club Minsk (in Russian)
   * https://www.facebook.com/minsktrizclub/
+* [OTSM-TRIZ](https://otsm-triz.org/) - This site is dedicated to the work of
+  TRIZ-master, the author of the General Theory of Power Thinking (OTSM -
+  Общая Теория Сильного Мышления) Nikolai Khomenko (1954-2011).
