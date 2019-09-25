@@ -77,12 +77,19 @@ of the project”) within TRIZ community so far announced
 * [Elena Redkolis](https://www.facebook.com/eredkolis) (Moscow) for the Moscow region
 
 In progress
-* [Denis Cavallucci](https://www.insa-strasbourg.fr/fr/denis-cavallucci/) (Strasbourg) for INSA Strasbourg
-* [Peter Jantschgi](https://www.jantschgi.at/) (Graz) for FH Graz
+* [Denis Cavallucci](https://www.insa-strasbourg.fr/fr/denis-cavallucci/)
+  (Strasbourg) for INSA Strasbourg
+* [Jerzy Chrzaszcz](https://www.pentacomp.pl/) and
+  [Sergey Yatsunenko](https://novismo.com/?lang=en) (Warsaw) in Poland
+* [Elena Gredynarova](https://www.facebook.com/elena.gredinarova) (Saporoshye)
+  for MATRIZ Ukraina
+* [Jürgen Jantschgi](https://www.jantschgi.at/) (Graz) for FH Graz
+* [Pavel Jirman](http://iki-institut.cz/) (Liberec) in the Czech Republic
 
 Interest in cooperation has so far signaled
 
 * Kobus Cilliers (systematic-innovation.com)
+* Christoph Dobrusskin (Eindhoven, The Netherlands)
 * Nikolay Shpakovski (Minsk, Belarus)
 * Dmitri Kucharavy (Strasbourg, France)
 
@@ -143,4 +150,4 @@ Cited publications:
 
 
 
-Hans-Gert Gräbe - Last update August 14, 2019
+Hans-Gert Gräbe - Last update September 25, 2019
