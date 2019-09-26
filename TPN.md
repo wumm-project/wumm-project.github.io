@@ -30,7 +30,11 @@ direction of TRIZ practices and the activities going on there.
   which currently addresses only adult development teams, is also being ramped
   up for children. Christoph is responsible for secondary level TRIZ in the
   MATRIZ Board, the International TRIZ Association.
-
+* [Education for a New Era](https://trizway.com/) Site of Anatoli Gin and Mark
+  Barkan (in Russian)
+  * [Typical program](https://trizway.com/art/primary/triz-pedagogika-krea-zanyatiya-dlya-razvitiya-myshleniya.html)
+    for children aged 8-10 years (in Russian)
+    
 More about that at http://www.leipzig-netz.de/index.php/MINT.TRIZCup (in
 German, with links to sites in Russian).
 
@@ -41,8 +45,6 @@ German, with links to sites in Russian).
   * A (yet raw) German translation is on the way. 
 * Anatoly Gin, Mark Barkan: TRIZ Pedagogy. 
   * Search for "анатолий гин триз" for Russian-language literature
-* https://trizway.com/ - Typical program for children aged 8-10 years (in
-  Russian)
 
 ## More Links (just started)
 
