@@ -71,14 +71,15 @@ University Minsk.
 Readiness to act as coordinating partners in specific regions (“developer team
 of the project”) within TRIZ community so far announced
 
-* [Hans-Gert Gräbe](http://bis.informatik.uni-leipzig.de/HansGertGraebe/) (Leipzig) for Germany
+* [Denis Cavallucci](https://www.insa-strasbourg.fr/fr/denis-cavallucci/)
+  (Strasbourg) (INSA Strasbourg) for France
+* [Hans-Gert Gräbe](http://bis.informatik.uni-leipzig.de/HansGertGraebe/) (Leipzig)
+  for Germany
 * [Konstantin Mulyarchik](https://www.bsu.by/main.aspx?guid=245061) (Minsk) for Belarus
 * [Anton Kozhemyako](https://bmtriz.ru/about/) (Chelyabinsk) for the Ural region
 * [Elena Redkolis](https://www.facebook.com/eredkolis) (Moscow) for the Moscow region
 
 In progress
-* [Denis Cavallucci](https://www.insa-strasbourg.fr/fr/denis-cavallucci/)
-  (Strasbourg) for INSA Strasbourg
 * [Jerzy Chrzaszcz](https://www.pentacomp.pl/) and
   [Sergey Yatsunenko](https://novismo.com/?lang=en) (Warsaw) in Poland
 * [Elena Gredynarova](https://www.facebook.com/elena.gredinarova) (Saporoshye)

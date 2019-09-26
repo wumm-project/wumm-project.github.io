@@ -30,6 +30,8 @@ direction of TRIZ practices and the activities going on there.
   which currently addresses only adult development teams, is also being ramped
   up for children. Christoph is responsible for secondary level TRIZ in the
   MATRIZ Board, the International TRIZ Association.
+  * [Europäischer TRIZ Remote-Workshop 2019](https://triz-akademie.de/triz-veranstaltungen/europaeischer-triz-remote-workshop-2019/)
+    (in German)
 * [Education for a New Era](https://trizway.com/) Site of Anatoli Gin and Mark
   Barkan (in Russian)
   * [Typical program](https://trizway.com/art/primary/triz-pedagogika-krea-zanyatiya-dlya-razvitiya-myshleniya.html)
