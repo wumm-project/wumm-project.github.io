@@ -92,11 +92,13 @@ repo](https://github.com/wumm-project/web).
   * https://www.facebook.com/sales.metodika/
   * https://vk.com/triz.solution
   * https://vk.com/sales.metodika
+  * https://www.facebook.com/evgeny.pokalo
 * Leipzig Seminar, WUMM Project (in German)
   * http://www.leipzig-netz.de/index.php/WUMM
   * https://github.com/wumm-project/Leipzig-Seminar
 * TRIZ Club Minsk (in Russian)
   * https://www.facebook.com/minsktrizclub/
+  * https://community-z.com/events/minsk-triz-club-31
 * [OTSM-TRIZ](https://otsm-triz.org/) - This site is dedicated to the work of
   TRIZ-master, the author of the General Theory of Power Thinking (OTSM -
   Общая Теория Сильного Мышления) Nikolai Khomenko (1954-2011).
