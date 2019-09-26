@@ -5,11 +5,14 @@ title: HGG-Blog
 
 # HGG's Blog
 
+August 28, 2019: The TRIZ Journal published my
+[TRIZ Newbee's Report](https://triz-journal.com/a-triz-newbees-report/).
+
 August 23, 2019: There was a discussion about the differences between TRIZ and
-Design Thinking on[Valeri
-Souchkov's](https://www.facebook.com/valeri.souchkov) Facebook channel. Some
-of the material is recorded and translated in English in a [separate TSN
-Thread](2019-08-23 "wikilink").
+Design Thinking on
+[Valeri Souchkov's](https://www.facebook.com/valeri.souchkov) Facebook
+channel.  Some of the material is recorded and translated in English in a
+[separate TSN Thread](2019-08-23 "wikilink").
 
 July 27, 2019: [Valeri Souchkov](https://www.facebook.com/valeri.souchkov)
 published a youtube video with a presentation (in Russian) "Прорывное мышление
@@ -45,7 +48,7 @@ Kai Hiltmann and others.
   * Justus Schollmeyer recommended two readings about the history of TRIZ
     ideas within the "Soviet Empire" 
     * Yevgeni Karasik: Why was TRIZ born in Baku? Published in the 
-      [TRIZ Resrach Journal](http://www3.sympatico.ca/karasik/), March 2010. 
+      [TRIZ Research Journal](http://www3.sympatico.ca/karasik/), March 2010. 
     * Slava Gerovitch. «Perestroika of the History of Technology and Science
       in the USSR: Changes in the Discourse». Technology and Culture, Vol. 37
       (1996), No. 1, pp. 102-134.  
