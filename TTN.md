@@ -82,27 +82,27 @@ the project mailing list). The regions are listed in the order of the date of
 the agreement.
 
 1. Germany (Member State)
-  - Leipzig University
-    - [Hans-Gert Gräbe](http://bis.informatik.uni-leipzig.de/HansGertGraebe/)
-      (ML) - project head, coordinator for Germany
-    - Further members: Sabine Lautenschläger (ML), Ken Kleemann (ML)
-    - **Contributions:** Heritage of the GDR Inventor School movement, WUMM
-      project on open-sourcing TRIZ related material, application of semantic
-      technologies
-    - **Expected Support from the Project:** Build up a regional TRIZ
-      trainings network both for inter company trainings (togehter with local
-      IHK) and anchoring such training in the undergraduate student education
-      at regional universities.
-  - German TRIZ Network  
-    - Robert Adunka - https://triz-consulting.de, Barbara Gronauer -
-      https://triz-akademie.de/, Christian M. Thurnes (ML) - HS
-      Kaiserslautern, Oliver Mayer (ML) - Bayern Innovativ, Andrea Badura - HS
-      Landshut (planned as key partner), Kai Hiltmann - HS Coburg, Rainer
-      Eidloth (ML) - Schaeffler Group
-    - **Contributions:** See the links to the web sites above, competence
-      center OPINNOMETH at HS Kaiserslautern, TRIZ application and training at
-      Schaeffler Group, more to be added
-    - **Expected Support from the Project:** To be defined
+    - Leipzig University    
+       - [Hans-Gert Gräbe](http://bis.informatik.uni-leipzig.de/HansGertGraebe/)
+       	 (ML) - project head, coordinator for Germany
+       - Further members: Sabine Lautenschläger (ML), Ken Kleemann (ML)
+       - **Contributions:** Heritage of the GDR Inventor School movement, WUMM
+       	 project on open-sourcing TRIZ related material, application of semantic
+      	 technologies
+       - **Expected Support from the Project:** Build up a regional TRIZ
+       	 trainings network both for inter company trainings (togehter with local
+      	 IHK) and anchoring such training in the undergraduate student education
+      	 at regional universities.
+    - German TRIZ Network  
+       - Robert Adunka - https://triz-consulting.de, Barbara Gronauer -
+       	 https://triz-akademie.de/, Christian M. Thurnes (ML) - HS
+      	 Kaiserslautern, Oliver Mayer (ML) - Bayern Innovativ, Andrea Badura - HS
+      	 Landshut (planned as key partner), Kai Hiltmann - HS Coburg, Rainer
+      	 Eidloth (ML) - Schaeffler Group
+       - **Contributions:** See the links to the web sites above, competence
+       	 center OPINNOMETH at HS Kaiserslautern, TRIZ application and training at
+      	 Schaeffler Group, more to be added
+       - **Expected Support from the Project:** To be defined
     
 2. Belarus (Partner Country, Region 2)
   - Belorussian State University
