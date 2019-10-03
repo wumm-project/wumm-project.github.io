@@ -151,7 +151,7 @@ the agreement.
        - [Dmitry Kucharavy](https://www.seecore.org/id4.htm) (ML) - key partner
        - **Contributions:** Educational Program Advanced Master of Innovative
        	 Design (AMID) at the National Institute of Applied Sciences,
-       	 Strasbourg 2004 - 2010. I participated that program as a
+       	 Strasbourg 2004 - 2010. I participated in that program as a
        	 teacher-organizer from 2002 to 2010.
        - **Expected Support from the Project:** To be defined
 
@@ -184,7 +184,7 @@ the agreement.
        	 trainings system for children.    
        - **Expected Support from the Project:** To be defined
 
-Furtheron interest in cooperation have so far signaled
+Further interest in cooperation have signaled so far
 
 * Kobus Cilliers (ML, systematic-innovation.com, UK, TRIZ Journal editor)
 * Christoph Dobrusskin (Eindhoven, The Netherlands)
