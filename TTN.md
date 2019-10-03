@@ -107,11 +107,11 @@ the agreement.
 2. Belarus (Partner Country, Region 2)
     - Belorussian State University
        - [Konstantin Mulyarchik](https://www.bsu.by/main.aspx?guid=245061)
-       	 (ML) - project head, coordinator
+       	 (ML) - project co-head, coordinator
        - **Contributions:** To be defined 
        - **Expected Support from the Project:** To be defined
     - Target Invention
-       - Nikolay Shpakovski (ML), TRIZ Master - key Partner
+       - Nikolay Shpakovski (ML), TRIZ Master - key partner
        - **Contributions:** OTSM-TRIZ, TRIZ online training system used in
        	 Belarus, Korea, China, planned use in Leipzig
        - **Expected Support from the Project:** To be defined
@@ -138,12 +138,21 @@ the agreement.
 5. France (Member State)
     - INSA Strasbourg
        - [Denis Cavallucci](https://www.insa-strasbourg.fr/fr/denis-cavallucci/)
-       	 (ML) - coordinator for France   
-       - **Contributions:** To be added   
+       	 (ML) - coordinator for France	 
+       - **Contributions:** In 2018 we compiled an - unfortunately
+       	 unsuccessful - Erasmus+ grant application CLEIADE.  The plan was to
+       	 cluster 14 international higher education institutions to cooperate
+       	 on the teaching of Inventive Design. The operational objective was to
+       	 develop new and innovative Information and Communication Technologies
+       	 in Teaching (ICTT) means to teach Inventive Design based on MOOC +
+       	 Serious Game + Problem Based Learning (PBL).       
        - **Expected Support from the Project:** To be defined
     - Seecore Project
        - [Dmitry Kucharavy](https://www.seecore.org/id4.htm) (ML) - key partner
-       - **Contributions:** To be added   
+       - **Contributions:** Educational Program Advanced Master of Innovative
+       	 Design (AMID) at the National Institute of Applied Sciences,
+       	 Strasbourg 2004 - 2010. I participated that program as a
+       	 teacher-organizer from 2002 to 2010.
        - **Expected Support from the Project:** To be defined
 
 6. Poland (Member State)
