@@ -63,14 +63,14 @@ University Minsk.
 ### Building the Consortium
 
 Due to the ERASMUS restrictions the proposal and in order to make the
-coordination effort manageable should indentify at most 10 main partners in
-all involved regions, so we think it would be useful to define the notions
-*coordinator* and *key partners* for resp. within the different regions.
+coordination effort manageable we should indentify at most 10 main partners in
+all involved regions, so I defined the notions *coordinator* and *key
+partners* for resp. within the different regions.
 
 The **coordinators** should
 1. represent the entire regional diversity,
 2. take over cooperation with other key partners in their respective region and
-3. are also responsible for individual work packages.
+3. take responsibility for individual work packages coordination.
 
 The **key partners** support the coordinators in their work. The coordinators
 form the project consortium that meets the key decisions based on a previously
@@ -78,101 +78,102 @@ public discussion on the project mailing list.
 
 At the present time (03. Oct 2019) I agreed in negotiations with different
 persons on the following consortial structure (ML - this person subscribed to
-the project mailing list), listed in the order of the date of the agreement:
+the project mailing list). The regions are listed in the order of the date of
+the agreement.
 
 1. Germany (Member State)
-  * Leipzig University
-    * [Hans-Gert Gräbe](http://bis.informatik.uni-leipzig.de/HansGertGraebe/)
+  - Leipzig University
+    - [Hans-Gert Gräbe](http://bis.informatik.uni-leipzig.de/HansGertGraebe/)
       (ML) - project head, coordinator for Germany
-    * Further members: Sabine Lautenschläger (ML), Ken Kleemann (ML)
-    * **Contributions:** Heritage of the GDR Inventor School movement, WUMM
+    - Further members: Sabine Lautenschläger (ML), Ken Kleemann (ML)
+    - **Contributions:** Heritage of the GDR Inventor School movement, WUMM
       project on open-sourcing TRIZ related material, application of semantic
       technologies
-    * **Expected Support from the Project:** Build up a regional TRIZ
+    - **Expected Support from the Project:** Build up a regional TRIZ
       trainings network both for inter company trainings (togehter with local
       IHK) and anchoring such training in the undergraduate student education
       at regional universities.
-  * German TRIZ Network  
-    * Robert Adunka - https://triz-consulting.de, Barbara Gronauer -
+  - German TRIZ Network  
+    - Robert Adunka - https://triz-consulting.de, Barbara Gronauer -
       https://triz-akademie.de/, Christian M. Thurnes (ML) - HS
       Kaiserslautern, Oliver Mayer (ML) - Bayern Innovativ, Andrea Badura - HS
       Landshut (planned as key partner), Kai Hiltmann - HS Coburg, Rainer
       Eidloth (ML) - Schaeffler Group
-    * **Contributions:** See the links to the web sites above, competence
+    - **Contributions:** See the links to the web sites above, competence
       center OPINNOMETH at HS Kaiserslautern, TRIZ application and training at
       Schaeffler Group, more to be added
-    * **Expected Support from the Project:** To be defined
+    - **Expected Support from the Project:** To be defined
     
 2. Belarus (Partner Country, Region 2)
-  * Belorussian State University
-    * [Konstantin Mulyarchik](https://www.bsu.by/main.aspx?guid=245061)
+  - Belorussian State University
+    - [Konstantin Mulyarchik](https://www.bsu.by/main.aspx?guid=245061)
       (ML) - project head, coordinator
-    * **Contributions:** To be defined 
-    * **Expected Support from the Project:** To be defined
-  * Target Invention
-    * Nikolay Shpakovski (ML), TRIZ Master - key Partner
-    * **Contributions:** OTSM-TRIZ, TRIZ online training system used in
+    - **Contributions:** To be defined 
+    - **Expected Support from the Project:** To be defined
+  - Target Invention
+    - Nikolay Shpakovski (ML), TRIZ Master - key Partner
+    - **Contributions:** OTSM-TRIZ, TRIZ online training system used in
       Belarus, Korea, China, planned use in Leipzig
-    * **Expected Support from the Project:** To be defined
-  * EPAM Minsk
-    * Andrey Kuryan - no response so far
+    - **Expected Support from the Project:** To be defined
+  - EPAM Minsk
+    - Andrey Kuryan - no response so far
 
 3. Ural Region (Partner Country, Region 4)
-  * bmtriz.com
-    * [Anton Kozhemyako](https://bmtriz.ru/about/) (ML) - coordinator
-    * Further members: Evgeni Pokalo
-    * **Contributions:** Altshuller Library in Chelyabinsk, Application of
+  - bmtriz.com
+    - [Anton Kozhemyako](https://bmtriz.ru/about/) (ML) - coordinator
+    - Further members: Evgeni Pokalo
+    - **Contributions:** Altshuller Library in Chelyabinsk, Application of
       TRIZ in business structures, inter company TRIZ training
-    * **Expected Support from the Project:** To be defined
+    - **Expected Support from the Project:** To be defined
 
 4. Moscow Region (Partner Country, Region 4)
-  * Moscow 
-    * [Elena Redkolis](https://www.facebook.com/eredkolis) (ML),
+  - Moscow 
+    - [Elena Redkolis](https://www.facebook.com/eredkolis) (ML),
       npk-consult.com - coordinator
-    * Further members: Dima Bakhturin     
-    * **Contributions:** Application of TRIZ in business structures, inter
+    - Further members: Dima Bakhturin     
+    - **Contributions:** Application of TRIZ in business structures, inter
       company TRIZ training      
-    * **Expected Support from the Project:** To be defined
+    - **Expected Support from the Project:** To be defined
 
 5. France (Member State)
-  * INSA Strasbourg
-    * [Denis Cavallucci](https://www.insa-strasbourg.fr/fr/denis-cavallucci/)
+  - INSA Strasbourg
+    - [Denis Cavallucci](https://www.insa-strasbourg.fr/fr/denis-cavallucci/)
       (ML) - coordinator for France   
-    * **Contributions:** To be added   
-    * **Expected Support from the Project:** To be defined
-  * Seecore Project
-    * [Dmitry Kucharavy](https://www.seecore.org/id4.htm) (ML) - key partner
-    * **Contributions:** To be added   
-    * **Expected Support from the Project:** To be defined
+    - **Contributions:** To be added   
+    - **Expected Support from the Project:** To be defined
+  - Seecore Project
+    - [Dmitry Kucharavy](https://www.seecore.org/id4.htm) (ML) - key partner
+    - **Contributions:** To be added   
+    - **Expected Support from the Project:** To be defined
 
 6. Poland (Member State)
-  * Warsaw
-    * [Jerzy Chrzaszcz](https://www.pentacomp.pl/) (ML), 
+  - Warsaw
+    - [Jerzy Chrzaszcz](https://www.pentacomp.pl/) (ML), 
       [Sergey Yatsunenko](https://novismo.com/?lang=en) (Warsaw)
-    * to be decided: coordinator for Poland
-    * **Contributions:** To be added   
-    * **Expected Support from the Project:** To be defined
+    - to be decided: coordinator for Poland
+    - **Contributions:** To be added   
+    - **Expected Support from the Project:** To be defined
 
 7. Austria (Member State)
-  * Graz
-    * [Jürgen Jantschgi](https://www.jantschgi.at/) (ML) - to be settled as
+  - Graz
+    - [Jürgen Jantschgi](https://www.jantschgi.at/) (ML) - to be settled as
       coordinator for Austria
-    * **Contributions:** To be added   
-    * **Expected Support from the Project:** To be defined
+    - **Contributions:** To be added   
+    - **Expected Support from the Project:** To be defined
 
 8. Czech Republic (Member State)
-  * Czech Republic
-    * [Pavel Jirman](http://iki-institut.cz/) - yet in decision meeting
-    * **Contributions:** To be added   
-    * **Expected Support from the Project:** To be defined
+  - Czech Republic
+    - [Pavel Jirman](http://iki-institut.cz/) - yet in decision meeting
+    - **Contributions:** To be added   
+    - **Expected Support from the Project:** To be defined
 
 9. Ukraina (Partner Country, Region 2)
-  * Ukrainian Association TRIZ - no stable contact so far
-    * [Elena Gredynarova](https://www.facebook.com/elena.gredinarova),
+  - Ukrainian Association TRIZ - no stable contact so far
+    - [Elena Gredynarova](https://www.facebook.com/elena.gredinarova),
       Zaporozhye      
-    * **Contributions:** [eidos](http://www.eidos.zp.ua/) TRIZ Online
+    - **Contributions:** [eidos](http://www.eidos.zp.ua/) TRIZ Online
       trainings system for children.    
-    * **Expected Support from the Project:** To be defined
+    - **Expected Support from the Project:** To be defined
 
 Furtheron interest in cooperation have so far signaled
 
