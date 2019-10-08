@@ -145,14 +145,9 @@ the agreement.
        	 on the teaching of Inventive Design. The operational objective was to
        	 develop new and innovative Information and Communication Technologies
        	 in Teaching (ICTT) means to teach Inventive Design based on MOOC +
-       	 Serious Game + Problem Based Learning (PBL).       
-       - **Expected Support from the Project:** To be defined
-    - Seecore Project
-       - [Dmitry Kucharavy](https://www.seecore.org/id4.htm) (ML) - key partner
-       - **Contributions:** Educational Program Advanced Master of Innovative
-       	 Design (AMID) at the National Institute of Applied Sciences,
-       	 Strasbourg 2004 - 2010. I participated in that program as a
-       	 teacher-organizer from 2002 to 2010.
+       	 Serious Game + Problem Based Learning (PBL).  The research unit is
+       	 fully dedicated to Inventive Design Theories, methods and tools, both
+       	 in teaching and in research.	 
        - **Expected Support from the Project:** To be defined
 
 6. Poland (Member State)
