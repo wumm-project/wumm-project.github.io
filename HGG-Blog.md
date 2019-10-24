@@ -5,6 +5,22 @@ title: HGG-Blog
 
 # HGG's Blog
 
+October 2019: Valeri Souchkov published a
+[new newsletter](http://www.xtriz.com/newsletter/newsletterICGTCFall2019.pdf).
+Content:
+* TRIZ Conference and Workshop 2019 in Baku, Azerbaijan
+* TRIZ Summit 2019 in Minsk, Belarus
+  - [Proceedings](https://triz-summit.ru/confer/tds-2019/articles/) are free
+    available, most contributions in Russian.  
+* MATRIZ TRIZfest2019 Conference in Heilbronn, Germany
+  - [Proceedings](http://www.xtriz.com/publications/TRIZfest-2019-Proceedings.pdf)
+* TRIZCON 2019 in West Lafayette, IN, USA
+* International Conference on Systematic Innovation (ICSI) in Liverpool, UK
+* TRIZ Future Conference 2019 in Marrakesh, Morocco
+  - Proceedings were [published by Springer](https://www.springer.com/de/book/9783030324964),
+    not free available
+See also Souchkov's [Newsletter Archive](http://www.xtriz.com/newsletter.htm)
+
 August 28, 2019: The TRIZ Journal published my
 [TRIZ Newbee's Report](https://triz-journal.com/a-triz-newbees-report/).
 
