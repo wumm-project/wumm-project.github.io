@@ -5,6 +5,12 @@ title: HGG-Blog
 
 # HGG's Blog
 
+October 23, 2019: Natalya Rubina published the matrial for the TRIZ Cup 2020.
+A version with English and German Translation is on the way and will be
+available in the directory TRIZCup/2020 of the
+[OpenDiscovery](https://github.com/wumm-project/OpenDiscovery) WUMM
+subproject.
+
 October 2019: Valeri Souchkov published a
 [new newsletter](http://www.xtriz.com/newsletter/newsletterICGTCFall2019.pdf).
 Content:
