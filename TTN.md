@@ -5,16 +5,22 @@ title: TTN
 
 # TRIZ Trainings Network
 
-At the [TRIZ Summit 2019](https://communities.by/events/triz-summit-2019-eng/)
-in Minsk we discussed in more detail plans to set up an *European TRIZ
-Trainings Network* and compile an ERASMUS+ proposal to support these plans.
-In a discussion within the core group we decided to have web sites and
-communication within the core team in English.  
+At the [TRIZ Summit in June 2019 in Minsk](https://communities.by/events/triz-summit-2019-eng/)
+we discussed in more detail plans to set up an *European TRIZ
+Trainings Network* (TTN) and compile an EU proposal to support these plans.
 
-**This is a raw first draft of a proposal, subject to further changes in any
-  place and point.**
+EU proposals are open to *Programme Countries* and *Associated Countries* (A).
+Interest to join forces within this proposal signaled partners from Programme
+Countries, Belarus and Russia.  There are strong developments to include also
+Belarus into the list of Associated Countries, although the current state is
+not clear.  Russia belongs to the "countries with jointly agreed co-funding
+mechanism covering most or all thematic areas".
 
-This Web page contains the current state of preparation of the project as
+Meanwhile TRIZ groups in the Program Countries, Belarus and Russia expressed
+their interest to join forces **on our project** to compile an EU proposal in
+the proposed direction.
+
+This Web page contains the current state of preparation of this project as
 agreed within the communication on our [mailing
 list](http://lists.informatik.uni-leipzig.de/mailman/listinfo/ttn) (with
 archive accessible to members).
@@ -26,57 +32,84 @@ coordinator of the project proposal.
 In parallel we are discussing to apply for a EC research project to set up a
 [Research Network on Systematic Innovation (ReNSI)](ReNSI "wikilink").
 
-## The Overall Structure
+## Main ideas
 
-### Who initiates the proposal
+TRIZ trainings exist or are to be developed in many places within the region
+under consideration.
 
-This is a joint initiative of the universities in Leipzig (Germany) and Minsk
-(Belarus) that operate a bilateral ERASMUS cooperation agreement since 2006.
+The **main focus** of a TTN should be the coordination and mutual support for
+these activities and the wider dissemination of *Contradition Oriented
+Systematic Innovation* (COSI) as an efficient methodology for solving complex
+problems that refuse simple, linear solutions, i.e. the 20% "Pareto-heavy"
+tasks, in particular in the *newly emerging technology areas*.
+* „TRIZ works well, but one of the key issues is that TRIZ is not yet well
+  known; it seems to be too complex but all the attempts to simplify TRIZ did
+  quite a damage to its reputation. TRIZ must not be simplified; instead, it
+  must be properly structured, learned, and implemented. Only then the real
+  results will come, and they will do it at a large scale. But we must admit
+  that TRIZ has reached a turning point: it must be capable of supporting
+  innovation in all the new and emerging technologies and methodologies of the
+  21st century: AI, big data, design thinking, sustainability, IoT, new
+  approaches to education, and so forth“. (Valeri Souchkov in his
+  [Report on the TRIZFest 2019](https://matriz.org/trizfest-2019-report))
 
-We discussed with the local administrations in Minsk (A. Rytov) and Leipzig
-(A. Vorpagel) that the best chances for such a proposal are within the Key
-Action 2 (1) Programme "Capacity Building in the field of higher education".
-The new call is issued in October 2019. It is the last call within that
-program, since the programs will change due to the upcoming new legislation
-period of the EU parliament.
+The **big story** could be based on the challenges that arise for Europe from
+the developments in the Asian region especially in this area (the
+mass-engineer-oriented training model MEOTM program in China, MATRIZ has
+massive membership growth from this region, so even majorities are changing),
+but so far are only halfheartedly encountered by the European research
+strategies.
+* For MEOTM see Runhua Tan. TRIZ，the development and dissemination in
+  industries in China.  TRIZCON 2017.
+  https://www.osaka-gu.ac.jp/php/nakagawa/TRIZ/eTRIZ/epapers/e2017Papers/eTan-China-Dissemination/eTan-TRIZCON2017-Paper-171012.pdf
 
-There was a similar call for 2018 (2) that we use as a raw guide to set up the
-required consortium and agree upon the principal goals of the proposal.
+The **main project directions** should cover to my understanding the
+structures 
+* of intra-company training,
+* of training and consulting in more complex inter-company business
+  structures, 
+* the academic anchoring of appropriate training structures of further
+  education and 
+* the academic anchoring of this topic in the core engineering education,
+even if not all these directions can be covered in a single EU proposal. 
 
-### About the required structure of the proposal 
+To a lesser extent, I see a need for common curricular efforts, since many
+things already exist. In the proposal we should above all focus on the
+visibility and networking of such offers, so on the one hand address the
+meta-level of the description and common digital exposition of existing offers
+and on the other hand on the practical exchange of students and graduates.
 
-Due to the special structure of the potential partners we plan to set up a
-multiregional project (3, see 3.5 and 3.6 - this has to be evaluated in more
-detail). "Eligible countries" (4) are divided into *Programme Countries*
-(i.e. Member States of the European Union and some Accociates) and *Partner
-Countries* (neighbouring the EU)
-* Region 1 - Western Balkans
-* Region 2 - Eastern Partnership Countries
-* Region 3 - South-Mediterranean countries
-* Region 4 - Russian Federation
+However, these two points should have to be evaluated in more detail against
+the call for tenders and, if necessary, the definition of project directions
+should be re-evaluated.
 
-We plan to include partners from the Member States and the Regions 2 and 4.
-The project will be coordinated by the Leipzig University (Dept. of
-Mathematics and Computer Science) and co-coordinated by the Belarussian State
-University Minsk.
+A strong link should be made to OER (**Open Educational Resources**), i.e.
+compile a stock of freely available (or cooperatively maintained) common
+material that can serve local business (both in education and training). So
+earn money not from IP but from Services.  Note that we started with this
+[WUMM Project](About.html) already an initiative in that direction and set up
+a certain github based infrastructure.
 
-### Building the Consortium
+## Building the Consortium
 
-Due to the ERASMUS restrictions the proposal and in order to make the
-coordination effort manageable we should indentify at most 10 main partners in
-all involved regions, so I defined the notions *coordinator* and *key
-partners* for resp. within the different regions.
+Regardless of the specific application conditions, which, depending on the
+call for tenders, require a concentration of 3..5 key partners in a specific
+composition, which then also lead the respective EU proposal, it makes sense
+to consolidate the already visible network structures and create a pool of
+**key partners** and **regional coordinators** as the core of a coordinating
+structure in order to react quickly on concrete tenders.
 
 The **coordinators** should
 1. represent the entire regional diversity,
-2. take over cooperation with other key partners in their respective region and
+2. take over cooperation with other key partners in their respective region
+   and  
 3. take responsibility for individual work packages coordination.
 
 The **key partners** support the coordinators in their work. The coordinators
 form the project consortium that meets the key decisions based on a previously
 public discussion on the project mailing list.
 
-At the present time (03. Oct 2019) I agreed in negotiations with different
+At the present time (03 Nov 2019) I agreed in negotiations with different
 persons on the following consortial structure (ML - this person subscribed to
 the project mailing list). The regions are listed in the order of the date of
 the agreement.
@@ -84,11 +117,11 @@ the agreement.
 1. Germany (Member State)
     - Leipzig University    
        - [Hans-Gert Gräbe](http://bis.informatik.uni-leipzig.de/HansGertGraebe/)
-       	 (ML) - project head, coordinator for Germany
+       	 (ML) - key partner, coordinator for Germany
        - Further members: Sabine Lautenschläger (ML), Ken Kleemann (ML)
        - **Contributions:** Heritage of the GDR Inventor School movement, WUMM
        	 project on open-sourcing TRIZ related material, application of
-       	 semantic technologies
+       	 semantic technologies, TRIZ and sustainability.
        - **Expected Support from the Project:** Build up a regional TRIZ
        	 trainings network both for inter company trainings (togehter with
        	 local IHK) and anchoring such training in the undergraduate student
@@ -103,11 +136,16 @@ the agreement.
        	 center OPINNOMETH at HS Kaiserslautern, TRIZ application and training
        	 at Schaeffler Group, more to be added
        - **Expected Support from the Project:** To be defined
+    - Pavel Livotov (HS Offenburg, ML)    
+       - **Contributions:** I would participate in the H2020 project
+       	 application as a partner with at least two doctoral students in the
+       	 field of TRIZ and Eco-Innovation in Process Engineering. 
+       - **Expected Support from the Project:** To be defined
     
-2. Belarus (Partner Country, Region 2)
+2. Belarus (Region 2)
     - Belorussian State University
        - [Konstantin Mulyarchik](https://www.bsu.by/main.aspx?guid=245061)
-       	 (ML) - project co-head, coordinator
+       	 (ML) - coordinator
        - **Contributions:** To be defined 
        - **Expected Support from the Project:** To be defined
     - Target Invention
@@ -115,22 +153,24 @@ the agreement.
        - **Contributions:** OTSM-TRIZ, TRIZ online training system used in
        	 Belarus, Korea, China, planned use in Leipzig
        - **Expected Support from the Project:** To be defined
-    - EPAM Minsk
-       - Andrey Kuryan - no response so far
 
-3. Ural Region (Partner Country, Region 4)
+3. Ural Region (Region 4)
     - bmtriz.com
-       - [Anton Kozhemyako](https://bmtriz.ru/about/) (ML) - coordinator
-       - Further members: Evgeni Pokalo
+       - [Anton Kozhemyako](https://bmtriz.ru/about/) (ML, MA TRIZ director
+       	 for Developing TRIZ Applications for Business and Management) -
+	 coordinator 
+       - Further members: Evgeni Pokalo       
        - **Contributions:** Altshuller Library in Chelyabinsk, Application of
-       	 TRIZ in business structures, inter company TRIZ training
+       	 TRIZ in business structures, inter company TRIZ training, MA TRIZ
+       	 director for TRIZ and Business (Anton)	 
        - **Expected Support from the Project:** To be defined
 
-4. Moscow Region (Partner Country, Region 4)
+4. Moscow Region (Region 4)
     - Moscow 
        - [Elena Redkolis](https://www.facebook.com/eredkolis) (ML),
        	 npk-consult.com - coordinator
-       - Further members: Dima Bakhturin     
+       - Further members: Dmitriy Bakhturin (Director of the TRIZ Center at
+       	 Rostex, Vice President for new projects at MA TRIZ)
        - **Contributions:** Application of TRIZ in business structures, inter
        	 company TRIZ training      
        - **Expected Support from the Project:** To be defined
@@ -167,11 +207,11 @@ the agreement.
 
 8. Czech Republic (Member State)
     - Czech Republic
-       - [Pavel Jirman](http://iki-institut.cz/) - yet in decision meeting
+       - [Pavel Jirman](http://iki-institut.cz/) (ML)
        - **Contributions:** To be added   
        - **Expected Support from the Project:** To be defined
 
-9. Ukraina (Partner Country, Region 2)
+9. Ukraina (Region 2)
     - Ukrainian Association TRIZ - no stable contact so far
        - [Elena Gredynarova](https://www.facebook.com/elena.gredinarova),
        	 Zaporozhye      
@@ -185,82 +225,50 @@ Further interest in cooperation have signaled so far
 * Christoph Dobrusskin (Eindhoven, The Netherlands)
 * Mika Helaskoski (ML, Finland)
 
-## Rough Structure of the Proposal
+## Towards a Proposal
 
-As explained in the 2019 guidelines (5, p. 164) “Joint Projects aim at
-producing outcomes that benefit principally and directly the organisations
-from eligible Partner Countries involved in the project. These projects
-typically focus on three different types of activities:
-* curriculum development; 
-* modernisation of governance, management and functioning of HEIs;
-* strengthening of relations between HEIs and the wider economic and social
-  environment."
+A first approach, already discussed in Minsk, focused on an application for
+the ERASMUS+ Key Action 2 Program "Capacity Building in the field of higher
+education" (CBHE).
+* For the CBHE programm see
+  https://eacea.ec.europa.eu/erasmus-plus/actions/key-action-2-cooperation-for-innovation-and-exchange-good-practices_en
 
-In our special situation – developing a teaching practice in modern
-contradiction oriented innovation methodology (as TRIZ) for a wide ranging
-audience reaching from students enroled in engineering courses to those in
-computer science or business administration in strong cooperation with
-practices of SME business partners – the third line is best suited for this
-needs.
+During consultations in October 2019 with the Saxonian office that promotes EU
+proposals, however, it turned out that the conditions to apply for this
+program in our consortium structure are not met. Instead, we were advised to
+focus on one of the **Marie Skłodowska-Curie actions** (MSCA) within the
+Horizon 2020 Work Program.
+* For MSCA see
+  * https://www.kowi.de/Portaldata/2/Resources/horizon2020/wp/h2020-wp1820-msca.pdf
+  * https://ec.europa.eu/research/mariecurieactions/actions/research-networks_en
 
-We designed a **raw draft** of a possible proposal:
-* Evaluate the needs of the SME business partners in the special profile of
-  graduates in modern contradiction oriented innovation methodology.
-* Collect existing material and experience in that area at the different
-  sites, both within the academia but also within the internal training
-  processes of the SME partners.
-* Set up a joined curriculum and roll out it gradually within the HEI
-  partners.  Develop teaching material for these courses and make it available
-  as Open Educational Resources.
-* Set up laboratory capacity “TRIZ Labs” both conceptually and materially at
-  dedicated partners.
+In particular, the **MSCA-ITN-2020 call on Innovative Training Networks** was
+considered to be suitable for an application, although the focus of such an
+application must be on a joint doctoral program, which only indirectly
+promotes further aspects of the development of a TTN (from in-company
+trainings to integration in undergraduate academic education). Here it would
+be worth considering whether further EU funding programs can be used for these
+aspects in addition.
+* For the application guide to MSCA-ITN-2020 see
+  https://ec.europa.eu/research/participants/data/ref/h2020/other/guides_for_applicants/h2020-guide-appl-msca-itn_en.pdf
 
-The **big story** could be based on the challenges that arise for Europe from
-the developments in the Asian region especially in this area (the
-mass-engineer-oriented training model MEOTM program (6) in China, MATRIZ has
-massive membership growth from this region, so there majorities are yet
-changing), but so far are only halfheartedly encountered by the European
-research strategies.
+## Towards an application for MSCA-ITN-2020
 
-The **main project directions** should cover to my understanding the
-structures 
-* of intra-company training,
-* of training and consulting in more complex inter-company business
-  structures, 
-* the academic anchoring of appropriate training structures of further
-  education and 
-* the academic anchoring of this topic in the core engineering education.
+MSCA-ITN-2020 offers funding for general **collaborative European Training
+Networks** (ETN, 445 Mio. Euro), for **European Industrial Doctorates** (EID,
+40 Mio. Euro) or **European Joint Doctorates** (EJD, 45 Mio. Euro).  EJD is
+reserved for true academic joint doctorate programs, hence is not appropriate
+for us.  ETN is very broad in its direction, hence the success rate was low.
+The office claimed that the success rate was higher in MSCA-ITN-EID since
+there are more focused requirements (both partners from academia and from
+industry are requied in the consortium). 
 
-To a lesser extent, I see a need for common curricular efforts, since many
-things already exist. In the proposal we should in my understanding above all
-focus on the visibility and networking of such offers, so on the one hand
-address the meta-level of the description and common digital exposition of
-existing offers and on the other hand on the practical exchange of students
-and graduates.
+There is a list of projects that were successful within the last (2018)
+MSCA-ITN call, see
+https://ec.europa.eu/research/mariecurieactions/sites/mariecurie2/files/itn-2018-list-of-projects_0.pdf
 
-However, these two points should have to be evaluated in more detail against
-the call for tenders and, if necessary, the definition of project directions
-should be re-evaluated.
+The call is open since 12 Sep 2019, the deadline is 14
+Jan 2020, so it is very sportive to compile an application in the remaining
+time. 
 
-A strong link should be made to OER (**Open Educational Resources**), i.e.
-compile a stock of freely available (or cooperatively maintained) common
-material that can serve local business (both in education and training). So
-earn money not from IP but from Services.  Note that we started with this
-[WUMM Project](About.html) already an initiative in that direction and set up
-a certain github based infrastructure.
-
-One has to fit the proposal along the "political lines" pretended by the EU
-"that benefit principally and directly the organisations from eligible Partner
-Countries" (i.e. from Region 2 and 4), even if the *real* situation in our
-context is completely different and the Member States "benefit principally and
-directly" from our activities. 
-
-## Cited publications
-* (1) https://eacea.ec.europa.eu/erasmus-plus/actions/key-action-2-cooperation-for-innovation-and-exchange-good-practices_en
-* (2) https://eacea.ec.europa.eu/erasmus-plus/funding/capacity-building-higher-education-2018_en
-* (3) https://eacea.ec.europa.eu/sites/eacea-site/files/faq_selection_cbhe_2019_published.pdf
-* (4) https://ec.europa.eu/programmes/erasmus-plus/programme-guide/part-a/who-can-participate/eligible-countries_en
-* (5) https://ec.europa.eu/programmes/erasmus-plus/sites/erasmusplus2/files/erasmus-plus-programme-guide-2019_en_0.pdf
-* (6) 
-
-Hans-Gert Gräbe - Last update October 3, 2019
+Hans-Gert Gräbe - Last update 3 Nov 2019
