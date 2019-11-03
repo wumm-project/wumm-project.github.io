@@ -61,7 +61,7 @@ but so far are only halfheartedly encountered by the European research
 strategies.
 * For MEOTM see Runhua Tan. TRIZ，the development and dissemination in
   industries in China.  TRIZCON 2017.
-  https://www.osaka-gu.ac.jp/php/nakagawa/TRIZ/eTRIZ/epapers/e2017Papers/eTan-China-Dissemination/eTan-TRIZCON2017-Paper-171012.pdf
+  [pdf](https://www.osaka-gu.ac.jp/php/nakagawa/TRIZ/eTRIZ/epapers/e2017Papers/eTan-China-Dissemination/eTan-TRIZCON2017-Paper-171012.pdf)
 
 The **main project directions** should cover to my understanding the
 structures 
@@ -127,11 +127,13 @@ the agreement.
        	 local IHK) and anchoring such training in the undergraduate student
        	 education at regional universities.
     - German TRIZ Network    
-       - Robert Adunka - https://triz-consulting.de, Barbara Gronauer -
-       	 https://triz-akademie.de/, Christian M. Thurnes (ML) - HS
-       	 Kaiserslautern, Oliver Mayer (ML) - Bayern Innovativ, Andrea Badura -
-       	 HS Landshut (planned as key partner), Kai Hiltmann - HS Coburg,
-       	 Rainer Eidloth (ML) - Schaeffler Group
+       - [Robert Adunka](https://triz-consulting.de),
+         [Barbara Gronauer](https://triz-akademie.de),
+	 Christian M. Thurnes (ML) - HS Kaiserslautern,
+	 Oliver Mayer (ML) - Bayern Innovativ,
+	 Andrea Badura - HS Landshut (planned as key partner),
+	 Kai Hiltmann - HS Coburg,
+	 Rainer Eidloth (ML) - Schaeffler Group
        - **Contributions:** See the links to the web sites above, competence
        	 center OPINNOMETH at HS Kaiserslautern, TRIZ application and training
        	 at Schaeffler Group, more to be added
@@ -230,17 +232,16 @@ Further interest in cooperation have signaled so far
 A first approach, already discussed in Minsk, focused on an application for
 the ERASMUS+ Key Action 2 Program "Capacity Building in the field of higher
 education" (CBHE).
-* For the CBHE programm see
-  https://eacea.ec.europa.eu/erasmus-plus/actions/key-action-2-cooperation-for-innovation-and-exchange-good-practices_en
+* [The CBHE programm](https://eacea.ec.europa.eu/erasmus-plus/actions/key-action-2-cooperation-for-innovation-and-exchange-good-practices_en)
 
 During consultations in October 2019 with the Saxonian office that promotes EU
 proposals, however, it turned out that the conditions to apply for this
 program in our consortium structure are not met. Instead, we were advised to
 focus on one of the **Marie Skłodowska-Curie actions** (MSCA) within the
 Horizon 2020 Work Program.
-* For MSCA see
-  * https://www.kowi.de/Portaldata/2/Resources/horizon2020/wp/h2020-wp1820-msca.pdf
-  * https://ec.europa.eu/research/mariecurieactions/actions/research-networks_en
+* For MSCA see 
+  * [the Horizon 2020 website](https://www.kowi.de/Portaldata/2/Resources/horizon2020/wp/h2020-wp1820-msca.pdf)
+  * [the Marie Curie Actions web site](https://ec.europa.eu/research/mariecurieactions/actions/research-networks_en)
 
 In particular, the **MSCA-ITN-2020 call on Innovative Training Networks** was
 considered to be suitable for an application, although the focus of such an
@@ -249,8 +250,7 @@ promotes further aspects of the development of a TTN (from in-company
 trainings to integration in undergraduate academic education). Here it would
 be worth considering whether further EU funding programs can be used for these
 aspects in addition.
-* For the application guide to MSCA-ITN-2020 see
-  https://ec.europa.eu/research/participants/data/ref/h2020/other/guides_for_applicants/h2020-guide-appl-msca-itn_en.pdf
+* [Application guide to MSCA-ITN-2020](https://ec.europa.eu/research/participants/data/ref/h2020/other/guides_for_applicants/h2020-guide-appl-msca-itn_en.pdf)
 
 ## Towards an application for MSCA-ITN-2020
 
@@ -263,12 +263,11 @@ The office claimed that the success rate was higher in MSCA-ITN-EID since
 there are more focused requirements (both partners from academia and from
 industry are requied in the consortium). 
 
-There is a list of projects that were successful within the last (2018)
-MSCA-ITN call, see
-https://ec.europa.eu/research/mariecurieactions/sites/mariecurie2/files/itn-2018-list-of-projects_0.pdf
+There is a [list of
+projects](https://ec.europa.eu/research/mariecurieactions/sites/mariecurie2/files/itn-2018-list-of-projects_0.pdf)
+that were successful within the last (2018) MSCA-ITN call.
 
-The call is open since 12 Sep 2019, the deadline is 14
-Jan 2020, so it is very sportive to compile an application in the remaining
-time. 
+The call is open since 12 Sep 2019, the deadline is 14 Jan 2020, so it is very
+sportive to compile an application in the remaining time.
 
 Hans-Gert Gräbe - Last update 3 Nov 2019
