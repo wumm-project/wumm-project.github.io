@@ -261,7 +261,45 @@ reserved for true academic joint doctorate programs, hence is not appropriate
 for us.  ETN is very broad in its direction, hence the success rate was low.
 The office claimed that the success rate was higher in MSCA-ITN-EID since
 there are more focused requirements (both partners from academia and from
-industry are requied in the consortium). 
+industry are requied in the consortium).
+
+### [From the call](https://www.kowi.de/Portaldata/2/Resources/horizon2020/wp/h2020-wp1820-msca.pdf)
+
+**Scope:** ITN supports competitively selected joint research training and/or
+doctoral programmes, implemented by partnerships of universities, research
+institutions, research infrastructures, businesses, SMEs, and other
+socio-economic actors from different countries across Europe and beyond.
+
+Each programme should have a clearly identified supervisory board
+co-ordinating network-wide training and establishing active and continuous
+communication and exchange of best practice among the participating
+organisations to maximise the benefits of the partnership.
+
+The programme should exploit complementary competences of the participating
+organisations, and enable sharing of knowledge, networking activities, the
+organisation of workshops and conferences.
+
+Training responds to well identified needs in defined research areas, with
+appropriate references to inter-and multidisciplinary fields and follows the
+EU Principles for Innovative Doctoral Training.  It should be primarily
+focused on scientific and technological knowledge through research on
+individual, personalised projects.
+
+In order to increase the employability of the researchers, the research
+training should be complemented by the meaningful exposure of each researcher
+to the non-academic sector. Secondments of the researcher to other
+beneficiaries and partner organisations are encouraged, but should be
+relevant, feasible, beneficial for the researchers and in line with the
+project objectives. ...
+
+In EID, the joint supervision of the researcher must be ensured by at least
+one supervisor from the academic sector and one supervisor from the
+non-academic sector. These arrangements will be taken into account during the
+evaluation of the proposal.
+
+Thre is a list of expected impact at several levels at the end of the call
+that should be addressed in the proposal.
+
 
 There is a [list of
 projects](https://ec.europa.eu/research/mariecurieactions/sites/mariecurie2/files/itn-2018-list-of-projects_0.pdf)
