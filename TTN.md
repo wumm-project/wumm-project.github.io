@@ -9,12 +9,12 @@ At the [TRIZ Summit in June 2019 in Minsk](https://communities.by/events/triz-su
 we discussed in more detail plans to set up an *European TRIZ
 Trainings Network* (TTN) and compile an EU proposal to support these plans.
 
-EU proposals are open to *Programme Countries* and *Associated Countries* (A).
+EU proposals are open to *Programme Countries* and *Associated Countries*.
 Interest to join forces within this proposal signaled partners from Programme
-Countries, Belarus and Russia.  There are strong developments to include also
-Belarus into the list of Associated Countries, although the current state is
-not clear.  Russia belongs to the "countries with jointly agreed co-funding
-mechanism covering most or all thematic areas".
+Countries, Belarus, Morocco and Russia.  There are strong developments to
+include also Belarus into the list of Associated Countries, although the
+current state is not clear.  Russia belongs to the "countries with jointly
+agreed co-funding mechanism covering most or all thematic areas".
 
 Meanwhile TRIZ groups in the Program Countries, Belarus and Russia expressed
 their interest to join forces **on our project** to compile an EU proposal in
@@ -109,7 +109,7 @@ The **key partners** support the coordinators in their work. The coordinators
 form the project consortium that meets the key decisions based on a previously
 public discussion on the project mailing list.
 
-At the present time (03 Nov 2019) I agreed in negotiations with different
+At the present time (07 Nov 2019) I agreed in negotiations with different
 persons on the following consortial structure (ML - this person subscribed to
 the project mailing list). The regions are listed in the order of the date of
 the agreement.
@@ -221,6 +221,13 @@ the agreement.
        	 trainings system for children.    
        - **Expected Support from the Project:** To be defined
 
+10. Morocco (Region ?)
+    - ENSA Marrakech - Université Cadi Ayyad
+       - [Rachid Benmoussa](https://sites.google.com/a/uca.ac.ma/rbenmoussa/),
+       	 Zaporozhye      
+       - **Contributions:** To be defined   
+       - **Expected Support from the Project:** To be defined
+
 Further interest in cooperation have signaled so far
 
 * Kobus Cilliers (ML, systematic-innovation.com, UK, TRIZ Journal editor)
@@ -299,7 +306,6 @@ evaluation of the proposal.
 
 Thre is a list of expected impact at several levels at the end of the call
 that should be addressed in the proposal.
-
 
 There is a [list of
 projects](https://ec.europa.eu/research/mariecurieactions/sites/mariecurie2/files/itn-2018-list-of-projects_0.pdf)
