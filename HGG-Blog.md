@@ -5,28 +5,33 @@ title: HGG-Blog
 
 # HGG's Blog
 
-November 10, 2019: There was a discussion about TRIZ and the notions of
-component, system and function on
-[Sergey Simakov's](https://www.facebook.com/sergey.simakov.96) Facebook
-channel.  Some of the material is recorded and planned to be translated in
-English in a [separate TSN Thread](2019-11-10 "wikilink").
+## November 10, 2019:
 
-October 23, 2019: Natalya Rubina published the material for the TRIZ Cup 2020.
+There was a discussion about TRIZ and the notions of component, system and
+function on [Sergey Simakov's](https://www.facebook.com/sergey.simakov.96)
+Facebook channel.  Some of the material is recorded and planned to be
+translated in English in a [separate TSN Thread](2019-11-10 "wikilink").
+
+## October 23, 2019:
+
+Natalya Rubina published the material for the TRIZ Cup 2020.
+
 A version with English and German Translation is on the way and will be
 available in the directory TRIZCup/2020 of the
 [OpenDiscovery](https://github.com/wumm-project/OpenDiscovery) WUMM
 subproject.
-
 * Meanwhile (Nov 8, 2019) I finished the translation of the exercises to
   German. I have no idea if this requires an authorization by the
   org. committee, so be aware that this is an (yet) unauthorized translation.
-
 * During the translation process I collected more experience about the
   problems of multilingual projects, see my
   [report](https://github.com/wumm-project/OpenDiscovery/blob/master/TRIZ-Cup/2020/README.md).
 
-October 2019: Valeri Souchkov published a
+## October 2019:
+
+Valeri Souchkov published a
 [new newsletter](http://www.xtriz.com/newsletter/newsletterICGTCFall2019.pdf).
+
 Content:
 * TRIZ Conference and Workshop 2019 in Baku, Azerbaijan
 * TRIZ Summit 2019 in Minsk, Belarus
@@ -41,12 +46,13 @@ Content:
     not free available
 See also Souchkov's [Newsletter Archive](http://www.xtriz.com/newsletter.htm)
 
-September 8,2019: On my [Facebook account](https://www.facebook.com/hg.graebe)
-I started a discussion about the odds and evens of translation projects.  Very
-helpful, at least for me, is [Google Translate](https://translate.google.com),
-so you may use this facility to translate the following section about my
-**motivation** to start such a thread. Below the **goal** in three language
-versions.
+## September 8, 2019:
+
+On my [Facebook account](https://www.facebook.com/hg.graebe) I started a
+discussion about the odds and evens of translation projects.  Very helpful, at
+least for me, is [Google Translate](https://translate.google.com), so you may
+use this facility to translate the following section about my **motivation**
+to start such a thread. Below the **goal** in three language versions.
 * Only German: Warum dieser Beitrag? Ich stehe vor der Frage, wie sich eine
   mehrsprachige Diskussion zu einem gemeinsam interessierenden Thema
   organisieren lässt. Die Hauptdiskussion läuft in Russisch, viele sagen
@@ -79,20 +85,25 @@ versions.
     этих трех языков и следить за ходом обсуждения с помощью функции перевода
     Facebook.
     
-August 28, 2019: The TRIZ Journal published my
+## August 28, 2019:
+
+The TRIZ Journal published my
 [TRIZ Newbee's Report](https://triz-journal.com/a-triz-newbees-report/).
 
-August 23, 2019: There was a discussion about the differences between TRIZ and
-Design Thinking on
-[Valeri Souchkov's](https://www.facebook.com/valeri.souchkov) Facebook
+## August 23, 2019:
+
+There was a discussion about the differences between TRIZ and Design Thinking
+on [Valeri Souchkov's](https://www.facebook.com/valeri.souchkov) Facebook
 channel.  Some of the material is recorded and translated in English in a
 [separate TSN Thread](2019-08-23 "wikilink").
 
-July 27, 2019: [Valeri Souchkov](https://www.facebook.com/valeri.souchkov)
-published a youtube video with a presentation (in Russian) "Прорывное мышление
-в малом и среднем бизнес. ТРИЗ для предпринимателей" (Breakthrough thinking in
-small and medium-sized businesses. TRIZ for business) that initiated a strong
-discussion at his Facebook channel.
+## July 27, 2019:
+
+[Valeri Souchkov](https://www.facebook.com/valeri.souchkov) published a
+youtube video with a presentation (in Russian) "Прорывное мышление в малом и
+среднем бизнес. ТРИЗ для предпринимателей" (Breakthrough thinking in small and
+medium-sized businesses. TRIZ for business) that initiated a strong discussion
+at his Facebook channel.
 * [Youtube Lecture](https://www.youtube.com/watch?v=srh23Ug6D6s) in Russian
   (1:11:40)
 * This is one of altogether
@@ -104,19 +115,24 @@ discussion at his Facebook channel.
     and system thinking (Russian original and English translation) for the
     HGG-Blog.
     
-July 12, 2019: Дмитрий Бахтурин представил визионерскую лекцию В.А.Подороги
-&ndash; «Общее чувство. Естественные границы искусственного». (Dmitry
-Bakhturin introduced the visionary lecture of V.A. Podorogi &ndash; “General
-feeling. The natural boundaries of the artificial".)
+## July 12, 2019:
+
+Дмитрий Бахтурин представил визионерскую лекцию В.А.Подороги &ndash; «Общее
+чувство. Естественные границы искусственного». (Dmitry Bakhturin introduced
+the visionary lecture of V.A. Podorogi &ndash; “General feeling. The natural
+boundaries of the artificial".)
   * The [lecture at Youtube](https://www.youtube.com/watch?v=dXTvRzcUREQ) (in
     Russian)
   * There was a short discussion about the odds and evens of Podorogi's
     concepts. This and some additional material is recorded and translated in
     English in a [separate TSN Thread](2019-07-12 "wikilink").
 
-February 02, 2019: In Hamburg we had a meeting about TRIZ, dialectics and the
-development of the GDR Inventor Schools with Rainer Thiel, Justus Schollmeyer,
-Kai Hiltmann and others.
+## February 02, 2019
+
+In Hamburg we had a meeting about TRIZ, dialectics and the development of the
+GDR Inventor Schools with Rainer Thiel, Justus Schollmeyer, Kai Hiltmann and
+others.
+
   * There is a [report](http://www.leipzig-netz.de/index.php/HGG.2019-02)
     about that meeting (in German).
   * Justus Schollmeyer recommended two readings about the history of TRIZ
