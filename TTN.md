@@ -265,7 +265,7 @@ to set up an European Network of academic doctorates in the area of
 Contradiction Oriented Systematic Innovation.
 
 Some more considerations about the constraints:
-* European Industial Doctorates (EID) projects consist of at least two
+* European Industrial Doctorates (EID) projects consist of at least two
   institutions from different EU Member States and / or Associated States and
   different sectors that jointly supervise PhD students and provide training.
   At least one institution must be non-academic, primarily from industry. In
