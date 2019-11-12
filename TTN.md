@@ -231,17 +231,15 @@ Further interest in cooperation have signaled so far
 
 A first approach, already discussed in Minsk, focused on an application for
 the ERASMUS+ Key Action 2 Program "Capacity Building in the field of higher
-education" (CBHE).
-* [The CBHE programm](https://eacea.ec.europa.eu/erasmus-plus/actions/key-action-2-cooperation-for-innovation-and-exchange-good-practices_en)
+education"). During consultations in October 2019 with the Saxonian office
+that promotes EU proposals, however, it turned out that the conditions to
+apply for this program in our consortium structure are not met. Instead, we
+are advised to focus on one of the **Marie Skłodowska-Curie actions** (MSCA)
+within the Horizon 2020 Work Program.
 
-During consultations in October 2019 with the Saxonian office that promotes EU
-proposals, however, it turned out that the conditions to apply for this
-program in our consortium structure are not met. Instead, we are advised to
-focus on one of the **Marie Skłodowska-Curie actions** (MSCA) within the
-Horizon 2020 Work Program.
-* For MSCA see 
-  * [the Horizon 2020 website](https://www.kowi.de/Portaldata/2/Resources/horizon2020/wp/h2020-wp1820-msca.pdf)
-  * [the Marie Curie Actions web site](https://ec.europa.eu/research/mariecurieactions/actions/research-networks_en)
+For MSCA see 
+* [the Horizon 2020 website](https://www.kowi.de/Portaldata/2/Resources/horizon2020/wp/h2020-wp1820-msca.pdf)
+* [the Marie Curie Actions web site](https://ec.europa.eu/research/mariecurieactions/actions/research-networks_en)
 
 In particular, the **MSCA-ITN-2020 call on Innovative Training Networks** was
 considered to be suitable tender, although the focus of such an application
