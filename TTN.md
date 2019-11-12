@@ -18,16 +18,13 @@ agreed co-funding mechanism covering most or all thematic areas".
 
 Meanwhile TRIZ groups in the Program Countries, Belarus and Russia expressed
 their interest to join forces **on our project** to compile an EU proposal in
-the proposed direction.
-
-This Web page contains the current state of preparation of this project as
-agreed within the communication on our [mailing
-list](http://lists.informatik.uni-leipzig.de/mailman/listinfo/ttn) (with
-archive accessible to members).
-
-If you are interested to join the project, please send a mail to [Hans-Gert
-Gräbe](http://bis.informatik.uni-leipzig.de/HansGertGraebe/) as the main
-coordinator of the project proposal.
+the proposed direction.  This Web page contains the current state of
+preparation of this project as agreed within the communication on our
+[mailing list](http://lists.informatik.uni-leipzig.de/mailman/listinfo/ttn)
+(with archive accessible to members).  If you are interested to join the
+project, please send a mail to
+[Hans-Gert Gräbe](http://bis.informatik.uni-leipzig.de/HansGertGraebe/) as the
+main coordinator of the project proposal.
 
 In parallel we are discussing to apply for a EC research project to set up a
 [Research Network on Systematic Innovation (ReNSI)](ReNSI "wikilink").
@@ -37,11 +34,11 @@ In parallel we are discussing to apply for a EC research project to set up a
 TRIZ trainings exist or are to be developed in many places within the region
 under consideration.
 
-The **main focus** of a TTN should be the coordination and mutual support for
-these activities and the wider dissemination of *Contradition Oriented
-Systematic Innovation* (COSI) as an efficient methodology for solving complex
-problems that refuse simple, linear solutions, i.e. the 20% "Pareto-heavy"
-tasks, in particular in the *newly emerging technology areas*.
+The **main focus** of a TTN should therefore be the coordination and mutual
+support for these activities and the wider dissemination of *Contradition
+Oriented Systematic Innovation* (COSI) as an efficient methodology for solving
+complex problems that refuse simple, linear solutions, i.e. the 20%
+"Pareto-heavy" tasks, in particular in the *newly emerging technology areas*.
 * „TRIZ works well, but one of the key issues is that TRIZ is not yet well
   known; it seems to be too complex but all the attempts to simplify TRIZ did
   quite a damage to its reputation. TRIZ must not be simplified; instead, it
@@ -63,8 +60,7 @@ strategies.
   industries in China.  TRIZCON 2017.
   [pdf](https://www.osaka-gu.ac.jp/php/nakagawa/TRIZ/eTRIZ/epapers/e2017Papers/eTan-China-Dissemination/eTan-TRIZCON2017-Paper-171012.pdf)
 
-The **main project directions** should cover to my understanding the
-structures 
+The **main directions of the project at large** should cover the structures
 * of intra-company training,
 * of training and consulting in more complex inter-company business
   structures, 
@@ -73,31 +69,30 @@ structures
 * the academic anchoring of this topic in the core engineering education,
 even if not all these directions can be covered in a single EU proposal. 
 
-To a lesser extent, I see a need for common curricular efforts, since many
+To a lesser extent, there is a need for common curricular efforts, since many
 things already exist. In the proposal we should above all focus on the
 visibility and networking of such offers, so on the one hand address the
 meta-level of the description and common digital exposition of existing offers
-and on the other hand on the practical exchange of students and graduates.
-
-However, these two points should have to be evaluated in more detail against
-the call for tenders and, if necessary, the definition of project directions
-should be re-evaluated.
+and on the other hand the practical exchange of students and graduates.
 
 A strong link should be made to OER (**Open Educational Resources**), i.e.
 compile a stock of freely available (or cooperatively maintained) common
 material that can serve local business (both in education and training). So
-earn money not from IP but from Services.  Note that we started with this
-[WUMM Project](About.html) already an initiative in that direction and set up
-a certain github based infrastructure.
+earn money not from IP but from Services.
+* See the [Fellowship Repository](https://www.edisons21.com) "Educating the
+  Edisons of the 21st Century" of Igor Belski et al. at the Global RMIT
+  University
+* Note that we started with this [WUMM Project](About.html) another initiative
+  in that direction and set up a certain github based infrastructure.
 
 ## Building the Consortium
 
 Regardless of the specific application conditions, which, depending on the
-call for tenders, require a concentration of 3..5 key partners in a specific
-composition, which then also lead the respective EU proposal, it makes sense
-to consolidate the already visible network structures and create a pool of
+call for tenders, require a concentration on 3..5 key partners in a specific
+composition, which then also lead the respective EU proposal, we are
+consolidating the already visible network structures and create a pool of
 **key partners** and **regional coordinators** as the core of a coordinating
-structure in order to react quickly on concrete tenders.
+structure in order to react quickly on new tenders.
 
 The **coordinators** should
 1. represent the entire regional diversity,
@@ -109,7 +104,7 @@ The **key partners** support the coordinators in their work. The coordinators
 form the project consortium that meets the key decisions based on a previously
 public discussion on the project mailing list.
 
-At the present time (07 Nov 2019) I agreed in negotiations with different
+At the present time (12 Nov 2019) I agreed in negotiations with different
 persons on the following consortial structure (ML - this person subscribed to
 the project mailing list). The regions are listed in the order of the date of
 the agreement.
@@ -117,7 +112,7 @@ the agreement.
 1. Germany (Member State)
     - Leipzig University    
        - [Hans-Gert Gräbe](http://bis.informatik.uni-leipzig.de/HansGertGraebe/)
-       	 (ML) - key partner, coordinator for Germany
+       	 (ML) - key partner, coordinator
        - Further members: Sabine Lautenschläger (ML), Ken Kleemann (ML)
        - **Contributions:** Heritage of the GDR Inventor School movement, WUMM
        	 project on open-sourcing TRIZ related material, application of
@@ -130,15 +125,15 @@ the agreement.
        - [Robert Adunka](https://triz-consulting.de),
          [Barbara Gronauer](https://triz-akademie.de),
 	 Christian M. Thurnes (ML) - HS Kaiserslautern,
-	 Oliver Mayer (ML) - Bayern Innovativ,
-	 Andrea Badura - HS Landshut (planned as key partner),
+	 Oliver Mayer (ML) - Bayern Innovativ (key partner),
+	 Andrea Badura - HS Landshut,
 	 Kai Hiltmann - HS Coburg,
 	 Rainer Eidloth (ML) - Schaeffler Group
        - **Contributions:** See the links to the web sites above, competence
        	 center OPINNOMETH at HS Kaiserslautern, TRIZ application and training
        	 at Schaeffler Group, more to be added
        - **Expected Support from the Project:** To be defined
-    - Pavel Livotov (HS Offenburg, ML)    
+    - Pavel Livotov (HS Offenburg, ML) - key partner    
        - **Contributions:** I would participate in the H2020 project
        	 application as a partner with at least two doctoral students in the
        	 field of TRIZ and Eco-Innovation in Process Engineering. 
@@ -172,7 +167,7 @@ the agreement.
        - [Elena Redkolis](https://www.facebook.com/eredkolis) (ML),
        	 npk-consult.com - coordinator
        - Further members: Dmitriy Bakhturin (Director of the TRIZ Center at
-       	 Rostex, Vice President for new projects at MA TRIZ)
+       	 Rostex, Vice President for new projects at MA TRIZ), Kirill Domkin
        - **Contributions:** Application of TRIZ in business structures, inter
        	 company TRIZ training      
        - **Expected Support from the Project:** To be defined
@@ -180,7 +175,7 @@ the agreement.
 5. France (Member State)
     - INSA Strasbourg
        - [Denis Cavallucci](https://www.insa-strasbourg.fr/fr/denis-cavallucci/)
-       	 (ML) - coordinator for France	 
+       	 (ML) - coordinator 
        - **Contributions:** In 2018 we compiled an - unfortunately
        	 unsuccessful - Erasmus+ grant application CLEIADE.  The plan was to
        	 cluster 14 international higher education institutions to cooperate
@@ -202,8 +197,7 @@ the agreement.
 
 7. Austria (Member State)
     - Graz
-       - [Jürgen Jantschgi](https://www.jantschgi.at/) (ML) - to be settled as
-       	 coordinator for Austria
+       - [Jürgen Jantschgi](https://www.jantschgi.at/) (ML)
        - **Contributions:** To be added   
        - **Expected Support from the Project:** To be defined
 
@@ -223,8 +217,7 @@ the agreement.
 
 10. Morocco (Region ?)
     - ENSA Marrakech - Université Cadi Ayyad
-       - [Rachid Benmoussa](https://sites.google.com/a/uca.ac.ma/rbenmoussa/),
-       	 Zaporozhye      
+       - [Rachid Benmoussa](https://sites.google.com/a/uca.ac.ma/rbenmoussa/)
        - **Contributions:** To be defined   
        - **Expected Support from the Project:** To be defined
 
@@ -234,7 +227,7 @@ Further interest in cooperation have signaled so far
 * Christoph Dobrusskin (Eindhoven, The Netherlands)
 * Mika Helaskoski (ML, Finland)
 
-## Towards a Proposal
+## Funding Opportunities
 
 A first approach, already discussed in Minsk, focused on an application for
 the ERASMUS+ Key Action 2 Program "Capacity Building in the field of higher
@@ -243,7 +236,7 @@ education" (CBHE).
 
 During consultations in October 2019 with the Saxonian office that promotes EU
 proposals, however, it turned out that the conditions to apply for this
-program in our consortium structure are not met. Instead, we were advised to
+program in our consortium structure are not met. Instead, we are advised to
 focus on one of the **Marie Skłodowska-Curie actions** (MSCA) within the
 Horizon 2020 Work Program.
 * For MSCA see 
@@ -251,15 +244,11 @@ Horizon 2020 Work Program.
   * [the Marie Curie Actions web site](https://ec.europa.eu/research/mariecurieactions/actions/research-networks_en)
 
 In particular, the **MSCA-ITN-2020 call on Innovative Training Networks** was
-considered to be suitable for an application, although the focus of such an
-application must be on a joint doctoral program, which only indirectly
-promotes further aspects of the development of a TTN (from in-company
-trainings to integration in undergraduate academic education). Here it would
-be worth considering whether further EU funding programs can be used for these
-aspects in addition.
-* [Application guide to MSCA-ITN-2020](https://ec.europa.eu/research/participants/data/ref/h2020/other/guides_for_applicants/h2020-guide-appl-msca-itn_en.pdf)
-
-## Towards an application for MSCA-ITN-2020
+considered to be suitable tender, although the focus of such an application
+must be on a joint doctoral program, which only indirectly promotes further
+aspects of the development of a TTN (from in-company trainings to integration
+in undergraduate academic education). Here it would be worth considering
+whether further EU funding programs can be used for these aspects in addition.
 
 MSCA-ITN-2020 offers funding for general **collaborative European Training
 Networks** (ETN, 445 Mio. Euro), for **European Industrial Doctorates** (EID,
@@ -270,12 +259,37 @@ The office claimed that the success rate was higher in MSCA-ITN-EID since
 there are more focused requirements (both partners from academia and from
 industry are requied in the consortium).
 
-### [From the call](https://www.kowi.de/Portaldata/2/Resources/horizon2020/wp/h2020-wp1820-msca.pdf)
+* [Application guide to MSCA-ITN-2020](https://ec.europa.eu/research/participants/data/ref/h2020/other/guides_for_applicants/h2020-guide-appl-msca-itn_en.pdf)
+* [The call](https://www.kowi.de/Portaldata/2/Resources/horizon2020/wp/h2020-wp1820-msca.pdf)
 
-**Scope:** ITN supports competitively selected joint research training and/or
-doctoral programmes, implemented by partnerships of universities, research
-institutions, research infrastructures, businesses, SMEs, and other
-socio-economic actors from different countries across Europe and beyond.
+Hence we plan to concentrate forces to apply for the MSCA-ITN-EID tender and
+to set up an European Network of academic doctorates in the area of
+Contradiction Oriented Systematic Innovation.
+
+Some more considerations about the constraints:
+* European Industial Doctorates (EID) projects consist of at least two
+  institutions from different EU Member States and / or Associated States and
+  different sectors that jointly supervise PhD students and provide training.
+  At least one institution must be non-academic, primarily from industry. In
+  addition, the networks can also integrate third-country institutions. The
+  fellow's stay with the non-academic participant must be at least 50%. It is
+  obligatory to enroll in a doctoral program as well as the joint supervision
+  by the partners from the academic and non-academic field. The training will
+  follow the "EU Principles for Innovative Doctoral Training".
+* Such a structure is strongly related to the TRIZ level 5 certification
+  program since this certification has comparable requirements.  By historical
+  reasons the TRIZ graduation was so far mainly outside academia.  This is
+  sharply changing in Asia where a tightly coupling of academic and
+  non-academic graduation is on the way.  Europe is well advised not to miss
+  the connection here.
+
+### From the call
+
+**Scope:** ITN (at large) supports competitively selected joint research
+training and/or doctoral programmes, implemented by partnerships of
+universities, research institutions, research infrastructures, businesses,
+SMEs, and other socio-economic actors from different countries across Europe
+and beyond.
 
 Each programme should have a clearly identified supervisory board
 co-ordinating network-wide training and establishing active and continuous
@@ -304,7 +318,9 @@ one supervisor from the academic sector and one supervisor from the
 non-academic sector. These arrangements will be taken into account during the
 evaluation of the proposal.
 
-Thre is a list of expected impact at several levels at the end of the call
+### Additional Information
+
+There is a list of expected impact at several levels at the end of the call
 that should be addressed in the proposal.
 
 There is a [list of
@@ -314,4 +330,8 @@ that were successful within the last (2018) MSCA-ITN call.
 The call is open since 12 Sep 2019, the deadline is 14 Jan 2020, so it is very
 sportive to compile an application in the remaining time.
 
-Hans-Gert Gräbe - Last update 3 Nov 2019
+### Open Questions
+
+* What is the role of the indusrial partners? 
+
+Hans-Gert Gräbe - Last update 12 Nov 2019
