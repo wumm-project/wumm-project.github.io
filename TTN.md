@@ -28,7 +28,7 @@ main coordinator of the project proposal.
 
 In parallel we are discussing to apply for a EC research project to set up a
 [Research Network on Systematic Innovation (ReNSI)](ReNSI "wikilink") and (on
-the longer run) also to an [European Idustrial Doctorate](EID "wikilink").
+the longer run) also to an [European Industrial Doctorate](EID "wikilink").
 
 ## Main ideas
 
