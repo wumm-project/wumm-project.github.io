@@ -119,7 +119,8 @@ the agreement.
     - Leipzig University    
        - [Hans-Gert Gräbe](http://bis.informatik.uni-leipzig.de/HansGertGraebe/)
        	 (ML) - key partner, coordinator
-       - Further members: Sabine Lautenschläger (ML), Ken Kleemann (ML)
+       - Further members: Sabine Lautenschläger (ML), Ken Kleemann (ML),
+       	 Thomas Neumuth  
        - **Contributions:** Heritage of the GDR Inventor School movement, WUMM
        	 project on open-sourcing TRIZ related material, application of
        	 semantic technologies, TRIZ and sustainability.
@@ -243,36 +244,38 @@ Further interest in cooperation have signaled so far
 
 We shortly discussed to apply within the Marie Curie Action, but this turned
 out to be far too ambitious, serious prospects of success are hardly to be
-expected in that direction in view of the academic reputation of TRIZ
-approaches.  This can be successful only on the long run.
+expected in that direction in view of the low academic reputation (and even
+recognition - see above the statement of Valeri Souchkov) of TRIZ approaches.
+This can be successfully changed only in the long run.
 
-Evaluating other opportunities the ERASMUS+ Key Action 2 Program "Knowledge
+Evaluating other opportunities the ERASMUS+ Key Action 2 Programme "Knowledge
 Alliances" seems best to fit the current state to link existing and planned
-programs at different HEI (higher educational institutions) with the
-requirements and needs of industry. 
+curricula in "Systematic Innovation Methodologies" at different HEI (higher
+educational institutions) with the requirements and needs of industry.
 
 The focus of the action is on cooperation between Programme Countries (the
 strongest expressed interest in an application came so far from the EU
 countries Germany, France and Finland) but organisations from Partner
 Countries can also be involved, if the added value is appropriately expressed.
-* As a general rule, Knowledge Alliances target the cooperation between
+* "As a general rule, Knowledge Alliances target the cooperation between
   organisations established in Programme Countries. However, organisations
   from Partner Countries can be involved in a Knowledge Alliance, as partners
   (not as applicants), if their participation brings an essential added value
-  to the project. 
+  to the project". (All citations from the Programme Guide, link below) 
 
-TRIZ trainings address "cross cutting" methodological skills that are useful
-for engineers, computer scientists and other professions, hence fit
-"developing entrepreneurship mind-set and skills" and should be included as
-"general studies" in the course of studies in different special directions.
-The content of such programs should be developed and coordinated in close
-coordination with the needs of industry application partners. 
-* Knowledge Alliances implement a coherent and comprehensive set of
+Trainings in "Systematic Innovation Methodologies" address "cross cutting"
+methodological skills that are useful for engineers, computer scientists and
+other professionals, hence fit "developing entrepreneurship mind-set and
+skills" (Programme Guide) and should be included as "general studies" in the
+course of studies in different specialities.  The content of such programs
+should be developed and coordinated in close coordination with the needs of
+industry application partners.
+* "Knowledge Alliances implement a coherent and comprehensive set of
   interconnected activities which are flexible and adaptable to different
-  current and future contexts and developments across Europe.
-* Knowledge Alliances are transnational and involve minimum six independent
+  current and future contexts and developments across Europe".
+* "Knowledge Alliances are transnational and involve minimum six independent
   organisations from at least three Programme Countries, out of which at least
-  two higher education institutions and at least two enterprises.
+  two higher education institutions and at least two enterprises".
 
 Relevant Links:
 * https://eacea.ec.europa.eu/erasmus-plus/funding/knowledge-alliances-2020_en
