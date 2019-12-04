@@ -18,10 +18,36 @@ direction of TRIZ practices and the activities going on there.
 
 ## A not at all complete survey
 
-* TRIZ-Tournament (TRIZ-Cup) - an international competition that starts
-  annually in October for children 8-18 years and whose final was organized at
-  the TRIZ Summit 2019 in Minsk
-  * https://communities.by/events/triz-summit-2019-ru/talks/800
+### The TRIZ Developers Summit Cup
+
+The TRIZ Developers Summit Cup competition is an annually offered
+international competition for children 8-18 years, students and teachers that
+starts in October and whose final round is organized at the annual TRIZ
+Developers Summit.
+* [More about the final round 2019 in Minsk](https://communities.by/events/triz-summit-2019-ru/talks/800)
+
+The competition offers tasks in different nominations (Inventive activity,
+fantasizing, TRIZ tools, research, TRIZ videos) for different age categories
+(8-10 years, 11-14 years, 15-17 years, students).  Submissions have to be sent
+electronically to the organizers.
+
+The competition was established in 2014 and has been offered annually since
+then. The materials and further notes on implementation and results are
+available in Russian on the
+[website of the competition](https://triz-summit.ru/contest/).
+
+English versions of the competition are available from the website of the
+organizers for the 
+* [2014/15](https://triz-summit.ru/en/300139/300199/)
+* [2019/20](https://triz-summit.ru/en/300139/contest-2019-2020/)
+
+editions.  Within the
+[OpenDiscovery project](https://github.com/wumm-project/OpenDiscovery) 
+we started to recompile the material of the 2019/20 contest as Open Source
+LaTeX versions and provide a (not yet authorized) German translation. 
+
+### Additional material and activities
+
 * Диагностика развития изобретательского мышления на основе методов ТРИЗ
   (Diagnostics of Inventive Thinking based on TRIZ methods) - work by Natalja
   Rubina on obtaining the title of a TRIZ Master (2013)
