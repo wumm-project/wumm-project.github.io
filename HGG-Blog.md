@@ -5,6 +5,18 @@ title: HGG-Blog
 
 # HGG's Blog
 
+## December 7, 2019:
+
+I started a discussion about the problem "What's the Relation of Man to its
+Technical Systems?". The starting point came from the Development Laws of
+Technical Systems that play an important role in TRIZ theory, but are shaped
+in a different manner within different TRIZ schools.  
+
+The discussion was started in the
+[TRIZ facebook group](https://www.facebook.com/groups/111602085556371)
+a consolidated version of the discussion both in German and Russian is
+available in a [separate TSN Thread](2019-12-07 "wikilink").
+
 ## November 10, 2019:
 
 There was a discussion about TRIZ and the notions of component, system and
