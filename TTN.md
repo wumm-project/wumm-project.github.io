@@ -27,8 +27,8 @@ main coordinator of the project proposal.
 
 In parallel we are discussing to apply for an EC research project to set up a
 [Research Network on Systematic Innovation (ReNSI)](ReNSI "wikilink") and (on
-the longer run) also to an [Trainings Network](EID "wikilink") within the much
-more ambitious MSCA-ITN "Innovative Training Networks".
+the longer run) also to an [Trainings Network](ITN "wikilink") within the much
+more ambitious MSCA-ITN "Innovative Training Networks" action.
 
 ## Main ideas
 
@@ -261,7 +261,7 @@ Countries can also be involved, if the added value is appropriately expressed.
   organisations established in Programme Countries. However, organisations
   from Partner Countries can be involved in a Knowledge Alliance, as partners
   (not as applicants), if their participation brings an essential added value
-  to the project". (All citations from the Programme Guide, link below) 
+  to the project". (All citations from the Programme Guide)
 
 Trainings in "Systematic Innovation Methodologies" address "cross cutting"
 methodological skills that are useful for engineers, computer scientists and
@@ -282,6 +282,11 @@ Relevant Links:
 * http://www.erasmusplus.ac.me/?page_id=6151&lang=en
 * http://ec.europa.eu/programmes/erasmus-plus/documents/erasmus-plus-programme-guide_en.pdf
 * https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/epp-ka-2020
+
+Local savings:
+* [Programme Guide](Erasmus/erasmus-plus-programme-guide-2020_en.pdf)
+* [Guide for Experts, General Part](Erasmus/guide_for_experts_part_i.pdf)
+* [Guide for Experts, Knowledge Alliances](Erasmus/experts_guide_part_ii_ka.pdf)
 
 ## From the call
 
