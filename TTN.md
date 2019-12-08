@@ -209,8 +209,12 @@ the agreement.
        - **Expected Support from the Project:** To be defined
 
 8. Czech Republic (Member State)
-    - Czech Republic
+    - IKI Institute
        - [Pavel Jirman](http://iki-institut.cz/) (ML)
+       - **Contributions:** To be added   
+       - **Expected Support from the Project:** To be defined
+    - Brno University of Technology
+       - [Bohuslav Bušov](https://www.vutbr.cz/en/people/bohuslav-busov-1640) 
        - **Contributions:** To be added   
        - **Expected Support from the Project:** To be defined
 
