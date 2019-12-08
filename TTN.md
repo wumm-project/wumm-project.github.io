@@ -289,8 +289,11 @@ Relevant Links:
 
 Local savings:
 * [Programme Guide](Erasmus/erasmus-plus-programme-guide-2020_en.pdf)
+* [Guide for KA Applicants](Erasmus/guide_for_applicants_en_ka.pdf)
+  - this is yet the version of 2018 for applications in 2019
 * [Guide for Experts, General Part](Erasmus/guide_for_experts_part_i.pdf)
 * [Guide for Experts, Knowledge Alliances](Erasmus/experts_guide_part_ii_ka.pdf)
+  - this part describes in particular the assessment process and criteria  
 
 ## From the call
 
@@ -446,8 +449,42 @@ All relevant problems are best to be discussed on our
 There will be an onsite meeting at INSA Strasbourg (Denis Cavallucci) on 16
 December 2019.
 
+### The Application Package
+
+The Application Package will be written in English and consists of several
+compulsory documents, the content of which is summarised below:
+* eForm
+* Detailed Project Description
+* Detailed Budget Tables and Work Packages Overview
+* Declaration on Honour
+
+The **eForm** provides mainly the administrative and general information on
+the project.
+
+The **Detailed Project Description** is structured as follows:
+- Part 0. Project summary and involvement in previous relevant projects
+- Part I. Project relevance
+- Part II. Quality of the project design and implementation
+- Part III.Quality of the partnership , the team and the cooperation arrangements
+- Part IV. Impact, dissemination, exploitation and sustainability
+- Part V. Specific arrangements regarding learning mobility (if applicable)
+- Part VI. Additional project information (if applicable)
+- Part VII. Work plan and work packages
+
+The **Detailed Budget Tables and Work Packages Overview** (Excel template)
+provides the details of all planned expenditures and the overview and planning
+of all Work packages. It contains the following tabs:
+- Sheet 1: I and II. Overview
+- Sheet 2: III. Project implementation support
+- Sheet 3: IV. Learning mobility activities
+- Sheet 4. V. Work packages overview
+
+The **Declaration on Honour** must be signed by the legal representative of
+the applicant organisation on behalf of all participating organisations,
+scanned (PDF, TIFF, JPEG) and attached to the eForm.
+
 ### Open Questions
 
 to be added
 
-Hans-Gert Gräbe - Last update 2 Dec 2019
+Hans-Gert Gräbe - Last update 8 Dec 2019
