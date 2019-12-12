@@ -438,6 +438,8 @@ We have to identify
   considered as part of the project partners, and they do not receive funding.
   However their involvement and role in the project and different activities
   have to be clearly described.
+  - Contribute indirectly to the project (for example, advice, dissemination,
+    internships) 
 * __Affiliated entities__ (optional): Organisations which contribute to the
   achievement of project objectives and activities.  Affiliated entities must
   be identified in the grant application and satisfy the requirements as
@@ -448,6 +450,49 @@ All relevant problems are best to be discussed on our
 
 There will be an onsite meeting at INSA Strasbourg (Denis Cavallucci) on 16
 December 2019.
+
+### Eligible Costs
+
+* __Project implementation__ - project management, project meetings,
+  intellectual outputs (e.g. curricula, IT tools, studies), dissemination,
+  conference attendance etc.
+  - Determination of the EU grant based on number of days times profile of the 
+    personnel from the individual countries (unit costs)
+  - Does usually not cover all costs
+* (optional): Additionally for __learning mobility activities__ (e.g. exchange
+  of students, scientists, university and company staff) to support the
+  project. 
+  - Travel costs (unit costs) and subsistence costs (unit costs)
+
+### Hints for a sound application
+
+Content:
+* __Solid needs analysis:__ detailed and convincing explanations,
+  participation of all partners.
+* Clearly emphasize __benefits for all partners__ - starting already from the
+  application phase.
+* Focus on __innovation__.
+* __Quality of the project team__ and cooperation agreements: Show the
+  complementarity of partners, clear division of tasks, effective mechanisms
+  for coordination and communication. 
+* __Consortium - companies__: companies are actively involved and show solid
+  results, commitment and intention of a long-lasting partnership with the
+  HEI.
+* __Impact and Sustainability__: explain the short and long-term impact of the
+  project plan, plan a sustainability strategy from the very beginning.
+
+Form:
+* Coherent (problems, solutions, target groups, activities, budget,
+  ambitions/resources/competence)
+* Simple (objectives, approach)
+* Evidence based (ex-ante needs analysis, state of art)
+* Clear (identifying the need for such a proposal, solutions, and outputs)
+* Rigorous in its planning (which activities, when, for how long, and with
+  what resources)
+* Explicit (do not take for granted any information, if it is not in the
+  application it cannot be taken into account)
+* Circumscribed (a proposal is not about solving the world’s problems, but
+  about solving a specific issue)
 
 ### The Application Package
 
@@ -465,7 +510,8 @@ The **Detailed Project Description** is structured as follows:
 - Part 0. Project summary and involvement in previous relevant projects
 - Part I. Project relevance
 - Part II. Quality of the project design and implementation
-- Part III.Quality of the partnership , the team and the cooperation arrangements
+- Part III.Quality of the partnership , the team and the cooperation
+  arrangements 
 - Part IV. Impact, dissemination, exploitation and sustainability
 - Part V. Specific arrangements regarding learning mobility (if applicable)
 - Part VI. Additional project information (if applicable)
