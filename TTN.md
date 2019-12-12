@@ -448,10 +448,15 @@ We have to identify
 All relevant problems are best to be discussed on our
 [mailing list](http://lists.informatik.uni-leipzig.de/mailman/listinfo/ttn).
 
-There will be an onsite meeting at INSA Strasbourg (Denis Cavallucci) on 16
-December 2019.
+A first draft of a Project Outline was attached to a mail on the mailing
+list on 12 December 2019.
 
-### Eligible Costs
+There will be an onsite meeting at INSA Strasbourg (Denis Cavallucci) on
+16./17. December 2019.
+
+
+
+### Eligible Costs (see p. 138-141 in the Programme Guide)
 
 * __Project implementation__ - project management, project meetings,
   intellectual outputs (e.g. curricula, IT tools, studies), dissemination,
