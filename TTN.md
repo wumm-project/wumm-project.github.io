@@ -238,7 +238,7 @@ the agreement.
 
 10. Morocco (Region 3)
     - ENSA Marrakech - Université Cadi Ayyad
-       - [Rachid Benmoussa](https://sites.google.com/a/uca.ac.ma/rbenmoussa/)
+       - [Rachid Benmoussa](https://sites.google.com/a/uca.ac.ma/rbenmoussa/) (ML)
        - **Contributions:** To be defined   
        - **Expected support from the Network:** To be defined
 
