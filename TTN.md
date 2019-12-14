@@ -124,11 +124,11 @@ the agreement.
        	 Thomas Neumuth  
        - **Contributions:** Heritage of the GDR Inventor School movement, WUMM
        	 project on open-sourcing TRIZ related material, application of
-       	 semantic technologies, TRIZ and sustainability.
-       - **Expected Support from the Project:** Build up a regional TRIZ
-       	 trainings network both for inter company trainings (togehter with
-       	 local IHK) and anchoring such training in the undergraduate student
-       	 education at regional universities.
+       	 semantic technologies, TRIZ and sustainability.	 
+       - **Expected support from the Network:** Build up a regional TRIZ
+       	 trainings network and competence center both for inter company
+       	 trainings (togehter with local IHK) and anchoring such training in
+       	 the student education at regional universities.	 
     - German TRIZ Network    
        - [Robert Adunka](https://triz-consulting.de),
          [Barbara Gronauer](https://triz-akademie.de),
@@ -140,24 +140,28 @@ the agreement.
        - **Contributions:** See the links to the web sites above, competence
        	 center OPINNOMETH at HS Kaiserslautern, TRIZ application and training
        	 at Schaeffler Group, more to be added
-       - **Expected Support from the Project:** To be defined
-    - Pavel Livotov (HS Offenburg, ML) - key partner    
-       - **Contributions:** I would participate in the H2020 project
-       	 application as a partner with at least two doctoral students in the
-       	 field of TRIZ and Eco-Innovation in Process Engineering. 
-       - **Expected Support from the Project:** To be defined
-    
+       - **Expected support from the Network:** To be defined
+    - [Pavel Livotov](https://www.hs-offenburg.de/personendetailseite-lsf-cache/lsf-view/1072/)
+      (HS Offenburg, ML) - key partner  
+       - **Contributions:** Design Theory, New Product Developent,
+         Knowlegde-based Innovation, TRIZ Methodology
+       - **Expected support from the Network:** To be defined      
+       - I would participate in the H2020 project application as a partner
+       	 with at least two doctoral students in the field of TRIZ and
+       	 Eco-Innovation in Process Engineering.
+          
 2. Belarus (Region 2)
     - Belorussian State University
        - [Konstantin Mulyarchik](https://www.bsu.by/main.aspx?guid=245061)
        	 (ML) - coordinator
        - **Contributions:** To be defined 
-       - **Expected Support from the Project:** To be defined
+       - **Expected support from the Network:** To be defined
     - Target Invention
-       - Nikolay Shpakovski (ML), TRIZ Master - key partner
+       - [Nikolay Shpakovski](http://www.target-invention.com/Info/Specialists/TargetInvention.html)
+       	 (ML), TRIZ Master - key partner
        - **Contributions:** OTSM-TRIZ, TRIZ online training system used in
        	 Belarus, Korea, China, planned use in Leipzig
-       - **Expected Support from the Project:** To be defined
+       - **Expected support from the Network:** To be defined
 
 3. Ural Region (Region 4)
     - bmtriz.com
@@ -168,17 +172,17 @@ the agreement.
        - **Contributions:** Altshuller Library in Chelyabinsk, Application of
        	 TRIZ in business structures, inter company TRIZ training, MA TRIZ
        	 director for TRIZ and Business (Anton)	 
-       - **Expected Support from the Project:** To be defined
+       - **Expected support from the Network:** To be defined
 
 4. Moscow Region (Region 4)
     - Moscow 
        - [Elena Redkolis](https://www.facebook.com/eredkolis) (ML),
        	 npk-consult.com - coordinator
        - Further members: Dmitriy Bakhturin (Director of the TRIZ Center at
-       	 Rostex, Vice President for new projects at MA TRIZ), Kirill Domkin
+       	 Rostex, Vice President for new projects at MA TRIZ), Kirill Domkin (ML)
        - **Contributions:** Application of TRIZ in business structures, inter
        	 company TRIZ training      
-       - **Expected Support from the Project:** To be defined
+       - **Expected support from the Network:** To be defined
 
 5. France (Member State)
     - INSA Strasbourg
@@ -193,31 +197,36 @@ the agreement.
        	 Serious Game + Problem Based Learning (PBL).  The research unit is
        	 fully dedicated to Inventive Design Theories, methods and tools, both
        	 in teaching and in research.	 
-       - **Expected Support from the Project:** To be defined
+       - **Expected support from the Network:** To be defined
 
 6. Poland (Member State)
     - Warsaw
        - [Jerzy Chrzaszcz](https://www.pentacomp.pl/) (ML), 
        	 [Sergey Yatsunenko](https://novismo.com/?lang=en) (Warsaw)
-       - to be decided: coordinator for Poland
        - **Contributions:** To be added   
-       - **Expected Support from the Project:** To be defined
+       - **Expected support from the Network:** To be defined
+     - Wrocław
+       - [Sebastian Koziołek](http://sebastiankoziolek.pl/team/)       
+       - **Contributions:** Research is focused on the development of a new
+         method for building a formal design representation space and a new
+         inventive design method incorporating elements of various heuristics
+         methods
 
 7. Austria (Member State)
     - Graz
        - [Jürgen Jantschgi](https://www.jantschgi.at/) (ML)
        - **Contributions:** To be added   
-       - **Expected Support from the Project:** To be defined
+       - **Expected support from the Network:** To be defined
 
 8. Czech Republic (Member State)
     - IKI Institute
        - [Pavel Jirman](http://iki-institut.cz/) (ML)
        - **Contributions:** To be added   
-       - **Expected Support from the Project:** To be defined
+       - **Expected support from the Network:** To be defined
     - Brno University of Technology
-       - [Bohuslav Bušov](https://www.vutbr.cz/en/people/bohuslav-busov-1640) 
+       - [Bohuslav Bušov](https://www.vutbr.cz/en/people/bohuslav-busov-1640) (ML)
        - **Contributions:** To be added   
-       - **Expected Support from the Project:** To be defined
+       - **Expected support from the Network:** To be defined
 
 9. Ukraina (Region 2)
     - Ukrainian Association TRIZ - no stable contact so far
@@ -225,19 +234,29 @@ the agreement.
        	 Zaporozhye      
        - **Contributions:** [eidos](http://www.eidos.zp.ua/) TRIZ Online
        	 trainings system for children.    
-       - **Expected Support from the Project:** To be defined
+       - **Expected support from the Network:** To be defined
 
 10. Morocco (Region 3)
     - ENSA Marrakech - Université Cadi Ayyad
        - [Rachid Benmoussa](https://sites.google.com/a/uca.ac.ma/rbenmoussa/)
        - **Contributions:** To be defined   
-       - **Expected Support from the Project:** To be defined
+       - **Expected support from the Network:** To be defined
 
 11. Finland (Member State)
     - Lappeenranta University
-       - [Leonid Chechurin](https://research.lut.fi/converis/portal/Person/72573)
-       - **Contributions:** To be defined   
-       - **Expected Support from the Project:** To be defined
+       - [Leonid Chechurin](https://oeb.global/programme/speakers/oeb-18/leonid-chechurin)       
+       - **Contributions:** Publications in the fields of control and system
+           theory and automation, mathematical modeling, creativity and
+           innovations. Expert in technology innovation and reengineering for
+           a number of Russian authorities in public and private sector.	   
+       - **Expected support from the Network:** To be defined
+
+12. Romania (Member State)
+    - Technical University of Cluj-Napoca
+       - [Stelian Brad](https://clujinnovationdays.com/staff/stelian-brad/)       
+       - **Contributions:** Robot Programming, Intelligent Robotics,
+           Engineering and Management of Innovation
+       - **Expected support from the Network:** To be defined
 
 Further interest in cooperation have signaled so far
 
