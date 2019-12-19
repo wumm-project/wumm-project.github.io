@@ -29,7 +29,7 @@ otherwise.  May be removed in a later version.
   Manuscript, 6.11.2019.  
   * [Deutsche Übersetzung](Texts/Rubin-19-de.pdf)
   
-## 
+## Texts by Rainer Thiel (in German)
 
 * Rainer Thiel: Wie wird Dialektik nutzbar als Heuristik? (How is dialectic
   usable as a heuristic?) EWE 17 (2006) 2: 230–233.
