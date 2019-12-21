@@ -15,19 +15,28 @@ otherwise.  May be removed in a later version.
   [pdf, in German](Texts/BayerTobias-2019.pdf).
   * The paper got one of the 3 TRIZ student's awards at the TRIZ-Fest 2019 in
     Heilbronn.
+
 * B.I. Goldovski (1983): Система закономерностей построения и развития
   технических систем (The system of laws of construction and development of
   technical systems).
   * [Russian Original](https://triz-summit.ru/file.php/id/f303253-file-original.pdf)
   * [Deutsche Übersetzung](Texts/Goldovski-1983-de.pdf)
+
 * Hans-Gert Gräbe (2019): Zur Entwicklung Technischer Systeme (On the
   development of technical systems).  Manuscript, 11.12.2019.
   * [pdf, deutsch](Upload/lte-19.pdf)
   * [Russian Translation](Upload/lte-19-ru.pdf)
-* Michail Rubin: О связи комплекса законов развития систем с ЗРТС (On the
-  relationship of the complex of laws of system development with ZRTS).
-  Manuscript, 6.11.2019.  
+
+* Michail Rubin (2019): О связи комплекса законов развития систем с ЗРТС (On
+  the relationship of the complex of laws of system development with ZRTS).
+  Manuscript, 6.11.2019.
   * [Deutsche Übersetzung](Texts/Rubin-19-de.pdf)
+
+* Vladimir I. Vernadsky (1936-38): Научная мысль как планетарное явление
+  (Scientific Thought as a Planetary Phenomenon)
+  * [Russian Edition](http://vernadsky.name/wp-content/uploads/2013/01/thought.pdf)
+  * [English Translation](http://vernadsky.name/wp-content/uploads/2013/02/Scientific-thought-as-a-planetary-phenomenon-V.I2.pdf)
+    by the Nongovernmental Ecological V.I.Vernadsky Foundation, 1997.
   
 ## Texts by Rainer Thiel (in German)
 
