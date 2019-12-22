@@ -302,8 +302,16 @@ The **Declaration on Honour** must be signed by the legal representative of
 the applicant organisation on behalf of all participating organisations,
 scanned (PDF, TIFF, JPEG) and attached to the eForm.
 
+### Some Arguments Useful for the Application
+
+* Natalie Peace on Brainstorming in Forbes, April 2012
+  * [Local Copy](Erasmus/NataliePeace-2012.pdf)
+* World Economic Forum: The Future of Jobs Employment, Skills and Workforce
+  Strategy for the Fourth Industrial Revolution. January 2016
+  * [Local Copy](Erasmus/WEF_Future_of_Jobs.pdf)
+
 ### Open Questions
 
 to be added
 
-Hans-Gert Gräbe - Last update 13 Dec 2019
+Hans-Gert Gräbe - Last update 22 Dec 2019

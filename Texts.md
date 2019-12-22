@@ -32,7 +32,7 @@ otherwise.  May be removed in a later version.
   Manuscript, 6.11.2019.
   * [Deutsche Übersetzung](Texts/Rubin-19-de.pdf)
 
-* Vladimir I. Vernadsky (1936-38): Научная мысль как планетарное явление
+* Vladimir I. Vernadsky (1936-38): Научная мысль как планетное явление
   (Scientific Thought as a Planetary Phenomenon)
   * [Russian Edition](http://vernadsky.name/wp-content/uploads/2013/01/thought.pdf)
   * [English Translation](http://vernadsky.name/wp-content/uploads/2013/02/Scientific-thought-as-a-planetary-phenomenon-V.I2.pdf)

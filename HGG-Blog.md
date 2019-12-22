@@ -5,6 +5,48 @@ title: HGG-Blog
 
 # HGG's Blog
 
+## December 21, 2019:
+
+The relationship between TRIZ and philosophical questions, in particular those
+related to Hegel's dialectic and thus also to the fundamental epistemic
+assumptions of Marx and Engels, is undisputed, see for example the work of
+[Justus Schollmeyer](https://leibniz-institut.de/en/justus-schollmeyer/). In
+his [work](https://matriz.org/kozhemyako/), Anton Kozhemyako refers strongly
+to philosophical theory buildings, which were designed within the school of
+the Russian philosopher G.P. Schtschedrovitsky. Mikhail Rubin criticized this
+reference in his [expert opinion](https://matriz.org/kozhemyako/) of
+Kozhemyako's work as unsustainable mainly due to terminology inconsistencies.
+That remains to be explored.
+
+* [Георгий Петрович Щедровицкий](https://www.fondgp.ru/)
+  * https://en.wikipedia.org/wiki/Georgy_Shchedrovitsky
+  * He became involved in the Moscow Methodological Circle set up by Alexander
+    Zinoviev. In 1954, Shchedrovitsky took over leadership of the circle and
+    played a prominent role in developing activity theory. Here the world was
+    not seen as composed of human subjects and objects as in naturalistic
+    theory.  Rather objects are secondary constructs whose nature depends on
+    the activity applied to them.
+  * The MMC has had a lasting impact on Russian systems thinking particularly
+    through the Methodological School of Management
+* [Петр Георгиевич Щедровицкий](https://shchedrovitskiy.com/) - the son
+  * Что есть мышление? Понятие и рабочая гипотеза ММК (What is thinking? The
+    concept and working hypothesis of MMK)
+    [Website](https://shchedrovitskiy.com/chto-est-myshlenie/).
+  * MMK - Russian abbreviation of Moscow Methodological Circle
+
+## December 18, 2019:
+
+Московский ТРИЗ Клуб. «Марксизм между будущим и прошлым»
+
+* Докладчик: Савин Алексей Эдуардович - доктор философских наук, заведующий
+  кафедрой философии Российской академии народного хозяйства и государственной
+  службы при Президенте РФ (РАНХиГС); профессор Института общественных
+  стратегий Московской школы управления «Сколково».
+
+Видео выступления:
+* Доклад: https://www.youtube.com/watch?v=ZO1S4sqI2y4
+* Обсуждение: https://www.youtube.com/watch?v=TYi5hGCLj8Y
+
 ## December 7, 2019:
 
 I started a discussion about the problem "What's the Relation of Man to its
