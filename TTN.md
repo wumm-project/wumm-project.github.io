@@ -9,6 +9,13 @@ At the [TRIZ Summit in June 2019 in Minsk](https://communities.by/events/triz-su
 we discussed in more detail plans to set up an *European TRIZ
 Trainings Network* (TTN) and compile an EU proposal to support these plans. 
 
+Using the word "TRIZ" in that context turned out to be dangerous, since - due
+to different doubtful promotion activities - there is a widespread opinion,
+that TRIZ is another marketig label to pull the money out of people’s pockets.
+Hence in the following we use __Systematic Innovation Methodologies__ as a
+more precise term to outline the area of interest.  This includes TRIZ in its
+different variations as a sub-subject but is not restricted to it.
+
 At this Web page
 * the main idea is explained what the tasks of such a network could be in
   whole, and which main directions of the project at large are of interest, 
@@ -21,10 +28,10 @@ which is to be further detailed, was moved to [SIM](SIM "wikilink").
 For communication purposes a
 [mailing list](http://lists.informatik.uni-leipzig.de/mailman/listinfo/ttn)
 (with archive accessible to members) is set up to coordinate the further
-application procedure. If you are interested to join the project, please send
-a mail to
+discussions and application procedures. If you are interested to join the
+project, please send a mail to
 [Hans-Gert Gräbe](http://bis.informatik.uni-leipzig.de/HansGertGraebe/) as the
-main coordinator of the project proposal.
+main coordinator of the project at large.
 
 Additionally we are discussing to apply for an EC research project to set up a
 [Research Network on Systematic Innovation (ReNSI)](ReNSI "wikilink") and (on
@@ -36,11 +43,11 @@ more ambitious MSCA-ITN "Innovative Training Networks" action.
 TRIZ trainings exist or are to be developed in many places within the region
 under consideration.
 
-The **main focus** of a TTN should therefore be the coordination and mutual
-support for these activities and the wider dissemination of *Contradition
-Oriented Systematic Innovation* (COSI) as an efficient methodology for solving
+The __main focus__ of a TTN should therefore be the coordination and mutual
+support for these activities and the wider dissemination of _Contradition
+Oriented Systematic Innovation_ (COSI) as an efficient methodology for solving
 complex problems that refuse simple, linear solutions, i.e. the 20%
-"Pareto-heavy" tasks, in particular in the *newly emerging technology areas*.
+"Pareto-heavy" tasks, in particular in the _newly emerging technology areas_.
 * „TRIZ works well, but one of the key issues is that TRIZ is not yet well
   known; it seems to be too complex but all the attempts to simplify TRIZ did
   quite a damage to its reputation. TRIZ must not be simplified; instead, it
@@ -52,8 +59,9 @@ complex problems that refuse simple, linear solutions, i.e. the 20%
   approaches to education, and so forth“. (Valeri Souchkov in his
   [Report on the TRIZFest 2019](https://matriz.org/trizfest-2019-report))
 
-The **big story** could be based on the challenges that arise for Europe from
-the developments in the Asian region especially in this area (the
+The __big story__ could be based on the challenges that arise for Europe from
+the developments in the Asian region especially in this area (SAMSUNG's
+internal trainings of TRIZ engineers during the last 20 years, the
 mass-engineer-oriented training model MEOTM program in China, MATRIZ has
 massive membership growth from this region, so even majorities are changing),
 but so far are only halfheartedly encountered by the European research
@@ -62,18 +70,23 @@ strategies.
   industries in China.  TRIZCON 2017.
   [pdf](https://www.osaka-gu.ac.jp/php/nakagawa/TRIZ/eTRIZ/epapers/e2017Papers/eTan-China-Dissemination/eTan-TRIZCON2017-Paper-171012.pdf)
 
-The **main directions of the project at large** should cover the structures
-* of intra-company training,
-* of training and consulting in more complex inter-company business
-  structures, 
-* the academic anchoring of this topic in the core engineering education,
-* and the academic anchoring of appropriate training structures of further
-  education,
-  
-even if not all these directions can be covered in a single EU proposal. 
+The __main directions of the project at large__ should cover the structures
+1. of intra-company training and application of systematic invention methods,
+2. of training, consultancy and application of systematic invention methods in
+   more complex inter-company business structures,
+3. for training the trainers and further development of an communication and
+   exchange structure and culture between the high level experts in systematic
+   invention methodologies (as MATRIZ and ETRIA),
+4. of an academic anchoring of this topic in the core engineering education
+   and further education, and
+5. of strong academic research on systematic invention methodologies, with
+   clear recognition in a wider academic audience (as a prerequisite for
+   placing successful research proposals in this area),
+
+even if not all these directions can be covered in a single proposal. 
 
 To a lesser extent, there is a need for common curricular efforts, since many
-things already exist. In the proposal we should above all focus on the
+things already exist. In this direction we should above all focus on the
 visibility and networking of such offers, in particular
 * address the meta-level of the description and common digital exposition of
   existing offers
@@ -120,15 +133,20 @@ the agreement.
     - Leipzig University    
        - [Hans-Gert Gräbe](http://bis.informatik.uni-leipzig.de/HansGertGraebe/)
        	 (ML) - key partner, coordinator
-       - Further members: Sabine Lautenschläger (ML), Ken Kleemann (ML),
+       - Further members:
+       	 Sabine Lautenschläger (ML),
+	 Ken Kleemann (ML),
        	 Thomas Neumuth  
        - **Contributions:** Heritage of the GDR Inventor School movement, WUMM
        	 project on open-sourcing TRIZ related material, application of
-       	 semantic technologies, TRIZ and sustainability.	 
+       	 semantic technologies, TRIZ and sustainability, TRIZ in medical
+	 technology.	 
        - **Expected support from the Network:** Build up a regional TRIZ
-       	 trainings network and competence center both for inter company
-       	 trainings (togehter with local IHK) and anchoring such training in
-       	 the student education at regional universities.	 
+       	 trainings network ([Mitteldeutsches
+       	 Kompetenzzentrum](http://www.leipzig-netz.de/index.php/WUMM)) and
+       	 competence center both for inter company trainings (togehter with
+       	 local IHK) and anchoring such training in the student education at
+       	 regional universities.
     - German TRIZ Network    
        - [Robert Adunka](https://triz-consulting.de),
          [Barbara Gronauer](https://triz-akademie.de),
@@ -136,7 +154,7 @@ the agreement.
 	 Oliver Mayer (ML) - Bayern Innovativ (key partner),
 	 Andrea Badura - HS Landshut,
 	 Kai Hiltmann - HS Coburg,
-	 Rainer Eidloth (ML) - Schaeffler Group
+	 Rainer Eidloth (ML), Armin Lau - Schaeffler Group
        - **Contributions:** See the links to the web sites above, competence
        	 center OPINNOMETH at HS Kaiserslautern, TRIZ application and training
        	 at Schaeffler Group, more to be added

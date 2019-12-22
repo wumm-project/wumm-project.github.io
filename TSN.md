@@ -101,6 +101,8 @@ repo](https://github.com/wumm-project/web).
   * https://community-z.com/events/minsk-triz-club-31
 * TRIZ Club Moscow (in Russian)
   * https://www.facebook.com/Московский-ТРИЗ-Клуб-1529629404000803/
+* TRIZ Practitioners Club Moscow (in Russian)
+  * https://www.facebook.com/groups/clubtrizmoscow/ 
 * [OTSM-TRIZ](https://otsm-triz.org/) - This site is dedicated to the work of
   TRIZ-master, the author of the General Theory of Power Thinking (OTSM -
   Общая Теория Сильного Мышления) Nikolai Khomenko (1954-2011).
