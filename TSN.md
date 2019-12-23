@@ -71,12 +71,12 @@ What I learned so far the main Conferences in the area are
 
 As far as I understand most of new TRIZ-relevant information can be found in
 different Facebook channels as 
-* https://www.facebook.com/matriz.org
-* https://www.facebook.com/valeri.souchkov
-* https://www.facebook.com/InventoriumGames
-* https://www.facebook.com/triz.solution/
-* https://www.facebook.com/sales.metodika/
-* https://www.facebook.com/minsktrizclub/
+* <https://www.facebook.com/matriz.org>
+* <https://www.facebook.com/valeri.souchkov>
+* <https://www.facebook.com/InventoriumGames>
+* <https://www.facebook.com/triz.solution/>
+* <https://www.facebook.com/sales.metodika/>
+* <https://www.facebook.com/minsktrizclub/>
 
 ## Presentations
 
@@ -88,21 +88,21 @@ repo](https://github.com/wumm-project/web).
 ## Local TRIZ Structures 
 
 * "TRIZ Solution" Chelyabinsk (in Russian)
-  * https://www.facebook.com/triz.solution/
-  * https://www.facebook.com/sales.metodika/
-  * https://vk.com/triz.solution
-  * https://vk.com/sales.metodika
-  * https://www.facebook.com/evgeny.pokalo
+  * <https://www.facebook.com/triz.solution/>
+  * <https://www.facebook.com/sales.metodika/>
+  * <https://vk.com/triz.solution>
+  * <https://vk.com/sales.metodika>
+  * <https://www.facebook.com/evgeny.pokalo>
 * Leipzig Seminar, WUMM Project (in German)
-  * http://www.leipzig-netz.de/index.php/WUMM
-  * https://github.com/wumm-project/Leipzig-Seminar
+  * <http://www.leipzig-netz.de/index.php/WUMM>
+  * <https://github.com/wumm-project/Leipzig-Seminar>
 * TRIZ Club Minsk (in Russian)
-  * https://www.facebook.com/minsktrizclub/
-  * https://community-z.com/events/minsk-triz-club-31
+  * <https://www.facebook.com/minsktrizclub/>
+  * <https://community-z.com/events/minsk-triz-club-31>
 * TRIZ Club Moscow (in Russian)
-  * https://www.facebook.com/Московский-ТРИЗ-Клуб-1529629404000803/
+  * <https://www.facebook.com/Московский-ТРИЗ-Клуб-1529629404000803/>
 * TRIZ Practitioners Club Moscow (in Russian)
-  * https://www.facebook.com/groups/clubtrizmoscow/ 
+  * <https://www.facebook.com/groups/clubtrizmoscow/>
 * [OTSM-TRIZ](https://otsm-triz.org/) - This site is dedicated to the work of
   TRIZ-master, the author of the General Theory of Power Thinking (OTSM -
   Общая Теория Сильного Мышления) Nikolai Khomenko (1954-2011).
