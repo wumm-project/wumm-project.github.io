@@ -51,6 +51,8 @@ Local savings:
   - this part describes in particular the assessment process and criteria  
 * [Detailed Project Description](Erasmus/detailed_project_description.pdf)
   - this is the main part that has to be filled in
+* [Template for a Mandate Letter](https://www.erasmusplus.org.uk/file/partner-mandate-templatedoc)
+  - [Local Saving](Erasmus/mandate_en.doc)
 
 There is a first project outline available in the archive of the mailing list,
 which has to be discussed in more detail during the next weeks. It was not yet
@@ -62,8 +64,6 @@ partners who see themselves out of place or do not fulfill the conditions
 required by the tender (in particular that a HEI full partner must have a
 valid ERASMUS Charter ECHE, see p. 320 in the Program Guide) can be replaced
 by other interested parties.
-
-Hans-Gert Gräbe, 12.12.2019
 
 ## From the call
 
@@ -221,8 +221,9 @@ All relevant problems are best to be discussed on our
 A first draft of a Project Outline was attached to a mail on the mailing
 list on 12 December 2019.
 
-There will be an onsite meeting at INSA Strasbourg (Denis Cavallucci) on
-16./17. December 2019.
+There will be an onsite meeting at INSA Strasbourg (Denis Cavallucci) on 16/17
+December 2019. See my report about that meeting on the mailing list on 23
+December 2019.
 
 ### Eligible Costs (see p. 138-141 in the Programme Guide)
 
@@ -309,9 +310,101 @@ scanned (PDF, TIFF, JPEG) and attached to the eForm.
 * World Economic Forum: The Future of Jobs Employment, Skills and Workforce
   Strategy for the Fourth Industrial Revolution. January 2016
   * [Local Copy](Erasmus/WEF_Future_of_Jobs.pdf)
+* [Survey](Erasmus/Busov-20191218-Survey.pdf) compiled by Bohuslav Busov on
+  more than 2000 TRIZ training participants which were interviewed about the
+  benefits of TRIZ
+
+### About the Content
+
+__Stelian Brad__ (15.12.20191)
+- Please consider that we can find a possibility to create a MOOC on TRIZ - we
+  have to valorize e-learning platforms (in our case, we can arrange the
+  network to have access to a very new platform for synchronous and
+  asynchronous education)
+- Please consider the focus on open innovation by seeing the network as
+  platform where innovation can be run under poly-centric forms of
+  collaboration (this is a clear focus of the EC in the next exercise
+  2021-2027)
+- Because new standards in innovation management systems are becoming more
+  important, the network should also consider the smart integration of TRIZ in
+  this context
+- It would be maybe an opportunity to expand student mobility not only for
+  learning, but also for completing their final degree project as part of
+  Erasmus+ exchange. This will offer students to apply TRIZ in a wider and
+  consolidated way.
+
+__Bohuslav Busov__ (18.12.2019)
+
+* Associated Partners - We plan to integrate also Chambers of Commerce and
+  Industry from different countries:
+  - I can activate at minimum following possible Associate partners: Economic
+    Chamber (IHK) Brno, JIC Brno (South Moravia Innovative Centrum), HUB
+    interconnected with BUT Brno, HUB interconnected with TU Ostrava, also
+    TRIZing Czech Association under „roof“ of my BUT Brno, where in TRIZing I
+    am „president“, IKI Liberec - partially interconnected with TU Liberec
+    (Pavel Jirman)
+
+* I completely recommend Target Innovation and especially my friend (since
+  1993) Nikolay Shpakovski as expert. He is very experienced and as consultant
+  he is able to solve real different innovative tasks (for example in CR:
+  Atomic Machinery Pilsen, in Czech: Jaderné strojírenství Plzeň). By the way
+  I translated his book OTSM-TRIZ this year. Except of some new TRIZ
+  approaches there is lot of cases from Samsung. Some parts from this „higher
+  TRIZ pilotage“ are instructional also for my TRIZ students.
+
+* Second I translated during this year the book „150 creative tasks from our
+  environment“ (Anatolij Gin, Irina Andrzheevskaja). It is a unique book about
+  „clever“ solutions inside fauna and flora. Book for children in nursery
+  schools and first year of primary schools.
+
+* Only shortly and briefly about activites and outcomes of the ERASMUS+
+  Knowledge Alliance Project for this moment:
+  - Team work on selection of the best topics and subtopics from TRIZ for
+    teaching and learning study materials, instructional cases, methodical
+    recommendations for teachers and users,…  
+  - Acessible materials for teachers, students, individual engineers and
+    innovative (ambitous) companies.
+  - Coordination of activities and cooperation with people, institutions and
+    companies interested in improving motivation and solving potential of man
+    through not only systematic approach on the start of innovation process
+    but also in the frame of synthetic creative phases where methodical
+    support by TRIZ instrumetarium is unusual, inspirative and usual
+    surprising even for experienced people.  
+  - Popularization workshops prepared and organized by TU, or IHK, or
+    consultancy firms - for any interested audience.
+
+* Most Technical Universities from Czech Republic can be engaged as applicants
+  of project results (Prague, Pilsen, Liberec, Ostrava, Slovakia: Bratislava,
+  Žilina, Kosice) where I have good long time contacts with our dean (ČVUT
+  Prague), or vice-deans (TU Ostrava) or with enthusiasts attempting teach
+  something from TRIZ. I had many popular lectures in these universities
+  during the last years for students and teachers. Many texts, translated
+  books, .ppt sequencies - used in TU and in companies - in CR went out from
+  my „translation pen“. That is why I do not see problems with implementation
+  of planned project outcomes. As an attachment see a Graph showing answers
+  mostly of companies engineers what they are thinking after short popular
+  (informative) introducionary seminars (2-3 hours) as well as after 2+1 days
+  educational activities inside companies. From my point of view these answers
+  are also relevant documents about Targed groups and Needs of Analysis.
+  
+* My lectures aroud TRIZ started 1996. Feedback of students (Mgr) is very
+  positive. I am going to offer TRIZ courses not only for students of two
+  departments (til this time), but also for all students and PhD students on
+  FEEC (fakulty of electrical engineering and communication) and also as
+  optional course for all students of BUT (other faculties: machinery, civil,
+  architecture, informatics, business). Of course it is not easy for students
+  to choose such a course if they do not know about the potential of TRIZ for
+  their future practice… Serious popularization and well elaborated study
+  material is not a trivial task in the proposed project.
+
 
 ### Open Questions
 
-to be added
+* Who can count for "Associated Partner" or "Affiliated Entities"?
+  * H.-O. Betuch writes: "Associated Partner" Partners without own project
+    budget, who contribute to the project without expensive activities (IHK,
+    ETRIA). "Affiliated Entities" - not recommended.
+* How include partners from Partner Countries (Minsk, Moscow, Chelyabinsk) in
+  the project?
 
-Hans-Gert Gräbe - Last update 22 Dec 2019
+Hans-Gert Gräbe - Last update 23 Dec 2019

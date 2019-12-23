@@ -242,8 +242,12 @@ the agreement.
        - **Contributions:** To be added   
        - **Expected support from the Network:** To be defined
     - Brno University of Technology
-       - [Bohuslav Bušov](https://www.vutbr.cz/en/people/bohuslav-busov-1640) (ML)
-       - **Contributions:** To be added   
+       - [Bohuslav Bušov](https://www.vutbr.cz/en/people/bohuslav-busov-1640) (ML)       
+       - **Contributions:** For more than 20 years working on this field
+         (TRIZ: conferences, translation of Russian and later English
+         literature, long time lecturing on TUs and inside companies,
+         consultancy, foundation of TRIZing Czech Association, many friends in
+         TRIZ community).   
        - **Expected support from the Network:** To be defined
 
 9. Ukraina (Region 2)
@@ -266,14 +270,17 @@ the agreement.
        - **Contributions:** Publications in the fields of control and system
            theory and automation, mathematical modeling, creativity and
            innovations. Expert in technology innovation and reengineering for
-           a number of Russian authorities in public and private sector.	   
+           a number of Russian authorities in public and private sector.   
        - **Expected support from the Network:** To be defined
 
 12. Romania (Member State)
-    - Technical University of Cluj-Napoca
-       - [Stelian Brad](https://clujinnovationdays.com/staff/stelian-brad/)       
+    - Technical University of Cluj-Napoca    
+       - [Stelian Brad](https://clujinnovationdays.com/staff/stelian-brad/)
        - **Contributions:** Robot Programming, Intelligent Robotics,
-           Engineering and Management of Innovation
+         Engineering and Management of Innovation.  We run training courses
+         about TRIZ for both students and engineers since 2003. There are also
+         some own contributions to this field. We have been also involved in
+         some FP7 and H2020 projects dealing with systematic innovation, too.
        - **Expected support from the Network:** To be defined
 
 Further interest in cooperation have signaled so far

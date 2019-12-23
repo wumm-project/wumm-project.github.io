@@ -19,7 +19,7 @@ Kozhemyako's work as unsustainable mainly due to terminology inconsistencies.
 That remains to be explored.
 
 * [Георгий Петрович Щедровицкий](https://www.fondgp.ru/)
-  * https://en.wikipedia.org/wiki/Georgy_Shchedrovitsky
+  * <https://en.wikipedia.org/wiki/Georgy_Shchedrovitsky>
   * He became involved in the Moscow Methodological Circle set up by Alexander
     Zinoviev. In 1954, Shchedrovitsky took over leadership of the circle and
     played a prominent role in developing activity theory. Here the world was
@@ -28,10 +28,11 @@ That remains to be explored.
     the activity applied to them.
   * The MMC has had a lasting impact on Russian systems thinking particularly
     through the Methodological School of Management
+  * <https://shchedrovitskiy.com/predislovie-k-8-chtenijam-pamjati-g-p-shchedrovitskogo/>
 * [Петр Георгиевич Щедровицкий](https://shchedrovitskiy.com/) - the son
   * Что есть мышление? Понятие и рабочая гипотеза ММК (What is thinking? The
     concept and working hypothesis of MMK)
-    [Website](https://shchedrovitskiy.com/chto-est-myshlenie/).
+    <https://shchedrovitskiy.com/chto-est-myshlenie/>.
   * MMK - Russian abbreviation of Moscow Methodological Circle
 
 ## December 18, 2019:
@@ -44,8 +45,8 @@ That remains to be explored.
   стратегий Московской школы управления «Сколково».
 
 Видео выступления:
-* Доклад: https://www.youtube.com/watch?v=ZO1S4sqI2y4
-* Обсуждение: https://www.youtube.com/watch?v=TYi5hGCLj8Y
+* Доклад: <https://www.youtube.com/watch?v=ZO1S4sqI2y4>
+* Обсуждение: <https://www.youtube.com/watch?v=TYi5hGCLj8Y>
 
 ## December 7, 2019:
 
