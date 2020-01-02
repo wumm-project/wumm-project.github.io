@@ -393,9 +393,10 @@ __Bohuslav Busov__ (18.12.2019)
   their future practice… Serious popularization and well elaborated study
   material is not a trivial task in the proposed project.
   - [Survey](Erasmus/Busov-20191218-Survey.pdf) on more than 2000 TRIZ
-    training participants which were interviewed about the benefits of TRIZ
+    training participants which were interviewed about the benefits of TRIZ.
 * Addendum 20.12.2019: Some additional remarks about my standpoints you find
-  in a [presentation](Erasmus/Busov-2017.pdf) prepared for Australia (end
+  in a [paper](Erasmus/Busov-2017.pdf) and a
+  [presentation](Erasmus/Busov-Slides-2017.pdf) prepared for Australia (end
   2017, J. Belski invited Livotov, Chechurin, Cascini, Dobruskin, Berdonosov,
   Busov).
 
