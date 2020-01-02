@@ -343,7 +343,6 @@ __Bohuslav Busov__ (18.12.2019)
     TRIZing Czech Association under „roof“ of my BUT Brno, where in TRIZing I
     am „president“, IKI Liberec - partially interconnected with TU Liberec
     (Pavel Jirman)
-
 * I completely recommend Target Innovation and especially my friend (since
   1993) Nikolay Shpakovski as expert. He is very experienced and as consultant
   he is able to solve real different innovative tasks (for example in CR:
@@ -351,12 +350,10 @@ __Bohuslav Busov__ (18.12.2019)
   I translated his book OTSM-TRIZ this year. Except of some new TRIZ
   approaches there is lot of cases from Samsung. Some parts from this „higher
   TRIZ pilotage“ are instructional also for my TRIZ students.
-
 * Second I translated during this year the book „150 creative tasks from our
   environment“ (Anatolij Gin, Irina Andrzheevskaja). It is a unique book about
   „clever“ solutions inside fauna and flora. Book for children in nursery
   schools and first year of primary schools.
-
 * Only shortly and briefly about activites and outcomes of the ERASMUS+
   Knowledge Alliance Project for this moment:
   - Team work on selection of the best topics and subtopics from TRIZ for
@@ -372,7 +369,6 @@ __Bohuslav Busov__ (18.12.2019)
     surprising even for experienced people.  
   - Popularization workshops prepared and organized by TU, or IHK, or
     consultancy firms - for any interested audience.
-
 * Most Technical Universities from Czech Republic can be engaged as applicants
   of project results (Prague, Pilsen, Liberec, Ostrava, Slovakia: Bratislava,
   Žilina, Kosice) where I have good long time contacts with our dean (ČVUT
@@ -385,8 +381,8 @@ __Bohuslav Busov__ (18.12.2019)
   mostly of companies engineers what they are thinking after short popular
   (informative) introducionary seminars (2-3 hours) as well as after 2+1 days
   educational activities inside companies. From my point of view these answers
-  are also relevant documents about Targed groups and Needs of Analysis.
-  
+  are also relevant documents about Targed groups and Needs of Analysis.  
+
 * My lectures aroud TRIZ started 1996. Feedback of students (Mgr) is very
   positive. I am going to offer TRIZ courses not only for students of two
   departments (til this time), but also for all students and PhD students on
@@ -396,7 +392,12 @@ __Bohuslav Busov__ (18.12.2019)
   to choose such a course if they do not know about the potential of TRIZ for
   their future practice… Serious popularization and well elaborated study
   material is not a trivial task in the proposed project.
-
+  - [Survey](Erasmus/Busov-20191218-Survey.pdf) on more than 2000 TRIZ
+    training participants which were interviewed about the benefits of TRIZ
+* Addendum 20.12.2019: Some additional remarks about my standpoints you find
+  in a [presentation](Erasmus/Busov-2017.pdf) prepared for Australia (end
+  2017, J. Belski invited Livotov, Chechurin, Cascini, Dobruskin, Berdonosov,
+  Busov).
 
 ### Open Questions
 
@@ -407,4 +408,4 @@ __Bohuslav Busov__ (18.12.2019)
 * How include partners from Partner Countries (Minsk, Moscow, Chelyabinsk) in
   the project?
 
-Hans-Gert Gräbe - Last update 23 Dec 2019
+Hans-Gert Gräbe - Last update 2 Jan 2020

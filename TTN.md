@@ -231,8 +231,9 @@ the agreement.
          methods
 
 7. Austria (Member State)
-    - Graz
+    - Graz, 
        - [Jürgen Jantschgi](https://www.jantschgi.at/) (ML)
+       - also [Rector at HTL Wolfsburg](https://www.htl-wolfsberg.at/htl/index.php/de/vermischtes/information-zur-htl)
        - **Contributions:** To be added   
        - **Expected support from the Network:** To be defined
 
