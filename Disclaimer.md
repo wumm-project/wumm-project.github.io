@@ -18,11 +18,11 @@ Disclaimer](http://en.wikipedia.org/wiki/Wikipedia:General_disclaimer).
 
 ### Privacy 
 
-Personal data as defined in [art. 5 EUDATAP](https://www.iitr.us/eudatap) are
-processed to display scientific activities of members of the scientific
+Personal data as defined in [art. 5 EUDATAP](https://www.iitr.us/gdpr/5.html)
+are processed to display scientific activities of members of the scientific
 community only.  Transparency of information (art. 12, 13 (4), 14 (5), 15
 EUDATAP) is guaranteed since all information is publicly available.
 
-Personal data are processed for scientific purposes only, hence [art. 27 BDSG
-(neu)](https://dsgvo-gesetz.de/bdsg-neu/27-bdsg-neu/) of the German
-Bundesdatenschutzgesetz (new) applies.
+Personal data are processed for scientific purposes only, hence
+[art. 27 BDSG (neu)](https://dsgvo-gesetz.de/bdsg-neu/27-bdsg-neu/) of the
+German Bundesdatenschutzgesetz (new) applies.
