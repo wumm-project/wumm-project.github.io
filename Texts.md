@@ -16,6 +16,12 @@ otherwise.  May be removed in a later version.
   * The paper got one of the 3 TRIZ student's awards at the TRIZ-Fest 2019 in
     Heilbronn.
 
+* Klaus Fuchs-Kittowski (2002): Wissens-Ko-Produktion. Verarbeitung, Verteilung
+  und Entstehung von Informationen in kreativ-lernenden Organisationen
+  (Knowledge co-production. Processing, distribution and Creation of
+  information in creative learning organizations)
+  * [German Original](http://www.informatik.uni-leipzig.de/~graebe/Texte/Fuchs-02.pdf)
+
 * B.I. Goldovski (1983): Система закономерностей построения и развития
   технических систем (The system of laws of construction and development of
   technical systems).
