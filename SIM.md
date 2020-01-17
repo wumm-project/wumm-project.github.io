@@ -37,10 +37,11 @@ industry application partners.
   two higher education institutions and at least two enterprises".
 
 Relevant Links:
-* https://eacea.ec.europa.eu/erasmus-plus/funding/knowledge-alliances-2020_en
-* http://www.erasmusplus.ac.me/?page_id=6151&lang=en
-* http://ec.europa.eu/programmes/erasmus-plus/documents/erasmus-plus-programme-guide_en.pdf
-* https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/epp-ka-2020
+* [Knowledge Alliances 2020 - Entry page](https://eacea.ec.europa.eu/erasmus-plus/funding/knowledge-alliances-2020_en)
+* [Knowledge Alliances - what's that?](http://www.erasmusplus.ac.me/?page_id=6151&lang=en)
+* [Programme Guide](http://ec.europa.eu/programmes/erasmus-plus/documents/erasmus-plus-programme-guide_en.pdf)
+* [KA Partnr Search page](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/epp-ka-2020)
+* [List of selected Proposals 2019](https://eacea.ec.europa.eu/sites/eacea-site/files/list_of_selected_proposals.pdf)
 
 Local savings:
 * [Programme Guide](Erasmus/erasmus-plus-programme-guide-2020_en.pdf)
