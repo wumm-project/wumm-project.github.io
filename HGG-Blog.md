@@ -5,6 +5,12 @@ title: HGG-Blog
 
 # HGG's Blog
 
+## January 17, 2020:
+
+Антон Кожемяко: интервью про ТРИЗ [мифы, возможности, тренды] (Anton
+Kozhemyako: interview about TRIZ [myths, opportunities, trends])
+* <https://brammels.com/career/interview/anton-kozhemyako>
+
 ## December 21, 2019:
 
 The relationship between TRIZ and philosophical questions, in particular those
@@ -37,16 +43,21 @@ That remains to be explored.
 
 ## December 18, 2019:
 
-Московский ТРИЗ Клуб. «Марксизм между будущим и прошлым»
+Московский ТРИЗ Клуб. «Марксизм между будущим и прошлым» (Moscow TRIZ
+Club. "Marxism between the future and the past")
 
 * Докладчик: Савин Алексей Эдуардович - доктор философских наук, заведующий
   кафедрой философии Российской академии народного хозяйства и государственной
   службы при Президенте РФ (РАНХиГС); профессор Института общественных
-  стратегий Московской школы управления «Сколково».
+  стратегий Московской школы управления «Сколково». (Speaker: Savin Alexey
+  Eduardovich - Doctor of Philosophy, Head of the Department of Philosophy of
+  the Russian Academy of National Economy and State services at the President
+  of the Russian Federation; Professor at the Institute of Public strategies
+  of the Moscow School of Management Skolkovo.)
 
-Видео выступления:
-* Доклад: <https://www.youtube.com/watch?v=ZO1S4sqI2y4>
-* Обсуждение: <https://www.youtube.com/watch?v=TYi5hGCLj8Y>
+The videos (in Russian):
+* Lecture: <https://www.youtube.com/watch?v=ZO1S4sqI2y4>
+* Discussion: <https://www.youtube.com/watch?v=TYi5hGCLj8Y>
 
 ## December 7, 2019:
 
