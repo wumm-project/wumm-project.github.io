@@ -42,6 +42,8 @@ Relevant Links:
 * [Programme Guide](http://ec.europa.eu/programmes/erasmus-plus/documents/erasmus-plus-programme-guide_en.pdf)
 * [KA Partnr Search page](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/epp-ka-2020)
 * [List of selected Proposals 2019](https://eacea.ec.europa.eu/sites/eacea-site/files/list_of_selected_proposals.pdf)
+* [What to do in order to submit an Erasmus+ Application?](https://ec.europa.eu/programmes/erasmus-plus/programme-guide/part-c/what-to-do_en)
+
 
 Local savings:
 * [Programme Guide](Erasmus/erasmus-plus-programme-guide-2020_en.pdf)
@@ -50,10 +52,8 @@ Local savings:
 * [Guide for Experts, General Part](Erasmus/guide_for_experts_part_i.pdf)
 * [Guide for Experts, Knowledge Alliances](Erasmus/experts_guide_part_ii_ka.pdf)
   - this part describes in particular the assessment process and criteria  
-* [Detailed Project Description](Erasmus/detailed_project_description.pdf)
-  - this is the main part that has to be filled in
+* [Detailed Project Description](Erasmus/detailed_project_description.docx)
 * [Template for a Mandate Letter](https://www.erasmusplus.org.uk/file/partner-mandate-templatedoc)
-  - [Local Saving](Erasmus/mandate_en.doc)
 
 There is a first project outline available in the archive of the mailing list,
 which has to be discussed in more detail during the next weeks. It was not yet
@@ -273,10 +273,10 @@ Form:
 
 The Application Package will be written in English and consists of several
 compulsory documents, the content of which is summarised below:
-* eForm
-* Detailed Project Description
-* Detailed Budget Tables and Work Packages Overview
-* Declaration on Honour
+* [eForm](https://eacea.ec.europa.eu/PPMT/)
+* [Detailed Project Description](Erasmus/detailed_project_description.docx)
+* [Detailed Budget Tables and Work Packages Overview](Erasmus/detailed_budget.xslx)
+* [Declaration on Honour](Erasmus/declaration_of_honour-template.docx)
 
 The **eForm** provides mainly the administrative and general information on
 the project.
@@ -303,6 +303,23 @@ of all Work packages. It contains the following tabs:
 The **Declaration on Honour** must be signed by the legal representative of
 the applicant organisation on behalf of all participating organisations,
 scanned (PDF, TIFF, JPEG) and attached to the eForm.
+
+### Documents to be supplied by the full partners
+
+Organisations must
+
+* register in the Funding & tender opportunities portal and receive a
+  __Participant Identification Code__ (PIC). Organisations that have already
+  obtained a PIC through their participation in other EU programmes do not
+  need to register again. The PIC obtained from this previous registration is
+  valid also for applying under Erasmus+.
+* Supply a [Mandate Letter](Erasmus/mandate-template.doc).
+
+[Documents to be uploaded](https://eacea.ec.europa.eu/erasmus-plus/funding/knowledge-alliances-2020_en)
+in the Participant Register of the Funding & Tender Opportunities Portal:
+
+To be clarified: Who has to supply the completed, dated and signed __Legal
+entity form__ (the form corresponding to your public or private status).
 
 ### Some Arguments Useful for the Application
 
@@ -410,4 +427,4 @@ __Bohuslav Busov__ (18.12.2019)
 * How include partners from Partner Countries (Minsk, Moscow, Chelyabinsk) in
   the project?
 
-Hans-Gert Gräbe - Last update 2 Jan 2020
+Hans-Gert Gräbe - Last update 17 Jan 2020
