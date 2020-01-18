@@ -70,6 +70,7 @@ The discussion was started in the
 [TRIZ facebook group](https://www.facebook.com/groups/111602085556371)
 a consolidated version of the discussion both in German and Russian is
 available in a [separate TSN Thread](2019-12-07 "wikilink").
+* Jan 18, 2020: I updated the German version.
 
 ## November 10, 2019:
 
