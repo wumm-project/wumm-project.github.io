@@ -333,6 +333,7 @@ entity form__ (the form corresponding to your public or private status).
 * [Survey](Erasmus/Busov-20191218-Survey.pdf) compiled by Bohuslav Busov on
   more than 2000 TRIZ training participants which were interviewed about the
   benefits of TRIZ
+* [LOI of the IHK Heilbronn](Erasmus/LOI-IHK-Heilbronn.pdf)
 
 ### About the Content
 
