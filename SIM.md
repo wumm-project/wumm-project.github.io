@@ -12,23 +12,31 @@ Evaluating different opportunities the ERASMUS+ Key Action 2 Programme
 planned curricula in "Systematic Innovation Methodologies" at different HEI
 (higher educational institutions) with the requirements and needs of industry.
 
-The focus of the action is on cooperation between Programme Countries (the
-strongest expressed interest in an application came so far from the EU
-countries Germany, France and Finland) but organisations from Partner
-Countries can also be involved, if the added value is appropriately expressed.
-* "As a general rule, Knowledge Alliances target the cooperation between
-  organisations established in Programme Countries. However, organisations
-  from Partner Countries can be involved in a Knowledge Alliance, as partners
-  (not as applicants), if their participation brings an essential added value
-  to the project". (All citations from the Programme Guide)
+The focus of the action is on cooperation between Programme Countries but
+organisations from Partner Countries can also be involved, if the added value
+is appropriately expressed. (Programme Guide, p. 133)
+
+Full Partners:
+* Leipzig University (applicant, coordination), Germany - Gräbe, Neumuth, Lautenschläger
+* INSA Strasbourg, France - Cavallucci
+* HS Offenburg, Germany - Livotov
+* BUT Brno, Czech Republic - Busov
+* UTC Cluj-Napoca, Romania - Brad
+* HTL Wolfsberg, Austria - Jantschgi
+* LUT Lappeenranta, Finland - Chechurin
+* (?) Schaeffler AG, Germany - Lau
+* Target Innovation Minsk, Belarus - Shpakovski
+* (?) NPK Consult Moscow, Russia - Redkolis
+* BM TRIZ Chelyabinsk, Russia - Kozhemyako
 
 Trainings in "Systematic Innovation Methodologies" address "cross cutting"
 methodological skills that are useful for engineers, computer scientists and
 other professionals, hence fit "developing entrepreneurship mind-set and
-skills" (Programme Guide) and should be included as "general studies" in the
-course of studies in different specialities.  The content of such programs
+skills" (Programme Guide, p. 106) and should be included as "general studies"
+in the curricula of different specialities.  The content of such programs
 should be developed and coordinated in close coordination with the needs of
 industry application partners.
+
 * "Knowledge Alliances implement a coherent and comprehensive set of
   interconnected activities which are flexible and adaptable to different
   current and future contexts and developments across Europe".
@@ -55,16 +63,16 @@ Local savings:
 * [Detailed Project Description](Erasmus/detailed_project_description.docx)
 * [Template for a Mandate Letter](https://www.erasmusplus.org.uk/file/partner-mandate-templatedoc)
 
-There is a first project outline available in the archive of the mailing list,
-which has to be discussed in more detail during the next weeks. It was not yet
-coordinated with other parties in detail. Comparable projects have 10-12
-partners, for the moment I limited myself to presenting the minimum number
-required concerning the country structure as well as the application logic.
-This does not mean that other partners cannot be involved. Already listed
-partners who see themselves out of place or do not fulfill the conditions
-required by the tender (in particular that a HEI full partner must have a
-valid ERASMUS Charter ECHE, see p. 320 in the Program Guide) can be replaced
-by other interested parties.
+There is an advanced project outline available in the archive of the mailing
+list, that has now to be turned into a sound application (eForm, Detailed
+Description etc.).
+
+Full partners are required
+* to have a __PIC__ within the EU Database
+* to supply a __mandate letter__ to the applicant and
+* HEI full partners must have a valid __ERASMUS Charter ECHE__ (Program Guide, p. 320)
+  - There is a [list of ECHE Holders](https://eacea.ec.europa.eu/erasmus-plus/actions/erasmus-charter_en)
+  - Positively checked for all HEI but HTL Wolfsberg
 
 ## From the call
 
@@ -72,8 +80,8 @@ by other interested parties.
 * Maximum EU contribution awarded for a 3-year Knowledge Alliance: 1 000 000 EUR
 * Financial contributions from the EU are calculated using fixed scale of unit
   costs.  Please see Programme Guide, page 130-133 for further information.
-* These unit costs have been calculated in a way that the co-funding is
-  inherent to them, i.e. already incorporated.
+* These unit costs have been calculated in a way that co-funding is inherent
+  to them, i.e. already incorporated.
 
 ### Aims and Priorities
 
@@ -188,20 +196,23 @@ priorities as guardrails and the cross-sectional tasks as beacons.
 The call is open since 14 Nov 2019, the deadline is 26 Febr 2020, so it is
 very sportive to compile an application in the remaining time.
 
-We have to identify 
+We identified 
 
 * The __Applicant/coordinator__: a participating organisation that submits the
   project proposal on behalf of all the partners. The coordinator has the full
   responsibility to ensure that the project is implemented in accordance with
   the agreement.
-  * I discussed earlier with our local authorities that the Leipzig University
-    can serve as coordinator.
+  * The Leipzig University serves as coordinator (main coordination by
+    Prof. Thomas Neumuth, support by Prof. Hans-Gert Gräbe). 
 * __Full partners__ are those participating organisations which contribute
   actively to the achievement of the Knowledge Alliance's objectives. Each
   full partner must sign a mandate to confer to the coordinating organisation
   the responsibility of acting as main beneficiary and act in his name during
-  the implementation of the project. If relevant, the same applies for
-  partners from Partner Countries.
+  the implementation of the project. The same applies for partners from
+  Partner Countries.  
+  * See the above listing.
+  * Open problems: PICs for the partners from Partner Countries, at least one
+    more industrial partner from the Programme Countries.
 * __Associated partners__ (optional): Knowledge Alliances can involve
   associated partners who contribute to the implementation of specific project
   tasks/activities or support the dissemination and sustainability of the
@@ -209,22 +220,11 @@ We have to identify
   considered as part of the project partners, and they do not receive funding.
   However their involvement and role in the project and different activities
   have to be clearly described.
-  - Contribute indirectly to the project (for example, advice, dissemination,
-    internships) 
-* __Affiliated entities__ (optional): Organisations which contribute to the
-  achievement of project objectives and activities.  Affiliated entities must
-  be identified in the grant application and satisfy the requirements as
-  described in Annex III (Glossary of terms) of this Programme Guide.
+  * The evaluation WP is planned to hand over to a certain consortium of
+    Chambers of Industry and Commerce. 
 
 All relevant problems are best to be discussed on our
 [mailing list](http://lists.informatik.uni-leipzig.de/mailman/listinfo/ttn).
-
-A first draft of a Project Outline was attached to a mail on the mailing
-list on 12 December 2019.
-
-There will be an onsite meeting at INSA Strasbourg (Denis Cavallucci) on 16/17
-December 2019. See my report about that meeting on the mailing list on 23
-December 2019.
 
 ### Eligible Costs (see p. 138-141 in the Programme Guide)
 
@@ -238,6 +238,8 @@ December 2019.
   of students, scientists, university and company staff) to support the
   project. 
   - Travel costs (unit costs) and subsistence costs (unit costs)
+  - It is recommended to use also Key Action 1 programs to support individual
+    mobility (Programme Guide, p. 134).  
 
 ### Hints for a sound application
 
@@ -418,13 +420,4 @@ __Bohuslav Busov__ (18.12.2019)
   2017, J. Belski invited Livotov, Chechurin, Cascini, Dobruskin, Berdonosov,
   Busov).
 
-### Open Questions
-
-* Who can count for "Associated Partner" or "Affiliated Entities"?
-  * H.-O. Betuch writes: "Associated Partner" Partners without own project
-    budget, who contribute to the project without expensive activities (IHK,
-    ETRIA). "Affiliated Entities" - not recommended.
-* How include partners from Partner Countries (Minsk, Moscow, Chelyabinsk) in
-  the project?
-
-Hans-Gert Gräbe - Last update 17 Jan 2020
+Hans-Gert Gräbe - Last update 19 Jan 2020
