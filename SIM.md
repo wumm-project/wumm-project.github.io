@@ -61,7 +61,7 @@ Local savings:
 * [Guide for Experts, Knowledge Alliances](Erasmus/experts_guide_part_ii_ka.pdf)
   - this part describes in particular the assessment process and criteria  
 * [Detailed Project Description](Erasmus/detailed_project_description.docx)
-* [Template for a Mandate Letter](https://www.erasmusplus.org.uk/file/partner-mandate-templatedoc)
+* [Template for a Mandate Letter](Erasmus/mandate-template.doc)
 
 There is an advanced project outline available in the archive of the mailing
 list, that has now to be turned into a sound application (eForm, Detailed
