@@ -48,7 +48,7 @@ Relevant Links:
 * [Knowledge Alliances 2020 - Entry page](https://eacea.ec.europa.eu/erasmus-plus/funding/knowledge-alliances-2020_en)
 * [Knowledge Alliances - what's that?](http://www.erasmusplus.ac.me/?page_id=6151&lang=en)
 * [Programme Guide](http://ec.europa.eu/programmes/erasmus-plus/documents/erasmus-plus-programme-guide_en.pdf)
-* [KA Partnr Search page](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/epp-ka-2020)
+* [KA Partner Search page](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/epp-ka-2020)
 * [List of selected Proposals 2019](https://eacea.ec.europa.eu/sites/eacea-site/files/list_of_selected_proposals.pdf)
 * [What to do in order to submit an Erasmus+ Application?](https://ec.europa.eu/programmes/erasmus-plus/programme-guide/part-c/what-to-do_en)
 
@@ -61,18 +61,25 @@ Local savings:
 * [Guide for Experts, Knowledge Alliances](Erasmus/experts_guide_part_ii_ka.pdf)
   - this part describes in particular the assessment process and criteria  
 * [Detailed Project Description](Erasmus/detailed_project_description.docx)
-* [Template for a Mandate Letter](Erasmus/mandate-template.doc)
 
 There is an advanced project outline available in the archive of the mailing
 list, that has now to be turned into a sound application (eForm, Detailed
 Description etc.).
 
 Full partners are required
-* to have a __PIC__ within the EU Database
-* to supply a __mandate letter__ to the applicant and
-* HEI full partners must have a valid __ERASMUS Charter ECHE__ (Program Guide, p. 320)
+* to have a __PIC__ within the EU Database and
+* to send a letter of intent (to be added) to the applicant (i.e., Leipzig
+  University). 
+* HEI full partners must have additionally a valid __ERASMUS Charter ECHE__
+  (Program Guide, p. 320) 
   - There is a [list of ECHE Holders](https://eacea.ec.europa.eu/erasmus-plus/actions/erasmus-charter_en)
   - Positively checked for all HEI but HTL Wolfsberg
+
+If the proposal will be selected moreover a __mandate letter__ from each full
+partner to the applicant is required
+* "Mandate letters signed by the partners are a contractual requirement and
+  will therefore be requested after the selection of proposals, prior to the
+  signature of the relevant grant agreements with the selected projects".
 
 ## From the call
 
@@ -315,7 +322,7 @@ Organisations must
   obtained a PIC through their participation in other EU programmes do not
   need to register again. The PIC obtained from this previous registration is
   valid also for applying under Erasmus+.
-* Supply a [Mandate Letter](Erasmus/mandate-template.doc).
+* Supply a letter of intent to the coordinator (template to be added).
 
 [Documents to be uploaded](https://eacea.ec.europa.eu/erasmus-plus/funding/knowledge-alliances-2020_en)
 in the Participant Register of the Funding & Tender Opportunities Portal:
