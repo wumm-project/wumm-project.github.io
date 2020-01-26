@@ -44,6 +44,40 @@ Moreover a __Declaration of Honour__ is required. This has to be clarified.
 [Documents to be uploaded](https://eacea.ec.europa.eu/erasmus-plus/funding/knowledge-alliances-2020_en)
 in the Participant Register of the Funding & Tender Opportunities Portal:
 
+## What do we expect from an industrial partner
+
+Ideally, the contribution should be sharpened in the project itself in a WP
+that it can be processed. The six points below in the "hints for a sound
+application", i.e.
+
+* Solid needs analysis: detailed and convincing explanations, participation of
+  all partners. 
+* Clearly emphasize benefits for all partners - starting already from the
+  application phase.
+* Focus on innovation.
+* Quality of the project team and cooperation agreements: Show the
+  complementarity of partners, clear division of tasks, effective mechanisms
+  for coordination and communication.
+* Consortium - companies: companies are actively involved and show solid
+  results, commitment and intention of a long-lasting partnership with the
+  HEI.
+* Impact and Sustainability: explain the short and long-term impact of the
+  project plan, plan a sustainability strategy from the very beginning.
+
+This describes where to go: "companies are actively involved and show solid
+results, commitment and intention of a long-lasting partnership with the HEI".
+That would have to be filled with life, whereby here, of course, the question
+is what companies expect from HEI (higher educational institutions). We
+intentionally include a broader HEI spectrum, from universities, technical
+universities and universities of applied sciences to dual vocational training
+(Jantschgi in Graz), and also HEI with different experience in teaching
+already such methodologies.
+
+Possible added value for the industrial company is influence and early access
+to developed teaching content and premium access to graduates that are yet
+skilled in the methodologies.  Conversely, use cases and internships would of
+course also be interesting.
+
 ## Background
 
 Evaluating different opportunities the ERASMUS+ Key Action 2 Programme
