@@ -8,7 +8,8 @@ title: SIM
 ## Our Deliveries we are working on
 
 * [Partner Letter](Erasmus/intent.doc) - a template
-  * Please supply your partner letter to Hans-Gert Gräbe, UL until Jan 31, 2020.  
+  * Please supply your partner letter to Hans-Gert Gräbe, UL until Jan 31,
+    2020.  A signed and scanned version is sufficient.
 * [Detailed Project Description](Erasmus/detailed_project_description.pdf), to
   be delivered as annex of the proposal
   * The current state (26.01.2020)
@@ -39,10 +40,16 @@ agreement.
   signature of the relevant grant agreements with the selected projects".
 * The correct template has yet to be identified. 
 
-Moreover a __Declaration of Honour__ is required. This has to be clarified. 
+The __Declaration of Honour__ has finally to be signed by the authorities of
+the applicant, i.e., the rector's office of Leipzig University.  Required
+documents to sign this declaration are
+* the application, including the budget plan
+* funding notification from the Dean of the Faculty (in preparation)
+* partner letters of the full partners.
 
-[Documents to be uploaded](https://eacea.ec.europa.eu/erasmus-plus/funding/knowledge-alliances-2020_en)
-in the Participant Register of the Funding & Tender Opportunities Portal:
+Here is the external link to the documents to be uploaded in the Participant
+Register of the Funding & Tender Opportunities Portal:
+<https://eacea.ec.europa.eu/erasmus-plus/funding/knowledge-alliances-2020_en>
 
 ## What do we expect from an industrial partner
 
@@ -77,6 +84,25 @@ Possible added value for the industrial company is influence and early access
 to developed teaching content and premium access to graduates that are yet
 skilled in the methodologies.  Conversely, use cases and internships would of
 course also be interesting.
+
+So the idea is that they
+* contribute in shaping the curricula
+* provide useful use cases
+* provide also practices and support in graduation in their company. 
+
+Benefits are:
+* Premium access to graduates skilled in that area
+* Leading position in an ongoing process of shaping soft skills in HR
+  important for the future of companies at large (Samsung understood this
+  already 20 years ago)
+
+Time expenditures:
+* no idea yet, but scalable (a WP schedule has yet to be compiled)
+* Schaeffler's contribution: 3.5 PM
+
+Costs:
+* eligible costs from the project budget (see below) do not cover the whole
+  business, so also here: no idea yet, but scalable.
 
 ## Background
 
