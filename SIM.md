@@ -26,10 +26,12 @@ title: SIM
   * Final preparation - due 17.02.2020
 
 Full partners are required
-* to have a __PIC__ within the EU Database 
+* to have a __PIC__ within the EU Database
+  * PIC is a 9-digit code required for an organisation to participate in a EU
+    funded project. [More](https://ec.europa.eu/research/participants/docs/h2020-funding-guide/grants/applying-for-funding/register-an-organisation/registration-of-organisation_en.htm)
+* are requested to take the lead of Work Packages.
 * HEI full partners must have additionally a valid __ERASMUS Charter ECHE__
   (Program Guide, p. 320). This was positively checked for all HEI partners.
-* Are requested to take the lead of Work Packages.
 
 If the proposal will be selected moreover a __mandate letter__ from each full
 partner to the applicant is required in due time. Being successful with our
@@ -116,17 +118,20 @@ organisations from Partner Countries can also be involved, if the added value
 is appropriately expressed. (Programme Guide, p. 133)
 
 Full Partners:
-* Leipzig University (applicant, coordination), Germany - Gräbe, Neumuth
-* INSA Strasbourg, France - Cavallucci
-* HS Offenburg, Germany - Livotov
-* BUT Brno, Czech Republic - Busov
-* UTC Cluj-Napoca, Romania - Brad
-* HTL Wolfsberg, Austria - Jantschgi
-* LUT Lappeenranta, Finland - Chechurin
-* Schaeffler AG, Germany - Lau, Fuhrmann
-* Target Innovation Minsk, Belarus - Shpakovski
-* (?) NPK Consult Moscow, Russia - Redkolis
-* BM TRIZ Chelyabinsk, Russia - Kozhemyako, Pokalo
+* Leipzig University (applicant, coordination), Germany - Gräbe, Neumuth - HEI
+* INSA Strasbourg, France - Cavallucci - HEI
+* HS Offenburg, Germany - Livotov - HEI
+* BUT Brno, Czech Republic - Busov - HEI
+* UTC Cluj-Napoca, Romania - Brad - HEI
+* LUT Lappeenranta, Finland - Chechurin - HEI
+* HTL Wolfsberg, Austria - Jantschgi - ORG (vocational education with strong
+  relation to SIM) 
+* Schaeffler AG, Germany - Lau, Fuhrmann - Industry
+* Arxia SRL, Romania - Homorodean - SME 
+* Tehnoprod Plast SRL, Romania - Moraru - SME 
+* Target Innovation Minsk, Belarus - Shpakovski - SME from Partner Country
+* NPK Consult Moscow, Russia - Redkolis - SME from Partner Country
+* BM TRIZ Chelyabinsk, Russia - Kozhemyako, Pokalo - SME from Partner Country
 
 Trainings in "Systematic Innovation Methodologies" address "cross cutting"
 methodological skills that are useful for engineers, computer scientists and
@@ -160,16 +165,12 @@ Local savings:
 * [Guide for Experts, Knowledge Alliances](Erasmus/experts_guide_part_ii_ka.pdf)
   - this part describes in particular the assessment process and criteria  
 
-There is an advanced project outline available in the archive of the mailing
-list, that has now to be turned into a sound application (eForm, Detailed
-Description etc.).
-
 ## From the call
 
-* Maximum EU contribution awarded for a 2-year Knowledge Alliance: 700 000 EUR
-* Maximum EU contribution awarded for a 3-year Knowledge Alliance: 1 000 000 EUR
+* Maximum EU contribution awarded for a 2-year Knowledge Alliance: 700000 EUR
+* Maximum EU contribution awarded for a 3-year Knowledge Alliance: 1000000 EUR
 * Financial contributions from the EU are calculated using fixed scale of unit
-  costs.  Please see Programme Guide, page 130-133 for further information.
+  costs.  Please see the Programme Guide, page 130-133 for further information.
 * These unit costs have been calculated in a way that co-funding is inherent
   to them, i.e. already incorporated.
 
