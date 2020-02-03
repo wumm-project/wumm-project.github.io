@@ -10,6 +10,7 @@ title: SIM
 * [Partner Letter](Erasmus/intent.doc) - a template
   * Please supply your partner letter to Hans-Gert Gräbe, UL until Jan 31,
     2020.  A signed and scanned version is sufficient.
+* [Application eForm](Erasmus/ApplicationForm.pdf)
 * [Detailed Project Description](Erasmus/detailed_project_description.pdf), to
   be delivered as annex of the proposal
   * The current state (26.01.2020)
