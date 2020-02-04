@@ -13,6 +13,8 @@ title: SIM
 * [Application eForm](Erasmus/ApplicationForm.pdf) (requires recent Acrobat
   Reader that understands forms - not available for Linux)
   * [Printable Version](Erasmus/ApplicationForm-Print.pdf) of the current state.
+  * First preparation - due 03.02.2020
+  * Final preparation - due 17.02.2020
 * [Detailed Project Description](Erasmus/detailed_project_description.pdf), to
   be delivered as annex of the eForm
   * The current state (04.02.2020)
@@ -22,11 +24,9 @@ title: SIM
   * Part 7. "Work Packages - content" - due 10.02.2020
   * Part 7. "Work Packages - time and cost schedule" - due 17.02.2020
   * Part 8. "Associated Partners" - due 10.02.2020
-* Prepare the Detailed Budget Plan
+* [Detailed Budget Plan](Erasmus/detailed_budget.pdf), to be delivered as
+  annex of the eForm
   * Based on Part 7 final - due 17.02.2020
-* Prepare the eForm
-  * First preparation - due 03.02.2020
-  * Final preparation - due 17.02.2020
 
 Full partners are required
 * to have a __PIC__ within the EU Database
