@@ -8,8 +8,8 @@ title: SIM
 ## Our Deliveries we are working on
 
 * [Partner Letter](Erasmus/intent.doc) - a template
-  * Please supply your partner letter to Hans-Gert Gräbe, UL until Jan 31,
-    2020.  A signed and scanned version is sufficient.
+  * Please supply your partner letter to Hans-Gert Gräbe, UL until
+    Jan 31, 2020. A signed and scanned version is sufficient.
 * [Application eForm](Erasmus/ApplicationForm.pdf) (requires recent Acrobat
   Reader that understands forms - not available for Linux)
   * [Printable Version](Erasmus/ApplicationForm-Print.pdf) of the current state.
