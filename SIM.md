@@ -12,9 +12,10 @@ title: SIM
     2020.  A signed and scanned version is sufficient.
 * [Application eForm](Erasmus/ApplicationForm.pdf) (requires recent Acrobat
   Reader that understands forms - not available for Linux)
+  * [Printable Version](Erasmus/ApplicationForm-Print.pdf) of the current state.
 * [Detailed Project Description](Erasmus/detailed_project_description.pdf), to
-  be delivered as annex of the proposal
-  * The current state (26.01.2020)
+  be delivered as annex of the eForm
+  * The current state (04.02.2020)
   * Part 0. - due 17.02.2020
   * Part 1,2,4,5. "General Nonsense" - due 03.02.2020
   * Part 3. "Partner Descriptions" - due 03.02.2020
