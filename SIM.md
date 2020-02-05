@@ -51,6 +51,7 @@ documents to sign this declaration are
 * the application, including the budget plan
 * funding notification from the Dean of the Faculty (in preparation)
 * partner letters of the full partners.
+* Due on 20 Febr 2020.
 
 Here is the external link to the documents to be uploaded in the Participant
 Register of the Funding & Tender Opportunities Portal:
