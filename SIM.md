@@ -55,6 +55,10 @@ documents to sign this declaration are
 Here is the external link to the documents to be uploaded in the Participant
 Register of the Funding & Tender Opportunities Portal:
 <https://eacea.ec.europa.eu/erasmus-plus/funding/knowledge-alliances-2020_en>
+* See "Guidelines" over there, in particular General and Special Conditions
+* Documents to be delivered during the project: <https://eacea.ec.europa.eu/erasmus-plus/beneficiaries-space/knowledge-alliances-2019_en>
+* See also instructions over there.
+
 
 ## What do we expect from an industrial partner
 
