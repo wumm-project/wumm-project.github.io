@@ -8,16 +8,15 @@ title: SIM
 ## Our Deliveries we are working on
 
 * [Partner Letter](Erasmus/intent.doc) - a template
-  * Please supply your partner letter to Hans-Gert Gräbe, UL until
-    Jan 31, 2020. A signed and scanned version is sufficient.
+  * A signed and scanned version is sufficient.
+  * Delivered by Arxia, HSO, Jantschgi, TIM
 * [Application eForm](Erasmus/ApplicationForm.pdf) (requires recent Acrobat
   Reader that understands forms - not available for Linux)
   * [Printable Version](Erasmus/ApplicationForm-Print.pdf) of the current state.
   * First preparation - due 03.02.2020
   * Final preparation - due 17.02.2020
 * [Detailed Project Description](Erasmus/detailed_project_description.pdf), to
-  be delivered as annex of the eForm
-  * The current state (04.02.2020)
+  be delivered as annex of the eForm. Version of 09.02.2020
   * Part 0. - due 17.02.2020
   * Part 1,2,4,5. "General Nonsense" - due 03.02.2020
   * Part 3. "Partner Descriptions" - due 03.02.2020
@@ -32,9 +31,9 @@ Full partners are required
 * to have a __PIC__ within the EU Database
   * PIC is a 9-digit code required for an organisation to participate in a EU
     funded project. [More](https://ec.europa.eu/research/participants/docs/h2020-funding-guide/grants/applying-for-funding/register-an-organisation/registration-of-organisation_en.htm)
-* are requested to take the lead of Work Packages.
 * HEI full partners must have additionally a valid __ERASMUS Charter ECHE__
   (Program Guide, p. 320). This was positively checked for all HEI partners.
+* Supply your [Partner Letter](Erasmus/intent.doc) to ULEI.
 
 If the proposal will be selected moreover a __mandate letter__ from each full
 partner to the applicant is required in due time. Being successful with our
@@ -46,8 +45,9 @@ agreement.
 * The correct template has yet to be identified. 
 
 The __Declaration of Honour__ has finally to be signed by the authorities of
-the applicant, i.e., the rector's office of Leipzig University.  Required
-documents to sign this declaration are
+the applicant, i.e., the rector's office of Leipzig University. This is
+planned to submit on 20 Febr 2020. Required documents to sign this declaration
+are
 * the application, including the budget plan
 * funding notification from the Dean of the Faculty (in preparation)
 * partner letters of the full partners.
@@ -55,6 +55,9 @@ documents to sign this declaration are
 Here is the external link to the documents to be uploaded in the Participant
 Register of the Funding & Tender Opportunities Portal:
 <https://eacea.ec.europa.eu/erasmus-plus/funding/knowledge-alliances-2020_en>
+* See "Guidelines" over there, in particular General and Special Conditions
+* Documents to be delivered during the project: <https://eacea.ec.europa.eu/erasmus-plus/beneficiaries-space/knowledge-alliances-2019_en>
+* See also instructions over there.
 
 ## What do we expect from an industrial partner
 
@@ -101,14 +104,6 @@ Benefits are:
   important for the future of companies at large (Samsung understood this
   already 20 years ago)
 
-Time expenditures:
-* no idea yet, but scalable (a WP schedule has yet to be compiled)
-* Schaeffler's contribution: 3.5 PM
-
-Costs:
-* eligible costs from the project budget (see below) do not cover the whole
-  business, so also here: no idea yet, but scalable.
-
 ## Background
 
 Evaluating different opportunities the ERASMUS+ Key Action 2 Programme
@@ -120,30 +115,10 @@ The focus of the action is on cooperation between Programme Countries but
 organisations from Partner Countries can also be involved, if the added value
 is appropriately expressed. (Programme Guide, p. 133)
 
-Full Partners:
-* Leipzig University (applicant, coordination), Germany - Gräbe, Neumuth - HEI
-* INSA Strasbourg, France - Cavallucci - HEI
-* HS Offenburg, Germany - Livotov - HEI
-* BUT Brno, Czech Republic - Busov - HEI
-* UTC Cluj-Napoca, Romania - Brad - HEI
-* LUT Lappeenranta, Finland - Chechurin - HEI
-* HTL Wolfsberg, Austria - Jantschgi - ORG (vocational education with strong
-  relation to SIM) 
-* Schaeffler AG, Germany - Lau, Fuhrmann - Industry
-* Arxia SRL, Romania - Homorodean - SME 
-* Tehnoprod Plast SRL, Romania - Moraru - SME 
-* Target Innovation Minsk, Belarus - Shpakovski - SME from Partner Country
-* NPK Consult Moscow, Russia - Redkolis - SME from Partner Country
-* BM TRIZ Chelyabinsk, Russia - Kozhemyako, Pokalo - SME from Partner Country
+For the current state of the preparation of the application see the 
+[Detailed Project Description](Erasmus/detailed_project_description.pdf).
 
-Trainings in "Systematic Innovation Methodologies" address "cross cutting"
-methodological skills that are useful for engineers, computer scientists and
-other professionals, hence fit "developing entrepreneurship mind-set and
-skills" (Programme Guide, p. 106) and should be included as "general studies"
-in the curricula of different specialities.  The content of such programs
-should be developed and coordinated in close coordination with the needs of
-industry application partners.
-
+From the call:
 * "Knowledge Alliances implement a coherent and comprehensive set of
   interconnected activities which are flexible and adaptable to different
   current and future contexts and developments across Europe".
@@ -285,56 +260,6 @@ This could serve as guideline to compile our application as a curricular
 development and coordination activity in a wide sense taking the aims and
 priorities as guardrails and the cross-sectional tasks as beacons. 
 
-### Organisational Aspects
-
-The call is open since 14 Nov 2019, the deadline is 26 Febr 2020, so it is
-very sportive to compile an application in the remaining time.
-
-We identified 
-
-* The __Applicant/coordinator__: a participating organisation that submits the
-  project proposal on behalf of all the partners. The coordinator has the full
-  responsibility to ensure that the project is implemented in accordance with
-  the agreement.
-  * The Leipzig University serves as coordinator (main coordination by
-    Prof. Thomas Neumuth, support by Prof. Hans-Gert Gräbe). 
-* __Full partners__ are those participating organisations which contribute
-  actively to the achievement of the Knowledge Alliance's objectives. Each
-  full partner must sign a mandate to confer to the coordinating organisation
-  the responsibility of acting as main beneficiary and act in his name during
-  the implementation of the project. The same applies for partners from
-  Partner Countries.  
-  * See the above listing.
-  * Open problems: PICs for the partners from Partner Countries, at least one
-    more industrial partner from the Programme Countries.
-* __Associated partners__ (optional): Knowledge Alliances can involve
-  associated partners who contribute to the implementation of specific project
-  tasks/activities or support the dissemination and sustainability of the
-  Alliance. For contractual management issues, “associated partners” are not
-  considered as part of the project partners, and they do not receive funding.
-  However their involvement and role in the project and different activities
-  have to be clearly described.
-  * The evaluation WP is planned to hand over to a certain consortium of
-    Chambers of Industry and Commerce. 
-
-All relevant problems are best to be discussed on our
-[mailing list](http://lists.informatik.uni-leipzig.de/mailman/listinfo/ttn).
-
-### Eligible Costs (see p. 138-141 in the Programme Guide)
-
-* __Project implementation__ - project management, project meetings,
-  intellectual outputs (e.g. curricula, IT tools, studies), dissemination,
-  conference attendance etc.
-  - Determination of the EU grant based on number of days times profile of the 
-    personnel from the individual countries (unit costs)
-  - Does usually not cover all costs
-* (optional): Additionally for __learning mobility activities__ (e.g. exchange
-  of students, scientists, university and company staff) to support the
-  project. 
-  - Travel costs (unit costs) and subsistence costs (unit costs)
-  - It is recommended to use also Key Action 1 programs to support individual
-    mobility (Programme Guide, p. 134).  
-
 ### Hints for a sound application
 
 Content:
@@ -364,41 +289,6 @@ Form:
   application it cannot be taken into account)
 * Circumscribed (a proposal is not about solving the world’s problems, but
   about solving a specific issue)
-
-### The Application Package
-
-The Application Package will be written in English and consists of several
-compulsory documents, the content of which is summarised below:
-* [eForm](https://eacea.ec.europa.eu/PPMT/)
-* [Detailed Project Description](Erasmus/detailed_project_description.docx)
-* [Detailed Budget Tables and Work Packages Overview](Erasmus/detailed_budget.xslx)
-* [Declaration on Honour](Erasmus/declaration_of_honour-template.docx)
-
-The **eForm** provides mainly the administrative and general information on
-the project.
-
-The **Detailed Project Description** is structured as follows:
-- Part 0. Project summary and involvement in previous relevant projects
-- Part I. Project relevance
-- Part II. Quality of the project design and implementation
-- Part III.Quality of the partnership , the team and the cooperation
-  arrangements 
-- Part IV. Impact, dissemination, exploitation and sustainability
-- Part V. Specific arrangements regarding learning mobility (if applicable)
-- Part VI. Additional project information (if applicable)
-- Part VII. Work plan and work packages
-
-The **Detailed Budget Tables and Work Packages Overview** (Excel template)
-provides the details of all planned expenditures and the overview and planning
-of all Work packages. It contains the following tabs:
-- Sheet 1: I and II. Overview
-- Sheet 2: III. Project implementation support
-- Sheet 3: IV. Learning mobility activities
-- Sheet 4. V. Work packages overview
-
-The **Declaration on Honour** must be signed by the legal representative of
-the applicant organisation on behalf of all participating organisations,
-scanned (PDF, TIFF, JPEG) and attached to the eForm.
 
 ### Some Arguments Useful for the Application
 
@@ -498,4 +388,4 @@ __Bohuslav Busov__ (18.12.2019)
   2017, J. Belski invited Livotov, Chechurin, Cascini, Dobruskin, Berdonosov,
   Busov).
 
-Hans-Gert Gräbe - Last update 26 Jan 2020
+Hans-Gert Gräbe - Last update 09 Febr 2020
