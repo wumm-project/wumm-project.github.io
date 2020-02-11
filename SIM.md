@@ -23,7 +23,7 @@ title: SIM
   * Part 7. "Work Packages - content" - due 10.02.2020
   * Part 7. "Work Packages - time and cost schedule" - due 17.02.2020
   * Part 8. "Associated Partners" - due 10.02.2020
-* [Detailed Budget Plan](Erasmus/detailed_budget.pdf), to be delivered as
+* [Detailed Budget Plan](Erasmus/detailed_budget.xslx), to be delivered as
   annex of the eForm
   * Based on Part 7 final - due 17.02.2020
 
