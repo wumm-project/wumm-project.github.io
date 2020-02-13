@@ -11,29 +11,30 @@ title: SIM
   * A signed and scanned version is sufficient.
   * Delivered by Arxia, HSO, Jantschgi, TIM
 * [Application eForm](Erasmus/ApplicationForm.pdf) (requires recent Acrobat
-  Reader that understands forms - not available for Linux)
-  * [Printable Version](Erasmus/ApplicationForm-Print.pdf) of the current state.
-  * First preparation - due 03.02.2020
+  Reader that understands forms - not available for Linux)  
+  * [Printable Version](Erasmus/ApplicationForm-Print.pdf) of the current
+    state.  Preliminary Version, regularly updated.  
   * Final preparation - due 17.02.2020
 * [Detailed Project Description](Erasmus/detailed_project_description.pdf), to
-  be delivered as annex of the eForm. Version of 09.02.2020
+  be delivered as annex of the eForm. Preliminary Version, regularly updated.
   * Part 0. - due 17.02.2020
-  * Part 1,2,4,5. "General Nonsense" - due 03.02.2020
-  * Part 3. "Partner Descriptions" - due 03.02.2020
-  * Part 7. "Work Packages - content" - due 10.02.2020
+  * Part 1,2,4,5. "General Nonsense" - due 17.02.2020
+  * Part 3. "Partner Descriptions" - due 10.02.2020
+  * Part 7. "Work Packages - content" - due 17.02.2020
   * Part 7. "Work Packages - time and cost schedule" - due 17.02.2020
-  * Part 8. "Associated Partners" - due 10.02.2020
+  * Part 8. "Associated Partners" - none
 * [Detailed Budget Plan](Erasmus/detailed_budget.pdf), to be delivered as
-  annex of the eForm
+  annex of the eForm  
+  * [Budget Distribution](Erasmus/BudgetDistribution.pdf) - preliminary, see
+    the explanations in the current file WP.pdf on the list  
   * Based on Part 7 final - due 17.02.2020
 
 Full partners are required
-* to have a __PIC__ within the EU Database
-  * PIC is a 9-digit code required for an organisation to participate in a EU
-    funded project. [More](https://ec.europa.eu/research/participants/docs/h2020-funding-guide/grants/applying-for-funding/register-an-organisation/registration-of-organisation_en.htm)
+* to have a __PIC__ within the EU Database (ready)
 * HEI full partners must have additionally a valid __ERASMUS Charter ECHE__
   (Program Guide, p. 320). This was positively checked for all HEI partners.
 * Supply your [Partner Letter](Erasmus/intent.doc) to ULEI.
+  * Open for INSA and Schaeffler.
 
 If the proposal will be selected moreover a __mandate letter__ from each full
 partner to the applicant is required in due time. Being successful with our
