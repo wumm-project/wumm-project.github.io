@@ -8,42 +8,35 @@ title: SIM
 ## Our Deliveries we are working on
 
 * [Partner Letter](Erasmus/intent.doc) - a template
-  * A signed and scanned version is sufficient.
-  * Delivered by Arxia, HSO, Jantschgi, TIM
+  * Internally requested by the administration of Leipzig University to sign
+    the application form. A signed and scanned version is sufficient.
+  * Delivered by all partners but Schaeffler.
 * [Application eForm](Erasmus/ApplicationForm.pdf) (requires recent Acrobat
   Reader that understands forms - not available for Linux)  
   * [Printable Version](Erasmus/ApplicationForm-Print.pdf) of the current
     state.  Preliminary Version, regularly updated.  
-  * Final preparation - due 17.02.2020
+  * Final version - due 20.02.2020 
 * [Detailed Project Description](Erasmus/detailed_project_description.pdf), to
   be delivered as annex of the eForm. Preliminary Version, regularly updated.
-  * Part 0. - due 17.02.2020
-  * Part 1,2,4,5. "General Nonsense" - due 17.02.2020
-  * Part 3. "Partner Descriptions" - due 10.02.2020
-  * Part 7. "Work Packages - content" - due 17.02.2020
-  * Part 7. "Work Packages - time and cost schedule" - due 17.02.2020
-  * Part 8. "Associated Partners" - none
+  * Final version - due 20.02.2020
 * [Detailed Budget Plan](Erasmus/detailed_budget.pdf), to be delivered as
   annex of the eForm  
-  * [Budget Distribution](Erasmus/BudgetDistribution.pdf) - preliminary, see
-    the explanations in the current file WP.pdf on the list  
-  * Based on Part 7 final - due 17.02.2020
+  * 18.02.2020: final
+* [Work Packages and Budget Distribution](WP.pdf) - project internal document,
+  a more detailed description of the plans in Epics and Stories (along the
+  SCRUM methodology) and the Budget Distribution of the KA grant in support of
+  these objectives.  
+  * Upon success of our proposal the upcoming Project Plan will be based on
+    that document.
+  * 17.02.2020: final 
 
-Full partners are required
-* to have a __PIC__ within the EU Database (ready)
-* HEI full partners must have additionally a valid __ERASMUS Charter ECHE__
-  (Program Guide, p. 320). This was positively checked for all HEI partners.
-* Supply your [Partner Letter](Erasmus/intent.doc) to ULEI.
-  * Open for INSA and Schaeffler.
-
-If the proposal will be selected moreover a __mandate letter__ from each full
-partner to the applicant is required in due time. Being successful with our
+If the proposal will be selected a __mandate letter__ from each full partner
+to the applicant is required in due time. Being successful with our
 application we have only 4 weeks to collect all documents and sign the
-agreement. 
+agreement.
 * "Mandate letters signed by the partners are a contractual requirement and
   will therefore be requested after the selection of proposals, prior to the
   signature of the relevant grant agreements with the selected projects".
-* The correct template has yet to be identified. 
 
 The __Declaration of Honour__ has finally to be signed by the authorities of
 the applicant, i.e., the rector's office of Leipzig University. This is
