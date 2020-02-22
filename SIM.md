@@ -14,11 +14,11 @@ title: SIM
 * [Application eForm](Erasmus/ApplicationForm.pdf) (requires recent Acrobat
   Reader that understands forms - not available for Linux)  
   * [Printable Version](Erasmus/ApplicationForm-Print.pdf) of the current
-    state.  Preliminary Version, regularly updated.  
-  * Final version - due 20.02.2020 
+    state.  
+  * 20.02.2020: final 
 * [Detailed Project Description](Erasmus/detailed_project_description.pdf), to
   be delivered as annex of the eForm. Preliminary Version, regularly updated.
-  * Final version - due 20.02.2020
+  * Final version - due 24.02.2020
 * [Detailed Budget Plan](Erasmus/detailed_budget.pdf), to be delivered as
   annex of the eForm  
   * 18.02.2020: final
