@@ -5,7 +5,7 @@ title: SIM
 
 # Towards a proposal for an ERASMUS+ Knowledge Alliance "Systematic Innovation Methodologies" (SIM)
 
-## Our Deliveries we are working on
+## The proposal was successfully submitted on 25 Febr 2020. 
 
 * [Partner Letter](Erasmus/intent.doc) - a template
   * Internally requested by the administration of Leipzig University to sign
@@ -16,18 +16,19 @@ title: SIM
   * [Printable Version](Erasmus/ApplicationForm-Print.pdf) of the current
     state.  
   * 20.02.2020: final 
-* [Detailed Project Description](Erasmus/detailed_project_description.pdf), to
-  be delivered as annex of the eForm. Preliminary Version, regularly updated.
-  * Final version - due 24.02.2020
-* [Detailed Budget Plan](Erasmus/detailed_budget.pdf), to be delivered as
-  annex of the eForm  
+* [Detailed Project Description](Erasmus/detailed_project_description.pdf)
+  * 25.02.2020: final 
+* [Detailed Budget Plan](Erasmus/detailed_budget.pdf)
   * 18.02.2020: final
 * [Work Packages and Budget Distribution](WP.pdf) - project internal document,
   a more detailed description of the plans in Epics and Stories (along the
   SCRUM methodology) and the Budget Distribution of the KA grant in support of
-  these objectives.  
+  these objectives.
   * Upon success of our proposal the upcoming Project Plan will be based on
-    that document.
+    that document. Together with a Release Plan and a Dissemination Plan these
+    constitute the main project management documents beyond the individual
+    sprints as 6-month slices of the implementation of concrete project goals
+    in order to put the agile character of our project into manageable paths.
   * 17.02.2020: final 
 
 If the proposal will be selected a __mandate letter__ from each full partner
@@ -382,4 +383,4 @@ __Bohuslav Busov__ (18.12.2019)
   2017, J. Belski invited Livotov, Chechurin, Cascini, Dobruskin, Berdonosov,
   Busov).
 
-Hans-Gert Gräbe - Last update 09 Febr 2020
+Hans-Gert Gräbe - Last update 26 Febr 2020
