@@ -3,14 +3,13 @@ layout: default
 title: SIM
 ---
 
-# Towards a proposal for an ERASMUS+ Knowledge Alliance "Systematic Innovation Methodologies" (SIM)
+# Towards an ERASMUS+ Knowledge Alliance "Systematic Innovation Methodologies" (SIM)
 
 ## The proposal was successfully submitted on 25 Febr 2020. 
 
 * [Partner Letter](Erasmus/intent.doc) - a template
   * Internally requested by the administration of Leipzig University to sign
     the application form. A signed and scanned version is sufficient.
-  * Delivered by all partners but Schaeffler.
 * [Application eForm](Erasmus/ApplicationForm.pdf) (requires recent Acrobat
   Reader that understands forms - not available for Linux)  
   * [Printable Version](Erasmus/ApplicationForm-Print.pdf) of the current
@@ -39,22 +38,12 @@ agreement.
   will therefore be requested after the selection of proposals, prior to the
   signature of the relevant grant agreements with the selected projects".
 
-The __Declaration of Honour__ has finally to be signed by the authorities of
-the applicant, i.e., the rector's office of Leipzig University. This is
-planned to submit on 20 Febr 2020. Required documents to sign this declaration
-are
-* the application, including the budget plan
-* funding notification from the Dean of the Faculty (in preparation)
-* partner letters of the full partners.
-
 Here is the external link to the documents to be uploaded in the Participant
 Register of the Funding & Tender Opportunities Portal:
-<https://eacea.ec.europa.eu/erasmus-plus/funding/knowledge-alliances-2020_en>
-* See "Guidelines" over there, in particular General and Special Conditions
-* Documents to be delivered during the project: <https://eacea.ec.europa.eu/erasmus-plus/beneficiaries-space/knowledge-alliances-2019_en>
-* See also instructions over there.
+* <https://eacea.ec.europa.eu/erasmus-plus/funding/knowledge-alliances-2020_en>
+* <https://eacea.ec.europa.eu/erasmus-plus/beneficiaries-space/knowledge-alliances-2019_en>
 
-## What do we expect from an industrial partner
+## What do we expect from industrial partners
 
 Ideally, the contribution should be sharpened in the project itself in a WP
 that it can be processed. The six points below in the "hints for a sound
@@ -110,9 +99,6 @@ The focus of the action is on cooperation between Programme Countries but
 organisations from Partner Countries can also be involved, if the added value
 is appropriately expressed. (Programme Guide, p. 133)
 
-For the current state of the preparation of the application see the 
-[Detailed Project Description](Erasmus/detailed_project_description.pdf).
-
 From the call:
 * "Knowledge Alliances implement a coherent and comprehensive set of
   interconnected activities which are flexible and adaptable to different
@@ -128,7 +114,6 @@ Relevant Links:
 * [KA Partner Search page](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/epp-ka-2020)
 * [List of selected Proposals 2019](https://eacea.ec.europa.eu/sites/eacea-site/files/list_of_selected_proposals.pdf)
 * [What to do in order to submit an Erasmus+ Application?](https://ec.europa.eu/programmes/erasmus-plus/programme-guide/part-c/what-to-do_en)
-
 
 Local savings:
 * [Programme Guide](Erasmus/erasmus-plus-programme-guide-2020_en.pdf)
@@ -168,36 +153,6 @@ on the Renewed EU Agenda for Higher Education, namely:
 * ensuring higher education institutions contribute to innovation;
 * supporting effective and efficient higher education systems.
 
-Additional emphasis is placed on making use of existing initiatives, and on
-the intelligent use of digital tools as recommended in the 2013 EU
-Communication on Opening Up Education.
-
-The Programme Guide contains a list of key features
-* __Innovation__ in higher education and innovation through higher education
-  in enterprises; 
-* __Sustainability__ of university-business cooperation. A strong and
-  committed partnership with a balanced participation from enterprises and
-  higher education institutions;
-* __Impact__ going beyond the project's lifetime and beyond the organisations
-  involved in the Alliance; 
-
-which must convincingly present in a successful application. 
-
-The Guide emphasizes that "Knowledge Alliances are a highly competitive part of
-Erasmus+". Common attributes of successful proposals are:
-* reliable relations between higher education institutions and enterprises:
-  Knowledge Alliances have to demonstrate the commitment and added value of
-  all partners, whereby strong and balanced involvement from both the business
-  and higher education sectors is essential. A well designed proposal is the
-  result of close cooperation between the prospective partners and based on a
-  solid needs analysis;
-* their innovative and transnational character, visible across all criteria.
-
-A proper needs-analysis clarifies the rationale, influences the selection of
-partners, makes the proposal specific, helps to raise the potential for impact
-and ensures that end-user and target groups are well involved in the project
-activities.
-
 ### Award Criteria
 
 * Relevance of the proposal (Purpose, Consistency, Innovation, European added
@@ -235,55 +190,6 @@ activities.
 * Additionally, Knowledge Alliances should budget for the presentation of
   their project and the results at the __University-Business Forum__ and/or
   other relevant events (up to five during the project duration).
-
-### Ideas on Substantive Sharpening of the Application Content
-
-In the Programme Guide a special example "Developing entrepreneurial mind-set
-and skills" is described with the following content:
-* creating schemes of transversal skills learning and application throughout
-  higher education programmes developed in cooperation with enterprises aiming
-  at strengthening employability, creativity and new professional paths;
-* introducing entrepreneurship education in any discipline to provide
-  students, researchers, staff and educators with the knowledge, skills and
-  motivation to engage in entrepreneurial activities in a variety of settings;
-* opening up new learning opportunities through the practical application of
-  entrepreneurial skills, which can involve and/or lead to the
-  commercialisation of new services, products and prototypes, to the creation
-  of start-ups and spin-offs.
-
-This could serve as guideline to compile our application as a curricular
-development and coordination activity in a wide sense taking the aims and
-priorities as guardrails and the cross-sectional tasks as beacons. 
-
-### Hints for a sound application
-
-Content:
-* __Solid needs analysis:__ detailed and convincing explanations,
-  participation of all partners.
-* Clearly emphasize __benefits for all partners__ - starting already from the
-  application phase.
-* Focus on __innovation__.
-* __Quality of the project team__ and cooperation agreements: Show the
-  complementarity of partners, clear division of tasks, effective mechanisms
-  for coordination and communication. 
-* __Consortium - companies__: companies are actively involved and show solid
-  results, commitment and intention of a long-lasting partnership with the
-  HEI.
-* __Impact and Sustainability__: explain the short and long-term impact of the
-  project plan, plan a sustainability strategy from the very beginning.
-
-Form:
-* Coherent (problems, solutions, target groups, activities, budget,
-  ambitions/resources/competence)
-* Simple (objectives, approach)
-* Evidence based (ex-ante needs analysis, state of art)
-* Clear (identifying the need for such a proposal, solutions, and outputs)
-* Rigorous in its planning (which activities, when, for how long, and with
-  what resources)
-* Explicit (do not take for granted any information, if it is not in the
-  application it cannot be taken into account)
-* Circumscribed (a proposal is not about solving the world’s problems, but
-  about solving a specific issue)
 
 ### Some Arguments Useful for the Application
 
@@ -337,50 +243,5 @@ __Bohuslav Busov__ (18.12.2019)
   environment“ (Anatolij Gin, Irina Andrzheevskaja). It is a unique book about
   „clever“ solutions inside fauna and flora. Book for children in nursery
   schools and first year of primary schools.
-* Only shortly and briefly about activites and outcomes of the ERASMUS+
-  Knowledge Alliance Project for this moment:
-  - Team work on selection of the best topics and subtopics from TRIZ for
-    teaching and learning study materials, instructional cases, methodical
-    recommendations for teachers and users,…  
-  - Acessible materials for teachers, students, individual engineers and
-    innovative (ambitous) companies.
-  - Coordination of activities and cooperation with people, institutions and
-    companies interested in improving motivation and solving potential of man
-    through not only systematic approach on the start of innovation process
-    but also in the frame of synthetic creative phases where methodical
-    support by TRIZ instrumetarium is unusual, inspirative and usual
-    surprising even for experienced people.  
-  - Popularization workshops prepared and organized by TU, or IHK, or
-    consultancy firms - for any interested audience.
-* Most Technical Universities from Czech Republic can be engaged as applicants
-  of project results (Prague, Pilsen, Liberec, Ostrava, Slovakia: Bratislava,
-  Žilina, Kosice) where I have good long time contacts with our dean (ČVUT
-  Prague), or vice-deans (TU Ostrava) or with enthusiasts attempting teach
-  something from TRIZ. I had many popular lectures in these universities
-  during the last years for students and teachers. Many texts, translated
-  books, .ppt sequencies - used in TU and in companies - in CR went out from
-  my „translation pen“. That is why I do not see problems with implementation
-  of planned project outcomes. As an attachment see a Graph showing answers
-  mostly of companies engineers what they are thinking after short popular
-  (informative) introducionary seminars (2-3 hours) as well as after 2+1 days
-  educational activities inside companies. From my point of view these answers
-  are also relevant documents about Targed groups and Needs of Analysis.  
 
-* My lectures aroud TRIZ started 1996. Feedback of students (Mgr) is very
-  positive. I am going to offer TRIZ courses not only for students of two
-  departments (til this time), but also for all students and PhD students on
-  FEEC (fakulty of electrical engineering and communication) and also as
-  optional course for all students of BUT (other faculties: machinery, civil,
-  architecture, informatics, business). Of course it is not easy for students
-  to choose such a course if they do not know about the potential of TRIZ for
-  their future practice… Serious popularization and well elaborated study
-  material is not a trivial task in the proposed project.
-  - [Survey](Erasmus/Busov-20191218-Survey.pdf) on more than 2000 TRIZ
-    training participants which were interviewed about the benefits of TRIZ.
-* Addendum 20.12.2019: Some additional remarks about my standpoints you find
-  in a [paper](Erasmus/Busov-2017.pdf) and a
-  [presentation](Erasmus/Busov-Slides-2017.pdf) prepared for Australia (end
-  2017, J. Belski invited Livotov, Chechurin, Cascini, Dobruskin, Berdonosov,
-  Busov).
-
-Hans-Gert Gräbe - Last update 26 Febr 2020
+Hans-Gert Gräbe - Last update 29 Febr 2020
