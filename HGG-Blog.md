@@ -5,6 +5,13 @@ title: HGG-Blog
 
 # HGG's Blog
 
+## March 9, 2020:
+
+Valeri Souchkov about the role of ideas for solutions in complex challenges in
+a post on his Facebook channel.
+
+[Russian Original](https://www.facebook.com/valeri.souchkov/posts/10213730778098808), [English translation](2020-03-09 "wikilink").
+
 ## January 17, 2020:
 
 Антон Кожемяко: интервью про ТРИЗ [мифы, возможности, тренды] (Anton
