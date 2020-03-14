@@ -42,6 +42,20 @@ That remains to be explored.
   * The MMC has had a lasting impact on Russian systems thinking particularly
     through the Methodological School of Management
   * <https://shchedrovitskiy.com/predislovie-k-8-chtenijam-pamjati-g-p-shchedrovitskogo/>
+  * The dance of horses. Film about the life of G.P. (in Russian)
+    * <https://www.youtube.com/watch?v=GFGfm3posdw>    
+    * "The organization of thought and practice changes from a scientific form
+      of organization to a methodological form of organization. Just as the
+      scientific form was strongly dominant in the last 300 years, the
+      methodological form will be strongly dominant in the future."      
+    * "Today we have to divide the world into the world of thinking and the
+      naturalistic world, whereby the world of thinking is primary and the
+      naturalistic world is nothing but a construction of the naturalists."
+  * Each year at Febr 23, the birthday of G.P., there is a reading in Moscow
+    in memory of G.P., organized by the [G.P. Fonds](https://www.fondgp.ru/).
+    Ludmila Golubkova has published a summary of this event.
+    * <https://www.facebook.com/liudmila.golubkova/posts/2667428350051869>
+    * <https://www.youtube.com/watch?v=BKQRlwIyKgc>
 * [Петр Георгиевич Щедровицкий](https://shchedrovitskiy.com/) - the son
   * Что есть мышление? Понятие и рабочая гипотеза ММК (What is thinking? The
     concept and working hypothesis of MMK)
