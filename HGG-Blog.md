@@ -42,6 +42,7 @@ That remains to be explored.
   * The MMC has had a lasting impact on Russian systems thinking particularly
     through the Methodological School of Management
   * <https://shchedrovitskiy.com/predislovie-k-8-chtenijam-pamjati-g-p-shchedrovitskogo/>
+  * [Методологическая школа управления](https://www.facebook.com/groups/877563105594553)
   * The dance of horses. Film about the life of G.P. (in Russian)
     * <https://www.youtube.com/watch?v=GFGfm3posdw>    
     * "The organization of thought and practice changes from a scientific form
