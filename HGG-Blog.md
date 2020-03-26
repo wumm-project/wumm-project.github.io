@@ -41,8 +41,8 @@ That remains to be explored.
     the activity applied to them.
   * The MMC has had a lasting impact on Russian systems thinking particularly
     through the Methodological School of Management
+    * [Методологическая школа управления](https://www.facebook.com/groups/877563105594553)
   * <https://shchedrovitskiy.com/predislovie-k-8-chtenijam-pamjati-g-p-shchedrovitskogo/>
-  * [Методологическая школа управления](https://www.facebook.com/groups/877563105594553)
   * The dance of horses. Film about the life of G.P. (in Russian)
     * <https://www.youtube.com/watch?v=GFGfm3posdw>    
     * "The organization of thought and practice changes from a scientific form
@@ -52,6 +52,10 @@ That remains to be explored.
     * "Today we have to divide the world into the world of thinking and the
       naturalistic world, whereby the world of thinking is primary and the
       naturalistic world is nothing but a construction of the naturalists."
+  * О философии Г.П. Щедровицкого беседуют Искандер Валитов и Павел Фокин
+    * <https://www.youtube.com/watch?v=qvTAygP2DuM>
+    * About a theory of collective thinking, ontology of practice.
+  * <https://www.youtube.com/watch?v=93kVUECuhIk>
   * Each year at Febr 23, the birthday of G.P., there is a reading in Moscow
     in memory of G.P., organized by the [G.P. Fonds](https://www.fondgp.ru/).
     Ludmila Golubkova has published a summary of this event.
