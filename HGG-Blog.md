@@ -5,6 +5,20 @@ title: HGG-Blog
 
 # HGG's Blog
 
+## April 8, 2020:
+
+Anatoly Agulyansky shared in the
+[TRIZ Facebook Group](https://www.facebook.com/groups/111602085556371)
+the following link to <https://www.priz.guru> about
+[Fundamental and Auxiliary Root Causes](https://www.priz.guru/a-root-cause-analysis-using-priz-innovation-platform)
+published on September 26, 2019.
+
+On the TRIZ Facebook channel a reminder to a [2003 paper on application of
+TRIZ principles within the SARS
+epidemy](https://triz-journal.com/sars-40-principles-eliminating-technical-contradictions-creative-singapore/)
+published in the TRIZ Journal was posted showing that using TRIZ principles is
+widespread, even if unconscious.
+
 ## March 9, 2020:
 
 Valeri Souchkov about the role of ideas for solutions in complex challenges in
