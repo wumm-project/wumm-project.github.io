@@ -49,6 +49,10 @@ otherwise.  May be removed in a later version.
 * Rainer Thiel: Wie wird Dialektik nutzbar als Heuristik? (How is dialectic
   usable as a heuristic?) EWE 17 (2006) 2: 230–233.
   [pdf, in German](Texts/HegelHoerz-05.pdf).
+* Rainer Thiel: Zur Lehrbarkeit dialektischen Denkens – Chance der
+  Philosophie, Mathematik und Kybernetik helfen (On the Teachability of
+  Dialectical Thinking - Chance of Philosophy, Mathematics and Cybernetics
+  help). Manuscript 2007. [pdf, in German](Texts/Thiel-07.pdf).
 * Rainer Thiel: Hegel, Altschuller, TRIZ. LIFIS-ONLINE 25.09.2016.
   [pdf, in German](Texts/Thiel-16a.pdf).
   [Source](http://dx.doi.org/10.14625/thiel_20160925)
