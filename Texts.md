@@ -55,8 +55,8 @@ otherwise.  May be removed in a later version.
   help). Manuscript 2007. [pdf, in German](Texts/Thiel-07.pdf).
 * Rainer Thiel: Hegel, Altschuller, TRIZ. LIFIS-ONLINE 25.09.2016.
   [pdf, in German](Texts/Thiel-16a.pdf).
-  [Source](http://dx.doi.org/10.14625/thiel_20160925)
+  [Link to the original publication](http://dx.doi.org/10.14625/thiel_20160925)
 * Rainer Thiel: Erfinderschulen – Problemlöse-Workshops.  Projekt und Praxis.
   (Inventor schools - problem solving workshops. Project and practice).
   LIFIS-ONLINE 03.07.2016. [pdf, in German](Texts/Thiel-16.pdf).
-  [Source](http://dx.doi.org/10.14625/thiel_20160703)
+  [Link to the original publication](http://dx.doi.org/10.14625/thiel_20160703)
