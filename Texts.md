@@ -38,6 +38,12 @@ otherwise.  May be removed in a later version.
   Manuscript, 6.11.2019.
   * [Deutsche Übersetzung](Texts/Rubin-19-de.pdf)
 
+* Leonid Shub (2006-07): Осторожно! Таблица технических противоречий (Be
+  careful! Table of technical contradictions.)
+  * [Text in 11 parts](http://metodolog.ru/conference.html) in Russian
+  * [Vorsicht Widerspruchsmatrix](Texts/Shub-2006.pdf) Kurzfassung in Deutsch
+  * [Wie viele Väter hat die TRIZ?](Texts/Shub-2007.pdf) in Deutsch
+
 * Vladimir I. Vernadsky (1936-38): Научная мысль как планетное явление
   (Scientific Thought as a Planetary Phenomenon)
   * [Russian Edition](http://vernadsky.name/wp-content/uploads/2013/01/thought.pdf)
