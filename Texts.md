@@ -46,9 +46,7 @@ otherwise.  May be removed in a later version.
 
 * Vladimir I. Vernadsky (1936-38): Научная мысль как планетное явление
   (Scientific Thought as a Planetary Phenomenon)
-  * [Russian Edition](http://vernadsky.name/wp-content/uploads/2013/01/thought.pdf)
-  * [English Translation](http://vernadsky.name/wp-content/uploads/2013/02/Scientific-thought-as-a-planetary-phenomenon-V.I2.pdf)
-    by the Nongovernmental Ecological V.I.Vernadsky Foundation, 1997.
+  * [Russian Edition](http://vernadsky.lib.ru/e-texts/archive/thought.pdf)
   
 ## Texts by Rainer Thiel (in German)
 
