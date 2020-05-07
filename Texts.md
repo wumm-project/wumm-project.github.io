@@ -38,6 +38,11 @@ otherwise.  May be removed in a later version.
   Manuscript, 6.11.2019.
   * [Deutsche Übersetzung](Texts/Rubin-19-de.pdf)
 
+* Nikolay Shpakovsky (2003): Человек и Техническая Система (Man and Technical
+  Systems)
+  * [Russian Original](Texts/Shpakovsky-mts-ru.pdf), see OpenDiscovery for the
+    Source
+
 * Leonid Shub (2006-07): Осторожно! Таблица технических противоречий (Be
   careful! Table of technical contradictions.)
   * [Text in 11 parts](http://metodolog.ru/conference.html) in Russian
