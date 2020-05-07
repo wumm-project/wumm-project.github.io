@@ -42,6 +42,7 @@ otherwise.  May be removed in a later version.
   Systems)
   * [Russian Original](Texts/Shpakovsky-mts-ru.pdf), see OpenDiscovery for the
     Source
+  * [Deutsche Übersetzung](Texts/Shpakovsky-mts-de.pdf)
 
 * Leonid Shub (2006-07): Осторожно! Таблица технических противоречий (Be
   careful! Table of technical contradictions.)
