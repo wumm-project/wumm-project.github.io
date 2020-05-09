@@ -5,6 +5,16 @@ title: HGG-Blog
 
 # HGG's Blog
 
+## May 9, 2020:
+
+There is a continuation of the discussion on the problem "What's the Relation
+of Man to its Technical Systems?".  I had a close look into the "MATRIZ
+approved material" about TESE, the ["Trends of Engineering Systems
+Evolution"](https://www.triz-consulting.de/shop/triz-fachliteratur-buecher/trends-of-engineering-system-evolution/)
+and also Nikolay Shpakovsky's Book ["Tree of Technological
+Evolution"](https://www.amazon.com/Tree-Technology-Evolution-Nikolay-Shpakovsky/dp/1539892182). 
+More is available in a [separate TSN Thread](2019-12-07 "wikilink").
+
 ## April 8, 2020:
 
 Anatoly Agulyansky shared in the
@@ -111,6 +121,7 @@ The discussion was started in the
 a consolidated version of the discussion both in German and Russian is
 available in a [separate TSN Thread](2019-12-07 "wikilink").
 * Jan 18, 2020: I updated the German version.
+* May 9, 2020: Another complete update 
 
 ## November 10, 2019:
 
