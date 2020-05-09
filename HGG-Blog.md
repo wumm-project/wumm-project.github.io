@@ -7,6 +7,17 @@ title: HGG-Blog
 
 ## May 9, 2020:
 
+Valeri Souchkov about TRIZ and Money. Почему ТРИЗ-команды не запускают свои
+продукты?
+- <https://www.youtube.com/watch?v=KBS7SJ7Ht_I>
+- <https://www.facebook.com/valeri.souchkov/posts/10214230952722861>
+
+Sergey Simakov started another discussion about the basics of TRIZ.
+- Я достаточно часто наезжаю на ТРИЗников и ТРИЗ. НО не всегда и не на всех. И
+  что то захотелось обобщить.
+- <https://www.facebook.com/sergey.simakov.96/posts/3453248281362566>
+
+
 There is a continuation of the discussion on the problem "What's the Relation
 of Man to its Technical Systems?".  I had a close look into the "MATRIZ
 approved material" about TESE, the ["Trends of Engineering Systems
