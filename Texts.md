@@ -46,7 +46,7 @@ otherwise.  May be removed in a later version.
 
 * Leonid Shub (2006-07): Осторожно! Таблица технических противоречий (Be
   careful! Table of technical contradictions.)
-  * [Text in 11 parts](http://metodolog.ru/conference.html) in Russian
+  * [11 parts of the text in one document](Texts/Shub-2006-Web.pdf) in Russian
   * [Vorsicht Widerspruchsmatrix](Texts/Shub-2006.pdf) Kurzfassung in Deutsch
   * [Wie viele Väter hat die TRIZ?](Texts/Shub-2007.pdf) in Deutsch
 
