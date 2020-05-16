@@ -28,10 +28,15 @@ otherwise.  May be removed in a later version.
   * [Russian Original](https://triz-summit.ru/file.php/id/f303253-file-original.pdf)
   * [Deutsche Übersetzung](Texts/Goldovski-1983-de.pdf)
 
-* Hans-Gert Gräbe (2019): Zur Entwicklung Technischer Systeme (On the
-  development of technical systems).  Manuscript, 11.12.2019.
-  * [pdf, deutsch](Upload/lte-19.pdf)
-  * [Russian Translation](Upload/lte-19-ru.pdf)
+* Hans-Gert Gräbe (2020): Die Menschen und ihre Technischer Systeme (Men and
+  their technical systems).
+  * [Manuskript, Mai 2020](https://hg-graebe.de/EigeneTexte/mts-20-de.pdf)
+  * [Men and their technical systems](https://hg-graebe.de/EigeneTexte/mts-20-en.pdf).
+    Trimmed English version, containing part of the argumentation, prepared
+    for the TFC 2020.
+  * [Человек и его технические системы](https://hg-graebe.de/EigeneTexte/TDS-2020.pdf).  
+    Differently trimmed Russian version, containing another part of the
+    argumentation, prepared for the TDS 2020.
 
 * Michail Rubin (2019): О связи комплекса законов развития систем с ЗРТС (On
   the relationship of the complex of laws of system development with ZRTS).
