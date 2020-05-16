@@ -5,6 +5,12 @@ title: HGG-Blog
 
 # HGG's Blog
 
+## May 12, 2020:
+
+May be it is also worth to collect links about
+[TRIZ in Business](TIB "wikilink")?
+I just started such a collection beginning with Facebook posts.
+
 ## May 9, 2020:
 
 Valeri Souchkov about TRIZ and Money. Почему ТРИЗ-команды не запускают свои
