@@ -14,13 +14,13 @@ I just started such a collection beginning with Facebook posts.
 ## May 9, 2020:
 
 Valeri Souchkov about TRIZ and Money. Почему ТРИЗ-команды не запускают свои
-продукты?
+продукты? (Why TRIZ teams don't sell their products?)
 - <https://www.youtube.com/watch?v=KBS7SJ7Ht_I>
 - <https://www.facebook.com/valeri.souchkov/posts/10214230952722861>
 
 Sergey Simakov started another discussion about the basics of TRIZ.
 - Я достаточно часто наезжаю на ТРИЗников и ТРИЗ. НО не всегда и не на всех. И
-  что то захотелось обобщить.
+  что то захотелось обобщить. (I meet TRIZniks and TRIZ quite often. But not always and not all. And I want something generalize.)
 - <https://www.facebook.com/sergey.simakov.96/posts/3453248281362566>
 
 
@@ -94,6 +94,8 @@ That remains to be explored.
       naturalistic world, whereby the world of thinking is primary and the
       naturalistic world is nothing but a construction of the naturalists."
   * О философии Г.П. Щедровицкого беседуют Искандер Валитов и Павел Фокин
+    (Iskander Valitov and Pavel Fokin talking about the philosophy of G.P.
+    Shchedrovitsky)  
     * <https://www.youtube.com/watch?v=qvTAygP2DuM>
     * About a theory of collective thinking, ontology of practice.
   * <https://www.youtube.com/watch?v=93kVUECuhIk>
@@ -133,12 +135,11 @@ Technical Systems?". The starting point came from the Development Laws of
 Technical Systems that play an important role in TRIZ theory, but are shaped
 in a different manner within different TRIZ schools.  
 
-The discussion was started in the
-[TRIZ facebook group](https://www.facebook.com/groups/111602085556371)
-a consolidated version of the discussion both in German and Russian is
-available in a [separate TSN Thread](2019-12-07 "wikilink").
-* Jan 18, 2020: I updated the German version.
-* May 9, 2020: Another complete update 
+The discussion was started in the [TRIZ facebook
+group](https://www.facebook.com/groups/111602085556371) a consolidated version
+of the discussion both in German and Russian is available in a [separate TSN
+Thread](2019-12-07 "wikilink").  Meanwhile additional remarks and links were
+added.
 
 ## November 10, 2019:
 
@@ -180,45 +181,6 @@ Content:
   - Proceedings were [published by Springer](https://www.springer.com/de/book/9783030324964),
     not free available
 See also Souchkov's [Newsletter Archive](http://www.xtriz.com/newsletter.htm)
-
-## September 8, 2019:
-
-On my [Facebook account](https://www.facebook.com/hg.graebe) I started a
-discussion about the odds and evens of translation projects.  Very helpful, at
-least for me, is [Google Translate](https://translate.google.com), so you may
-use this facility to translate the following section about my **motivation**
-to start such a thread. Below the **goal** in three language versions.
-* Only German: Warum dieser Beitrag? Ich stehe vor der Frage, wie sich eine
-  mehrsprachige Diskussion zu einem gemeinsam interessierenden Thema
-  organisieren lässt. Die Hauptdiskussion läuft in Russisch, viele sagen
-  "Russisch verstehe ich nicht, kyrillisch kann ich nicht einmal lesen".
-  Antworten auf Englisch stießen auf die reziproke Reaktion "Englisch verstehe
-  ich nicht". Nun gibt es nicht nur Google Translate, um diese Hürde (bei
-  vorhandenem Wollen) zu umschiffen, sondern auch auf Facebook die
-  Übersetzungsfunktion unter jedem der Beiträge und Kommentare.
-* The goal:
-  - In German: Ich möchte deshalb hier besprechen, in welchem Umfang es
-    möglich ist, eine allgemein interessierende Frage mehrsprachig zu
-    besprechen, indem jede(r) von dieser Facebook-Funktion Gebrauch macht. Ich
-    habe bewusst diesen Beitrag in Deutsch verfasst, um wenigstens eine
-    Dreisprachigkeit - Deutsch, Englisch, Russisch - aufzurufen. Bitte trauen
-    Sie sich also, in einer dieser drei Sprachen zu kommentieren und den
-    Fortgang der Diskussion mit der Facebook-Übersetzungsfunktion zu
-    verfolgen.
-  - In English: I would therefore like to discuss to which extend it is
-    possible to discuss a question of general interest in several languages by
-    making use of the Facebook translation function. I have deliberately
-    written this post in German to call up at least a trilingual scene -
-    German, English, Russian. Please dare to comment in one of these three
-    languages and follow the progress of the discussion using the Facebook
-    translation feature.
-  - In Russian: Поэтому я хотел бы практически попробовать, в какой степени
-    можно обсудить вопрос общего интереса на нескольких языках, используя
-    функцию перевода Facebook. Я специально написал этот пост на немецком,
-    чтобы начать мультилог по крайней мере, на трех языках - немецком,
-    английском, русском. Пожалуйста, не стесняйтесь комментировать на одном из
-    этих трех языков и следить за ходом обсуждения с помощью функции перевода
-    Facebook.
     
 ## August 28, 2019:
 
