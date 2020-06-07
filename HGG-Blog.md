@@ -5,6 +5,15 @@ title: HGG-Blog
 
 # HGG's Blog
 
+## June 5, 2020:
+
+On
+[Facebook](https://www.facebook.com/groups/111602085556371/2915610628488822) I
+made the suggestion to apply a profound TRIZ analysis to the Corona problem as
+a challenge full of contraditions to transform the harmful into useful (or -
+at least - less harmful). I started a [separate TSN Thread](Corona "wikilink")
+to record the most useful proposals.
+
 ## May 12, 2020:
 
 May be it is also worth to collect links about
