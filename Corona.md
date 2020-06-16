@@ -86,4 +86,5 @@ all congratulate ourselves.
 
 All of this was described in more detail and with links in my previous post.
 <https://writer.zohopublic.com/writer/published/fsh5mcfe77325a6b74577ad75a2f7c9cf1f9e>
-(in Russian). Thank you for reading it to the end.
+(in Russian, [German translation](2020-06-16 "wikilink")). Thank you for
+reading it to the end.
