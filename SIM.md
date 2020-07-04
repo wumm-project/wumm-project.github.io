@@ -3,7 +3,7 @@ layout: default
 title: SIM
 ---
 
-# Towards an ERASMUS+ Knowledge Alliance "Systematic Innovation Methodologies" (SIM)
+# Application for an ERASMUS+ Knowledge Alliance "Systematic Innovation Methodologies" (SIM)
 
 ## The proposal was successfully submitted on 25 Febr 2020. 
 
