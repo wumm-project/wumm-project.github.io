@@ -5,13 +5,25 @@ title: HGG-Blog
 
 # HGG's Blog
 
+## June 22-23, 2020: 
+
+Business TRIZ Online 2020 Conference 
+* <http://www.biztriz.net/news/2-uncategorised/32-2020.html>
+* [Chat first day](Texts/zoom-20200722-chat.txt) 
+
+## June 19, 2020:
+
+I [compiled](2020-07-22 "wikilink") a conversation between Valeri Souchkov and
+Anton Kozhemyako about TRIT teaching experience on Facebook. 
+
 ## June 5, 2020:
 
 On
 [Facebook](https://www.facebook.com/groups/111602085556371/2915610628488822) I
 made the suggestion to apply a profound TRIZ analysis to the Corona problem as
 a challenge full of contraditions to transform the harmful into useful (or -
-at least - less harmful). I started a [separate Corona Thread](Corona "wikilink")
+at least - less harmful). I started a
+[separate Corona Thread](Corona "wikilink")
 to record the most useful proposals.
 
 ## May 12, 2020:
