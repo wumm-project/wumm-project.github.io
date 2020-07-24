@@ -45,8 +45,7 @@ otherwise.  May be removed in a later version.
 
 * Nikolay Shpakovsky (2003): Человек и Техническая Система (Man and Technical
   Systems)
-  * [Russian Original](Texts/Shpakovsky-mts-ru.pdf), see OpenDiscovery for the
-    Source
+  * [Russian Original](Texts/Shpakovsky-mts-ru.pdf)
   * [Deutsche Übersetzung](Texts/Shpakovsky-mts-de.pdf)
 
 * Leonid Shub (2006-07): Осторожно! Таблица технических противоречий (Be
@@ -57,7 +56,7 @@ otherwise.  May be removed in a later version.
 
 * Evgeni Smirnov (2016): Элементно-функциональное моделирование конфликтов:
   ЭФМ.К (Element-Function modeling of conflicts).
-  * [Russian Original](https://cloud.mail.ru/public/4a7c/WX37Yg1JB)
+  * [Russian Original](Texts/Smirnov-2016-ru.pdf)
   * [Deutsche Übersetzung](Texts/Smirnov-2016-de.pdf)
 
 * Vladimir I. Vernadsky (1936-38): Научная мысль как планетное явление
