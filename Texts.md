@@ -55,6 +55,11 @@ otherwise.  May be removed in a later version.
   * [Vorsicht Widerspruchsmatrix](Texts/Shub-2006.pdf) Kurzfassung in Deutsch
   * [Wie viele Väter hat die TRIZ?](Texts/Shub-2007.pdf) in Deutsch
 
+* Evgeni Smirnov (2016): Элементно-функциональное моделирование конфликтов:
+  ЭФМ.К (Element-Function modeling of conflicts).
+  * [Russian Original](https://cloud.mail.ru/public/4a7c/WX37Yg1JB)
+  * [Deutsche Übersetzung](Texts/Smirnov-2016-de.pdf)
+
 * Vladimir I. Vernadsky (1936-38): Научная мысль как планетное явление
   (Scientific Thought as a Planetary Phenomenon)
   * [Russian Edition](http://vernadsky.lib.ru/e-texts/archive/thought.pdf)
