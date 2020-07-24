@@ -7,9 +7,8 @@ title: TIB
 
 ## Business TRIZ Online 2020 Conference. June 22-23, 2020 
 
-Business TRIZ Online 2020 Conference 
 * <http://www.biztriz.net/news/2-uncategorised/32-2020.html>
-* [Chat first day](Texts/zoom-20200722-chat.txt) 
+* [The Chat](Texts/BusinessTRIZ-2020-Chat.txt) 
 
 ## Some additional links
 

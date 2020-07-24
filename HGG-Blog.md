@@ -9,12 +9,12 @@ title: HGG-Blog
 
 Business TRIZ Online 2020 Conference 
 * <http://www.biztriz.net/news/2-uncategorised/32-2020.html>
-* [Chat first day](Texts/zoom-20200722-chat.txt) 
+* [The ](Texts/BusinessTRIZ-2020-Chat.txt) 
 
 ## June 19, 2020:
 
 I [compiled](2020-07-22 "wikilink") a conversation between Valeri Souchkov and
-Anton Kozhemyako about TRIT teaching experience on Facebook. 
+Anton Kozhemyako about TRIZ teaching experience on Facebook. 
 
 ## June 5, 2020:
 
