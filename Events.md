@@ -7,52 +7,30 @@ title: Events
 
 ## Upcoming Events
 
-* 06-07 February 2020 - TRIZ-Expertentreffen 2020 (in German) 
-  - Location: Hotel-Gasthof-Am-Forsthof, Forsthof 8, 92237 Sulzbach-Rosenberg
-  - Lectures by Thomas Meyer, Darrell Mann, Rayk Glasenapp, Marius Bergmann
-  - Registration required
-  - Organizer: TRIZ Consulting Group GmbH
-
-* 05-06 May 2020 - 2. TRIZ BarCamp "TRIZ & Design Thinking" (in German)
-  - Barbara Gronauer and Horst Thomas Nähler (TRIZ Akademie) are organizing a
-    BarCamp in May 2020 with an "Up to Speed" workshop, network evening and
-    various sessions on the TRIZ innovation method in conjunction with the
-    customer-centered way of thinking in design thinking.
-  - Location: Not yet announced
-  - <http://www.triz-barcamp.de/>
-
-* 22-26 June 2020 - TRIZ Developers Summit 2020 (in Russian and English)
-  - Location: EPAM, Minsk, Belarus
+* 17-23 August 2020 - TRIZ Developers Summit 2020 (in Russian and English)
+  - Location: Online
+  - Web site: <https://triz-summit.ru/confer/tds-2020/>
   - Conference partners are the International Public Association
     “International Council of TRIZ Masters”, Minsk TRIZ Club and EPAM Systems.
   - Sections: TRIZ in Education, TRIZ in IT and technology, TRIZ in business,
-    TRIZ Ontology (closed section)
-  - On June 22-23, 2020, the TRIZ in Education section will operate.
-    Traditionally, the conference will summarize the annual international
-    competition "TRIZ-Summit Cup", which is held among schoolchildren and
-    students.      
-  - On June 24, a closed conference of the participants of the TRIZ Ontology
-    project will be held.
-  - On June 25-26, 2020, the work of two sections is planned: "TRIZ in IT and
-    technology" and "TRIZ in business". New approaches and TRIZ tools in
-    business, IT and technology will be discussed.      
+    TRIZ Ontology (closed section). See <https://triz-summit.ru/Onto_TRIZ/>    
+  - The annual international competition "TRIZ-Summit Cup", which is held
+    among schoolchildren and students, was already summarized in an online
+    format.    
+  - The TRIZ in Education section is planned to operate in August 2020.  
+  - On 20-21 August 2020, the sections "TRIZ in IT", TRIZ in technology" and
+    "TRIZ in business" will be provided online. New approaches and TRIZ tools
+    in business, IT and technology will be discussed.    
   - In 2020, the 55th anniversary of the term ARIZ, an algorithm for solving
     inventive problems, which was first used in an article by G.S. Altshuller
     in 1965, will be celebrated. At the TRIZ Developers Summit in Minsk,
     reports will be presented on the practice of application and development
     of various modifications of ARIZ.
 
-* 9-12 September 2020 - TRIZ Fest 2020
-  - Location: Bangalore, India
-  - Main theme: TRIZ for Facilitation of Market Driven Innovation
-  - The  16th  International Conference  “TRIZfest-2020”  will be  held  in
-    Bangalore, India  on  September  10-12,  2020 with  a pre-conference
-    tutorials day  on September 09, 2020.
-  - The event is organized by the International TRIZ Association(MATRIZ) and
-    ATTI. We invite everybody, who is engaged in TRIZ research and
-    development, who uses TRIZ, as well as those who are interested in TRIZ
-    and desire to meet TRIZ professionals and learn more about TRIZ.
-  - <https://matriz.org/wp-content/uploads/2019/12/TRIZfest-2020-first-Information-letter.pdf>
+* 1-2 October 2020 - 5. German TRIZ Application Days (5. Deutsche
+  TRIZ-Anwendertage, in German and English)
+  - Location: Energie Campus, Nürnberg
+  - Web site: <https://www.bayern-innovativ.de/events-und-messen/veranstaltungen/veranstaltung/triz-anwendertage-2020>
 
 * October 2020 - TRIZ Future 2020 (in English)
   - Location: TU Cluj-Napoca, Romania
@@ -60,10 +38,18 @@ title: Events
 * November 2020 - TRIZ Meeting (in Russian)
   - Location: Moscow
 
+* 12-15 May 2021 - TRIZFest 2021
+  - Location: Odessa, Ukraine
+  - Main theme: TRIZ for Addressing Real Life Challenges
+  - The 16th International Conference “TRIZfest-2021” will be held on May
+    12-15, 2021, with May 12th date reserved for pre-conference tutorials. The
+    event is organized by the International TRIZ Association (MATRIZ) and UA
+    TRIZ.
+  - <https://matriz.org/wp-content/uploads/2020/07/TRIZfest-2021-first-Information-letter-1.pdf>
+
 ## Past Events
 
-Selected past events are to be compiled in perspective in an RDF metadate
-collection.  For the moment some links to past events can be found on the
-demonstration page <http://wumm.uni-leipzig.de/conferences.php> of the WUMM
-project.
+Selected past events are compiled in an RDF metadata collection.  Links to
+past events can be found on the demonstration page
+<http://wumm.uni-leipzig.de/conferences.php> of the WUMM project.
 
