@@ -9,7 +9,7 @@ title: HGG-Blog
 
 Business TRIZ Online 2020 Conference 
 * <http://www.biztriz.net/news/2-uncategorised/32-2020.html>
-* [The ](Texts/BusinessTRIZ-2020-Chat.txt) 
+* [The Chat](Texts/BusinessTRIZ-2020-Chat.txt) 
 
 ## June 19, 2020:
 
