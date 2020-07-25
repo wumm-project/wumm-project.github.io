@@ -5,18 +5,26 @@ title: HGG-Blog
 
 # HGG's Blog
 
+## June 24, 2020: What is a field in SF-modeling?
+
+At the Business TRIZ Online 2020 Conference were presented several talks on SF
+modeling, in particular using the "fields" of love, belief etc.  It was quite
+strange to me to see the notion of a field put in such a strange context.  I
+started a discussion about that, reported here in a
+[separate thread](2020-07-24 "wikilink")
+
 ## June 22-23, 2020: 
 
 Business TRIZ Online 2020 Conference 
 * <http://www.biztriz.net/news/2-uncategorised/32-2020.html>
 * [The Chat](Texts/BusinessTRIZ-2020-Chat.txt) 
 
-## June 19, 2020:
+## June 19, 2020: TRIZ teaching experience
 
 I [compiled](2020-07-22 "wikilink") a conversation between Valeri Souchkov and
 Anton Kozhemyako about TRIZ teaching experience on Facebook. 
 
-## June 5, 2020:
+## June 5, 2020: TRIZ analysis to the Corona problem
 
 On
 [Facebook](https://www.facebook.com/groups/111602085556371/2915610628488822) I
@@ -26,16 +34,16 @@ at least - less harmful). I started a
 [separate Corona Thread](Corona "wikilink")
 to record the most useful proposals.
 
-## May 12, 2020:
+## May 12, 2020: Collection of links about [TRIZ in Business](TIB "wikilink")
 
 May be it is also worth to collect links about
 [TRIZ in Business](TIB "wikilink")?
 I just started such a collection beginning with Facebook posts.
 
-## May 9, 2020:
+## May 9, 2020: 
 
-Valeri Souchkov about TRIZ and Money. Почему ТРИЗ-команды не запускают свои
-продукты? (Why TRIZ teams don't sell their products?)
+Valeri Souchkov about TRIZ and eraning money. Почему ТРИЗ-команды не запускают
+свои продукты? (Why TRIZ teams don't sell their products?)
 - <https://www.youtube.com/watch?v=KBS7SJ7Ht_I>
 - <https://www.facebook.com/valeri.souchkov/posts/10214230952722861>
 
@@ -43,7 +51,6 @@ Sergey Simakov started another discussion about the basics of TRIZ.
 - Я достаточно часто наезжаю на ТРИЗников и ТРИЗ. НО не всегда и не на всех. И
   что то захотелось обобщить. (I meet TRIZniks and TRIZ quite often. But not always and not all. And I want something generalize.)
 - <https://www.facebook.com/sergey.simakov.96/posts/3453248281362566>
-
 
 There is a continuation of the discussion on the problem "What's the Relation
 of Man to its Technical Systems?".  I had a close look into the "MATRIZ
@@ -80,7 +87,7 @@ a post on his Facebook channel.
 Kozhemyako: interview about TRIZ [myths, opportunities, trends])
 * <https://brammels.com/career/interview/anton-kozhemyako>
 
-## December 21, 2019:
+## December 21, 2019: Relationship between TRIZ and philosophical questions
 
 The relationship between TRIZ and philosophical questions, in particular those
 related to Hegel's dialectic and thus also to the fundamental epistemic
@@ -131,7 +138,7 @@ That remains to be explored.
     <https://shchedrovitskiy.com/chto-est-myshlenie/>.
   * MMK - Russian abbreviation of Moscow Methodological Circle
 
-## December 18, 2019:
+## December 18, 2019: Marxism between the future and the past
 
 Московский ТРИЗ Клуб. «Марксизм между будущим и прошлым» (Moscow TRIZ
 Club. "Marxism between the future and the past")
