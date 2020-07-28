@@ -77,3 +77,4 @@ otherwise.  May be removed in a later version.
 * Rainer Thiel: Erfinderschulen – Problemlöse-Workshops.  Projekt und Praxis.
   (Inventor schools - problem solving workshops. Project and practice).
   [LIFIS-ONLINE 03.07.2016.](http://dx.doi.org/10.14625/thiel_20160703)
+  - [Excerpt on the ABER matrix in Russian](Texts/Thiel-16-ru.pdf) 
