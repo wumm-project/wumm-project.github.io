@@ -5,6 +5,10 @@ title: SIM
 
 # Application for an ERASMUS+ Knowledge Alliance "Systematic Innovation Methodologies" (SIM)
 
+##
+
+* [Notification Letter](Erasmus/Notification-Letter.pdf)
+
 ## The proposal was successfully submitted on 25 Febr 2020. 
 
 * [Partner Letter](Erasmus/intent.doc) - a template
