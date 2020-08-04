@@ -5,7 +5,7 @@ title: SIM
 
 # Application for an ERASMUS+ Knowledge Alliance "Systematic Innovation Methodologies" (SIM)
 
-##
+## The proposal was rejected.
 
 * [Notification Letter](Erasmus/Notification-Letter.pdf)
 
