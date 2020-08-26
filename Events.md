@@ -7,30 +7,18 @@ title: Events
 
 ## Upcoming Events
 
-* 17-23 August 2020 - TRIZ Developers Summit 2020 (in Russian and English)
-  - Location: Online
-  - Web site: <https://triz-summit.ru/confer/tds-2020/>
-  - Conference partners are the International Public Association
-    “International Council of TRIZ Masters”, Minsk TRIZ Club and EPAM Systems.
-  - Sections: TRIZ in Education, TRIZ in IT and technology, TRIZ in business,
-    TRIZ Ontology (closed section). See <https://triz-summit.ru/Onto_TRIZ/>    
-  - The annual international competition "TRIZ-Summit Cup", which is held
-    among schoolchildren and students, was already summarized in an online
-    format.    
-  - The TRIZ in Education section is planned to operate in August 2020.  
-  - On 20-21 August 2020, the sections "TRIZ in IT", TRIZ in technology" and
-    "TRIZ in business" will be provided online. New approaches and TRIZ tools
-    in business, IT and technology will be discussed.    
-  - In 2020, the 55th anniversary of the term ARIZ, an algorithm for solving
-    inventive problems, which was first used in an article by G.S. Altshuller
-    in 1965, will be celebrated. At the TRIZ Developers Summit in Minsk,
-    reports will be presented on the practice of application and development
-    of various modifications of ARIZ.
+* September 25-28, 2020 International MATRIZ Online Forum 2020
+  - We invite you to take part in the bi-lingual International MATRIZ Online Forum 2020. This event does not replace TRIZfest conference, it is a different type of event. Please find two letters at <https://matriz.org/mof/> in English and in Russian (both identical) with further details and Call for Presentations.
+  - The forum is organized by MATRIZ and the Moscow TRIZ Club, PC Chair is Dmitry Bakhturin, MATRIZ Vice President for New Projects.
+  - Presentations and discussions will be organized online on September 25, 26 and 27, 2020 each day between 11:45 and 16:15 GMT.
+  - More details at <https://mostrizclub.net/en/matriz-online-forum-24-27-september-2020/>
 
-* 1-2 October 2020 - 5. German TRIZ Application Days (5. Deutsche
+* October 1-2, 2020 - 5. German TRIZ Application Days (5. Deutsche
   TRIZ-Anwendertage, in German and English)
   - Location: Energie Campus, Nürnberg
   - Web site: <https://www.bayern-innovativ.de/events-und-messen/veranstaltungen/veranstaltung/triz-anwendertage-2020>
+  - Due to Corona restrictions the event was moved to July 2021, only a online webinar with presentations will be held on 2 October 2020.
+  - The material is planned to publish with Springer.
 
 * October 2020 - TRIZ Future 2020 (in English)
   - Location: TU Cluj-Napoca, Romania
@@ -38,7 +26,7 @@ title: Events
 * November 2020 - TRIZ Meeting (in Russian)
   - Location: Moscow
 
-* 12-15 May 2021 - TRIZFest 2021
+* May 12-15, 2021 - TRIZFest 2021
   - Location: Odessa, Ukraine
   - Main theme: TRIZ for Addressing Real Life Challenges
   - The 16th International Conference “TRIZfest-2021” will be held on May
