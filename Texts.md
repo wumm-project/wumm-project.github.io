@@ -6,7 +6,7 @@ title: Texts
 # Different Texts
 
 This is an experimental collection of texts that are hardly available
-otherwise.  May be removed in a later version. 
+otherwise or we compiled translations.  May be removed in a later version. 
 
 * Tobias Bayer (2019): Ausarbeitung einer potenziellen Methodenintegration aus
   der TRIZ Lehre in den Design Thinking Prozess. (Elaboration of a potential
@@ -76,6 +76,12 @@ otherwise.  May be removed in a later version.
   * [Russian Original](Texts/Smirnov-2016-ru.pdf)
   * [German Translation](Texts/Smirnov-2016-de.pdf)
 
+* Anton Tyukov (2020): Применение ТРИЗ при проектировании архитектуры системы
+  управления на основе данных в энергетике (TRIZ application to architecture
+  design of data-driven management systems in the energy industry)
+  * [Russian Original](Texts/Tyukov-2020.pdf)
+  * [German Translation](Texts/Tyukov-2020-de.pdf)
+  
 * Vladimir I. Vernadsky (1936-38): Научная мысль как планетное явление
   (Scientific Thought as a Planetary Phenomenon)
   * [Russian Edition](http://vernadsky.lib.ru/e-texts/archive/thought.pdf)
