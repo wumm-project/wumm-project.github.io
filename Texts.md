@@ -85,6 +85,10 @@ otherwise or we compiled translations.  May be removed in a later version.
 * Vladimir I. Vernadsky (1936-38): Научная мысль как планетное явление
   (Scientific Thought as a Planetary Phenomenon)
   * [Russian Edition](http://vernadsky.lib.ru/e-texts/archive/thought.pdf)
+  * [Local copy of the Russian text](Texts/Vernadsky1938-ru.pdf)
+  * [Rough yet German translation](Texts/Vernadsky1938-de.pdf)
+  * [German translation](Texts/Vernadsky1938-EditHistory-de.pdf) of the edit
+    history of Vernadsky's text, prepended to the Russian edition.
   
 ## Texts by Rainer Thiel (in German)
 

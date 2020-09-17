@@ -132,6 +132,9 @@ That remains to be explored.
     Ludmila Golubkova has published a summary of this event.
     * <https://www.facebook.com/liudmila.golubkova/posts/2667428350051869>
     * <https://www.youtube.com/watch?v=BKQRlwIyKgc>
+  * The future as an intellectual technology in the Soviet Union. From
+    Centralised Planning to Reflexive Management, by Egle Rindzevičiūtė
+    * <https://journals.openedition.org/monderusse/8169>
 * [Петр Георгиевич Щедровицкий](https://shchedrovitskiy.com/) - the son
   * Что есть мышление? Понятие и рабочая гипотеза ММК (What is thinking? The
     concept and working hypothesis of MMK)
