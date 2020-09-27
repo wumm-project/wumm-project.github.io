@@ -18,11 +18,13 @@ title: Events
   - Due to Corona restrictions the "German TRIZ Anwender Tag" was moved to July 2021, only a online webinar with presentations will be held on 2 October 2020.
   - The material is planned to publish with Springer.
 
-* October 14-16, 2020 - TRIZ Future 2020 (in English)
-  - Location: TU Cluj-Napoca, Romania
+* October 6-7, 2020 - TRIZCon 2020 (in English)
+  - Location: Virtual
+  - Web site: <https://www.aitriz.org/trizcon2020>
 
-* November 2020 - TRIZ Meeting (in Russian)
-  - Location: Moscow
+* October 14-16, 2020 - TRIZ Future 2020 (in English)
+  - Location: Vitual
+  - Web site: <https://tfc20.eu>
 
 * May 12-15, 2021 - TRIZFest 2021
   - Location: Odessa, Ukraine
