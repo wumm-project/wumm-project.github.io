@@ -46,6 +46,11 @@ editions.  Within the
 we started to recompile the material of the 2019/20 contest as Open Source
 LaTeX versions and provide a (not yet authorized) German translation. 
 
+### OTSM-TRIZ in Education. The Jonathan Livingston Project.
+
+* The [Jonathan Livingston Project](https://www.jlproj.org)
+  * <https://www.jlproj.org/this_bibl_e/present_Nesterenko_en.pdf>
+
 ### Additional material and activities
 
 * Диагностика развития изобретательского мышления на основе методов ТРИЗ
