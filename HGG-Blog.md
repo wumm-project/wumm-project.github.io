@@ -5,6 +5,12 @@ title: HGG-Blog
 
 # HGG's Blog
 
+## Oct. 2020: TRIZ and its German History
+
+A contribution by Oliver Driesen, published in 2003 in the German Online
+   newspaper [brand
+   eins](https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2003/elite/die-meta-erfindung) (in German).
+
 ## June 24, 2020: What is a field in SF-modeling?
 
 At the Business TRIZ Online 2020 Conference were presented several talks on SF
