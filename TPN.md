@@ -5,6 +5,8 @@ title: TPN
 
 # TRIZ Pedagogics Network
 
+More on [TRIZ Online Courses](TOC "wikilink")  
+
 ## Background
 
 **TRIZ Pedagogy**, i.e. TRIZ in the secondary education of young people, is a
