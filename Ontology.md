@@ -50,6 +50,5 @@ of most of the RDF material collected so far as proof of the concept.
 * V. Souchkov. Glossary of TRIZ and TRIZ-related terms. Several versions
   since 1991.  [Last version
   2014](http://www.xtriz.com/publications/TRIZGlossaryVersion1_0.pdf).
-
 * D. Cavallucci, F. Rousselot, C. Zanni: An ontology for TRIZ. Proc. TRIZ
-  Future Conference 2009. Procedia Engineering 9 (2011) 251–260.
+  Future Conference 2009. [Procedia Engineering 9 (2011), 251–260](https://doi.org/10.1016/j.proeng.2011.03.116). 
