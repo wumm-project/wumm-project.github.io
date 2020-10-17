@@ -47,8 +47,9 @@ of most of the RDF material collected so far as proof of the concept.
 * A. Kuryan, M. Rubin, N. Shchedrin, O. Eckardt, N. Rubina: [TRIZ Ontology.
   Current State and Perspectives](Texts/Ontology-TDS2020.pdf). TDS 2020 (in
   Russian).
-* V. Souchkov. Glossary of TRIZ and TRIZ-related terms. Several versions since
-  1991.  [Last version
+* V. Souchkov. Glossary of TRIZ and TRIZ-related terms. Several versions
+  since 1991.  [Last version
   2014](http://www.xtriz.com/publications/TRIZGlossaryVersion1_0.pdf).
+
 * D. Cavallucci, F. Rousselot, C. Zanni: An ontology for TRIZ. Proc. TRIZ
   Future Conference 2009. Procedia Engineering 9 (2011) 251–260.
