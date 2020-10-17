@@ -16,6 +16,8 @@ subproject](https://github.com/wumm-project/RDFData).  For the moment the
 reasons) and links are produced to view this data. 
 
 * [Frequently asked questions](TSN-QA "wikilink")
+* The WTSP Project of Toru Nakagawa
+  * <https://www.osaka-gu.ac.jp/php/nakagawa/TRIZ/eTRIZ/eWTSP/eWTSP-WorldCatalog/eWTSP-World%20Catalog-World/World-SourceDocuments.html>
 
 ## People in the TRIZ Social Network
 

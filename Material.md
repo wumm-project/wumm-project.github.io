@@ -10,7 +10,6 @@ title: Material
 * [Publication list maintained by Valeri Souchkov](http://www.xtriz.com/publications)
 * [TRIZ Body of Knowledge](http://wumm.uni-leipzig.de/Presentations/TRIZ-Body-of-Knowledge.pdf) (2012)
 
-
 ## Some More Single Readings 
 
 * Altschuller, G.S. Algorithm of Inventive Problem Solving.
@@ -36,10 +35,6 @@ title: Material
   * VDI 4521 Blatt 2. Erfinderisches Problemlösen mit TRIZ - Zielbeschreibung,
     Problemdefinition und Lösungspriorisierung
 * Zobel, D., Hartmann R. Erfindungsmuster. Expert Verlag, Renningen 2009.
-
-
-
-
 
 # Presentations
 

@@ -7,13 +7,9 @@ title: Events
 
 ## Upcoming Events
 
-* October 6-7, 2020 - TRIZCon 2020 (in English)
-  - Location: Virtual
-  - Web site: <https://www.aitriz.org/trizcon2020>
-
-* October 14-16, 2020 - TRIZ Future 2020 (in English)
-  - Location: Vitual
-  - Web site: <https://tfc20.eu>
+* Oct-Nov. 2020, each Tuesday. Ontology Modeling Webinar Series (in Russian) 
+  - [Participant list](https://triz-summit.ru/confer/tds-2020/web/participants/)
+  - [Webinar Schedule](https://triz-summit.ru/confer/tds-2020/web/inf/)
 
 * May 12-15, 2021 - TRIZFest 2021
   - Location: Odessa, Ukraine
@@ -27,6 +23,10 @@ title: Events
 * July 13, 2021 - 5. Deutscher TRIZ Anwendertag.
   - Location: IHK Heilbronn-Franken, Heilbronn
   - Web site: <https://www.bayern-innovativ.de/events-und-messen/veranstaltungen/veranstaltung/triz-anwendertag-2021>
+
+* September 22-24, 2021 - TRIZ Future Conference
+  - Location: Bozen/Bolzano, Italy
+
 ## Past Events
 
 Selected past events are compiled in an RDF metadata collection.  Links to

@@ -3,11 +3,14 @@ layout: default
 title: The WUMM Project
 ---
 
-This is a first small hack of a web site for the WUMM Project that aims at
-collecting different information about contradition oriented innovation
-methods, in particular the [TRIZ
-methodology](https://en.wikipedia.org/wiki/TRIZ), in RDF format for the public
-as [Linked Open Data](http://lod-cloud.net/).
+This is the web site of the WUMM Project that aims at collecting different
+information about contradition oriented innovation methods, in particular the
+[TRIZ methodology](https://en.wikipedia.org/wiki/TRIZ), in RDF format for the
+public as [Linked Open Data](http://lod-cloud.net/).
+
+WUMM abbreviates the German "Widersprüche und Management-Methoden"
+(Contradictions and Management Methods) is in use as an open branding since
+2019.
 
 The Project operates a [github organizational
 account](https://github.com/wumm-project).

@@ -21,25 +21,33 @@ compile a little guide to that debates within our [TRIZ Social Network](TSN
 
 ## This Wiki
 * [About](About "wikilink") &ndash; A general description about the background
-  and goals of the WUMM project  
-* [TRIZ Trainings Network](TTN "wikilink") &ndash; Summary of the current
-  discussion status to set up EU pojects at large on Systematic Innovation
-  Methodologies
-* [TRIZ Pedagogy Network](TPN "wikilink") &ndash; A first collection about
-  efforts in different places and international structures to make TRIZ
-  fruitful for working with young people, especially children.
-* [TRIZ Social Network](TSN "wikilink") &ndash; First attempts to set up a
-  Social Network of people interested in TRIZ and more genereal innovation
+  and goals of the WUMM project
+* [Projects](Projects "wikilink") &ndash; different project ideas and
+  applications, ongoing, pending, successful and failed
+  * [TRIZ Trainings Network](TTN "wikilink") &ndash; Material of the (in a
+    first try not successful) application for an EU Knowledge Alliance
+* [Events](Events "wikilink") &ndash; a list of upcoming events
+  * See the RDF based summary on [past
+    conferences](wumm.uni-leipzig.de/conferences.php).
+* [TRIZ Social Network](TSN "wikilink") &ndash; Building a semantically backed
+  up Social Network of people interested in TRIZ and more general innovation
   methodologies
   * [People](http://wumm.uni-leipzig.de/people.php)
   * [Conferences](http://wumm.uni-leipzig.de/conferences.php)
   * [Presentations](http://wumm.uni-leipzig.de/presentations.php)
-  * [More Activities](Activities "wikilink")
-* [Ontology](Ontology "wikilink") &ndash; A short (and probably not up to
-  date) description of the taxonomy, ontology and vocabulary used within the
-  RDFData subproject.
+  * [Upcoming Events](Events "wikilink")
+* [Ontologies](Ontology "wikilink") &ndash; Entry page to different activities
+  concerning TRIZ ontology and glossary projects  
+* [Topics](Texts "wikilink") &ndash; Entry page to different TRIZ related
+  topics and ongoing discussions within the WUMM project
+  * [TRIZ in Business](TIB "wikilink")
+  * [TRIZ Online Courses](TOC "wikilink")
+  * [TRIZ and Children](TPN "wikilink")
+  * [TRIZ, Technical and General Systems](TTS "wikilink")
+  * [GDR Inventor Schools](GIS "wikilink")
 * [Texts](Texts "wikilink") &ndash; A list of links to several texts relevant
   within ongoing TRIZ discussions that are otherwise difficult to find.
+  * A very first and provisional [list of links](Material "wikilink")
 * [HGG's Blog](HGG-Blog "wikilink") &ndash; My personal blog with reports
   about and links to discussions that I was interested and involved in.
 

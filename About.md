@@ -7,12 +7,13 @@ About the WUMM Project
 ------------------------------
 
 Contradictions and management methodologies (WUMM abbreviates the German
-"Widersprüche und Managementmethoden") is in our view the core of the
+"Widersprüche Und Management-Methoden") is in our view the core of the
 implementation of TRIZ (Teoria Reschenija Isobretatjelskich Sadatsch), the
-theory of solving invention problems of the Russian invention researcher
-Genrich Saulowitsch Altshuller, who worked over 50 years on such questions,
-especially based on patent searches. However, WUMM goes beyond this approach
-and focuses on complex innovation and management scenarios in companies.
+theory of solving invention problems of the Russian invention researcher and
+pioneer Genrich Saulowitsch Altshuller, who worked over 50 years on such
+questions, especially based on patent searches. However, WUMM goes beyond this
+approach and focuses also on complex innovation and management scenarios in
+companies.
 
 While Altshuller's considerations are directed more on solving technical
 problems and thus to possible technical solution the WUMM approach
@@ -22,11 +23,11 @@ management of internal processes.
 In doing so, terminological shifts and clarifications already made during the
 last 50 years have to be considered. Altshuller's foundation are patents that
 refer to inventions only, not to discoveries. Nevertheless, concrete
-discoveries also play a major role in Altshuller's texts. A theoretical
-distinction between these two concepts, which is practically tied to the
-question of patentability, has been tried many times. However, an unbiased
-analysis of these attempts shows that they arise, above all, from different
-epistemic understandings of the cognitive process itself:
+discoveries and engineering practices also play a major role in Altshuller's
+texts. A theoretical distinction between these two concepts, which is
+practically tied to the question of patentability, has been tried many times.
+However, an unbiased analysis of these attempts shows that they arise, above
+all, from different epistemic understandings of the cognitive process itself:
 
 * Discoveries are part of an academic cognitive process in which
   referencability, connectivity, and cooperative review processes are at the
@@ -90,6 +91,5 @@ contradictions. Unlike WOIS that has protected their own approaches through
 trademark rights thus constituting a closed world, and other TRIZ communities
 with similar closure approaches, WUMM stand on the position of Open Culture.
 One of its main goals is to make available a substantial stock of TRIZ
-material, texts and tools under the terms of the Apache 2.0 license.  In
-particular, we concentrate on making available the ProHEAL methodology on such
-a basis.
+material, texts and tools under the terms of appropriate [Creative Commons
+Licenses](https://creativecommons.org/licenses/).  
