@@ -129,16 +129,25 @@ evaluate it on the background of modern COSI apporaches.
 
 ## About a Preproject
 
-There is a call open by the German BMBF (Ministry of Economy and Research) to
-support the preparation of such a proposal identifying or building up
-corresponding partner structures and networks with a focus on Eastern Europe,
-in particular with Belarus.  We try to apply for that preproject. 
+There is a call "Bridge2ERA EaP" open by the German BMBF (Ministry of Economy
+and Research) to support the preparation of such a proposal identifying or
+building up corresponding partner structures and networks with a focus on
+Eastern Europe, in particular with Belarus.  We try to apply for that
+preproject.
+* 2019-10-26: The application under the title "Widersprüche und
+  Managementmethoden" (Contraditions and Management Methods) was filed to the
+  project management agency.
+* 2020-07-02: The project will not be funded.
 
 ## Main Conferences in the area
 
-* TRIZ Future - Annual Conference since, at least, 2012.
+* [TRIZ Future](http://etria.eu/portal/) - Annual Conference since, at least,
+  2012.
 * [TRIZ Summit](http://triz-summit.ru/confer/) - Annual Conference since 2005
-  (in Russian).  
-* TRIZFest - Annual Conference since at least 2016, organized by MA TRIZ.
+  (in Russian).
+* [TRIZFest](https://matriz.org/) - Annual Conference since at least 2016,
+  organized by MATRIZ.
+* [TRIZCon](https://www.aitriz.org) - Annual Conference since 2016, organized
+  by the Altshuller Institute.
 
-Hans-Gert Gräbe - Last update August 25, 2019
+Hans-Gert Gräbe - Last update October 18, 2020
