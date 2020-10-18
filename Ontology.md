@@ -35,8 +35,11 @@ of most of the RDF material collected so far as proof of the concept.
   * [Ontology Webinar Series](https://triz-summit.ru/confer/tds-2020/web/inf/)
     Oct.-Nov. 2020 (in Russian)
   * [TRIZ Ontology. Current State and
-    Perspectives](Texts/Ontology-TDS2020.pdf). Material presented at the TRIZ
-    Deverloper Summit 2020 (in Russian).
+    Perspectives](Texts/Ontology-TDS2020.pdf). Presented at the TRIZ Developer
+    Summit 2020 (in Russian).
+    * [English translation](Texts/Ontology-TDS2020-en.pdf)
+  * [Towards ontology of TRIZ](Texts/Ontology-TDS2019-en.pdf).  Presented at
+    the TRIZ Developers Summit 2019 Conference, Minsk, 2019 (in English).
 * The [TRIZ Glossary](http://wumm.uni-leipzig.de/glossary.php) in the German
   VDI Norm 4521
 * Valeri Souchkov's [TRIZ
@@ -47,6 +50,9 @@ of most of the RDF material collected so far as proof of the concept.
 * A. Kuryan, M. Rubin, N. Shchedrin, O. Eckardt, N. Rubina: [TRIZ Ontology.
   Current State and Perspectives](Texts/Ontology-TDS2020.pdf). TDS 2020 (in
   Russian).
+  * A. Kuryan, V. Souchkov, D. Kucharavy. [Towards ontology of
+  TRIZ](Texts/Ontology-TDS2019-en.pdf). Proceedings of TRIZ Developers Summit
+  2019 Conference, Minsk, 2019 (in English).
 * V. Souchkov. Glossary of TRIZ and TRIZ-related terms. Several versions
   since 1991.  [Last version
   2014](http://www.xtriz.com/publications/TRIZGlossaryVersion1_0.pdf).
