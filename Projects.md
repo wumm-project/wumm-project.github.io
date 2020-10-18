@@ -15,7 +15,7 @@ title: Projects
     the process of compiling the EU KA proposal that was finished in    
     February 2020. The idea was to use that cooperative structure also for
     preparation of other proposals.
-* Some [first ideas](RenSI "wikilink") about a strong academic project for a
+* Some [first ideas](ReNSI "wikilink") about a strong academic project for a
   Horizon2020 application.
 
 We set up a special [TTN mailing
