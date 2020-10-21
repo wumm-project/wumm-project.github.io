@@ -32,8 +32,12 @@ of most of the RDF material collected so far as proof of the concept.
 
 * The [TDS Summit Ontology Project](https://triz-summit.ru/onto_triz/) (in
   Russian)
-  * [Ontology Webinar Series](https://triz-summit.ru/confer/tds-2020/web/inf/)
-    Oct.-Nov. 2020 (in Russian)
+  * Ontology Webinar Series Oct.-Nov. 2020 (in Russian)
+    * <https://triz-summit.ru/confer/tds-2020/web/inf/> (invitation)    
+    * <https://triz-summit.ru/confer/tds-2020/web/> (starting page, link to
+      material presented at the different webinars)      
+    * [English Translation](OntologyWebinar "wikilink") of the motivation and
+      the first information letter.    
   * [TRIZ Ontology. Current State and
     Perspectives](Texts/Ontology-TDS2020.pdf). Presented at the TRIZ Developer
     Summit 2020 (in Russian).
@@ -41,9 +45,9 @@ of most of the RDF material collected so far as proof of the concept.
   * [Towards ontology of TRIZ](Texts/Ontology-TDS2019-en.pdf).  Presented at
     the TRIZ Developers Summit 2019 Conference, Minsk, 2019 (in English).
 * The [TRIZ Glossary](http://wumm.uni-leipzig.de/glossary.php) in the German
-  VDI Norm 4521
-* Valeri Souchkov's [TRIZ
-  Glossary](http://www.xtriz.com/publications/TRIZGlossaryVersion1_0.pdf)
+  VDI Norm 4521.
+* Valeri Souchkov's TRIZ Glossary
+  <http://www.xtriz.com/publications/TRIZGlossaryVersion1_0.pdf>
 
 ## Publications
 
@@ -53,8 +57,14 @@ of most of the RDF material collected so far as proof of the concept.
   * A. Kuryan, V. Souchkov, D. Kucharavy. [Towards ontology of
   TRIZ](Texts/Ontology-TDS2019-en.pdf). Proceedings of TRIZ Developers Summit
   2019 Conference, Minsk, 2019 (in English).
-* V. Souchkov. Glossary of TRIZ and TRIZ-related terms. Several versions
-  since 1991.  [Last version
-  2014](http://www.xtriz.com/publications/TRIZGlossaryVersion1_0.pdf).
-* D. Cavallucci, F. Rousselot, C. Zanni: An ontology for TRIZ. Proc. TRIZ
-  Future Conference 2009. [Procedia Engineering 9 (2011), 251–260](https://doi.org/10.1016/j.proeng.2011.03.116). 
+* V. Souchkov. Glossary of TRIZ and TRIZ-related terms. Several versions since
+  1991.  Last version 2014.
+  <http://www.xtriz.com/publications/TRIZGlossaryVersion1_0.pdf>.
+* C. Zanni-Merk, F. D. Beuvron, F. Rousselot, Wei Yan.  A formal ontology for
+  a generalized inventive design methodology.  Applied Ontology, vol. 8,
+  no. 4, pp. 231-273, 2013.  <https://doi.org/10.3233/AO-140128>.
+* D. Cavallucci, F. Rousselot, C. Zanni. An ontology for TRIZ. Proc. TRIZ
+  Future Conference 2009. Procedia Engineering 9 (2011), 251–260.
+  <https://doi.org/10.1016/j.proeng.2011.03.116>.
+
+

@@ -12,10 +12,12 @@ started. The [website of the project](https://triz-summit.ru/onto_triz/) is in
 Russian, an English overview was published in the TDS 2019 Proceedings. At the
 TRIZ Developer Summit 2020 a first report about the state of affairs was given
 (also in Russian, an raw english translation is available within the WUMM
-project), a Webinar on the topic is just running. For more information see the
-[Ontology Project](Ontology "wikilink") in this github pages and also some
-[additional remarks](2020-10-20 "wikilink") from the point of view of Semantic
-technologies.
+project), a Webinar on the topic is just running.
+
+For more information see the [Ontology Project](Ontology "wikilink") and the
+[Ontology Webinar](OntologyWebinar "wikilink") in this github pages and also
+some [additional remarks](2020-10-20 "wikilink") from the point of view of
+Semantic technologies.
 
 ## Oct. 7, 2020: TRIZ and its German History
 
