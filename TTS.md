@@ -52,4 +52,9 @@ title: TTS
   * [Russian Original](Texts/Shpakovsky-mts-ru.pdf)
   * [German Translation](Texts/Shpakovsky-mts-de.pdf)
 
-  
+* Nikolay Shpakovsky (2010): ТРИЗ. Анализ технической и патентной информации и
+  генерация новых идей (TRIZ. Analysis of technical and patent information and
+  generation of new ideas)
+  * [Tree of Technology Evolution](Texts/Shpakovsky-2016.pdf) (English
+    translation by the author, 2016, part of the Open Source Collection of the
+    WUMM project)
