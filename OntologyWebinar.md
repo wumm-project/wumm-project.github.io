@@ -76,7 +76,7 @@ working language is Russian. Preliminary plan for the webinars:
   the System Operator".
 * 10.11.2020 Natalia Rubina: The RTV ontology. 
 * 17.11.2020 Mikhail Rubin: TRIZ certification based on ontology. 
-* 24.11.2020 Nikolay Shchedrin, Mikhail Rubin, Andrey Kuryan:
+* [24.11.2020](2020-11-24) Nikolay Shchedrin, Mikhail Rubin, Andrey Kuryan:
   * The OSA website - tool a for creating ontological maps
   * TRIZ Summit website. Information resource of the TRIZ Ontology project.
   * How to become a participant of the project

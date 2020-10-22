@@ -36,8 +36,7 @@ of most of the RDF material collected so far as proof of the concept.
     * <https://triz-summit.ru/confer/tds-2020/web/inf/> (invitation)    
     * <https://triz-summit.ru/confer/tds-2020/web/> (starting page, link to
       material presented at the different webinars)      
-    * [English Translation](OntologyWebinar "wikilink") of the motivation and
-      the first information letter.    
+  * [More about the project](OntologyWebinar "wikilink") in English.    
   * [TRIZ Ontology. Current State and
     Perspectives](Texts/Ontology-TDS2020.pdf). Presented at the TRIZ Developer
     Summit 2020 (in Russian).
