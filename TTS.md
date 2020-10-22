@@ -42,6 +42,11 @@ title: TTS
     ([english](https://hg-graebe.de/EigeneTexte/MOF-20-en.pdf),
     [russian](https://hg-graebe.de/EigeneTexte/MOF-20-ru.pdf))
 
+* Vladimir Petrov (2020): Закономерности развития искусственных систем (Laws
+  of artificial systems development).  Proceedings of the TDS 2020.
+  * [Russian Original](https://r1.nubex.ru/s828-c8b/f3215_04/Petrov-TDS-2020-regularities[1].pdf)
+  * [German Translation](Texts/ldas-20-de.pdf)
+
 * Michail Rubin (2019): О связи комплекса законов развития систем с ЗРТС (On
   the relationship of the complex of laws of system development with ZRTS).
   Manuscript, 6.11.2019.
