@@ -5,6 +5,10 @@ title: TIB
 
 # TRIZ in Business. Some links.
 
+## IBTA - the International TRIZ Business Association
+
+<http://www.biztriz.net/>
+
 ## Business TRIZ Online 2020 Conference. June 22-23, 2020 
 
 * <http://www.biztriz.net/news/2-uncategorised/32-2020.html>
@@ -17,10 +21,16 @@ title: TIB
   - Начали проект по формированию и внедрению системы проектных продаж В2В в
     компании ЭлМетро ...  В процессе совместной работы с командой предприятия
     мы проведем целый комплекс преобразований коммерческой службы.
+    - Engl.: We started a project to form and implement a B2B sales system for
+      ElMetro ...  In the process of working together with the company team we
+      will carry out a whole complex of commercial service transformations.
 
 * <https://www.facebook.com/valeri.souchkov/posts/10214271664260624>
   - May 13, 2020. Valeri Souchkov
   - В октябре прошлого года я стартовал онлайн курс по ТРИЗ для бизнеса и
     менеджмента на русском языке. К настоящему моменту его прошли уже два
     потока. Приятно получать такие развернутые комментарии. Спасибо, Andrey
-    Malakhov !
+    Malakhov!
+    - Engl.: Last October I launched an online course on TRIZ for business and
+      management in Russian. To date, have already passed two courses. It is a
+      pleasure to receive such detailed comments. Thank you, Andrey Malakhov!
