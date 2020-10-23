@@ -50,14 +50,15 @@ of most of the RDF material collected so far as proof of the concept.
 
 ## Publications
 
-* A. Kuryan, M. Rubin, N. Shchedrin, O. Eckardt, N. Rubina: [TRIZ Ontology.
+* A. Kuryan, M. Rubin, N. Shchedrin, O. Eckardt, N. Rubina. [TRIZ Ontology.
   Current State and Perspectives](Texts/Ontology-TDS2020.pdf). TDS 2020 (in
   Russian).
-  * A. Kuryan, V. Souchkov, D. Kucharavy. [Towards ontology of
+  * [English translation](Texts/Ontology-TDS2020-en.pdf)
+* A. Kuryan, V. Souchkov, D. Kucharavy. [Towards ontology of
   TRIZ](Texts/Ontology-TDS2019-en.pdf). Proceedings of TRIZ Developers Summit
   2019 Conference, Minsk, 2019 (in English).
-* V. Souchkov. Glossary of TRIZ and TRIZ-related terms. Several versions since
-  1991.  Last version 2014.
+* V. Souchkov. Glossary of TRIZ and TRIZ-related terms.
+  Several versions since 1991.  Last version 2014.
   <http://www.xtriz.com/publications/TRIZGlossaryVersion1_0.pdf>.
 * C. Zanni-Merk, F. D. Beuvron, F. Rousselot, Wei Yan.  A formal ontology for
   a generalized inventive design methodology.  Applied Ontology, vol. 8,
