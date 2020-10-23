@@ -17,10 +17,10 @@ title: TTS
   * [Russian Original](https://triz-summit.ru/file.php/id/f303253-file-original.pdf)
   * [German Translation](Texts/Goldovski-1983-de.pdf)
 
-* Hans-Gert Gräbe (2020): Die Menschen und ihre Technischen Systeme (Men and
+* Hans-Gert Gräbe (2020): Die Menschen und ihre Technischen Systeme (Human and
   their technical systems).
   * German Original. [LIFIS Online, 02May 2020](http://dx.doi.org/10.14625/graebe_20200519)
-  * [Men and their technical systems](https://hg-graebe.de/EigeneTexte/mts-20-en.pdf).
+  * [Human and their technical systems](https://hg-graebe.de/EigeneTexte/mts-20-en.pdf).
     Trimmed and enlarged English version, containing part of the argumentation, prepared
     for the TFC 2020.
   * [Человек и его технические системы](https://hg-graebe.de/EigeneTexte/TDS-2020.pdf).  
