@@ -17,6 +17,11 @@ title: TTS
   * [Russian Original](https://triz-summit.ru/file.php/id/f303253-file-original.pdf)
   * [German Translation](Texts/Goldovski-1983-de.pdf)
 
+* B.I. Goldovski (2017): О законах построения технических систем (On the laws
+  of building technical systems)
+  * [Russian Original](https://www.metodolog.ru/node/2164)
+  * [German Translation](Texts/Goldovski-2017-de.pdf)
+
 * Hans-Gert Gräbe (2020): Die Menschen und ihre Technischen Systeme (Human and
   their technical systems).
   * German Original. [LIFIS Online, 02May 2020](http://dx.doi.org/10.14625/graebe_20200519)
@@ -41,6 +46,12 @@ title: TTS
   * Poster for the MATRIZ Online Forum 2020, August 2020.
     ([english](https://hg-graebe.de/EigeneTexte/MOF-20-en.pdf),
     [russian](https://hg-graebe.de/EigeneTexte/MOF-20-ru.pdf))
+
+* Vladimir Petrov (2020): Законы и закономерности развития систем (Laws and
+  patterns of systems development). Book in 4 volumes (in Russian), ISBN
+  978-5-0051-5728-7.  
+  * [German Translation](Texts/Petrov-LawsFragment-de.pdf) of a free fragment
+    from the volume 1.
 
 * Vladimir Petrov (2020): Закономерности развития искусственных систем (Laws
   of artificial systems development).  Proceedings of the TDS 2020.
