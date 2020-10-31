@@ -62,7 +62,7 @@ I just started such a collection beginning with Facebook posts.
 
 ## May 9, 2020: 
 
-Valeri Souchkov about TRIZ and eraning money. Почему ТРИЗ-команды не запускают
+Valeri Souchkov about TRIZ and earning money. Почему ТРИЗ-команды не запускают
 свои продукты? (Why TRIZ teams don't sell their products?)
 - <https://www.youtube.com/watch?v=KBS7SJ7Ht_I>
 - <https://www.facebook.com/valeri.souchkov/posts/10214230952722861>
@@ -112,54 +112,16 @@ Kozhemyako: interview about TRIZ [myths, opportunities, trends])
 The relationship between TRIZ and philosophical questions, in particular those
 related to Hegel's dialectic and thus also to the fundamental epistemic
 assumptions of Marx and Engels, is undisputed, see for example the work of
-[Justus Schollmeyer](https://leibniz-institut.de/en/justus-schollmeyer/). In
-his [work](https://matriz.org/kozhemyako/), Anton Kozhemyako refers strongly
-to philosophical theory buildings, which were designed within the school of
-the Russian philosopher G.P. Schtschedrovitsky. Mikhail Rubin criticized this
-reference in his [expert opinion](https://matriz.org/kozhemyako/) of
-Kozhemyako's work as unsustainable mainly due to terminology inconsistencies.
-That remains to be explored.
+Justus Schollmeyer](https://secondnegation.com/).
 
-* [Георгий Петрович Щедровицкий](https://www.fondgp.ru/)
-  * <https://en.wikipedia.org/wiki/Georgy_Shchedrovitsky>
-  * He became involved in the Moscow Methodological Circle set up by Alexander
-    Zinoviev. In 1954, Shchedrovitsky took over leadership of the circle and
-    played a prominent role in developing activity theory. Here the world was
-    not seen as composed of human subjects and objects as in naturalistic
-    theory.  Rather objects are secondary constructs whose nature depends on
-    the activity applied to them.
-  * The MMC has had a lasting impact on Russian systems thinking particularly
-    through the Methodological School of Management
-    * [Методологическая школа управления](https://www.facebook.com/groups/877563105594553)
-  * <https://shchedrovitskiy.com/predislovie-k-8-chtenijam-pamjati-g-p-shchedrovitskogo/>
-  * The dance of horses. Film about the life of G.P. (in Russian)
-    * <https://www.youtube.com/watch?v=GFGfm3posdw>    
-    * "The organization of thought and practice changes from a scientific form
-      of organization to a methodological form of organization. Just as the
-      scientific form was strongly dominant in the last 300 years, the
-      methodological form will be strongly dominant in the future."      
-    * "Today we have to divide the world into the world of thinking and the
-      naturalistic world, whereby the world of thinking is primary and the
-      naturalistic world is nothing but a construction of the naturalists."
-  * О философии Г.П. Щедровицкого беседуют Искандер Валитов и Павел Фокин
-    (Iskander Valitov and Pavel Fokin talking about the philosophy of G.P.
-    Shchedrovitsky)  
-    * <https://www.youtube.com/watch?v=qvTAygP2DuM>
-    * About a theory of collective thinking, ontology of practice.
-  * <https://www.youtube.com/watch?v=93kVUECuhIk>
-  * Each year at Febr 23, the birthday of G.P., there is a reading in Moscow
-    in memory of G.P., organized by the [G.P. Fonds](https://www.fondgp.ru/).
-    Ludmila Golubkova has published a summary of this event.
-    * <https://www.facebook.com/liudmila.golubkova/posts/2667428350051869>
-    * <https://www.youtube.com/watch?v=BKQRlwIyKgc>
-  * The future as an intellectual technology in the Soviet Union. From
-    Centralised Planning to Reflexive Management, by Egle Rindzevičiūtė
-    * <https://journals.openedition.org/monderusse/8169>
-* [Петр Георгиевич Щедровицкий](https://shchedrovitskiy.com/) - the son
-  * Что есть мышление? Понятие и рабочая гипотеза ММК (What is thinking? The
-    concept and working hypothesis of MMK)
-    <https://shchedrovitskiy.com/chto-est-myshlenie/>.
-  * MMK - Russian abbreviation of Moscow Methodological Circle
+In his [work](https://matriz.org/kozhemyako/), Anton Kozhemyako refers
+strongly to philosophical theory buildings, which were designed within the
+school of the Russian philosopher G.P. Schtschedrovitsky. Mikhail Rubin
+criticized this reference in his [expert
+opinion](https://matriz.org/kozhemyako/) of Kozhemyako's work as unsustainable
+mainly due to terminology inconsistencies.  That remains to be explored.
+
+[More about Philosophical Basics of TRIZ](PhiloBasics "wikilink"),
 
 ## December 18, 2019: Marxism between the future and the past
 

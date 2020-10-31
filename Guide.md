@@ -40,11 +40,6 @@ compile a little guide to that debates within our [TRIZ Social Network](TSN
   concerning TRIZ ontology and glossary projects  
 * [Topics](Texts "wikilink") &ndash; Entry page to different TRIZ related
   topics and ongoing discussions within the WUMM project
-  * [TRIZ in Business](TIB "wikilink")
-  * [TRIZ Online Courses](TOC "wikilink")
-  * [TRIZ and Children](TPN "wikilink")
-  * [TRIZ, Technical and General Systems](TTS "wikilink")
-  * [GDR Inventor Schools](GIS "wikilink")
 * [Texts](Texts "wikilink") &ndash; A list of links to several texts relevant
   within ongoing TRIZ discussions that are otherwise difficult to find.
   * A very first and provisional [list of links](Material "wikilink")

@@ -10,4 +10,5 @@ title: Topics
 * [TRIZ and Children](TPN "wikilink")
 * [TRIZ, Technical and General Systems](TTS "wikilink")
 * [GDR Inventor Schools](GIS "wikilink")
+* [Philosophical Basics of TRIZ](PhiloBasics "wikilink")
 
