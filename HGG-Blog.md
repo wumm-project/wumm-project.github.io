@@ -207,6 +207,18 @@ on [Valeri Souchkov's](https://www.facebook.com/valeri.souchkov) Facebook
 channel.  Some of the material is recorded and translated in English in a
 [separate TSN Thread](2019-08-23 "wikilink").
 
+## August 07, 2019: What is a technical system and what not?
+
+* A [controverse
+  discussion](https://www.facebook.com/valeri.souchkov/posts/10212251519998280)
+  about that (in Russian) on a Facebook post by Valeri Souchkov.
+  * I compiled a [part of the discussion](2019-08-07 "wikilink") (Russian
+    original and English translation) for the HGG-Blog.
+* Nikolay Shpakovsky (2003): Человек и Техническая Система (Man and technical system) 
+  * [Part 1](http://www.gnrtr.ru/Generator.html?pi=201&cp=3),
+    [Part 2](http://www.gnrtr.ru/Generator.html?pi=200&cp=3)
+  * [German translation](https://wumm-project.github.io/Texts/Shpakovsky-mts-de.pdf)
+  
 ## July 27, 2019:
 
 [Valeri Souchkov](https://www.facebook.com/valeri.souchkov) published a
@@ -218,12 +230,7 @@ at his Facebook channel.
   (1:11:40)
 * This is one of altogether
   [four lecture interviews](http://wumm.uni-leipzig.de/presentations.php)
-  taken by Alexander Schinnikov  
-* [Facebook discussion](https://www.facebook.com/valeri.souchkov/posts/10212251519998280)
-  (in Russian)
-  * I compiled a [part of the discussion](2019-08-07 "wikilink") about TRIZ
-    and system thinking (Russian original and English translation) for the
-    HGG-Blog.
+  taken by Alexander Schinnikov
     
 ## July 12, 2019:
 
