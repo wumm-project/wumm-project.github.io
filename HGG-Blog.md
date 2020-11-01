@@ -5,6 +5,13 @@ title: HGG-Blog
 
 # HGG's Blog
 
+## Oct. 31, 2020: Boris I. Goldovski
+
+On October 28 passed away Boris I. Goldovski, one of the most important TRIZ
+theorists. Vladimir Petrov published a [memorial
+letter](Texts/Goldovski-2020.pdf) with a short C.V. and a list of his main
+theoretical and practical achievements. 
+
 ## Oct. 20, 2020: The TRIZ Ontology Project
 
 At the TRIZ Developer Summit 2019 in Minsk the __TRIZ Ontology Project__ was
