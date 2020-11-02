@@ -117,16 +117,17 @@ Ernst Bloch.
     Ludmila Golubkova has published a summary of this event.
     * <https://www.facebook.com/liudmila.golubkova/posts/2667428350051869>
     * <https://www.youtube.com/watch?v=BKQRlwIyKgc>
-  * The future as an intellectual technology in the Soviet Union. From
-    Centralised Planning to Reflexive Management, by Egle Rindzevičiūtė
-    * <https://journals.openedition.org/monderusse/8169>
 * [Петр Георгиевич Щедровицкий](https://shchedrovitskiy.com/) - the son
   * Что есть мышление? Понятие и рабочая гипотеза ММК (What is thinking? The
     concept and working hypothesis of MMK)
     <https://shchedrovitskiy.com/chto-est-myshlenie/>.
-  * MMK - Russian abbreviation of Moscow Methodological Circle
 
-## More on the MMK in the western literature:
+## Links 
 
-* <http://v2.circleplus.ru/archive/ing/8/text>
-* <http://v2.circleplus.ru/archive/ing/4/text>
+* Egle Rindzevičiūtė (2015). The future as an intellectual technology in the
+  Soviet Union. From Centralised Planning to Reflexive Management.
+  <https://journals.openedition.org/monderusse/8169>
+* V. Matskevitch (2006). Systemic-Thought-Action Methodology. From the MMK
+  archive. <http://v2.circleplus.ru/archive/ing/8/text>
+* G.P. Shchedrovitsky (1968). Project on Researching Pedagogy. Methodologiacl
+  Analysis. An Extract. <http://v2.circleplus.ru/archive/ing/4/text>
