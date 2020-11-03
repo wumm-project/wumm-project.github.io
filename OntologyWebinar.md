@@ -5,24 +5,6 @@ title: OntologyWebinar
 
 # TRIZ Ontology Project. The Webinar 2020.
 
-## The Motivation Page translated to English
-
-Source: <https://triz-summit.ru/onto_triz/>. English translation:
-
-The theory of Inventive Problem Solving (TRIZ) is an area of knowledge about
-the laws and trends in the development of technical systems, methods and tools
-for forecasting, identifying, analysing and solving contradictions in the
-development of systems. TRIZ is based on the laws of dialectics, using
-evolutionary, systematic, functional, model and other fundamental scientific
-approaches. The TRIZ model includes connections between models of inventive
-tasks and models of their solution, as well as models of systems with models
-of their development. TRIZ reveals the regularities and methods of formation
-and development of inventive thinking, methods of development of creative
-imagination. TRIZ methods and tools are applicable for solving inventive tasks
-not only in techniques, but also for non-technical systems. TRIZ is used in
-practice for development of creative personality, solution of inventive tasks
-in various fields, in innovative entrepreneurship, in solution of tasks in
-enterprises.
 
 ## The Information letter and the Webinar Schedule translated to English
 
