@@ -71,7 +71,8 @@ working language is Russian. Preliminary plan for the webinars:
   information about the project. Ontology "TRIZ Model".
 * [20.10.2020](2020-10-20 "wikilink") Nikolai Shchedrin: The ontologies
   "Function Model" and "Functional Analysis".
-* 27.10.2020 Olga Eckardt: The ontologies "Flow Model" and "Flow Analysis".
+* [27.10.2020](2020-10-27 "wikilink") Olga Eckardt: The ontologies "Flow
+  Model" and "Flow Analysis".
 * 03.11.2020 Mikhail Rubin: The ontologies "System Operator" ans "Analysis by
   the System Operator".
 * 10.11.2020 Natalia Rubina: The RTV ontology. 
