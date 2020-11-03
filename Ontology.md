@@ -147,5 +147,15 @@ Addendum: Meanwhile we renamed that as _Thesaurus_ in accordance with the term
 used at the [GSA terms website](https://www.altshuller.ru/thesaur/thesaur.asp)
 and unified that into a common list of terms into a
 [Combined TRIZ Glossary](http://wumm.uni-leipzig.de/glossary.php?rdf=show). 
-Souchkov's Glossary remains hard to integrate since it is not available in a
-machine redable form.
+
+The terms are modeled as skos:Concepts, but according to the source some more
+"tags" = Types are added (tc:GSAThesaurusEntry, tc:VDIGlossaryEntry). This are
+subclasses of the class skos:Concept, but are concepts by themselves. There
+are some upcoming tasks on that part:
+
+(1) Consolidate the URIs of the two RDF graphs. This could easily be extended
+to Souchkov's Glossary if it would be available in an more machine readable
+form than pdf.
+
+(2) Enrich it with information to which class (Basic, Rules, ...) each term
+belongs and to which generation (TRIZ-1..3).
