@@ -3,7 +3,7 @@ layout: default
 title: OntologyWebinar
 ---
 
-# TRIZ Ontology Project. The Webinar 2020.
+# [TRIZ Ontology Project](Ontology "wikilink"). The Webinar 2020.
 
 
 ## The Information letter and the Webinar Schedule translated to English
@@ -55,12 +55,13 @@ working language is Russian. Preliminary plan for the webinars:
   "Function Model" and "Functional Analysis".
 * [27.10.2020](2020-10-27 "wikilink") Olga Eckardt: The ontologies "Flow
   Model" and "Flow Analysis".
-* 03.11.2020 Mikhail Rubin: The ontologies "System Operator" ans "Analysis by
-  the System Operator".
-* 10.11.2020 Natalia Rubina: The RTV ontology. 
+* 03.11.2020 Mikhail Rubin: The ontologies "System Operator" and "System
+  Operator Analysis".
+* 10.11.2020 Natalia Rubina: The RTV (development of creative imagination)
+  ontology.
 * 17.11.2020 Mikhail Rubin: TRIZ certification based on ontology. 
 * [24.11.2020](2020-11-24) Nikolay Shchedrin, Mikhail Rubin, Andrey Kuryan:
-  * The OSA website - tool a for creating ontological maps
+  * The OSA website - tool for creating ontological maps
   * TRIZ Summit website. Information resource of the TRIZ Ontology project.
   * How to become a participant of the project
  
