@@ -49,9 +49,11 @@ title: TTS
 
 * Vladimir Petrov (2020): Законы и закономерности развития систем (Laws and
   patterns of systems development). Book in 4 volumes (in Russian), ISBN
-  978-5-0051-5728-7.  
-  * [German Translation](Texts/Petrov-LawsFragment-de.pdf) of a free fragment
-    from the volume 1.
+  978-5-0051-5728-7.
+  * A [free text fragment](Texts/Petrov-LawsFragment-ru.pdf) from the volume 1
+    (in Russian).
+  * [German Translation](Texts/Petrov-LawsFragment-de.pdf) of that free text
+    fragment.
 
 * Vladimir Petrov (2020): Закономерности развития искусственных систем (Laws
   of artificial systems development).  Proceedings of the TDS 2020.
