@@ -3,8 +3,7 @@ layout: default
 title: Guide
 ---
 
-A Small Guide through the WUMM Infrastructure
-------------------------------
+# A Small Guide through the WUMM Infrastructure
 
 Note that the project was originated by a TRIZ freshman that tries to learn
 more about the concepts, available resources and communicational
@@ -38,35 +37,30 @@ compile a little guide to that debates within our [TRIZ Social Network](TSN
   * [Upcoming Events](Events "wikilink")
 * [Ontologies](Ontology "wikilink") &ndash; Entry page to different activities
   concerning TRIZ ontology and glossary projects  
-* [Topics](Texts "wikilink") &ndash; Entry page to different TRIZ related
-  topics and ongoing discussions within the WUMM project
 * [Texts](Texts "wikilink") &ndash; A list of links to several texts relevant
   within ongoing TRIZ discussions that are otherwise difficult to find.
   * A very first and provisional [list of links](Material "wikilink")
+* [Tools](Tools "wikilink") &ndash; Entry page to different WUMM Tools
+* [Topics](Texts "wikilink") &ndash; Entry page to different TRIZ related
+  topics and ongoing discussions within the WUMM project
 * [HGG's Blog](HGG-Blog "wikilink") &ndash; My personal blog with reports
   about and links to discussions that I was interested and involved in.
 
-## The [RDFData Subproject](https://github.com/wumm-project/RDFData)
+## Other Parts of the WUMM Project
 
-A collection of TRIZ relevant concepts, data and information in RDF format.
-
-## The [OpenDiscovery](https://github.com/wumm-project/OpenDiscovery) Subproject
-
-A repo to make some TRIZ related material available in source form as Open
-Data under the Apache 2.0 License. This material can be used and derived
-material can be produced on a clear legal base.
-
-## The [Leipzig Seminar](https://github.com/wumm-project/Leipzig-Seminar) Subproject
-
-A repo to conduct the activities in our Leipzig Seminar (all material in
-German only). 
-
-## [wumm.uni-leipzig.de](http://wumm.uni-leipzig.de)
-
-An experimental Demonstation Site of the WUMM project based on the Bootstrap
-Framework and the EasyRdf PHP Library.
-
-The code is available from our github
-[web repo](https://github.com/wumm-project/web).
+* The [RDFData Subproject](https://github.com/wumm-project/RDFData) &ndash; A
+  collection of TRIZ relevant concepts, data and information in RDF format.
+* The [OpenDiscovery](https://github.com/wumm-project/OpenDiscovery)
+  Subproject &ndash; A repo to compile, store, translate and make available
+  some TRIZ related material in source form as Open Data under appropriate CC
+  Licenses such that this material can be used and derived material can be
+  produced on a clear legal base.
+* The [Leipzig Seminar](https://github.com/wumm-project/Leipzig-Seminar)
+  Subproject &ndash; A repo to conduct the activities of our Leipzig TRIZ
+  Research Seminar (most material in German).
+* [wumm.uni-leipzig.de](http://wumm.uni-leipzig.de) &ndash; An experimental
+  Demonstation Site of the WUMM project based on the Bootstrap Framework and
+  the EasyRdf PHP Library.  The code is available from our github [web
+  repo](https://github.com/wumm-project/web).
 
 
