@@ -6,52 +6,54 @@ title: GIS
 # Material about the German Inventory Schools in the 1980th
 
 ## Teaching Material (Scans, in German)
-
   
 * Dieter Herrig (1986). Rechnergestütztes Erfinden - eine Einführung.
   Bezirksneuererzentrum, Suhl 1986.
   * en: Computer aided invention - an introduction.
+  * ru: Изобретение с помощью компьютера - введение.
   * [Scan](GDR-InventorSchools/Herrig-Scans/Herrig-1986.pdf)
   
 * Dieter Herrig (1983). Liederheft zur Erfinderschule des Bezirks
   Neubrandenburg, April 1983.
   * en: Songbook on the inventor school of the district Neubrandenburg
+  * ru: Песенник для школы изобретателей округа Нойбранденбург 
   * [Scan](GDR-InventorSchools/Herrig-Scans/Liederbuch.pdf)
 
 * Dieter Herrig (1988). Programmpaket HEUREKA. Hilfsmittel zum Erfinden unter
   Rechner- und Karteinutzung. Bauakademie der DDR, Berlin 1988.
-  
   * en: Programming package HEUREKA. Tools for inventing using computer and
     cards.
-  
+  * ru: Инструменты для изобретений с помощью компьютеров и карт
   * [Scan](GDR-InventorSchools/Herrig-Scans/Heureka.pdf)
 
 * Dieter Herrig (1988). Patente für die Nervenklinik.  Schweriner
   BNK-Schriften, Heft 2, 1988.
   * en: Patents for the psychiatric clinic.
+  * ru: Патенты для психиатрической больницы
   * [Scan](GDR-InventorSchools/Herrig-Scans/Patente.pdf)
 
 * Dieter Herrig (1989). Expertensysteme für die Nervenklinik.  Schweriner
   BNK-Schriften, Heft 5, 1989.
   * en: Expert systems for the psychiatric clinic.
+  * ru: Экспертные системы для психиатрической больницы
   * [Scan](GDR-InventorSchools/Herrig-Scans/Nervenklinik.pdf)
 
 * Hans-Jochen Rindfleisch, Rainer Thiel (1988). Die Methode des
-  Herausarbeitens von Efindungsaufgaben und Lösungsansätzen -
+  Herausarbeitens von Erfindungsaufgaben und Lösungsansätzen -
   Erfindungsmethode der KDT-Erfinderschulen. Kammer der Technik, Berlin 1988.
-  
   * en: The method of elaboration of inventional tasks and solution approaches
     - the invention method of the KDT inventor schools.
-    
+  * ru: Методика разработки изобретательских задач и подходы к их решению -
+    изобретательский метод школ изобретателей KDT.    
   * [Scan](GDR-InventorSchools/KdT-Scans/KdTLehrbrief-Teil1.pdf)
 
 * Hans-Jochen Rindfleisch, Rainer Thiel, Gerhard Zadek (1989).
   Erfindungsmethodische Arbeitsmittel. Lehrmaterial zur Erfindungsmethode.
-  Lehrbrief 2. Kammer der Technik, Berlin 1989.
-  
+  Lehrbrief 2. Kammer der Technik, Berlin 1989.  
   * en: Methodological tools for inventing. Teaching material on the invention
     method.
-    
+  * ru: Методологические инструменты для изобретательской работы. Учебный материал
+    для методики изобретения.
   * Scan of the material, by technical reasons in two parts,
     [Part 1](GDR-InventorSchools/KdT-Scans/KdTLehrbrief-Teil2-1.pdf),
     [Part 2](GDR-InventorSchools/KdT-Scans/KdTLehrbrief-Teil2-2.pdf),
@@ -63,7 +65,7 @@ title: GIS
   dialectics)
   * [Book on Demand 2020](https://www.bod.de/buchshop/erfinderschulen-triz-und-dialektik-9783751983228). 150 S. ISBN 9783751983228.
   * Contents: 
-    * Hans-Gert Gräbe: [Vorwort](GDR-InventorSchools/Graebe-20.pdf) (Preface)
+    * Hans-Gert Gräbe: [Vorwort](GDR-InventorSchools/Graebe-20.pdf) (Preface, )
     * Ken Pierre Kleemann: [Dialektik der kreativen
       Innovation](GDR-InventorSchools/Kleemann-20.pdf) (Dialectics of creative
       innovation)      
@@ -92,7 +94,7 @@ title: GIS
   Inventor School Movement in the GDR and TRIZ Development). Published in the
   Online-Proceedings of the TRIZ Developers Summit 2019.
   * [Russian version](https://hg-graebe.de/EigeneTexte/Minsk-2019.pdf).
-  * [German version](https://hg-graebe.de/EigeneTexte/Minsk-2019.pdf-de.pdf)
+  * [German version](https://hg-graebe.de/EigeneTexte/Minsk-2019-de.pdf)
 
 ## Rainer Thiel
 
