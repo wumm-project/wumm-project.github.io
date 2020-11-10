@@ -5,11 +5,16 @@ title: TTS
 
 # TRIZ, Technical and General Systems
 
+* Gaetano Cascini (2012). TRIZ-based Anticipatory Design of Future Products
+  and Processes. Journal of Integrated Design and Process Science 16 (3),
+  29-63.  
+  * <http://dx.doi.org/10.3233/jid-2012-0005>
+
 * Klaus Fuchs-Kittowski (2002): Wissens-Ko-Produktion. Verarbeitung,
   Verteilung und Entstehung von Informationen in kreativ-lernenden
   Organisationen (Knowledge co-production. Processing, distribution and
   Creation of information in creative learning organizations)
-* [German Original](http://www.informatik.uni-leipzig.de/~graebe/Texte/Fuchs-02.pdf)
+  * [German Original](http://www.informatik.uni-leipzig.de/~graebe/Texte/Fuchs-02.pdf)
 
 * B.I. Goldovski (1983): Система закономерностей построения и развития
   технических систем (The system of laws of construction and development of
