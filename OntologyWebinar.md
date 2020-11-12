@@ -57,8 +57,8 @@ working language is Russian. Preliminary plan for the webinars:
   Model" and "Flow Analysis".
 * [03.11.2020](2020-11-03 "wikilink") Mikhail Rubin: The ontologies "System
   Operator" and "System Operator Analysis".
-* 10.11.2020 Natalia Rubina: The RTV (development of creative imagination)
-  ontology.
+* [10.11.2020](2020-11-10 "wikilink") Natalia Rubina: The RTV (development of
+  creative imagination) ontology.  
 * 17.11.2020 Mikhail Rubin: TRIZ certification based on ontology. 
 * [24.11.2020](2020-11-24) Nikolay Shchedrin, Mikhail Rubin, Andrey Kuryan:
   * The OSA website - tool for creating ontological maps
