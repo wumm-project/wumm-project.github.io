@@ -3,6 +3,11 @@ layout: default
 title: HGG
 ---
 
-Hans-Gert Gräbe, see <http://bis.informatik.uni-leipzig.de/HansGertGraebe>
+# Hans-Gert Gräbe
 
-email: graebe at informatik.uni-leipzig.de
+Hans-Gert Gräbe is a professor of computer science at Leipzig University,
+Germany. 
+
+* <http://www.informatik.uni-leipzig.de/~graebe>
+* <https://hg-graebe.de/>
+* email: graebe at informatik.uni-leipzig.de

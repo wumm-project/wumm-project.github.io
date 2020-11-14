@@ -43,6 +43,7 @@ establishment.
   engineering). Presentation given at a seminar in Leipzig on 01.07.2016.
   * <http://hg-graebe.de/MINT-Leipzig/2016-07-01/Schollmeyer.pdf>
   * About the [Seminar](mint-leipzig.de/2016-07-01.html) (in German).
+* More on the work of [Justus](JustusSchollmeyer "wikilink")
 
 ## The Moscow Methodological Circle (MMK). A Bird's Eye.
 

@@ -43,9 +43,12 @@ compile a little guide to that debates within our [TRIZ Social Network](TSN
 * [Tools](Tools "wikilink") &ndash; Entry page to different WUMM Tools
 * [Topics](Texts "wikilink") &ndash; Entry page to different TRIZ related
   topics and ongoing discussions within the WUMM project
-* [HGG's Blog](HGG-Blog "wikilink") &ndash; My personal blog with reports
-  about and links to discussions that I was interested and involved in.
-
+* Personal pages
+  * [Hans-Gert Gräbe, Leipzig](HGG "wikilink")
+    * [HGG's Blog](HGG-Blog "wikilink") - HGG's personal blog with reports
+      about and links to discussions that he is interested and involved in.
+  * [Justus Schollmeyer](JustusSchollmeyer "wikilink")
+  
 ## Other Parts of the WUMM Project
 
 * The [RDFData Subproject](https://github.com/wumm-project/RDFData) &ndash; A
