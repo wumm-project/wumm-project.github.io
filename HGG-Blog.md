@@ -5,6 +5,21 @@ title: HGG-Blog
 
 # HGG's Blog
 
+## Nov. 15, 2020: The Ideas of the recent Nobel Laureats on Economics  
+
+[Igor Vikentev](https://www.facebook.com/groups/vikent.open/) published a
+Facebook post and a
+[Youtube video](https://www.youtube.com/watch?v=Vrqhe-MFCEA) (in Russian) on
+that subject. The Video is about a report by Alexei Yuryevich Litvin in
+St. Petersburg at the 45th Scientific Conference "Creativity Strategies" in
+December 2019: <https://vikent.ru/konf>.
+
+I stored the Facebook post together with an English Translation
+[in this Blog](2020-11-15).
+
+Доклад был прочитан в Санкт-Петербурге Алексеем Юрьевиче Литвиным 
+на 45-й ещё доковидной и очной научной конференции «Стратегии творчества» в декабре 2019 года: https://vikent.ru/konf/
+
 ## Oct. 31, 2020: Boris I. Goldovski
 
 On October 28 passed away Boris I. Goldovski, one of the most important TRIZ
