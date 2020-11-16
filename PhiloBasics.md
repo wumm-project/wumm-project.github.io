@@ -68,11 +68,6 @@ establishment.
 
 Quoted from <https://carnegie.ru/commentary/65015>
 
-See also the survey paper
-* Egle Rindzevičiūtė (2015). The future as an intellectual technology in the
-  Soviet Union.  Cahiers du monde russe, 56/1.
-  <https://doi.org/10.4000/monderusse.8169>
-  
 The idea "A man who finds himself in the past or on a backward planet and
 eventually changes the world around him" is one of the core ideas of the TRIZ
 subtheory TRTL (theory of the development of a creative personality) that
@@ -125,10 +120,14 @@ Ernst Bloch.
 
 ## Links 
 
+* N.I. Kuznecova (2015). Два проекта методологии: Г.П. Щедровицкий и
+    М.А. Розов (Two methodology projects: G.P. Shchedrovitsky and M.A. Rozov)
+  * <https://rozova.org/images/documents/KuznecovaDvaProekta.pdf>
+  * [German Translation](Texts/Kuznecova-15-de.pdf)
+* V. Matskevitch (2006). Systemic-Thought-Action Methodology. From the MMK
+  archive. <http://v2.circleplus.ru/archive/ing/8/text>
 * Egle Rindzevičiūtė (2015). The future as an intellectual technology in the
   Soviet Union. From Centralised Planning to Reflexive Management.
   <https://journals.openedition.org/monderusse/8169>
-* V. Matskevitch (2006). Systemic-Thought-Action Methodology. From the MMK
-  archive. <http://v2.circleplus.ru/archive/ing/8/text>
 * G.P. Shchedrovitsky (1968). Project on Researching Pedagogy. Methodologiacl
   Analysis. An Extract. <http://v2.circleplus.ru/archive/ing/4/text>
