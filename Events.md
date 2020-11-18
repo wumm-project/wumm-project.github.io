@@ -7,9 +7,16 @@ title: Events
 
 ## Upcoming Events
 
-* Oct-Nov. 2020, each Tuesday. Ontology Modeling Webinar Series (in Russian) 
+* Oct.-Dec. 2020, each Tuesday. Ontology Modeling Webinar Series (in Russian) 
   - [Participant list](https://triz-summit.ru/confer/tds-2020/web/participants/)
   - [Webinar Schedule](https://triz-summit.ru/confer/tds-2020/web/inf/)
+
+* Nov. 28-29, 2020 ТРИЗ конференция «Модели представления и линии развития
+  технических систем» (TRIZ conference "Models of representation and lines of
+  development of technical systems" - in Russian)
+  * each day 16:00-19:00 Moscow Time
+  * [Registration](https://www.metodolog.ru/node/2196)
+  * [Program](https://www.metodolog.ru/node/2200)
 
 * May 12-15, 2021 - TRIZFest 2021
   - Location: Odessa, Ukraine
