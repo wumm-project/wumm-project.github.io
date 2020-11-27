@@ -5,6 +5,18 @@ title: HGG-Blog
 
 # HGG's Blog
 
+## Nov. 28+29, 2020: Moscow TRIZ conference
+
+Московская ТРИЗ конференция "Модели представления и линии развития технических
+систем".
+
+Moscow TRIZ conference "Models of presentation and development lines for
+technical systems".
+
+* [Registration](https://www.metodolog.ru/node/2196)
+* [Program](https://www.metodolog.ru/node/2200)
+* [More in this Blog](2020-11-28)
+
 ## Nov. 15, 2020: The Ideas of the recent Nobel Laureats on Economics  
 
 [Igor Vikentev](https://www.facebook.com/groups/vikent.open/) published a
