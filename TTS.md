@@ -5,7 +5,19 @@ title: TTS
 
 # TRIZ, Technical and General Systems
 
-* Gaetano Cascini (2012). TRIZ-based Anticipatory Design of Future Products
+* Dmitri Bakhturin (2020): Не-ТРИЗ версии системных представлений (Non-TRIZ
+  versions of system notions)
+  * Theses of a presentation at the Moscow TRIZ Conference 2020.
+  * [Russian Version](Texts/Bakhturin-2020-ru.pdf)
+
+* Dmitri Bakhturin (2020): Сравнение Функционального анализа Продукта и
+  Функционального анализа Технологии, некоторые выводы и рекомендации
+  (Comparison of Functional Analysis of Product and Functional analysis of
+  Technology, some conclusions and recommendations)  
+  * Theses for apresentation at the Moscow TRIZ Conference 2020.
+  * [Russian Version](Texts/Bakhturin-2020a-ru.pdf)
+
+* Gaetano Cascini (2012): TRIZ-based Anticipatory Design of Future Products
   and Processes. Journal of Integrated Design and Process Science 16 (3),
   29-63.  
   * <http://dx.doi.org/10.3233/jid-2012-0005>
