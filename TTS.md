@@ -9,6 +9,7 @@ title: TTS
   versions of system notions)
   * Theses of a presentation at the Moscow TRIZ Conference 2020.
   * [Russian Version](Texts/Bakhturin-2020-ru.pdf)
+  * [German Version](Texts/Bakhturin-2020-de.pdf)
 
 * Dmitri Bakhturin (2020): Сравнение Функционального анализа Продукта и
   Функционального анализа Технологии, некоторые выводы и рекомендации
