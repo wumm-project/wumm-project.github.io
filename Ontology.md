@@ -146,13 +146,17 @@ of that work must first be made publicly available.
 
 Addendum: Meanwhile we renamed that as _Thesaurus_ in accordance with the term
 used at the [GSA terms website](https://www.altshuller.ru/thesaur/thesaur.asp)
-and unified that into a common list of terms into a
-[Combined TRIZ Glossary](http://wumm.uni-leipzig.de/glossary.php?rdf=show). 
+and unified that and also more information about top level ontologies and
+OntoCars into a common list of terms into a [Combined TRIZ
+Glossary](http://wumm.uni-leipzig.de/glossary.php).  The links in that
+presentation lead to a display of parts of the stored WUMM RDF Graph in a more
+complete manner that can be traversed along successor and predecessor
+relations (we set up an SPARQL Endpoint for that job).
 
 The terms are modeled as skos:Concepts, but according to the source some more
-"tags" = Types are added (tc:GSAThesaurusEntry, tc:VDIGlossaryEntry). This are
-subclasses of the class skos:Concept, but are concepts by themselves. There
-are some upcoming tasks on that part:
+"tags" = Types are added (e.g., tc:GSAThesaurusEntry, tc:VDIGlossaryEntry).
+This are subclasses of the class skos:Concept, but are concepts by themselves.
+There are some upcoming tasks on that part:
 
 (1) Consolidate the URIs of the two RDF graphs. This could easily be extended
 to Souchkov's Glossary if it would be available in an more machine readable
