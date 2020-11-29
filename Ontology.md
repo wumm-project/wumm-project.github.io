@@ -147,7 +147,7 @@ of that work must first be made publicly available.
 Addendum: Meanwhile we renamed that as _Thesaurus_ in accordance with the term
 used at the [GSA terms website](https://www.altshuller.ru/thesaur/thesaur.asp)
 and unified that and also more information about top level ontologies and
-OntoCars into a common list of terms into a [Combined TRIZ
+OntoCards into a common list of terms into a [Combined TRIZ
 Glossary](http://wumm.uni-leipzig.de/glossary.php).  The links in that
 presentation lead to a display of parts of the stored WUMM RDF Graph in a more
 complete manner that can be traversed along successor and predecessor
