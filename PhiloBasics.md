@@ -120,6 +120,11 @@ Ernst Bloch.
 
 ## Links 
 
+* Dmitri Bakhturin (2020): Не-ТРИЗ версии системных представлений (Non-TRIZ
+  versions of system notions)
+  * Theses of a presentation at the Moscow TRIZ Conference 2020.
+  * [Russian Version](Texts/Bakhturin-2020-ru.pdf)
+  * [German Version](Texts/Bakhturin-2020-de.pdf)
 * N.I. Kuznecova (2015). Два проекта методологии: Г.П. Щедровицкий и
     М.А. Розов (Two methodology projects: G.P. Shchedrovitsky and M.A. Rozov)
   * <https://rozova.org/images/documents/KuznecovaDvaProekta.pdf>
@@ -129,5 +134,7 @@ Ernst Bloch.
 * Egle Rindzevičiūtė (2015). The future as an intellectual technology in the
   Soviet Union. From Centralised Planning to Reflexive Management.
   <https://journals.openedition.org/monderusse/8169>
-* G.P. Shchedrovitsky (1968). Project on Researching Pedagogy. Methodologiacl
+* G.P. Shchedrovitsky (1968). Project on Researching Pedagogy. Methodological
   Analysis. An Extract. <http://v2.circleplus.ru/archive/ing/4/text>
+* P.G. Shchedrovitsky jr. (1987). Деятельностно-природная система
+  * <https://gtmarket.ru/laboratory/expertize/5412>

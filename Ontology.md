@@ -74,7 +74,8 @@ enterprises.
 * V. Souchkov. Glossary of TRIZ and TRIZ-related terms.
   Several versions since 1991.  Last version 2014.
   <http://www.xtriz.com/publications/TRIZGlossaryVersion1_0.pdf>.
-
+  * Latest Version: <https://matriz.org/wp-content/uploads/2016/11/TRIZGlossaryVersion1_2.pdf>
+  
 ### Exploration of the Data stored in OSA and Links to other Platforms
 
 NS: OSA has the ability to link to other platforms and portals that have open
