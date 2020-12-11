@@ -3,32 +3,9 @@ layout: default
 title: Ontology
 ---
 
-# Different activities concerning TRIZ ontology and glossary projects
+# The TRIZ Ontology Project (TOP)
 
-Here some links to TRIZ ontology and glossary projects are collected. One of
-the goals of the WUMM project is to transform that information into RDF as
-__the__ machine readable standard of the Web 3.0 (also called "Semantic Web").
-There are other materials, as e.g.,
-* the TRIZ Inventive Standards
-* the 40 Principles
-* the TRIZ Body of Knowledge
-
-that must be included into a fully fledged Ontology Project and that are
-already (prototypically) transformed to the RDF format within the WUMM
-project, see the [WUMM Demonstration
-Site](http://wumm.uni-leipzig.de/index.php) for a first approximation.  The
-main work is ahead &ndash; to agree upon a consolidated version of all that
-material.
-
-See [our more detailed description](OntologyDetails "wikilink") of the RDF
-sources for an introduction to the RDF vocabulary developed so far.  Note that
-this information is not necessarily up to date since we use an agile approach
-to develop the RDF material.
-
-We provide a [prototypical presentation](http://wumm.uni-leipzig.de/index.php)
-of most of the RDF material collected so far as proof of the concept. 
-
-## The TDS Summit Ontology Project (TRIZ Ontology Project for short)
+## The TDS Summit Ontology Project
 
 ### Motivation (English translation)
 
@@ -49,13 +26,14 @@ practice for development of creative personality, solution of inventive tasks
 in various fields, in innovative entrepreneurship, in solution of tasks in
 enterprises.
 
-* More about the [TDS Summit Ontology
-  Project](https://triz-summit.ru/onto_triz/) (in Russian)
+### More about the Project
+
+* <https://triz-summit.ru/onto_triz/> (in Russian)
   * This are also the authoritative sources for the public (the "visitors") to
     get informed.    
-  * The core team uses moreover an ontology modelling platform
-    [OSA](https://onto.devtas.ru/ts2o1) (the Ontology Space Agent Platform)
-    with (so far) restricted access of the public.
+  * __Core Team__: Olga Eckardt, Andrey Kuryan, Mikhail Rubin, Natalya Rubina,
+    Nikolay Shchedrin (in alphabetical order)
+  * [More about the Project](TOP "wikilink") in English.
 * Ontology Webinar Series Oct.-Nov. 2020 (in Russian)
   * <https://triz-summit.ru/confer/tds-2020/web/inf/> (invitation)    
   * <https://triz-summit.ru/confer/tds-2020/web/> (starting page, link to
@@ -71,25 +49,29 @@ enterprises.
 * A. Kuryan, V. Souchkov, D. Kucharavy. [Towards ontology of
   TRIZ](Texts/Ontology-TDS2019-en.pdf). Proceedings of TRIZ Developers Summit
   2019 Conference, Minsk, 2019 (in English).
-* V. Souchkov. Glossary of TRIZ and TRIZ-related terms.
-  Several versions since 1991.  Last version 2014.
-  <http://www.xtriz.com/publications/TRIZGlossaryVersion1_0.pdf>.
-  * Latest Version: <https://matriz.org/wp-content/uploads/2016/11/TRIZGlossaryVersion1_2.pdf>
-  
-### Exploration of the Data stored in OSA and Links to other Platforms
+* V. Souchkov. Glossary of TRIZ and TRIZ-related terms.  Several versions
+  since 1991.  
+  * The TOP uses the latest version 1.2.
+    <https://matriz.org/wp-content/uploads/2016/11/TRIZGlossaryVersion1_2.pdf>
 
-NS: OSA has the ability to link to other platforms and portals that have open
-APIs. As far as I know, to use this connection a request to the developers is
-required. We will invite them to one of our sessions to report about this.
+## The WUMM TOP Companion Project
 
-HGG: In the domain of semantic technologies exist well-established
-technological standards for both data exchange formats and procedures. The
-standard API for such a task is, of course, a SPARQL Endpoint. It would be
-very useful if OSA would provide such an endpoint that could be used to study
-the work done so far. If less, it would be sufficient to publish regularly
-dumps of any part of the modelling in an established format, as this is done
-in the WUMM project with its knowledge bases in the github repo
-<https://github.com/wumm-project/RDFData>.
+Within the WUMM TOP Companion Project links to TRIZ ontology and glossary
+projects are collected. One of the goals of the project is to transform that
+information into RDF as __the__ machine readable standard of the Web 3.0 (also
+called "Semantic Web").  This is done already for several materials, as e.g.,
+the TRIZ Inventive Standards, the 40 Principles, the TRIZ Body of Knowledge,
+see the [WUMM Demonstration Site](http://wumm.uni-leipzig.de/index.php) for a
+first approximation.  The main work is ahead &ndash; to agree upon a
+consolidated version of all that material.
+
+See [our more detailed description](OntologyDetails "wikilink") of the RDF
+sources for an introduction to the RDF vocabulary developed so far.  Note that
+this information is not necessarily up to date since we use an agile approach
+to develop the RDF material.
+
+We provide a [prototypical presentation](http://wumm.uni-leipzig.de/index.php)
+of most of the RDF material collected so far as proof of the concept. 
 
 ## Previous work
 
@@ -112,55 +94,3 @@ in the WUMM project with its knowledge bases in the github repo
   representation at various generic levels to assist inventive design
   International Journal of Computer Applications in Technology 30 (1),
   pp. 105-112.  <https://doi.org/10.1504/IJCAT.2007.015701>.
-
-### Acknowledgement of Previous Work in the TRIZ Ontology Project
-
-HGG: There are several works by Cecilia Zanni-Merk (listed above), which
-developed TRIZ ontology 8...10 years ago.  What role do such early works play
-in the project?
-
-NS: Unfortunately, we are not familiar with the work of Cecillia Zanni-Merk.
-We started developing ontology, taking only TRIZ glossary (of V. Souchkov -
-added by HGG) as a basis.
-
-HGG: That's a pity, because this way the developments of the latest 20 years,
-especially the IDM version of TRIZ developed by Nikolay Khomenko and Denis
-Cavallucci, and thus concepts such as ActionParameter, EvaluationParameter and
-GeneralizedContradiction, are ignored.  In Souchkov's glossary there are no
-such terms.
-
-The main problem here is that also the basis of the modelling of functional
-analysis thus remains at this level. I understand Mikhail Rubin very well when
-he calls for first to reconstruct the state of TRIZ-2. But then you have to
-say that and not want to achieve more at the same time. The desire to realize
-everything at once has always led to chaos.
-
-Of the various glossaries, the VDI glossary is available in the WUMM project
-as RDF source (based on the skos ontology) and also uploaded to
-<http://wumm.uni-leipzig.de/glossary.php>. It contains 54 terms and, according
-to private communication with Valery Souchkov, covers part of his glossary.
-In ongoing work I try to make Souchkov's glossary accessible in the same way.
-It would be it is useful, also to include further classification of these
-terms as developed within your ontology project. But for this purpose the data
-of that work must first be made publicly available.
-
-Addendum: Meanwhile we renamed that as _Thesaurus_ in accordance with the term
-used at the [GSA terms website](https://www.altshuller.ru/thesaur/thesaur.asp)
-and unified that and also more information about top level ontologies and
-OntoCards into a common list of terms into a [Combined TRIZ
-Glossary](http://wumm.uni-leipzig.de/glossary.php).  The links in that
-presentation lead to a display of parts of the stored WUMM RDF Graph in a more
-complete manner that can be traversed along successor and predecessor
-relations (we set up an SPARQL Endpoint for that job).
-
-The terms are modeled as skos:Concepts, but according to the source some more
-"tags" = Types are added (e.g., tc:GSAThesaurusEntry, tc:VDIGlossaryEntry).
-This are subclasses of the class skos:Concept, but are concepts by themselves.
-There are some upcoming tasks on that part:
-
-(1) Consolidate the URIs of the two RDF graphs. This could easily be extended
-to Souchkov's Glossary if it would be available in an more machine readable
-form than pdf.
-
-(2) Enrich it with information to which class (Basic, Rules, ...) each term
-belongs and to which generation (TRIZ-1..3).
