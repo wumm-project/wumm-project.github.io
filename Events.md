@@ -13,6 +13,7 @@ title: Events
 
 * September 22-24, 2021 - TRIZ Future Conference
   - Location: Bozen/Bolzano, Italy
+  - Deadline for Abstracts: January 31, 2021
 
 * October 15-18, 2021 - TRIZFest 2021
   - Location: Odessa, Ukraine
