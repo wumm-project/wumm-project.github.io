@@ -117,6 +117,10 @@ Ernst Bloch.
   * Что есть мышление? Понятие и рабочая гипотеза ММК (What is thinking? The
     concept and working hypothesis of MMK)
     <https://shchedrovitskiy.com/chto-est-myshlenie/>.
+  * Деятельностно-природная система (Activity-nature system).
+    * Журнал «Человек и природа». — М., «Знание», 1987, № 12, с. 12–63.
+    * <https://gtmarket.ru/laboratory/expertize/5412>
+    * [German Translation](Texts/PG-1987-de.pdf)
 
 ## Links 
 
