@@ -138,7 +138,12 @@ Ernst Bloch.
 * Egle Rindzevičiūtė (2015). The future as an intellectual technology in the
   Soviet Union. From Centralised Planning to Reflexive Management.
   <https://journals.openedition.org/monderusse/8169>
+* Anna Rotkirch (1996). The playing 80's - Russian activity games. In: Danny
+  Saunders, Fred Percival and Matti Vartiainen (eds): The Simulation and
+  Gaming Yearbook Volume 4: Games and Simulations to Enhance Quality Learning,
+  34-40. London: KoganPage. 
+  <https://blogs.helsinki.fi/rotkirch/files/2009/03/Rotkirch_Playing-80s.pdf>
 * G.P. Shchedrovitsky (1968). Project on Researching Pedagogy. Methodological
   Analysis. An Extract. <http://v2.circleplus.ru/archive/ing/4/text>
-* P.G. Shchedrovitsky jr. (1987). Деятельностно-природная система
-  * <https://gtmarket.ru/laboratory/expertize/5412>
+
+
