@@ -57,15 +57,39 @@ title: GIS
   * Scan of the material, by technical reasons in two parts,
     [Part 1](GDR-InventorSchools/KdT-Scans/KdTLehrbrief-Teil2-1.pdf),
     [Part 2](GDR-InventorSchools/KdT-Scans/KdTLehrbrief-Teil2-2.pdf),
-  
-  
+    
 ## Rohrbacher Manuskripte (in German)
 
-* Heft 20: Erfinderschulen, TRIZ und Dialektik (Inventor schools, TRIZ and
-  dialectics)
-  * [Book on Demand 2020](https://www.bod.de/buchshop/erfinderschulen-triz-und-dialektik-9783751983228). 150 S. ISBN 9783751983228.
+* Heft 21: Rainer Thiel. Dialektik, TRIZ und ProHEAL. Erweiterte Neuauflage
+  eines KdT-Materials (1988) für Erfinderschul-Trainer.
+  * en: Dialectics, TRIZ and ProHEAL. Expanded new edition of a KdT material
+    (1988) for trainers in inventor schools.
+  * ru: Диалектика, ТРИЗ и ProHEAL. Новое, расширенное издание материала KdT
+    (1988) для школьных тренеров в школах изобретателей.
+  * [Book on Demand 2020](https://www.bod.de/buchshop/dialektik-triz-und-proheal-rainer-thiel-9783752620153). 174 S. ISBN 978-3-7526-2015-3.
+  * Contents:
+    * [Vorwort](https://hg-graebe.de/Rohrbacher-Kreis/RohrbacherManuskripte-21.pdf) des Herausgebers (Preface)
+    * ProHEAL – die historische Dimension (ProHEAL – the historical dimension) 
+    * KDT-Lehrbrief Teil A. Programm zum Herausarbeiten von Erfindungsaufgaben
+      und Lösungsansätzen in der Technik – Erfindungsprogramm. (KDT Teaching
+      Letter Part A. Programme for working out invention tasks and solution
+      approaches in technology – the invention programme.)
+    * KDT-Lehrbrief Teil B. Erfindungsmethodische Arbeitsblätter (KDT Teaching
+      Letter Part B. Worksheets on invention methodology)
+    * ProHEAL – die inhaltlichen Schwerpunkte (ProHEAL - the main topics)
+    * Baustein KDT-Erfinderschule. Lehrbrief 2. Anhang (Building Block KDT
+      Inventor School. Teaching Letter 2. Appendix)
+    * Literaturverzeichnis (References)
+    
+* Heft 20: Erfinderschulen, TRIZ und Dialektik. Rainer Thiel zum
+  90. Geburtstag.
+  * en: Inventor schools, TRIZ and Dialectics. Rainer Thiel on his 90th
+    birthday.    
+  * ru: Школы изобретателей, ТРИЗ и диалектики. Райнер Тил по случаю своего
+    90-летия.  
+  * [Book on Demand 2020](https://www.bod.de/buchshop/erfinderschulen-triz-und-dialektik-9783751983228). 150 S. ISBN 978-3-7519-8322-8.
   * Contents: 
-    * Hans-Gert Gräbe: [Vorwort](GDR-InventorSchools/Graebe-20.pdf) (Preface, )
+    * Hans-Gert Gräbe: [Vorwort](GDR-InventorSchools/Graebe-20.pdf) (Preface)
     * Ken Pierre Kleemann: [Dialektik der kreativen
       Innovation](GDR-InventorSchools/Kleemann-20.pdf) (Dialectics of creative
       innovation)      
