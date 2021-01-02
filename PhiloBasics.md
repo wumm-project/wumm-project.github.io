@@ -122,8 +122,10 @@ Ernst Bloch.
     * <https://gtmarket.ru/laboratory/expertize/5412>
     * [German Translation](Texts/PG-1987-de.pdf)
 
-## Links 
+## Links
 
+* N.F. Andreytchenko, A.G. Reus (2018). An Apology of Ideology or Antidogmatics
+  * <https://fondgp.ru/publications/an-apology-of-ideology-or-antidogmatics/>
 * Dmitri Bakhturin (2020): Не-ТРИЗ версии системных представлений (Non-TRIZ
   versions of system notions)
   * Theses of a presentation at the Moscow TRIZ Conference 2020.
