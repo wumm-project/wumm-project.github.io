@@ -98,6 +98,7 @@ title: TTS
   Systems)
   * [Russian Original](Texts/Shpakovsky-mts-ru.pdf)
   * [German Translation](Texts/Shpakovsky-mts-de.pdf)
+  * [English Translation](Texts/Shpakovsky-mts-en.pdf)
 
 * Nikolay Shpakovsky (2010): ТРИЗ. Анализ технической и патентной информации и
   генерация новых идей (TRIZ. Analysis of technical and patent information and
