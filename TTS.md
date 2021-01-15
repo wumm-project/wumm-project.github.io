@@ -89,6 +89,18 @@ title: TTS
   * [Russian Original](https://r1.nubex.ru/s828-c8b/f3215_04/Petrov-TDS-2020-regularities[1].pdf)
   * [German Translation](Texts/ldas-20-de.pdf)
 
+* Michail Rubin (2006): Этюды о законах развития техники (Etudes on the laws
+  of technical development).
+  * <http://www.temm.ru/ru/section.php?docId=3432>
+  
+* Michail Rubin (2006): Принцип захвата и многообразия в развитии систем (The
+  principle of capture and diversity in systems development).
+  * <http://www.temm.ru/ru/section.php?docId=3433>
+  
+* Michail Rubin (2009): Мифы о законах развития технических систем (Myths
+  about the laws of development of technical systems).
+  * <http://www.temm.ru/ru/section.php?docId=4384>
+  
 * Michail Rubin (2019): О связи комплекса законов развития систем с ЗРТС (On
   the relationship of the complex of laws of system development with ZRTS).
   Manuscript, 6.11.2019.
