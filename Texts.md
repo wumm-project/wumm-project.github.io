@@ -45,6 +45,9 @@ See
   (Scientific Thought as a Planetary Phenomenon)
   * [Russian Edition](http://vernadsky.lib.ru/e-texts/archive/thought.pdf)
   * [Local copy of the Russian text](Texts/Vernadsky1938-ru.pdf)
+  * [English translation](Texts/Vernadsky1938-en.pdf)
+    * Translation by Pavel M. Penev, taken from
+      <https://github.com/pavpen/Vernadsky-ScientificThought>
   * [Rough yet German translation](Texts/Vernadsky1938-de.pdf)
   * [German translation](Texts/Vernadsky1938-EditHistory-de.pdf) of the edit
     history of Vernadsky's text, prepended to the Russian edition.
