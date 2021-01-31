@@ -100,6 +100,7 @@ repo](https://github.com/wumm-project/web).
 * TRIZ Club Minsk (in Russian)
   * <https://www.facebook.com/minsktrizclub/>
   * <https://community-z.com/events/minsk-triz-club-31>
+  * [English translation](TRIZ-Club-Minsk) of the program
 * TRIZ Club Moscow (in Russian)
   * <https://www.facebook.com/Московский-ТРИЗ-Клуб-1529629404000803/>
 * TRIZ Practitioners Club Moscow (in Russian)

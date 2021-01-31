@@ -32,7 +32,7 @@ title: TTS
 * B.I. Goldovski (1983): Система закономерностей построения и развития
   технических систем (The system of laws of construction and development of
   technical systems).
-* [Russian Original](https://triz-summit.ru/file.php/id/f303253-file-original.pdf)
+  * [Russian Original](https://triz-summit.ru/file.php/id/f303253-file-original.pdf)
   * [German Translation](Texts/Goldovski-1983-de.pdf)
 
 * B.I. Goldovski (2017): О законах построения технических систем (On the laws
