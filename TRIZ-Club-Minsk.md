@@ -21,12 +21,12 @@ Diagnosis__
 
 TRIZ is a scientific discipline that studies both the laws of technical system
 development and the patterns by which inventive thinking works and
-develops. We will discuss the hypothesis of forming a special type of thinking
-- inventive thinking. If ARIZ is taken as a benchmark of inventive thinking, a
-qualitative model of inventive thinking can be built and used to diagnose
-(compare) it with the real thinking of TRIZ seminar attendees. In addition,
-such a model can be used to evaluate the techniques proposed for inventive
-thinking development, project team building, etc.
+develops. We will discuss the hypothesis of forming a special type of
+thinking - inventive thinking. If ARIZ is taken as a benchmark of inventive
+thinking, a qualitative model of inventive thinking can be built and used to
+diagnose (compare) it with the real thinking of TRIZ seminar attendees. In
+addition, such a model can be used to evaluate the techniques proposed for
+inventive thinking development, project team building, etc.
 
 ### 4.3: 30 Dec 2020
 
@@ -90,3 +90,7 @@ theory, it will be shown how to apply this principle in practice.
 ### 2.3: 28 Nov 2018
 
 ### 2.2: 31 Oct 2018
+
+* Ivan Podobed. The system approach in Systems Engineering
+* Nikolay Shpakovsky, Igor Devojno. The system approach in TRIZ
+* Andrej Kuryan et al.  Comparing systems approaches in engineering and TRIZ
