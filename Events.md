@@ -7,8 +7,8 @@ title: Events
 
 ## Upcoming Events
 
-* On February 26-27, 2020 the next online conference __Business TRIZ Online
-  Winter 2021__ will take place.
+* On February 26-27, 2020 the next online conference Business TRIZ Online
+  Winter 2021 will take place.
   * The conference will include presentations on modern approaches in the
     application of TRIZ tools to solve innovative problems and challenges in
     business, participants will share their experiences of TRIZ application in
