@@ -113,6 +113,8 @@ Ernst Bloch.
     Ludmila Golubkova has published a summary of this event.
     * <https://www.facebook.com/liudmila.golubkova/posts/2667428350051869>
     * <https://www.youtube.com/watch?v=BKQRlwIyKgc>
+  * [Избранные труды](https://gtmarket.ru/library/basis/3961)
+  * [Bibliography](https://gtmarket.ru/library/basis/3961/4004)
 * [Петр Георгиевич Щедровицкий](https://shchedrovitskiy.com/) - the son
   * Что есть мышление? Понятие и рабочая гипотеза ММК (What is thinking? The
     concept and working hypothesis of MMK)
@@ -121,6 +123,13 @@ Ernst Bloch.
     * Журнал «Человек и природа». — М., «Знание», 1987, № 12, с. 12–63.
     * <https://gtmarket.ru/laboratory/expertize/5412>
     * [German Translation](Texts/PG-1987-de.pdf)
+* V. B. Khristenko, A. G. Reus, A. P. Zinchenko et al. The Methodological
+  School of Management.  Bloomsbury Publishing, 2014.
+  * <https://books.google.by/books?id=_8wXBAAAQBAJ>
+  * Part I: Selected Works by G.P. Shchedrovitsky
+  * Part II: Rails, Pipes and Cables: Experience of managing infrastructural
+    complexes.
+  * Part III: Energy of industrial growth ... Part VII
 
 ## Links
 
@@ -147,5 +156,9 @@ Ernst Bloch.
   <https://blogs.helsinki.fi/rotkirch/files/2009/03/Rotkirch_Playing-80s.pdf>
 * G.P. Shchedrovitsky (1968). Project on Researching Pedagogy. Methodological
   Analysis. An Extract. <http://v2.circleplus.ru/archive/ing/4/text>
-
-
+* G.P. Shchedrovitsky (1981). Принципы и общая схема методологической
+  организации системно-структурных исследований и разработок (Principles and
+  General Scheme of the Methodological Organization of System-Structural
+  Research and Development).
+  * [Russian Original](https://gtmarket.ru/library/basis/3961/3967)
+  * [English Translation](Texts/Principles-1981-en.pdf) 
