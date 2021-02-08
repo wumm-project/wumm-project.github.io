@@ -5,6 +5,12 @@ title: HGG-Blog
 
 # HGG's Blog
 
+## Febr. 5, 2021: 17. Interdisciplinary Discussion "Evolution of Technical and General Systems"
+
+* <http://mint-leipzig.de/2021-02-05.html>
+
+[Complex Systems](CS)
+
 ## Nov. 28+29, 2020: Moscow TRIZ conference
 
 Московская ТРИЗ конференция "Модели представления и линии развития технических
