@@ -7,6 +7,17 @@ title: Events
 
 ## Upcoming Events
 
+* On February 26-27, 2020 the next online conference __Business TRIZ Online
+  Winter 2021__ will take place.
+  * The conference will include presentations on modern approaches in the
+    application of TRIZ tools to solve innovative problems and challenges in
+    business, participants will share their experiences of TRIZ application in
+    their companies and discuss topical issues and problems.
+  * The event is organised under the auspices of the International Business
+    TRIZ Association (IBTA, Netherlands).
+  * The conference will be held in English only, with no translation into
+    other languages.
+  * <http://www.biztriz.net/36-conference-business-triz-online-winter-2021.html> 
 * July 13, 2021 - 5. Deutscher TRIZ Anwendertag.
   - Location: IHK Heilbronn-Franken, Heilbronn
   - Web site: <https://www.bayern-innovativ.de/events-und-messen/veranstaltungen/veranstaltung/triz-anwendertag-2021>
