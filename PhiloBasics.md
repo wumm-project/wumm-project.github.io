@@ -81,14 +81,8 @@ Ernst Bloch.
 
 ## Links to material about and from the MMK and its follow-ups
 
-* [Георгий Петрович Щедровицкий](https://www.fondgp.ru/)
+* [Georgi Petrovich Shchedrovitsky](https://www.fondgp.ru/)
   * <https://en.wikipedia.org/wiki/Georgy_Shchedrovitsky>
-  * He became involved in the Moscow Methodological Circle set up by Alexander
-    Zinoviev. In 1954, Shchedrovitsky took over leadership of the circle and
-    played a prominent role in developing activity theory. Here the world was
-    not seen as composed of human subjects and objects as in naturalistic
-    theory.  Rather objects are secondary constructs whose nature depends on
-    the activity applied to them.
   * The MMC has had a lasting impact on Russian systems thinking particularly
     through the Methodological School of Management
     * [Методологическая школа управления](https://www.facebook.com/groups/877563105594553)
@@ -115,10 +109,11 @@ Ernst Bloch.
     * <https://www.youtube.com/watch?v=BKQRlwIyKgc>
   * [Избранные труды](https://gtmarket.ru/library/basis/3961)
   * [Bibliography](https://gtmarket.ru/library/basis/3961/4004)
-* [Петр Георгиевич Щедровицкий](https://shchedrovitskiy.com/) - the son
+* [Piotr Georgievich Shchedrovitsky](https://shchedrovitskiy.com/) - the son
   * Что есть мышление? Понятие и рабочая гипотеза ММК (What is thinking? The
-    concept and working hypothesis of MMK)
+    concept and working hypothesis of MMC)
     <https://shchedrovitskiy.com/chto-est-myshlenie/>.
+    * [English Translation](Texts/WhatIsThinking-en.pdf)
   * Деятельностно-природная система (Activity-nature system).
     * Журнал «Человек и природа». — М., «Знание», 1987, № 12, с. 12–63.
     * <https://gtmarket.ru/laboratory/expertize/5412>
