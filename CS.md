@@ -27,6 +27,11 @@ and the foundation of a __systems science__.
 
 ## About the Notion of a System
 
+Alexander Bogdanov: A __system__ is a set of elements or relations that are
+naturally connected with each other into a single whole, which has a property
+that is absent in individual elements or in their unorganized aggregates
+(integrative property).
+
 (Source: <https://en.wikipedia.org/wiki/Systems_theory>)
 
 A __system__ is a cohesive group of interrelated and interdependent parts
@@ -63,12 +68,22 @@ characteristics are:
 
 ## Some Papers on that topic
 
+* Timothy J. Foxon, Mark S. Reed, Lindsay C. Stringer (2009). Governing
+  long‐term social–ecological change: what can the adaptive management and
+  transition management approaches learn from each other?  Environmental
+  Policy and Governance, 19 (1), 3--20.
+  * <https://doi.org/10.1002/eet.496>
+  
+* Frank W. Geels, Johan Schot (2007).  Typology of Sociotechnical Transition
+  Pathways. In: Research Policy 36 (2007), 399–417.
+  * <https://doi.org/10.1016/j.respol.2007.01.003>
 
 * Klaus Fuchs-Kittowski (2020). On the Categories of Possibility, Limiting
   Conditions and the Qualitative Development Stages of Matter in the Thought
-  of Friedrich Engels.
-  [Triple C, 2021](https://www.informatik.uni-leipzig.de/~graebe/Texte/Fuchs-21.pdf). 
-* Hans-Gert Gräbe (2020): TRIZ und Transformationen sozio-technischer und
+  of Friedrich Engels. 
+  * <https://www.informatik.uni-leipzig.de/~graebe/Texte/Fuchs-21.pdf>
+
+* Hans-Gert Gräbe (2020). TRIZ und Transformationen sozio-technischer und
   sozio-ökologischer Systeme.  Ein Vergleich (TRIZ and transitions of
   socio-technical and socio-ecological systems. A comparison).
   * German Original. [LIFIS Online, June 2020](http://dx.doi.org/10.14625/graebe_20200627)
@@ -77,9 +92,11 @@ characteristics are:
   * Poster for the MATRIZ Online Forum 2020, August 2020.
     ([english](https://hg-graebe.de/EigeneTexte/MOF-20-en.pdf),
     [russian](https://hg-graebe.de/EigeneTexte/MOF-20-ru.pdf))
+
 * Darrell Mann (2019). Systematic innovation in complex environments.
   In: [Online Proceedings](https://triz-summit.ru/confer/tds-2019/articles/reports/)
   of the TRIZ Summit 2019 Minsk.
+
 * G.P. Shchedrovitsky (1981). Принципы и общая схема методологической
   организации системно-структурных исследований и разработок (Principles and
   General Scheme of the Methodological Organization of System-Structural
