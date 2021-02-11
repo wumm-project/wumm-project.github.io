@@ -31,6 +31,83 @@ extracted from the web pages of the TRIZ Summit 2019 in Minsk and enriched
 with some additional information. See our [FAQ](TSN-FAQ "wikilink") about some
 consideration on privacy.
 
+## TRIZ Certificates
+
+On the MATRIZ website a [list of certifies TRIZ
+specialists](https://matriz.org/matriz-offices/council-on-expertise-and-methodology-cem/certification/lists-of-certified-triz-specialists/)
+is published.  The list is maintained at
+<https://www.nanoq.pl/matriz_database/all/> and can easily be analyzed for
+statistical information.  Below you find a statistics of the 31894 certified
+specialists per country as of 2021-02-11.
+
+   +-----------------------------------------+-------+
+   | Republic of Korea                       | 18879 |
+   | PR China                                |  4266 |
+   | Germany                                 |  2531 |
+   | India                                   |  1253 |
+   | Russian Federation                      |   918 |
+   | Taiwan                                  |   569 |
+   | United States                           |   521 |
+   | Poland                                  |   480 |
+   | Netherlands                             |   469 |
+   | Austria                                 |   352 |
+   | Colombia                                |   271 |
+   | Singapore                               |   202 |
+   | Italy                                   |   168 |
+   | Russia                                  |   162 |
+   | United Kingdom                          |   139 |
+   | United Arab Emirates                    |   102 |
+   | Hong Kong                               |    95 |
+   | Malaysia                                |    64 |
+   | France                                  |    52 |
+   | Belarus                                 |    30 |
+   | Sweden                                  |    30 |
+   | Australia                               |    26 |
+   | Czech Republic                          |    20 |
+   | Slovenia                                |    20 |
+   | Mexico                                  |    19 |
+   | Japan                                   |    19 |
+   | Cyprus                                  |    17 |
+   | Thailand                                |    17 |
+   | Belgium                                 |    17 |
+   | Brazil                                  |    16 |
+   | Finland                                 |    15 |
+   | Switzerland                             |    14 |
+   | Denmark                                 |    14 |
+   | Kazakhstan                              |    14 |
+   | Ireland                                 |    13 |
+   | Ukraine                                 |    12 |
+   | Israel                                  |    12 |
+   | Costa Rica                              |     7 |
+   | Latvia                                  |     6 |
+   | Canada                                  |     6 |
+   | Saudi Arabia                            |     5 |
+   | Indonesia                               |     4 |
+   | Azerbaijan                              |     4 |
+   | Hungary                                 |     4 |
+   | Moldava                                 |     3 |
+   | Greece                                  |     3 |
+   | Romania                                 |     2 |
+   | Slovakia                                |     2 |
+   | Norway                                  |     2 |
+   | Qatar                                   |     2 |
+   | Spain                                   |     2 |
+   | Vietnam                                 |     2 |
+   | Kuwait                                  |     2 |
+   | Turkey                                  |     2 |
+   | Iran                                    |     2 |
+   | Estonia                                 |     2 |
+   | Argentina                               |     1 |
+   | South Africa                            |     1 |
+   | Pakistan                                |     1 |
+   | Mongolia                                |     1 |
+   | Bahrain                                 |     1 |
+   | Nepal                                   |     1 |
+   | Liechtenstein                           |     1 |
+   | Philippines                             |     1 |
+   +-----------------------------------------+-------+
+
+
 ## International Organizations
 
 * [MA TRIZ - the International TRIZ Organization](https://matriz.org/)
@@ -108,8 +185,3 @@ repo](https://github.com/wumm-project/web).
 * [OTSM-TRIZ](https://otsm-triz.org/) - This site is dedicated to the work of
   TRIZ-master, the author of the General Theory of Power Thinking (OTSM -
   Общая Теория Сильного Мышления) Nikolai Khomenko (1954-2011).
-
-## Information Channels
-
-* <https://www.facebook.com/evgeny.pokalo> - Evgeni Pokalo (in Russian)
-* <https://www.facebook.com/sergey.triz> - Sergei Khovanov (in Russian) 
