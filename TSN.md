@@ -39,7 +39,7 @@ is published.  The list is maintained at
 <https://www.nanoq.pl/matriz_database/all/> and can easily be analyzed for
 statistical information.  Below you find a statistics of the 31894 certified
 specialists per country as of 2021-02-11.
-
+<pre>
    +-----------------------------------------+-------+
    | Republic of Korea                       | 18879 |
    | PR China                                |  4266 |
@@ -106,7 +106,7 @@ specialists per country as of 2021-02-11.
    | Liechtenstein                           |     1 |
    | Philippines                             |     1 |
    +-----------------------------------------+-------+
-
+</pre>
 
 ## International Organizations
 
