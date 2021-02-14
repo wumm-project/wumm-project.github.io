@@ -39,74 +39,19 @@ is published.  The list is maintained at
 <https://www.nanoq.pl/matriz_database/all/> and can easily be analyzed for
 statistical information.  Below you find a statistics of the 31894 certified
 specialists per country as of 2021-02-11.
-<pre>
-   +-----------------------------------------+-------+
-   | Republic of Korea                       | 18879 |
-   | PR China                                |  4266 |
-   | Germany                                 |  2531 |
-   | India                                   |  1253 |
-   | Russian Federation                      |   918 |
-   | Taiwan                                  |   569 |
-   | United States                           |   521 |
-   | Poland                                  |   480 |
-   | Netherlands                             |   469 |
-   | Austria                                 |   352 |
-   | Colombia                                |   271 |
-   | Singapore                               |   202 |
-   | Italy                                   |   168 |
-   | Russia                                  |   162 |
-   | United Kingdom                          |   139 |
-   | United Arab Emirates                    |   102 |
-   | Hong Kong                               |    95 |
-   | Malaysia                                |    64 |
-   | France                                  |    52 |
-   | Belarus                                 |    30 |
-   | Sweden                                  |    30 |
-   | Australia                               |    26 |
-   | Czech Republic                          |    20 |
-   | Slovenia                                |    20 |
-   | Mexico                                  |    19 |
-   | Japan                                   |    19 |
-   | Cyprus                                  |    17 |
-   | Thailand                                |    17 |
-   | Belgium                                 |    17 |
-   | Brazil                                  |    16 |
-   | Finland                                 |    15 |
-   | Switzerland                             |    14 |
-   | Denmark                                 |    14 |
-   | Kazakhstan                              |    14 |
-   | Ireland                                 |    13 |
-   | Ukraine                                 |    12 |
-   | Israel                                  |    12 |
-   | Costa Rica                              |     7 |
-   | Latvia                                  |     6 |
-   | Canada                                  |     6 |
-   | Saudi Arabia                            |     5 |
-   | Indonesia                               |     4 |
-   | Azerbaijan                              |     4 |
-   | Hungary                                 |     4 |
-   | Moldava                                 |     3 |
-   | Greece                                  |     3 |
-   | Romania                                 |     2 |
-   | Slovakia                                |     2 |
-   | Norway                                  |     2 |
-   | Qatar                                   |     2 |
-   | Spain                                   |     2 |
-   | Vietnam                                 |     2 |
-   | Kuwait                                  |     2 |
-   | Turkey                                  |     2 |
-   | Iran                                    |     2 |
-   | Estonia                                 |     2 |
-   | Argentina                               |     1 |
-   | South Africa                            |     1 |
-   | Pakistan                                |     1 |
-   | Mongolia                                |     1 |
-   | Bahrain                                 |     1 |
-   | Nepal                                   |     1 |
-   | Liechtenstein                           |     1 |
-   | Philippines                             |     1 |
-   +-----------------------------------------+-------+
-</pre>
+
+| Country | All | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 |
+|:-------:|:---:|--------:|--------:|--------:|--------:|--------:|
+| Republic of Korea | 18879 | 12731 | 5285 | 829 | 25 |  9 |
+| PR China          |  4266 |  2801 | 1196 | 263 |  5 |  1 |
+| Germany           |  2531 |  2175 |  276 |  71 |  7 |  2 |
+| India             |  1253 |  1057 |  154 |  42 |  3 |  1 |
+| Russia            |  1080 |   536 |  256 | 169 | 60 | 59 |
+| Taiwan            |   569 |   403 |  117 |  49 |  - |  - |
+| United States     |   521 |   147 |  224 | 123 | 21 |  6 |
+| Poland            |   480 |   379 |   86 |  14 |  1 |  - |
+| Netherlands       |   469 |   351 |  114 |   2 |  1 |  1 |
+| Austria           |   352 |   252 |   76 |  24 |  - |  4 |
 
 ## International Organizations
 
