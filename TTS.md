@@ -67,6 +67,11 @@ title: TTS
     ([english](https://hg-graebe.de/EigeneTexte/MOF-20-en.pdf),
     [russian](https://hg-graebe.de/EigeneTexte/MOF-20-ru.pdf))
 
+* Hans-Gert Gräbe (2020): Technical Systems and Purposes.  To appear in the
+  Proceedings of the First German TRIZ Online Conference.
+  * [English](https://hg-graebe.de/EigeneTexte/DAT-20-en.pdf)
+  * [German Translaton](https://hg-graebe.de/EigeneTexte/DAT-20-de.pdf)
+
 * Yuri Lebedyev (2011): Классификация потоков в технических системах
   (Classification of flows in technical systems)
   * [Russian Original](https://www.metodolog.ru/node/967)
@@ -75,6 +80,10 @@ title: TTS
   вещества, энергии и информации (Law of efficiency improvement of substance,
   energy and information flows)
   * [Russian Original](https://triz-summit.ru/confer/tds-2006/203452/203525/)
+
+* Alex Lyubomirsky, Simon Litvin, Sergei Ikovenko et al. (2018). Trends of
+  Engineering System Evolution (TESE). TRIZ Consulting Group. ISBN
+  978-3-00-059846-3.
 
 * Vladimir Petrov (2020): Законы и закономерности развития систем (Laws and
   patterns of systems development). Book in 4 volumes (in Russian), ISBN
