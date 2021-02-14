@@ -40,11 +40,12 @@ is published.  The list is maintained at
 statistical information.  Below you find a statistics of the 31894 certified
 specialists per country as of 2021-02-11.
 
-<table align="center" border="1" cellpadding="3">
-
+<table class="table table-striped">
+<thead>
 <tr><th> Country </th><th> All </th><th> Level 1 </th><th> Level 2 </th><th>
 Level 3 </th><th> Level 4 </th><th> Level 5 </th></tr>
-
+</thead>
+<tbody>
 <tr><td> Republic of Korea </td><td> 18879 </td><td> 12731 </td><td> 5285
 </td><td> 829 </td><td> 25 </td><td> 9 </td></tr>
 
@@ -74,7 +75,7 @@ Level 3 </th><th> Level 4 </th><th> Level 5 </th></tr>
 
 <tr><td> Austria </td><td> 352 </td><td> 252 </td><td> 76 </td><td> 24
 </td><td> - </td><td> 4 </td></tr>
-
+</tbody>
 </table>
 
 ## International Organizations
