@@ -40,18 +40,42 @@ is published.  The list is maintained at
 statistical information.  Below you find a statistics of the 31894 certified
 specialists per country as of 2021-02-11.
 
-| Country | All | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 |
-|:-------:|:---:|--------:|--------:|--------:|--------:|--------:|
-| Republic of Korea | 18879 | 12731 | 5285 | 829 | 25 |  9 |
-| PR China          |  4266 |  2801 | 1196 | 263 |  5 |  1 |
-| Germany           |  2531 |  2175 |  276 |  71 |  7 |  2 |
-| India             |  1253 |  1057 |  154 |  42 |  3 |  1 |
-| Russia            |  1080 |   536 |  256 | 169 | 60 | 59 |
-| Taiwan            |   569 |   403 |  117 |  49 |  - |  - |
-| United States     |   521 |   147 |  224 | 123 | 21 |  6 |
-| Poland            |   480 |   379 |   86 |  14 |  1 |  - |
-| Netherlands       |   469 |   351 |  114 |   2 |  1 |  1 |
-| Austria           |   352 |   252 |   76 |  24 |  - |  4 |
+<table align="center" border="1" cellpadding="3">
+
+<tr><th> Country </th><th> All </th><th> Level 1 </th><th> Level 2 </th><th>
+Level 3 </th><th> Level 4 </th><th> Level 5 </th></tr>
+
+<tr><td> Republic of Korea </td><td> 18879 </td><td> 12731 </td><td> 5285
+</td><td> 829 </td><td> 25 </td><td> 9 </td></tr>
+
+<tr><td> PR China </td><td> 4266 </td><td> 2801 </td><td> 1196 </td><td> 263
+</td><td> 5 </td><td> 1 </td></tr>
+
+<tr><td> Germany </td><td> 2531 </td><td> 2175 </td><td> 276 </td><td> 71
+</td><td> 7 </td><td> 2 </td></tr>
+
+<tr><td> India </td><td> 1253 </td><td> 1057 </td><td> 154 </td><td> 42
+</td><td> 3 </td><td> 1 </td></tr>
+
+<tr><td> Russia </td><td> 1080 </td><td> 536 </td><td> 256 </td><td> 169
+</td><td> 60 </td><td> 59 </td></tr>
+
+<tr><td> Taiwan </td><td> 569 </td><td> 403 </td><td> 117 </td><td> 49
+</td><td> - </td><td> - </td></tr>
+
+<tr><td> United States </td><td> 521 </td><td> 147 </td><td> 224 </td><td> 123
+</td><td> 21 </td><td> 6 </td></tr>
+
+<tr><td> Poland </td><td> 480 </td><td> 379 </td><td> 86 </td><td> 14
+</td><td> 1 </td><td> - </td></tr>
+
+<tr><td> Netherlands </td><td> 469 </td><td> 351 </td><td> 114 </td><td> 2
+</td><td> 1 </td><td> 1 </td></tr>
+
+<tr><td> Austria </td><td> 352 </td><td> 252 </td><td> 76 </td><td> 24
+</td><td> - </td><td> 4 </td></tr>
+
+</table>
 
 ## International Organizations
 
