@@ -56,7 +56,7 @@ Level 3 </th><th> Level 4 </th><th> Level 5 </th></tr>
 </td><td> 7 </td><td> 2 </td></tr>
 
 <tr><td> India </td><td> 1253 </td><td> 1057 </td><td> 154 </td><td> 42
-</td><td> 3 </td><td> 1 </td></tr>
+</td><td> - </td><td> - </td></tr>
 
 <tr><td> Russia </td><td> 1080 </td><td> 536 </td><td> 256 </td><td> 169
 </td><td> 60 </td><td> 59 </td></tr>
@@ -74,7 +74,7 @@ Level 3 </th><th> Level 4 </th><th> Level 5 </th></tr>
 </td><td> 1 </td><td> 1 </td></tr>
 
 <tr><td> Austria </td><td> 352 </td><td> 252 </td><td> 76 </td><td> 24
-</td><td> - </td><td> 4 </td></tr>
+</td><td> - </td><td> - </td></tr>
 </tbody>
 </table>
 
