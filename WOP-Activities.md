@@ -87,7 +87,7 @@ od:Talk
       the People Database)
     - dcterms:source URL = Link to some information about the talk
     - dcterms:title Literal = title of the talk
-    - od:presentedBy od:Person = who presented the talk (if more that one
+    - od:presentedBy foaf:Person = who presented the talk (if more that one
       author)    
     - od:urlPaper URL = one or several links to papers related to the talk   
     - od:urlSlides URL = one or several links to slides presented in the talk
@@ -147,9 +147,17 @@ tc:MATRIZCertificate
       - The list contains in many cases Russian and Latin versions, both are
       	subsumed under this predicate, Russian transcriptions are marked with
       	a language tag.
-   - od:fromCountry Literal = country in Latin transciption "Russia";
-   - od:theLevel od:CertificateLevel = the level as URI
-   - od:hasCertificateId Literal = the Id according to the list
+    - od:fromCountry Literal = country in Latin transciption;
+    - od:theLevel od:MATRIZCertificateLevel = the level as URI
+    - od:hasCertificateId Literal = the Id according to the list
+
+tc:MATRIZCertificateLevel
+  - *File:* AllMATRIZCertificates.ttl
+  - *Description:* The MATRIZ certificate levels
+  - *Namespace prefix:* http://opendiscovery.org/rdf/
+  - *URI rule*: CertificateLevelX with X in 1..5
+  - *Predicates*
+    - rdfs:label Literal = label
 
 ## Presentations
 
