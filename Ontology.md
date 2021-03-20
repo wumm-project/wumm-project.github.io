@@ -60,15 +60,14 @@ Within the WUMM TOP Companion Project links to TRIZ ontology and glossary
 projects are collected. One of the goals of the project is to transform that
 information into RDF as __the__ machine readable standard of the Web 3.0 (also
 called "Semantic Web").  This is done already for several materials, as e.g.,
-the TRIZ Inventive Standards, the 40 Principles, the TRIZ Body of Knowledge,
-see the [WUMM Demonstration Site](http://wumm.uni-leipzig.de/index.php) for a
-first approximation.  The main work is ahead &ndash; to agree upon a
-consolidated version of all that material.
+the TRIZ Inventive Standards, the 40 Principles, the TRIZ Body of Knowledge.
+The main work is ahead &ndash; to agree upon a consolidated version of all
+that material.
 
-See [our more detailed description](OntologyDetails "wikilink") of the RDF
-sources for an introduction to the RDF vocabulary developed so far.  Note that
-this information is not necessarily up to date since we use an agile approach
-to develop the RDF material.
+See [our more detailed description](WOP-General) of the RDF sources for an
+introduction to the RDF vocabulary developed so far.  Note that this
+information is not necessarily up to date since we use an agile approach to
+develop the RDF material.
 
 We provide a [prototypical presentation](http://wumm.uni-leipzig.de/index.php)
 of most of the RDF material collected so far as proof of the concept. 
