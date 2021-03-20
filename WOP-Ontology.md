@@ -9,98 +9,166 @@ This page describes our RDF modelling of __TRIZ ontology__ in more detail.
 General explanations of our TRIZ modelling can be found on the [introductory
 page](WOP-General).
 
-The following descriptions are yet to be fixed. 
+The basis of the ontology modelling is the [SKOS
+ontology](https://www.w3.org/TR/skos-primer/), which allows to model the
+relationships in conceptual systems in a lightweight way. In order to
+distinguish the provenance of individual definitions, annotations and
+examples, different sub-predicates of the relevant SKOS predicates are used.
+Details are given in more detail in the following publications:
+* About the WUMM modelling concepts of a TRIZ ontology
+  ([pdf](Texts/WOP-Basics.pdf)).
 
-## Glossary
+## Glossaries
 
-*Description:* Glossary (label, definition, notes, examples) extracted from
-the English version of the German VDI norm with German and Russian versions
-added.
+SKOS offers the possibility to display several glossaries side by side by
+compiling the different explanations in different RDF graphs relating them to
+the same URI. These can then be compared in more detail in a _Combined
+Glossary_, which is compiled from these RDF graphs in our RDF Store. See the
+prototypical implementation of a [Combined
+Glossary](http://wumm.uni-leipzig.de/ontology.php) in our demo website.
 
-All concepts are related to a singleton skos:ConceptScheme *theTRIZGlossary*.
+The included concepts all have URIs from the common namespace tc: and the RDF
+Type _skos:Concept_.  In addition, the concepts are assigned to another
+subtype of _skos:Concept_ according to their provenance.
 
-od:GlossaryEntry - a subclass of skos:Concept
-  - *Description:* Description of a certain TRIZ concept
-  - *Namespace prefix:* NF:Context/
-  - *Predicates*
-    - skos:definition Literal = definition explaining the meaning of the
-      concept 
-    - skos:example Literal = example demonstrating the meaning of the concept 
-    - skos:inScheme skos:ConceptScheme = the related concept scheme
-    - skos:note Literal = additional note about the concept
-    - skos:prefLabel Literal = label of the concept 
+The predicates _skos:prefLabel_ and _skos:altLabel_ are used for the labels of
+the concepts according to the RDF multilinguality concept.  This allows SPARQL
+queries to search for labels in selected languages.
+
+Currently the following glossaries are covered:
+* The GSA TRIZ thesaurus <https://www.altshuller.ru/thesaur/thesaur.asp> - a
+  large multilingual thesaurus of TRIZ concepts (Thesaurus.ttl)
+* The glossary of V. Souchkov (v. 1.2) - Souchkov-Glossary.ttl
+* The TRIZ-100 glossary of the TRIZ Ontology Project - TOP-Glossary.ttl
+* The glossary published with the German TRIZ VDI norm 4521 - VDI-Glossary.ttl
+* A glossary published by (Lippert/Cloutier 2019) - Lippert-Glossary.ttl
+
+__Predicates__ of a typical entry
+- rdf:Type = skos:Concept
+  - subtypes od:GSAThesaurusEntry, d:LippertGlossaryEntry,
+    od:SouchkovGlossaryEntry, od:VDIGlossaryEntry
+- skos:prefLabel Literal = (preferred) name of the concept (multilingual)
+- skos:altLabel Literal = alternative name of the concept, synonyms
+- skos:definition Literal = definition of the concept
+  - subpredicates od:SouchkovDefinition, od:VDIGlossaryDefinition
+- skos:example Literal = example explaining the concept 
+  - subpredicates od:SouchkovExample
+- skos:note Literal = note explaining a concept
+  - subpredicates od:hasLippertNote
+
+__Concept relations__
+- skos:narrower = subconcept relation (A skos:narrower B means that A is a
+  subconcept of B)
+  - subpredicates od:SouchkovCategory
   
-## StandardSolutions
+## Inventive Standards
 
-*Description:* The 76 standard solutions as rooted graph of skos:Concept
-instandes (label, superconcept) extracted from the (German) [TRIZ
-Online](http://triz-online.de/index.php?id=5577) web site with English and
-Russian versions added.
+### Classical Standards
 
-All concepts are related to a singleton skos:ConceptScheme *theTRIZStandards*.
+*Description:* The inventive standards as rooted graph extracted from the
+(German) [TRIZ Online](http://triz-online.de/index.php?id=5577) web site with
+English and Russian versions added.
+
 An (empty) root concept *S_0* is added.
 
 *Naming convention:* E.g., *Standard/S_1.2.2* follows the numeration given in
 the source.  This has to be fixed to more expressive names in the future. Also
 the skos:prefLabel is so far more or less a skos:summary.
 
-od:StandardSolution - a subclass of skos:Concept
-  - *Description:* Description of a standard solution concept
-  - *Namespace prefix:* NF:Standard/
+od:StandardSolution 
+  - *File:* StandardSolutions.ttl
+  - *Description:* The 76 inventive standards
+  - *Namespace prefix:* http://opendiscovery.org/rdf/Standard/
   - *Predicates*
     - skos:broader od:StandardSolution = the parent node of the given concept 
-    - skos:example Literal = example demonstrating the meaning of the concept 
-    - skos:inScheme skos:ConceptScheme = the related concept scheme
-    - skos:prefLabel Literal = label of the concept (a short description
+    - skos:example Literal = example demonstrating the meaning of the concept
+    - skos:prefLabel Literal = label of the concept (a short description of
+      the standard)
 
-## ThePrinciples
+### Separation Principles
 
-*Description:* The 40 principles as used in the ARIZ-85C TRIZ 39x39-matrix
-in English, German and Russian versions.
+These are closely linked to the standards, see for example (Koltze/Souchkov
+2017, 4.3.5) and therefore modelled as generalisations of the standards.
 
-This has strongly to be redesigned to represent also the aspects of the
-historical development of "the matrix".
+od:SeparationPrinciple 
+  - *File:* SeparationPrinciples.ttl
+  - *Description:* The 4 separation principles
+  - *Namespace prefix:* tc:
+  - *Predicates*
+    - skos:definition Literal = description of the principle
+    - skos:narrower od:StandardSolution = related inventive standards
+    - skos:prefLabel Literal = label of the concept 
 
-*Naming convention:* So far *odp:P07* is the URI of the "principle 7" and thus
-follows the numeration of a specific source.  This has to be fixed to more
-expressive names in the future. Also the description has to be changed to the
-SKOS ontology.
+### Business Standards
+
+Business Standard Solutions proposed by Valeri Souchkov
+
+od:TRIZ_Standard
+  - *File:* BusinessStandards.ttl
+  - *Description:* a business standard
+  - *Namespace prefix:* http://opendiscovery.org/rdf/BusinessStandard/
+  - *Predicates*
+    - skos:narrower od:TRIZ_StandardGroup = the standard group of that
+      standard
+    - skos:prefLabel Literal = label of the concept 
+
+od:TRIZ_StandardGroup
+  - *File:* BusinessStandards.ttl
+  - *Description:* a group of business standards
+  - *Namespace prefix:* http://opendiscovery.org/rdf/BusinessStandard/
+  - *Predicates*
+    - skos:prefLabel Literal = label of the concept 
+
+## Principles
+
+*Description:* The principles used in different versions of the matrix.
 
 od:Principle 
-  - *Description:* Description of a principle
-  - *Namespace prefix:* odp: = NF:Principle/
+  - *File:* Principles.ttl
+  - *Namespace prefix:* tc:
+  - *Predicates*
+    - skos:prefLabel Literal = label of the principle 
+    - skos:note Literal = note explaining the principle
+      - subpredicates od:LippertGlossaryNote      
+    - od:hasAltshuller73Id xsd:integer = number of the principle in
+      (Altshuller 1973)
+    - od:hasAltshuller84Id xsd:integer = number of the principle in
+      (Altshuller 1984)
+    - od:hasRecommendation od:Recommentation = recommentations for that
+      principle
+
+od:Recommendation
+  - *File:* Principles.ttl
+  - *Namespace prefix:* tc:
   - *Predicates*
     - od:description Literal = description of the principle
-    - od:hasPrincipleNumber Literal = the number of the principle in the 39x39
-      matrix
-    - rdfs:label Literal = the label
 
-## TheMatrix
+## Matrix1985
 
 *Description:* The ARIZ-85C TRIZ 39x39-matrix in English, German and Russian
 versions.
 
-This has strongly to be redesigned to represent also the aspects of the
-historical development of "the matrix".
-
-*Naming convention:* So far Matrix/E.01.02* refers to the entry with row
-number 01 and column number 02 and thus follows the numeration of a specific
-source.  This has to be fixed to more expressive names in the future. Also the
-description has to be changed to the SKOS ontology.
+For each entry, the deteriorating and improving technical paramaters are
+linked to the URIs of the recommended principles from Principles.ttl via the
+corresponding URIs from Parameters.ttl.
 
 od:MatrixEntry 
-  - *Description:* Description of a matrix entry
-  - *Namespace prefix:* NF:Matrix/
+  - *File:* Matrix1985.ttl
+  - *Namespace prefix:* http://opendiscovery.org/rdf/Matrix/E.
   - *Predicates*
     - od:decreasingParameter od:Parameter = decreasing parameter
     - od:increasingParameter od:Parameter = increasing parameter
     - od:recommendedPrinciple od:Principle = recommended principle
 
+### Parameters
+
+Parameters used in the different versions of the matrix
+
 od:Parameter
-  - *Description:* Description of a parameter
-  - *Namespace prefix:* odm: = NF:Parameter/
+  - *File:* Paramters.ttl
+  - *Namespace prefix:* tc:
   - *Predicates*
-    - od:description Literal = description of the parameter
-    - od:hasParameterNumber Literal = the number of the parameter in the 39x39
-      matrix
-    - rdfs:label Literal = the label
+    - skos:prefLabel Literal = label of the parameter
+    - skos:definition Literal = definition of the parameter
+    - od:hasParameterNumber xsd:integer = number of the parametern in
+      (Altshuller 1984)
