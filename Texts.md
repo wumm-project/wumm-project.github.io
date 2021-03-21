@@ -9,8 +9,9 @@ This is an experimental collection of texts that are hardly available
 otherwise or we compiled translations.  May be removed in a later version. 
 
 See
-* [Texts](TTS "wikilink") about TRIZ, Technical and General Systems
-* [Texts](GIS "wikilink") about the heritage of the GDR Inventor Schools
+* [Texts](TTS) about TRIZ, Technical and General Systems
+* [Texts](GIS) about the heritage of the GDR Inventor Schools
+* [Texts](PhiloBasics) about philosophical roots of TRIZ
 
 ## More Texts
 
