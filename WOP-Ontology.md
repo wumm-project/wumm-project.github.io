@@ -14,9 +14,13 @@ ontology](https://www.w3.org/TR/skos-primer/), which allows to model the
 relationships in conceptual systems in a lightweight way. In order to
 distinguish the provenance of individual definitions, annotations and
 examples, different sub-predicates of the relevant SKOS predicates are used.
-Details are given in more detail in the following publications:
-* About the WUMM modelling concepts of a TRIZ ontology
+
+## Texts
+
+* Hans-Gert Gräbe (2021). The WUMM Project on a TRIZ Ontology. Basic Concepts.
   ([pdf](Texts/WOP-Basics.pdf)).
+* Tom Strempel (2021). A Proposal for Modelling TRIZ System Evolution
+  Concepts.  ([pdf](Texts/WOP-EvolutionTrees.pdf)).
 
 ## Glossaries
 
@@ -42,11 +46,12 @@ Currently the following glossaries are covered:
 * The TRIZ-100 glossary of the TRIZ Ontology Project - TOP-Glossary.ttl
 * The glossary published with the German TRIZ VDI norm 4521 - VDI-Glossary.ttl
 * A glossary published by (Lippert/Cloutier 2019) - Lippert-Glossary.ttl
+* A glossary published by N.N. Matvienko - Matvienko-Glossary.ttl
 
 __Predicates__ of a typical entry
 - rdf:Type = skos:Concept
-  - subtypes od:GSAThesaurusEntry, d:LippertGlossaryEntry,
-    od:SouchkovGlossaryEntry, od:VDIGlossaryEntry
+  - subtypes od:GSAThesaurusEntry, od:LippertGlossaryEntry,
+    od:MatvienkoGlossaryEntry, od:SouchkovGlossaryEntry, od:VDIGlossaryEntry
 - skos:prefLabel Literal = (preferred) name of the concept (multilingual)
 - skos:altLabel Literal = alternative name of the concept, synonyms
 - skos:definition Literal = definition of the concept
