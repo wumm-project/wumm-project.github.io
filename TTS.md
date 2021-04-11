@@ -72,6 +72,9 @@ title: TTS
   * [English](https://hg-graebe.de/EigeneTexte/DAT-20-en.pdf)
   * [German Translaton](https://hg-graebe.de/EigeneTexte/DAT-20-de.pdf)
 
+* Hans-Gert Gräbe (2021): Solving problems with TRIZ and AIPS-2015. 
+  * [English](Texts/Graebe-2021a-en.pdf)
+
 * Yuri Lebedyev (2011): Классификация потоков в технических системах
   (Classification of flows in technical systems)
   * [Russian Original](https://www.metodolog.ru/node/967)
@@ -96,7 +99,7 @@ title: TTS
 * Vladimir Petrov (2020): Закономерности развития искусственных систем (Laws
   of artificial systems development).  Proceedings of the TDS 2020.
   * [Russian Original](https://r1.nubex.ru/s828-c8b/f3215_04/Petrov-TDS-2020-regularities[1].pdf)
-  * [German Translation](Texts/ldas-20-de.pdf)
+  * [German Translation](Texts/Petrov-2020-de.pdf)
 
 * Michail Rubin (2006): Этюды о законах развития техники (Etudes on the laws
   of technical development).
