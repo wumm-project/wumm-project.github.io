@@ -8,7 +8,7 @@ title: WOP-General
 * [More about the General TRIZ Ontology Project](Ontology)
 
 We assume that you are familiar with the basic RDF concepts. Our RDF data
-project consists of several areas
+project __consists of several areas__
 * Area of [TRIZ activities](WOP-Activities) (people, conferences,
   presentations, certificates)
 * Area of [TRIZ knowledge resources](WOP-Literature) (TRIZ Body of Knowledge,
@@ -17,11 +17,14 @@ project consists of several areas
   Project](Ontology))
 
 Detailed explanations of our modelling concepts can be found in the following
-publications:
-* About the WUMM modelling concepts of a TRIZ ontology
-  ([pdf](Texts/WOP-Basics.pdf)).
+__publications__:
 
-Our RDF datasets can be found in the [RDFData
+* Hans-Gert Gräbe: About the WUMM modelling concepts of a TRIZ ontology
+  ([pdf](Texts/WOP-Basics.pdf)).  
+* Tom Strempel, Hans-Gert Gräbe: Semantic Web Modelling of TRIZ System
+  Evolution Concepts ([pdf](Texts/WOP-EvolutionTrees.pdf)).
+
+Our RDF datasets __can be found__ in the [RDFData
 repo](https://github.com/wumm-project/RDFData). For presentation and
 inspection of the data we run
 * a [Virtuoso](https://virtuoso.openlinksw.com/) based RDF Data Store with a
