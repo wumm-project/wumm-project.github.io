@@ -6,7 +6,7 @@
 ## The Organizers
 
 * Andrei Kuryan. TRIZ trainer, Innovation consultant
-* Nikolaj Shpakovskij. Leading TRIZ expert
+* Nikolai Shpakovsky. Leading TRIZ expert
 * Igor Devojno. Product Analysis and Design Associate Director
 * Aryna Shastsitka. People Programs Specialist
 
@@ -14,6 +14,29 @@
 
 (English translations of titles and abstracts from the Minsk TRIZ Club web
 site)
+
+### 4.7.: 28 Apr 2021
+
+__Nikolai Shpakovsky. TRIZ and the application of the methodology to problem
+solving. A presentation on your questions. __
+
+At the meeting, we plan to tell you about the specifics of solving an
+inventive problem using the example of one of the objects/processes
+("Patrolling planes"), as this topic received the maximum number of votes. The
+meeting will be held in a dialogue format: participants will be able to
+propose their own variants and solutions.
+
+### 4.6.: 31 Mar 2021
+
+__Andrei Kuryan. Applying TRIZ to processes__
+
+Initially, TRIZ was applied to technical systems. As TRIZ occupied other
+fields, including management and business, the task of applying TRIZ tools to
+processes became relevant.
+
+In the talk a model for finding inventive problems in business and management
+processes will be presented. The talk will be of interest to business
+analysts, business engineers, managers, and developers of management systems.
 
 ### 4.5.: 24 Feb 2021
 
@@ -71,7 +94,7 @@ theory, it will be shown how to apply this principle in practice.
 
 ### 3.9: 24 Jun 2020
 
-__Nikolay Shpakovsky. TRIZ and the application of the methodology to problem
+__Nikolai Shpakovsky. TRIZ and the application of the methodology to problem
 solving. A presentation on your questions.__
 
 ### 3.8: 27 May 2020
@@ -100,7 +123,7 @@ in technical and business systems__
 
 ### 3.3: 27 Nov 2019
 
-__Nikolay Shpakovsky. Solving the Absolute Solvent Problem__
+__Nikolai Shpakovsky. Solving the Absolute Solvent Problem__
 
 <https://www.youtube.com/watch?v=NFX1AuBOE3Y>
 
@@ -129,8 +152,8 @@ __D. Krupsky. Using the Potential of TRIZ to Solve Government Challenges__
 ### 2.2: 31 Oct 2018
 
 * Ivan Podobed. The system approach in Systems Engineering
-* Nikolay Shpakovsky, Igor Devojno. The system approach in TRIZ
-* Andrej Kuryan et al.  Comparing systems approaches in engineering and TRIZ
+* Nikolai Shpakovsky, Igor Devojno. The system approach in TRIZ
+* Andrei Kuryan et al.  Comparing systems approaches in engineering and TRIZ
 
 ## From the season 1
 
@@ -142,7 +165,7 @@ without it?__
 Round table.  The invited guest is Valery Mikhailovich Tsurikov, founder of
 the Minsk TRIZ school.
 
-__Nikolay Shpakovsky. Transition from Problem Situation to Inventive Problem__
+__Nikolai Shpakovsky. Transition from Problem Situation to Inventive Problem__
 
 <https://www.youtube.com/watch?v=snu7Uj5i17A>
 
@@ -206,7 +229,7 @@ users. There are several mechanisms for introducing new functions.  One of
 such mechanisms will be discussed in this presentation.  The methodology is
 applicable to both 'hardware' and 'software' systems.
 
-__Nikolay Shpakovsky. General Inventive Problem Solving Scheme__
+__Nikolai Shpakovsky. General Inventive Problem Solving Scheme__
 
 <https://www.youtube.com/watch?v=NUPp7QtM7qo>
 
@@ -217,7 +240,7 @@ the approaches to solving them.  We will review the basic principles of
 constructing algorithms for inventive problem solving and compare their
 advantages and disadvantages.
 
-__Nikolay Shpakovsky. Applying TRIZ to forecasting__
+__Nikolai Shpakovsky. Applying TRIZ to forecasting__
 
 <https://www.youtube.com/watch?v=EScSGHwGadU>
 
@@ -227,7 +250,7 @@ __A first meeting__
 
 <https://www.youtube.com/watch?v=5oVUBZRutdA>
 
-1. Nikolay Shpakovsky - TRIZ in the Modern World
+1. Nikolai Shpakovsky - TRIZ in the Modern World
 
 The spread of TRIZ in the modern world. Personal experiences in South Korea
 and China. The main requirements for TRIZ today.
@@ -236,6 +259,6 @@ and China. The main requirements for TRIZ today.
 
 How TRIZ is penetrating into new areas. Examples of problems solved by TRIZ.
 
-3.️ Andrei Kurian - TRIZ application in the innovation process
+3.️ Andrei Kuryan - TRIZ application in the innovation process
 
 Experience of TRIZ application for solving innovation problems in EPAM projects
