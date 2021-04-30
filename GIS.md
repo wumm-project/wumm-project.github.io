@@ -119,9 +119,15 @@ title: GIS
   Online-Proceedings of the TRIZ Developers Summit 2019.
   * [Russian version](https://hg-graebe.de/EigeneTexte/Minsk-2019.pdf).
   * [German version](https://hg-graebe.de/EigeneTexte/Minsk-2019-de.pdf)
+* (with Rainer Thiel) ProHEAL Basics - Extended Version. Manuscript April 2021. 
+  [pdf](GDR-InventorSchools/ProHEAL-en.pdf).
+  * English translation of some basic material about ProHEAL both from
+    (Rindfleisch/Thiel 1994) and (Thiel 2020)
 
 ## Rainer Thiel
 
+* (with Hans-Joachim Rindfleisch). Erfinderschulen in der DDR. Trafo Verlag,
+  Berlin 1994.
 * Wie wird Dialektik nutzbar als Heuristik? (How is dialectic usable as a
   heuristic?) EWE 17 (2006) 2: 230–233.  [pdf, in
   German](GDR-InventorSchools/HegelHoerz-05.pdf).
