@@ -7,10 +7,16 @@ title: HGG-Blog
 
 ## April 19, 2021: The Ecological Crisis
 
-
-Alexander Kudryavtsev comments on a link about the abilities of birds to build elaborate nests. The question is discussed whether this indicates intelligence in animals or can be captured by the term "instinct" alone.  The discussion continues on the extent to which humans themselves act "intelligently" when they undermine their own livelihoods, as has been more intensively diakutised in the last 20 years.
+Alexander Kudryavtsev comments on a link about the abilities of birds to build
+elaborate nests. The question is discussed whether this indicates intelligence
+in animals or can be captured by the term "instinct" alone.  The discussion
+continues on the extent to which humans themselves act "intelligently" when
+they undermine their own livelihoods, as has been more intensively diakutised
+in the last 20 years.
 
 <https://www.facebook.com/permalink.php?story_fbid=2797584447160731&id=100007276098500>
+
+[Record of the communication](2021-05-01) (so far only in Russian).
 
 
 ## Febr. 5, 2021: 17. Interdisciplinary Discussion "Evolution of Technical and General Systems"
