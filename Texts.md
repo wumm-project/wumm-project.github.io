@@ -36,6 +36,11 @@ See
   * [Russian Original](Texts/Smirnov-2016-ru.pdf)
   * [German Translation](Texts/Smirnov-2016-de.pdf)
 
+* Alexander Solodkin (2020): Discovery of key problem causes in organizations.
+  Presented at the TDS 2020.
+  * [Russian Version](https://r1.nubex.ru/s828-c8b/f3240_e9/Solodkin-TDS-2020-key-problem[1].pdf)
+  * [English Version](Texts/Solodkin-2020-en.pdf)
+
 * Anton Tyukov (2020): Применение ТРИЗ при проектировании архитектуры системы
   управления на основе данных в энергетике (TRIZ application to architecture
   design of data-driven management systems in the energy industry)
