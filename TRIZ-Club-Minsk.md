@@ -15,6 +15,18 @@
 (English translations of titles and abstracts from the Minsk TRIZ Club web
 site)
 
+### 4.8.: 27 May 2021
+
+__Mikhail Rubin:  Evolutionary systems science and the general laws of systems development. __ 
+
+Initially, the focus of TRIZ was the study of the laws of technical system
+development. However, as TRIZ penetrated into other fields of activity, IT,
+business, etc., the need to study universal laws of systems development arose.
+TRIZ Master Mikhail Rubin has long been engaged in research related to the
+identification of such universal laws of systems development. In his report,
+he will talk about his research and show the direction of TRIZ development
+towards evolutionary systems science.
+
 ### 4.7.: 28 Apr 2021
 
 __Nikolai Shpakovsky. TRIZ and the application of the methodology to problem
@@ -105,21 +117,30 @@ __Andrey Kuryan. How TRIZ helps analyse business and find IT solutions__
 
 ### 3.7: 29 Apr 2020
 
+__Igor Devojno. TRIZ as a tool to formulate the right questions, or how to
+make meetings more constructive. __
+
+Igor Devojno explains how TRIZ helps to formulate the right questions. This
+"skill" has many applications. One of them is to increase the constructiveness
+of meetings.
+
 ### 3.6: 26 Feb 2020
 
 __Alexander Solodkin. RCA - Identifying root problems in organisational
-systems__
+systems.  __
 
 <https://www.youtube.com/watch?v=lGPtxpy7oys>
 
 ### 3.5: 29 Jan 2020
 
-__Andrey Kurian, Igor Devoyno. What is the difference between inventive tasks
-in technical and business systems__
+__Andrey Kurian, Igor Devojno. What is the difference between inventive tasks
+in technical and business systems. __
 
 <https://www.youtube.com/watch?v=nHdV1hpLxv8>
 
 ### 3.4: 18 Dec 2019
+
+__Andrey Kurian. Value-Conflict Mapping for product improvement. __
 
 ### 3.3: 27 Nov 2019
 
@@ -129,15 +150,27 @@ __Nikolai Shpakovsky. Solving the Absolute Solvent Problem__
 
 ### 3.2: 30 Oct 2019
 
+__Nikolai Shpakovsky. Remote training system TRIZ trainer.__
+
+__Igor Devojno. Stanislavsky's system: resolved and unresolved
+contradictions. __
+
 ### 3.1: 25 Sep 2019
 
-__D. Krupsky. Using the Potential of TRIZ to Solve Government Challenges__
+__Dmitrij Krupsky. Using the Potential of TRIZ to Solve Government
+Challenges__
 
 <https://www.youtube.com/watch?v=x02JUIiIaVk>
 
 ### 2.9: 29 May 2019
 
 ### 2.8: 24 Apr 2019
+
+__Oleg Shmigelsky. The basic principles and tools of Lean. TRIZ as a
+fast-practice provider for Lean.__
+
+__Aleksandr Skuratovic.  What is the FCA+TRIZ method and how it can strengthen
+Lean and vice versa.__
 
 ### 2.7: 27 Mar 2019
 
