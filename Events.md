@@ -6,11 +6,6 @@ title: Events
 # TRIZ Events
 
 ## Upcoming Events
- 
-* July 13, 2021 - 5. Deutscher TRIZ Anwendertag.
-  - Location: IHK Heilbronn-Franken, Heilbronn
-  - Web site: <https://www.bayern-innovativ.de/events-und-messen/veranstaltungen/veranstaltung/triz-anwendertag-2021>
-  - Deadline for registration: July 7, 2021
 
 * August 13-15, 2021 - TRIZ Developer Summit,
   - TRIZ in Education section
