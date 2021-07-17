@@ -23,6 +23,10 @@ See
   * The paper got one of the 3 TRIZ student's awards at the TRIZ-Fest 2019 in
     Heilbronn.
 
+* Anton Kozhemyako (2020): Comparison of three different TRIZ tools for a
+  business problem analysis considering the example of the mentoring problem
+  in a sales department. [TRIZ Review 2.1 (2021)](https://matriz.org/wp-content/uploads/2020/04/TRIZ-Review-vol-2-1-April-2020.pdf) 
+
 * Leonid Shub (2006-07): Осторожно! Таблица технических противоречий (Be
   careful! Table of technical contradictions.)
   * [11 parts of the text in one document](Texts/Shub-2006-Web.pdf) in Russian
@@ -40,6 +44,9 @@ See
   Presented at the TDS 2020.
   * [Russian Version](https://r1.nubex.ru/s828-c8b/f3240_e9/Solodkin-TDS-2020-key-problem[1].pdf)
   * [English Version](Texts/Solodkin-TDS2020-en.pdf)
+
+* Valeri Souchkov (2010): TRIZ and Systematic Business Model Innovation.
+  Paper presented at the TRIZ Future 2010. [pdf](Texts/Souchkov-TFC2010.pdf)
 
 * Anton Tyukov (2020): Применение ТРИЗ при проектировании архитектуры системы
   управления на основе данных в энергетике (TRIZ application to architecture
