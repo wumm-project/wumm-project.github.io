@@ -7,14 +7,16 @@ title: Events
 
 ## Upcoming Events
 
-* August 13-15, 2021 - TRIZ Developer Summit,
+* August 13-15, 2021 - TRIZ Developer Summit - moved to October 2021
   - TRIZ in Education section
+  - Location: Online
   - Languages: Russian
   - <https://triz-summit.ru/confer/tds2021> 
   - Deadline for Abstracts: March 31, 2021
 
 * September 09-10, 2021 - TRIZ Developer Summit
   - TRIZ in IT, technology, and business section 
+  - Location: Online
   - Languages: English, Russian
   - <https://triz-summit.ru/confer/tds2021> 
   - Deadline for Abstracts: March 31, 2021
@@ -29,7 +31,7 @@ title: Events
   - Deadline for Abstracts: April 18, 2021
 
 * September 22-24, 2021 - TRIZ Future Conference
-  - Location: Bozen/Bolzano, Italy
+  - Location: Bozen/Bolzano, Italy, and Online
   - <https://tfc21.events.unibz.it/>
   - Deadline for abstracts: February 21, 2021
   - Deadline for full papers: April 30, 2021
