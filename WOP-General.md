@@ -19,14 +19,14 @@ project __consists of several areas__
 Detailed explanations of our modelling concepts can be found in the following
 __publications__:
 
-* Hans-Gert Gräbe: Towards a Linked Open Data TRIZ Ontology
-  ([pdf](https://hg-graebe.de/EigeneTexte/tfc-21-LOD.pdf)).  Submitted to TRIZ
-  Future Conference 2021.
+* Hans-Gert Gräbe: Towards a Linked Open Data TRIZ Ontology. [LIFIS Online,
+  August 13, 2021](http://dx.doi.org/10.14625/graebe_20210813).  Accepted for
+  Presentation at the TRIZ Future Conference 2021.
 * Hans-Gert Gräbe: About the WUMM modelling concepts of a TRIZ ontology
   ([pdf](Texts/WOP-Basics.pdf)).  Manuscript, April 2021.
 * Tom Strempel, Hans-Gert Gräbe: Semantic Web Modelling of TRIZ System
-  Evolution Concepts ([pdf](Texts/WOP-EvolutionTrees.pdf)). Manuscript, April
-  2021.
+  Evolution Concepts ([pdf](Texts/WOP-EvolutionTrees.pdf)).  Accepted for
+  Presentation at the TRIZFest 2021.
 
 Our RDF datasets __can be found__ in the [RDFData
 repo](https://github.com/wumm-project/RDFData). For presentation and
