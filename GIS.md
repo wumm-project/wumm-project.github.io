@@ -124,7 +124,8 @@ title: GIS
   [LIFIS Online, 15.08.2021](http://dx.doi.org/10.14625/graebe_20210815).
   Accepted for presentation at the TRIZ Future Conference 2021.
   * [Russian version](https://hg-graebe.de/EigeneTexte/TDS-21-ru.pdf)
-  * [Slides, extended version](GDR-InventorSchools/GraebeThiel-21-Slides.pdf)
+  * Slides: [5 Minutes on ProHEAL](GDR-InventorSchools/TFC21-ProHEAL.pdf)
+    * [Extended version](GDR-InventorSchools/TFC21-ProHEAL-extended.pdf)
 * (with Rainer Thiel) ProHEAL Basics - Extended Version. August 2021. 
   [pdf](GDR-InventorSchools/ProHEAL-en.pdf).
   * English translation of additional basic material about ProHEAL both from
