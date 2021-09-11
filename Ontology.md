@@ -5,7 +5,7 @@ title: Ontology
 
 # The TRIZ Ontology Project (TOP)
 
-## The TDS Summit Ontology Project
+## The [TDS Summit Ontology Project](TOP)
 
 ### Motivation (English translation)
 
@@ -26,37 +26,9 @@ practice for development of creative personality, solution of inventive tasks
 in various fields, in innovative entrepreneurship, in solution of tasks in
 enterprises.
 
-### More about the Project
+## The [WUMM TRIZ Ontology Project](WOP-General)
 
-* <https://triz-summit.ru/onto_triz/> (in Russian)
-  * This are also the authoritative sources for the public (the "visitors") to
-    get informed.    
-  * __Core Team__: Olga Eckardt, Andrey Kuryan, Mikhail Rubin, Natalya Rubina,
-    Nikolay Shchedrin (in alphabetical order)
-  * [More about the Project](TOP "wikilink") in English.
-* Ontology Webinar Series Oct.-Nov. 2020 (in Russian)
-  * <https://triz-summit.ru/confer/tds-2020/web/inf/> (invitation)    
-  * <https://triz-summit.ru/confer/tds-2020/web/> (starting page, link to
-    material presented at the different webinars)      
-  * [More about the Webinar](OntologyWebinar "wikilink") in English.    
-
-### Publications
-
-* A. Kuryan, M. Rubin, N. Shchedrin, O. Eckardt, N. Rubina. [TRIZ Ontology.
-  Current State and Perspectives](Texts/Ontology-TDS2020.pdf). TDS 2020 (in
-  Russian).
-  * [English translation](Texts/Ontology-TDS2020-en.pdf)
-* A. Kuryan, V. Souchkov, D. Kucharavy. [Towards ontology of
-  TRIZ](Texts/Ontology-TDS2019-en.pdf). Proceedings of TRIZ Developers Summit
-  2019 Conference, Minsk, 2019 (in English).
-* V. Souchkov. Glossary of TRIZ and TRIZ-related terms.  Several versions
-  since 1991.  
-  * The TOP uses the latest version 1.2.
-    <https://matriz.org/wp-content/uploads/2016/11/TRIZGlossaryVersion1_2.pdf>
-
-## The WUMM TOP Companion Project
-
-Within the WUMM TOP Companion Project links to TRIZ ontology and glossary
+Within the WUMM TRIZ Ontology Project links to TRIZ ontology and glossary
 projects are collected. One of the goals of the project is to transform that
 information into RDF as __the__ machine readable standard of the Web 3.0 (also
 called "Semantic Web").  This is done already for several materials, as e.g.,
@@ -70,9 +42,9 @@ information is not necessarily up to date since we use an agile approach to
 develop the RDF material.
 
 We provide a [prototypical presentation](http://wumm.uni-leipzig.de/index.php)
-of most of the RDF material collected so far as proof of the concept. 
+of most of the RDF material collected so far as proof of concept. 
 
-## Previous work
+## Previous work on TRIZ Ontologies
 
 * A. Bultey, Wei Yan, C. Zanni (2015). A Proposal of a Systematic and
   Consistent Substance-field Analysis. Procedia Engineering 131, pp.

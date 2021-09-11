@@ -3,11 +3,14 @@ layout: default
 title: TOP
 ---
 
-# More Details about the TDS Summit Ontology Project
+# The TRIZ Developer Summit Ontology Project
 
 For the motivation of the project see the [Overview Page](Ontology) of the
 TRIZ Ontology Project.
 
+__Core Team__: Olga Eckardt, Andrey Kuryan, Mikhail Rubin, Natalya Rubina,
+Nikolay Shchedrin (in alphabetical order)
+  
 ## Project Web Resources
 
 * <https://triz-summit.ru/onto_triz/> - Starting page of the official web
@@ -15,6 +18,24 @@ TRIZ Ontology Project.
 * The core team uses moreover an ontology modelling platform
   [OSA](https://onto.devtas.ru/ts2o1) (the Ontology Space Agent Platform) with
   (so far) restricted access of the public.
+
+## Publications
+
+* A. Kuryan, M. Rubin, N. Shchedrin, O. Eckardt, N. Rubina. [TRIZ Ontology.
+  Current State and Perspectives](Texts/Ontology-TDS2020.pdf). TDS 2020 (in
+  Russian).
+  * [English translation](Texts/Ontology-TDS2020-en.pdf)
+* A. Kuryan, V. Souchkov, D. Kucharavy. [Towards ontology of
+  TRIZ](Texts/Ontology-TDS2019-en.pdf). Proceedings of TRIZ Developers Summit
+  2019 Conference, Minsk, 2019 (in English).
+
+## Webinars
+
+Ontology Webinar Series Oct.-Nov. 2020 (in Russian)
+* <https://triz-summit.ru/confer/tds-2020/web/inf/> (invitation)    
+* <https://triz-summit.ru/confer/tds-2020/web/> (starting page, link to
+  material presented at the different webinars)      
+* [More about the Webinar](OntologyWebinar) in English.    
 
 ## Project Structure and Workflow
 
