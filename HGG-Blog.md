@@ -5,6 +5,28 @@ title: HGG-Blog
 
 # HGG's Blog
 
+## September 16, 2021: My talks at the International TRIZ Conferences 2021
+
+* TRIZFest 2021: (with Tom Strempel) Semantic Web Modelling of TRIZ System
+  Evolution Concepts.
+  * [Paper](https://hg-graebe.de/EigeneTexte/TRIZfest-2021.pdf)
+  * [Slides](https://hg-graebe.de/EigeneTexte/TRIZfest-2021-Folien.pdf)
+
+* TRIZ Future 2021: (with Rainer Thiel) ProHEAL Social needs and
+  sustainability aspects in the methodology of the GDR Inventor Schools
+  * [Paper](http://dx.doi.org/10.14625/graebe_20210815)
+  * [5 Minutes Slides](https://hg-graebe.de/EigeneTexte/TFC21-ProHEAL.pdf)
+  * [Video](https://hg-graebe.de/Videos/TFC2021-GraebeThiel-ProHEAL.mp4)
+
+* TRIZ Future 2021: Towards a Linked Open Data TRIZ Ontology
+  * [Paper](http://dx.doi.org/10.14625/graebe_20210813)
+  * [5 Minutes Slides](https://hg-graebe.de/EigeneTexte/TFC21-LOD.pdf)
+  * [Video](https://hg-graebe.de/Videos/TFC2021-Graebe-LinkedOpenData.mp4)
+
+* TRIZ Developer Summit 2021: (with Rainer Thiel) ProHEAL – о Методологии Школ
+  Изобретателей ГДР
+  * [Paper](https://hg-graebe.de/EigeneTexte/TDS-21-ru.pdf)
+
 ## April 19, 2021: The Ecological Crisis
 
 Alexander Kudryavtsev comments on a link about the abilities of birds to build
