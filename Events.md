@@ -7,17 +7,9 @@ title: Events
 
 ## Upcoming Events
 
-* September 15-18, 2021 - TRIZFest 2021
-  - Location: Online
-  - Languages: English
-  - Main theme: TRIZ for Addressing Real Life Challenges
-  - The 16th International Conference “TRIZFest-2021” is organized by the
-    International TRIZ Association (MATRIZ) and UA TRIZ.
-  - <https://matriz.org>
-  - Deadline for Abstracts: April 18, 2021
-
 * September 22-24, 2021 - TRIZ Future Conference
   - Location: Bozen/Bolzano, Italy, and Online
+  - Languages: English, German, Italian
   - <https://tfc21.events.unibz.it/>
   - Deadline for abstracts: February 21, 2021
   - Deadline for full papers: April 30, 2021
@@ -28,6 +20,14 @@ title: Events
   - Languages: Russian
   - <https://triz-summit.ru/confer/tds2021> 
   - Deadline for Abstracts: March 31, 2021
+
+* May 11-14, 2022 - TRIZFest 2022
+  - Location: Graz, Austria
+  - Languages: English
+  - Main theme: tba.  
+  - The “TRIZFest-2021” is organized by the International TRIZ Association
+    (MATRIZ).
+  - <https://matriz.org>
 
 ## Past Events
 
