@@ -155,3 +155,7 @@ repo](https://github.com/wumm-project/web).
 * [OTSM-TRIZ](https://otsm-triz.org/) - This site is dedicated to the work of
   TRIZ-master, the author of the General Theory of Power Thinking (OTSM -
   Общая Теория Сильного Мышления) Nikolai Khomenko (1954-2011).
+* Toru Nakagawa's [World TRIZ-related Sites Project](https://www.osaka-gu.ac.jp/php/nakagawa/TRIZ/eTRIZ/eWTSP/eWTSP-A1-Policies.html)
+  * See a first raw attempt to join forces with the WUMM Project at
+    <http://wumm.uni-leipzig.de/wtsp.php>.
+
