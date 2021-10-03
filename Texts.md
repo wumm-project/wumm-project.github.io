@@ -13,6 +13,10 @@ See
 * [Texts](GIS) about the heritage of the GDR Inventor Schools
 * [Texts](PhiloBasics) about philosophical roots of TRIZ
 
+The TRIZ Journal "triz-journal.com" is no more online but an
+[archive](https://metodolog.ru/triz-journal/) of all publications is available
+at _metodolog.ru_
+
 ## More Texts
 
 * Tobias Bayer (2019): Ausarbeitung einer potenziellen Methodenintegration aus
