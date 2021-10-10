@@ -11,21 +11,26 @@ title: HGG-Blog
   Evolution Concepts.
   * [Paper](https://hg-graebe.de/EigeneTexte/TRIZfest-2021.pdf)
   * [Slides](https://hg-graebe.de/EigeneTexte/TRIZfest-2021-Folien.pdf)
+  * [Transskript](https://hg-graebe.de/EigeneTexte/TRIZfest-2021.txt)
 
 * TRIZ Future 2021: (with Rainer Thiel) ProHEAL Social needs and
   sustainability aspects in the methodology of the GDR Inventor Schools
   * [Paper](http://dx.doi.org/10.14625/graebe_20210815)
   * [5 Minutes Slides](https://hg-graebe.de/EigeneTexte/TFC21-ProHEAL.pdf)
   * [Video](https://hg-graebe.de/Videos/TFC2021-GraebeThiel-ProHEAL.mp4)
+  * [Transskript](https://hg-graebe.de/EigeneTexte/TFC21-ProHEAL.txt)
 
 * TRIZ Future 2021: Towards a Linked Open Data TRIZ Ontology
   * [Paper](http://dx.doi.org/10.14625/graebe_20210813)
   * [5 Minutes Slides](https://hg-graebe.de/EigeneTexte/TFC21-LOD.pdf)
   * [Video](https://hg-graebe.de/Videos/TFC2021-Graebe-LinkedOpenData.mp4)
+  * [Transskript](https://hg-graebe.de/EigeneTexte/TFC21-LOD.txt)
 
 * TRIZ Developer Summit 2021: (with Rainer Thiel) ProHEAL – о Методологии Школ
   Изобретателей ГДР
   * [Paper](https://hg-graebe.de/EigeneTexte/TDS-21-ru.pdf)
+  * [Slides](https://hg-graebe.de/EigeneTexte/TDS-21-Folien.pdf)
+  * [Transskript](https://hg-graebe.de/EigeneTexte/TDS-21.txt)
 
 ## April 19, 2021: The Ecological Crisis
 

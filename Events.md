@@ -7,19 +7,17 @@ title: Events
 
 ## Upcoming Events
 
-* September 22-24, 2021 - TRIZ Future Conference
-  - Location: Bozen/Bolzano, Italy, and Online
-  - Languages: English, German, Italian
-  - <https://tfc21.events.unibz.it/>
-  - Deadline for abstracts: February 21, 2021
-  - Deadline for full papers: April 30, 2021
-  - Deadline for registration: July 15, 2021
-
 * October 15-16 and 23, 2021 - TRIZ Developer Summit
   - Location: Online
   - Languages: Russian
   - <https://triz-summit.ru/confer/tds2021> 
   - Deadline for Abstracts: March 31, 2021
+
+* October 29, 2021 - TRIZ Online Business Forum "TRIZ Online - Autumn 2021" 
+  - Location: Online
+  - Languages: Russian
+  - Remarks: Participation is free but registration is required.
+  - <http://www.biztriz.net/2-uncategorised/39-business-triz-online-fall-2021.html> 
 
 * May 11-14, 2022 - TRIZFest 2022
   - Location: Graz, Austria
