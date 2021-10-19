@@ -6,9 +6,10 @@ title: Texts
 # Different Texts
 
 This is an experimental collection of texts that are hardly available
-otherwise or we compiled translations.  May be removed in a later version. 
+otherwise or we compiled translations. 
 
 See
+* Some [Translations of Altshuller Texts](Altshuller)
 * [Texts](TTS) about TRIZ, Technical and General Systems
 * [Texts](GIS) about the heritage of the GDR Inventor Schools
 * [Texts](PhiloBasics) about philosophical roots of TRIZ
