@@ -18,9 +18,9 @@ examples, different sub-predicates of the relevant SKOS predicates are used.
 ## Texts
 
 * Hans-Gert Gräbe (2021). The WUMM Project on a TRIZ Ontology. Basic Concepts.
-  ([pdf](Texts/WOP-Basics.pdf)).
+  ([pdf](Texts/Graebe/WOP-Basics.pdf)).
 * Tom Strempel (2021). A Proposal for Modelling TRIZ System Evolution
-  Concepts.  ([pdf](Texts/WOP-EvolutionTrees.pdf)).
+  Concepts.  ([pdf](Texts/Graebe/WOP-EvolutionTrees.pdf)).
 
 ## Glossaries
 

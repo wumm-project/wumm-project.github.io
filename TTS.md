@@ -1,4 +1,4 @@
----
+s---
 layout: default
 title: TTS
 ---
@@ -8,15 +8,15 @@ title: TTS
 * Dmitri Bakhturin (2020): Не-ТРИЗ версии системных представлений (Non-TRIZ
   versions of system notions)
   * Theses of a presentation at the Moscow TRIZ Conference 2020.
-  * [Russian Version](Texts/Bakhturin-2020-ru.pdf)
-  * [German Version](Texts/Bakhturin-2020-de.pdf)
+  * [Russian Version](Texts/Bakhturin/Bakhturin-2020-ru.pdf)
+  * [German Version](Texts/Bakhturin/Bakhturin-2020-de.pdf)
 
 * Dmitri Bakhturin (2020): Сравнение Функционального анализа Продукта и
   Функционального анализа Технологии, некоторые выводы и рекомендации
   (Comparison of Functional Analysis of Product and Functional analysis of
   Technology, some conclusions and recommendations)  
   * Theses for apresentation at the Moscow TRIZ Conference 2020.
-  * [Russian Version](Texts/Bakhturin-2020a-ru.pdf)
+  * [Russian Version](Texts/Bakhturin/Bakhturin-2020a-ru.pdf)
 
 * Gaetano Cascini (2012): TRIZ-based Anticipatory Design of Future Products
   and Processes. Journal of Integrated Design and Process Science 16 (3),
@@ -33,12 +33,12 @@ title: TTS
   технических систем (The system of laws of construction and development of
   technical systems).
   * [Russian Original](https://triz-summit.ru/file.php/id/f303253-file-original.pdf)
-  * [German Translation](Texts/Goldovski-1983-de.pdf)
+  * [German Translation](Texts/Goldovski/Goldovski-1983-de.pdf)
 
 * B.I. Goldovski (2017): О законах построения технических систем (On the laws
   of building technical systems)
   * [Russian Original](https://www.metodolog.ru/node/2164)
-  * [German Translation](Texts/Goldovski-2017-de.pdf)
+  * [German Translation](Texts/Goldovski/Goldovski-2017-de.pdf)
 
 * Hans-Gert Gräbe (2020): Die Menschen und ihre Technischen Systeme (Human and
   their technical systems).
@@ -73,7 +73,7 @@ title: TTS
   * [German Translaton](https://hg-graebe.de/EigeneTexte/DAT-20-de.pdf)
 
 * Hans-Gert Gräbe (2021): Solving problems with TRIZ and AIPS-2015. 
-  * [English](Texts/Graebe-2021a-en.pdf)
+  * [English](Texts/Graebe/Graebe-2021a-en.pdf)
 
 * Yuri Lebedyev (2011): Классификация потоков в технических системах
   (Classification of flows in technical systems)
@@ -91,15 +91,15 @@ title: TTS
 * Vladimir Petrov (2020): Законы и закономерности развития систем (Laws and
   patterns of systems development). Book in 4 volumes (in Russian), ISBN
   978-5-0051-5728-7.
-  * A [free text fragment](Texts/Petrov-LawsFragment-ru.pdf) from the volume 1
-    (in Russian).
-  * [German Translation](Texts/Petrov-LawsFragment-de.pdf) of that free text
-    fragment.
+  * A [free text fragment](Texts/Petrov/Petrov-LawsFragment-ru.pdf) from the
+    volume 1 (in Russian).
+  * [German Translation](Texts/Petrov/Petrov-LawsFragment-de.pdf) of that free
+    text fragment.
 
 * Vladimir Petrov (2020): Закономерности развития искусственных систем (Laws
   of artificial systems development).  Proceedings of the TDS 2020.
   * [Russian Original](https://r1.nubex.ru/s828-c8b/f3215_04/Petrov-TDS-2020-regularities[1].pdf)
-  * [German Translation](Texts/Petrov-2020-de.pdf)
+  * [German Translation](Texts/Petrov/Petrov-2020-de.pdf)
 
 * Michail Rubin (2006): Этюды о законах развития техники (Etudes on the laws
   of technical development).
@@ -120,16 +120,16 @@ title: TTS
 
 * Nikolay Shpakovsky (2003): Человек и Техническая Система (Man and Technical
   Systems)
-  * [Russian Original](Texts/Shpakovsky-mts-ru.pdf)
-  * [German Translation](Texts/Shpakovsky-mts-de.pdf)
-  * [English Translation](Texts/Shpakovsky-mts-en.pdf)
+  * [Russian Original](Texts/Shpakovsky/mts-ru.pdf)
+  * [German Translation](Texts/Shpakovsky/mts-de.pdf)
+  * [English Translation](Texts/Shpakovsky/mts-en.pdf)
 
 * Nikolay Shpakovsky (2010): ТРИЗ. Анализ технической и патентной информации и
   генерация новых идей (TRIZ. Analysis of technical and patent information and
   generation of new ideas)
-  * [Tree of Technology Evolution](Texts/Shpakovsky-2016.pdf) (English
-    translation by the author, 2016, part of the Open Source Collection of the
-    WUMM project)
+  * [Tree of Technology Evolution](Texts/Shpakovsky/Shpakovsky-2016.pdf)
+    (English translation by the author, 2016, part of the Open Source
+    Collection of the WUMM project)
 
 
 

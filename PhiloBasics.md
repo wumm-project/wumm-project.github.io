@@ -133,8 +133,8 @@ Ernst Bloch.
 * Dmitri Bakhturin (2020): Не-ТРИЗ версии системных представлений (Non-TRIZ
   versions of system notions)
   * Theses of a presentation at the Moscow TRIZ Conference 2020.
-  * [Russian Version](Texts/Bakhturin-2020-ru.pdf)
-  * [German Version](Texts/Bakhturin-2020-de.pdf)
+  * [Russian Version](Texts/Bakhturin/Bakhturin-2020-ru.pdf)
+  * [German Version](Texts/Bakhturin/Bakhturin-2020-de.pdf)
 * N.I. Kuznecova (2015). Два проекта методологии: Г.П. Щедровицкий и
     М.А. Розов (Two methodology projects: G.P. Shchedrovitsky and M.A. Rozov)
   * <https://rozova.org/images/documents/KuznecovaDvaProekta.pdf>

@@ -83,8 +83,8 @@ I stored the Facebook post together with an English Translation
 
 On October 28 passed away Boris I. Goldovski, one of the most important TRIZ
 theorists. Vladimir Petrov published a [memorial
-letter](Texts/Goldovski-2020.pdf) with a short C.V. and a list of his main
-theoretical and practical achievements. 
+letter](Texts/Goldovski/Goldovski-2020.pdf) with a short C.V. and a list of
+his main theoretical and practical achievements.
 
 ## Oct. 20, 2020: The TRIZ Ontology Project
 

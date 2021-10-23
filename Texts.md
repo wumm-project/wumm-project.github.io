@@ -34,11 +34,12 @@ at _metodolog.ru_
 
 * Leonid Shub (2006-07): Осторожно! Таблица технических противоречий (Be
   careful! Table of technical contradictions.)
-  * [11 parts of the text in one document](Texts/Shub-2006-Web.pdf) in Russian
-  * [Single compiled text document](Texts/Shub-2006-ru.pdf) in Russian
-  * [Vorsicht Widerspruchsmatrix](Texts/Shub-2006.pdf) Short version of a
+  * [11 parts of the text in one document](Texts/Shub/Shub-2006-Web.pdf) in
+    Russian  
+  * [Single compiled text document](Texts/Shub/Shub-2006-ru.pdf) in Russian
+  * [Vorsicht Widerspruchsmatrix](Texts/Shub/Shub-2006.pdf) Short version of a
     part in German.
-  * [Wie viele Väter hat die TRIZ?](Texts/Shub-2007.pdf) Short version of
+  * [Wie viele Väter hat die TRIZ?](Texts/Shub/Shub-2007.pdf) Short version of
     another part in German.
 
 * Evgeni Smirnov (2016): Элементно-функциональное моделирование конфликтов:

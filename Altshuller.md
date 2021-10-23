@@ -7,11 +7,11 @@ title: Altshuller
 
 - (1956) with R. Shapiro. The psychology of inventive creativity.
   - [Russian Original](https://www.altshuller.ru/triz/triz0.asp)
-  - [English Translation](Texts/AltshullerShapiro-1956-en.pdf) (from TRIZ Review) 
+  - [English Translation](Texts/Altshuller/Psychology-1956-en.pdf) (from TRIZ Review) 
 
 - (1960) How invent. Thoughts on the methodology of scientific work
   - [Russian Original](https://www.altshuller.ru/triz/investigations1.asp)
-  - [English Translation](Texts/HowInvent-1960-en.pdf)
+  - [English Translation](Texts/Altshuller/HowInvent-1960-en.pdf)
 
 - (1975) Standards for inventive problem solving.
   - [Russian Original](https://altshuller.ru/triz/standards1.asp)
