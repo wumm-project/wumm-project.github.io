@@ -1,0 +1,316 @@
+# Business TRIZ Online Winter 2021 26-27 Febr 2021 Chat
+
+## Valeri Souchkov. TRIZ for Business and Management Training and Certification Curricula
+   
+13:29:46 Richard : Valeri - what part is currently most used within Business
+TRIZ, that may make a disruptive move in the increasing use of TRIZ?
+
+13:31:22 ives@p41.be : Valeri, what is the difference between value and
+function to super system (cfr FA)?
+
+13:37:22 Valeri Souchkov : Ives, value is a result. Value is subjective.
+Function is action which leads toward result. Function is objective.
+
+## Michael Iarossi. Rapid Prototyping for Business TRIZ: Accelerating TRIZ solutions using Agile
+
+13:48:12 Freya : Mike, question - how did you find the acceptance of
+incorporating TRIZ with Agile? Interested due to people often being only stuck
+on one type of tool.
+
+13:48:45 Richard : Great Mike, please guide me what kind of output each sprint
+will result in - as input to the next sprint - and finally the outcome is
+prototype.
+
+13:50:48 ives@p41.be : Could we make the ideation phase so small (no 2 weeks
+for sprint but 2 minutes) using agile so it would take less time to innovate?
+What would we need to change in TRIZ or agile?
+
+13:53:44 Michał Hałas : Mike, what is your resource webpage again?
+
+13:53:54 Mike iarossi : Mikeiarossi.com
+
+## Anton Kozhemyako. Getting started on a business problem
+
+14:18:39 Michał Hałas : Anton, please explain more those customers societies,
+what they are?
+
+14:19:26 Bing Han : What is the core principle of the schematization?
+
+14:20:10 Richard : If you may compare the FA-matrix, is this analog to
+schematization?
+
+14:21:36 RLP : Anton, in your last example: which task(s) lead to the most
+important insights and what measures where then established to solve the
+problem (extend time to 1,5 years)?
+
+14:22:47 Richard : What about trimming, as we may use in Bu-Triz
+
+14:30:08 Anton Kozhemyako : Email for communicating: info@bmtriz.ru,
+anton.kojemyako@yandex.ru, Web: www.bmtriz.ru
+
+## Rohaya Mohd-Nor. Constructing an ecosystem for a sustainable innovation culture using TRIZ tools
+
+14:42:29 Richard : Dr. Rohaya, Althuller should be so happy to see TRIZ in
+educational use and also combine with UN-Sustainability Development Goals,
+please go on with your good work !!
+
+14:50:23 RLP : Hello Rohaya, at the beginning of your session you've explained
+your TRIZ-journey from the very start but why was TRIZ choosen?  Which other
+alternatives were discussed and why were they not choosen?
+
+15:05:04 Ian Denney : Rohaya, can you identify the moment that you found
+others adopting, or desiring to use TRIZ methods? Was there a method you can
+share that helped get it over the initial starting adoption stages?
+
+## Moritz Gekeler. Game of Conflicts – A playful way to analyze contradictions in TRIZ
+   
+15:41:24 Hans-Gert Gräbe : I read that the game was developed especially for
+the design thinking community. How is it received there? Uli Weinberg fought
+the "TRIZ Monster" at one of our workshops ...
+
+15:41:54 Eckhard Schüler-Hainsch : I haven't talked to him yet…  But thanks
+for the mentioning. I (Moritz) will definitely talk to him!
+
+15:44:55 Hans-Gert Gräbe : Has the approach been included by the DT folks in
+their portfolio?
+
+15:52:29 Michał Hałas : I would love to see a filmed game, how it goes -
+example. Record and put it on yutube
+
+15:53:26 Richard : Would you use this in a case when you may get in a state of
+challanging a "normal" route of TRIZ-approach? 
+
+15:57:01 Richard : I like your playful approach …
+
+## Olga Eckardt. Remote work challenges
+
+16:24:38 Richard : Dear Olga, did you apply any FA in approaching your team
+work issue, and where did you rank the problem?
+
+16:30:17 Richard : Correct, you are tackling a great task, if you find a
+solution, I give you the Nobelprize in Economics in Stockholm next year?
+
+16:45:26 Victor Fey : Why do you suggest using the 5-Whys approach, while
+there are other, more effective tools for getting into the causes(s) of the
+problem, such as cause-effect chain analysis and RCA+?
+
+## Denys Petrov. Analysis and practice of solving business problems
+
+16:55:22 Richard : For me, this sounds like a combination of FA, as in the
+five funtions (positive ,negativ …) and separation of physical properties in
+ARIZ... or do I take a wrong conclusion of e.g. A - anti-B?  Maybe subsystem/
+supersystem and standard inventives in BI-TRIZ is an alternative?
+
+16:55:49 ives@p41.be : How to find systematically the “P” factor?
+
+16:56:43 Richard : I see, all those you mentioned are indeed costly, I like
+your findings that TRIZ is a cost-efficient approach.
+
+16:57:21 Bing Han : In fact we can use the logic of ARIZ to generate the ideas
+faster, in the real problem, time should be considered as cost.
+
+16:58:19 Victor Fey : Brainstorming is much simpler than TRIZ, why bother with
+the latter?
+
+17:01:08 Victor Fey : It’s a reference of the simplicity of the 5-Whys
+vs. RCA+.
+
+17:01:25 Richard : Very interesting … Brainstorming vs TRIZ... let discuss
+that over a beer ...
+
+17:14:34 Siegfried Weigert : @Victor: Brainstorming generates ideas (no matter
+whether they are realizable or not) "I want to have". TRIZ generates ideas for
+realistic products (Following the rules of math and physics of the real world)
+"I can have". Of course, real live is not that easy.  There are greyscales...
+
+17:16:59 Olga Eckardt : In the reality we are questioning every business
+process “what is the value of this”, and “if we do this because we do”, or we
+have some meaning of this - added value. But this is not happening in daily
+life, only in project life-cycle.
+
+17:17:19 Siegfried Weigert : @Richard: "Desireable" vs. "Doable"?
+
+## Ralf Laue. The Power of the Ideal Final Result for Identifying Process Optimization Potential
+
+17:22:53 RLP : Hello Ralf, how did you generate the stickers/labels? How
+did you make sure that you cover all possible stickers/labels?
+
+17:28:29 Siegfried Weigert : I like Ralf's approch with the stickers:
+Non-verbal communication can be SO EFFECTIVE. It gives you another set of ears
+as Schulz von Thun, the "godfather" of modern communication theory, says.
+
+17:35:54 Siegfried Weigert : There is a great Matriz glossary about TRIZ.  Is
+there a counterpart for BusinessTRIZ?  That would be really helpful.
+Especially communicating across different cultures...
+
+17:37:37 RLP : To me it seems as if the concept of gamification becomes more
+important also for TRIZ: we've heared such ideas in "game of conflicts" and in
+Ralfs "sticker approach". Are there some more "games" known in TRIZ / Business
+TRIZ (beside the card-sets for the 40 innovative principles)?
+
+17:38:19 Ralf Laue : There are two books "Playing TRIZ" Vol 1+2
+
+17:38:52 Bing Han : Wonderful. I hope to participate the glossary of Business
+TRIZ in Chinese.
+
+17:39:35 Eckhard Schueler-Hainsch : You will find an article about the Game of
+Conflicts in the "Playing TRIZ Vol.  2" :-)
+
+17:40:11 Siegfried Weigert : How about (more) You-Tubifications?  We need more
+(engaged) young people in our community.  Maybe Youtube could be a channel to
+reach them?
+
+17:41:27 Richard : Valeri - you touch upon algorithm, are there any Artificial
+Intelligence (AI) and TRIZ in the World ?
+
+17:41:59 Olga Krasheninnikova : We could discuss a review of games for the
+next conference, maybe my pedagogical background might help.
+
+17:43:28 From Jefford : How would TRIZ be utilized to better address the 2021
+Australia Govt. Intervention regulation? Amazon must pay News Media to help
+pay reporters media costs. Amazon solution: Stopped the News coverage, Google
+partnershiped.
+
+## Show-Jane Lin. Resolving the Dilemma of Monitors in Kindergartens by Business TRIZ
+   
+13:30:41 Raphaela : Hello Showjane, have you analysed what aspect of a person
+(student/teacher) is necessary to be monitored?  Can termographic cameras be
+used?
+
+13:31:14 Richard : Dear Showjane, a great work, very nice case. Please tell
+about the monitor function - a person or a function / procedure ? Could
+monitor seen as a "boss"?
+
+13:33:45 Richard : I rephrase my question: - XX Children, YY teachers and ZZ
+monitors?
+
+13:34:18 Arthur Jefford : Monitors could also be used to increase productivity
+by reviewing T&S flow patterns.
+
+13:35:59 Siegfried Weigert : Translation issues lead us back to the glossary.
+I personally ask myself what is meant with "in disguise": Blurred ("Pixeled")?
+
+## Valeri Souchkov. TRIZ in Financial Industry
+
+14:06:31 Richard : Dear Valeri, where would you place "e-commerce", since I
+see many conventional step in BD that may be overseen when entering the
+market.
+
+## Han Bing. Solving the problem of construction mode for traditional industry park in the large cities
+
+14:27:33 Hans-Gert Gräbe : What type of field does F stand for in the SuField
+diagrams?
+
+14:30:35 Anton Kozhemyako : Hello, Han! Thanks a lot for the great case!
+There is a question about a resolving way.  What do you think about resolution
+of contradictions in the high level of studying problem? What advantage does
+this approach have?
+
+14:30:41 Richard : Dear Bing Han, beautiful first and secondary problem…  just
+for my understanding "start-up"-home, like that, and as start-up company, most
+incubators are welcoming comanpies for 12-18 month, will you need that flow
+through of companies for your case in start-up homes.
+
+14:32:23 Arthur Jefford : Covid is waging war with current concepts of the
+built Environment. Our Environmental Enclosures need to be versatile to
+convert layout and applications …. Today many central business towers will be
+changing to condominiums at excessive costs.
+
+14:35:49 Richard : Is that paper you referred to available in English,
+possible to share?
+
+## Youn-Jan Lin. Using Business TRIZ Method to Improve the Speed of Checkout Process of Convenience Stores
+
+15:05:53 Richard : Dear Youjam, a very detailed question: your RCA+, left
+double full stop - and right double stop - intense market competition. Do they
+refer to the same occasion? I am aware of that BD-TRIZ does not refer to any
+time flow nor space - but does that make sense in your case. Just curious?
+
+15:09:09 Arthur Jefford : Flow Pattern utilization C&S Review to improve
+efficiency and experience.
+
+## Zhang Ting. How to use TRIZ on information flow management
+
+15:58:05 Richard : Dear Mr. Zhang, TRIZ likes to work with contraditions as in
+guiding us onwards in problem solving, how did your formulate your problem?
+Ex: Big car is attractive but driving around every day is not good for
+climate.
+
+16:06:29 Arthur Jefford : but the sports car is electric, the Toyota is gas
+driven.
+
+## Ives de Saeger. Smart Cases for Business TRIZ
+
+16:36:53 Richard : Dear Ives, you are touching upon the "fundamentals" as is
+formulating your case, simplify and find the functions, than entering the
+abstraction level, solve the ideal solution, and transform it back to reality.
+What was the responce from your customers, did you guide them into the TRIZ or
+just kept them informed, and showed the outcomes?
+
+16:40:36 Lixin Wang : What is the relation between attribute and parameter?
+
+16:44:06 Lixin Wang : object - attribute - parameter - value is better
+understanding hierachy structure?
+
+16:44:08 Gian-Lluis Ribechini : Attribute may be intangible. Parameters could
+be?
+
+16:56:35 Oliver Mayer : Comment @Valeri, I would not care if we make FA
+"right" or "wrong" and disqualify us this way. The goal is to solve problems,
+not to run a methodolgy in purity. If it helps to concentrate on parameters -
+go for it.
+
+## Valeri Souchkov. Further development of Business TRIZ
+
+16:58:09 Lixin Wang : Bussiness TRIZ or non-technical TRIZ, which is better?
+besides bussiness, there exist many other fields, such as information, law,
+tourism, finance ...
+
+17:00:09 Richard : I suggest some "classical" Business TRIZ - best practice -
+in order to improve the understanding and stay focus on the potential of
+Business TRIZ. We could refer back to the evolution in technical TRIZ, like
+Product development, processing system, model system....
+
+17:00:51 Anton Kozhemyako : TRIZ for artificial social systems perhaps. But
+the huge part of them are business systems at least.
+
+17:01:07 ives@p41.be : Software algorithms, organizational issues and cultural
+issues are domains missing for me.
+
+17:04:27 David P Isaac : Any specific area for application of Value Conflict
+Mapping - in business areas like banking, software development etc?
+
+17:08:30 Hans-Gert Gräbe : In Software "Data Analysts" get more and more
+important. Is this an issue for Business TRIZ?
+
+17:10:07 Ralf Laue : Anton, What's the title of your book?
+
+17:13:21 Richard : Seriously, I know there are some fondations e.g. EU, that
+welcoming cross-international project proposal to execute and address generic
+problems.
+
+17:13:32 Anton Kozhemyako : Psychological effects in management and marketing.
+100+ ways to improve efficiency in management and sales.
+<https://bmtriz.ru/anton_kozhemyako_psihologicheskie_effekty_v_menedzhmente_i_marketinge_100_napravleniy_povysheniya_effektivnosti_v_upravlenii_i_sbyte/>
+
+17:21:59 Maksymilian Smolnik : Generally speaking, is Bussines TRIZ more
+process-oriented than Technical TRIZ, and Tech TRIZ is more object-oriented
+than Bussines TRIZ? Or is this a unjustified oversimplification?
+
+17:29:22 Siegfried Weigert : Can we do a follow-up session after some
+"digesting time", say in two or three months?  There was a lot of useful
+information but for a BizTriz Newbee way to much.  I am sure there will be
+more questions after having re-read the presentations.  What do you think.
+Does anyone else have the same thoughts?
+
+17:30:28 David P Isaac : yes - me too
+
+17:30:47 Richard : I think is a great idea …
+
+17:30:50 Anton Kozhemyako : So do I. It's great idea.
+
+17:31:04 Siegfried Weigert : It would be easier when people send in their
+questions in advance.
+
+17:33:08 Anton Kozhemyako : There are some questions according to aims from
+Valery's presentation to prospective meeting. Isn't it?
