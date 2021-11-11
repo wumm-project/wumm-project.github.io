@@ -5,6 +5,15 @@ title: HGG-Blog
 
 # HGG's Blog
 
+## November 8, 2021: Nikolay Shpakovsky has fallen victim to the Corona pandemic
+
+It is with grief and consternation that I was informed today that Nikolay
+Shpakovsky has fallen victim to the Corona pandemic. We worked closely
+together for several years. Nikolay's views were significant for me in
+learning the TRIZ basics. I know Nikolay as a combative fighter for Strong
+Thinking associated with OTSM-TRIZ and he has always developed new ideas and
+approaches in that areay. I will keep his memory alive in our future work.
+
 ## September 16, 2021: My talks at the International TRIZ Conferences 2021
 
 * TRIZFest 2021: (with Tom Strempel) Semantic Web Modelling of TRIZ System
@@ -135,10 +144,10 @@ at least - less harmful). I started a
 [separate Corona Thread](Corona "wikilink")
 to record the most useful proposals.
 
-## May 12, 2020: Collection of links about [TRIZ in Business](TIB "wikilink")
+## May 12, 2020: Collection of links about [TRIZ in Business](BusinessTRIZ)
 
 May be it is also worth to collect links about
-[TRIZ in Business](TIB "wikilink")?
+[TRIZ in Business](BusinessTRIZ)?
 I just started such a collection beginning with Facebook posts.
 
 ## May 9, 2020: 

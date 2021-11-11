@@ -12,3 +12,5 @@ courses, MOOCs etc. Here are the (unproved) links provided in the chat:
 * <https://picc.inventivedesign.unistra.fr/ideas#!/dashboard> (Denis Cavallucci) 
 * <https://cihc.or.kr/kor/BBSMSTR_000000000070/3200/view.do> (South Korea)
 
+There is a large collection of TRIZ Online Material provided by Iouri Belski. 
+

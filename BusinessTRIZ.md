@@ -1,15 +1,23 @@
 ---
 layout: default
-title: TIB
+title: BusinessTRIZ
 ---
 
-# TRIZ in Business. Some links.
+# Business TRIZ. Some links.
 
 ## IBTA - the International TRIZ Business Association
 
 <http://www.biztriz.net/>
 
-## Business TRIZ Online 2020 Conference. June 22-23, 2020 
+## TRIZ Business Navigator
+
+- <https://sites.google.com/view/trizbm/>
+
+## Business TRIZ Online Autumn 2021. June 22-23, 2020 
+
+## Business TRIZ Online Spring 2021. June 22-23, 2020 
+
+## Business TRIZ Online 2020. June 22-23, 2020 
 
 * <http://www.biztriz.net/news/2-uncategorised/32-2020.html>
 * [The Chat](Texts/BusinessTRIZ-2020-Chat.txt) 

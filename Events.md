@@ -7,12 +7,6 @@ title: Events
 
 ## Upcoming Events
 
-* October 15-16 and 23, 2021 - TRIZ Developer Summit
-  - Location: Online
-  - Languages: Russian
-  - <https://triz-summit.ru/confer/tds2021> 
-  - Deadline for Abstracts: March 31, 2021
-
 * October 29, 2021 - TRIZ Online Business Forum "TRIZ Online - Autumn 2021" 
   - Location: Online
   - Languages: Russian
