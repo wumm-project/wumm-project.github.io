@@ -71,3 +71,6 @@ at _metodolog.ru_
   * [Rough yet German translation](Texts/Vernadsky1938-de.pdf)
   * [German translation](Texts/Vernadsky1938-EditHistory-de.pdf) of the edit
     history of Vernadsky's text, prepended to the Russian edition.
+  * Ian Angus (2018). Vladimir Vernadsky and the Disruption of the Biosphere.
+    * <https://climateandcapitalism.com/2018/06/05>
+    * [Local copy](Texts/Angus-2018.pdf)
