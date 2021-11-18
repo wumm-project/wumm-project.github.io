@@ -81,6 +81,10 @@ German, with links to sites in Russian).
   Published 2019 in Moscow. 
 * Anatoly Gin, Mark Barkan: TRIZ Pedagogy. 
   * Search for "анатолий гин триз" for Russian-language literature
+* Ioury Belski: Educating the Edisons of the 21st Century: Embedding tools of
+  the Theory of Inventive Problem Solving (TRIZ) into the engineering
+  curriculum. Final Report 2019.
+  * <https://ltr.edu.au/resources/FS16-0271_FinalReport_Edisons_Belski_2019.pdf>
 
 ## More Links (just started)
 
