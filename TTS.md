@@ -131,7 +131,12 @@ title: TTS
     (English translation by the author, 2016, part of the Open Source
     Collection of the WUMM project)
 
-
-
+* Camilla Warnke, Manfred Buhr (1974). Die "abstrakte" Gesellschaft -
+  Systemwissenschaften als Heilsbotschaft in den Gesellschaftsmodellen
+  Parsons', Dahrendorfs und Luhmanns (The "abstract" society - systems science
+  as salvation message in Parsons', Dahrendorf's and Luhmann's models of
+  society)
+  * [German Original](http://www.max-stirner-archiv-leipzig.de/dokumente/WarnkeAbstrakteGesellschaft.pdf)
+    at Max Stirner Archiv Leipzig.
 
 
