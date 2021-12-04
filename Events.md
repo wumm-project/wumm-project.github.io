@@ -7,19 +7,35 @@ title: Events
 
 ## Upcoming Events
 
-* October 29, 2021 - TRIZ Online Business Forum "TRIZ Online - Autumn 2021" 
-  - Location: Online
-  - Languages: Russian
-  - Remarks: Participation is free but registration is required.
-  - <http://www.biztriz.net/2-uncategorised/39-business-triz-online-fall-2021.html> 
+* Jan 13-14, 2022 TRIZ-Expert Meeting (in German)
+  - Location: Sulzbach-Rosenberg
+  - Languages: German
+  - Main theme: tba.  
+  - Organized by the TRIZ Consulting Group
+  - <https://www.triz-consulting.de/angebote/triz-schulungen-kurse/triz-expertentreffen-2022/>
 
-* May 11-14, 2022 - TRIZFest 2022
+* Aug 31 - Sept 3, 2022 - TRIZFest 2022
   - Location: Graz, Austria
   - Languages: English
-  - Main theme: tba.  
-  - The “TRIZFest-2021” is organized by the International TRIZ Association
-    (MATRIZ).
+  - Main theme: tba.
+  - The TRIZFest 2022 is organized by the International TRIZ Association
+    (MATRIZ) together with Juergen Jantschgi.
   - <https://matriz.org>
+  - Deadlines: Not yet announced
+
+* Sept 27-29, 2022 - TRIZ Future 2022
+  - Location: Warsaw, Poland
+  - Languages: English
+  - Main theme: Artificial Intelligence methods and Information Technology
+  - The TRIZ Future 2022 is organized by ETRIA.
+  - <https://tfc2022.elka.pw.edu.pl/>
+  - Deadlines  
+    - Submission of abstracts: 15 January 2022
+    - Abstract review: 10 February 2022
+    - First submission of full papers: 31 March 2022
+    - Paper review: 31 May 2022
+    - Final submission: 30 June 2022
+    - Registration opening: 15 July 2022
 
 ## Past Events
 
