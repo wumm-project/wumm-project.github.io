@@ -45,7 +45,7 @@ establishment.
   * About the [Seminar](mint-leipzig.de/2016-07-01.html) (in German).
 * More on the work of [Justus](JustusSchollmeyer "wikilink")
 
-## The Moscow Methodological Circle (MMK). A Bird's Eye.
+## The Moscow Methodological Circle (MMC). A Bird's Eye.
 
 > The ideas of the Russian philosopher Georgy Shchedrovitsky, who founded the
 > “Moscow Methodological Circle” gained traction in the late 1950s and had
@@ -53,7 +53,7 @@ establishment.
 > perestroika—right up until his death in 1994.
 
 > Shchedrovitsky essentially viewed human beings as machines that must be
-> programed to perform certain functions—essentially, the theory of “social
+> programed to perform certain functions — essentially, the theory of “social
 > engineering.” The literary scholar Ilya Kukulin has found some similarities
 > between Shchedrovitsky’s philosophy and the works of Soviet-era science
 > fiction writers Arkady and Boris Strugatsky: most of their novels feature a
@@ -82,10 +82,13 @@ Ernst Bloch.
 ## Links to material about and from the MMK and its follow-ups
 
 * [Georgi Petrovich Shchedrovitsky](https://www.fondgp.ru/)
+  * [English translation of a biography](Texts/Shchedrovitsky-Biography.pdf) 
   * <https://en.wikipedia.org/wiki/Georgy_Shchedrovitsky>
   * The MMC has had a lasting impact on Russian systems thinking particularly
     through the Methodological School of Management
     * [Методологическая школа управления](https://www.facebook.com/groups/877563105594553)
+    * Methodological School of Management. Bloomsbury Publishing 2004.
+      <https://www.bloomsbury.com/uk/methodological-school-of-management-9781472910301/>
   * <https://shchedrovitskiy.com/predislovie-k-8-chtenijam-pamjati-g-p-shchedrovitskogo/>
   * The dance of horses. Film about the life of G.P. (in Russian)
     * <https://www.youtube.com/watch?v=GFGfm3posdw>    
