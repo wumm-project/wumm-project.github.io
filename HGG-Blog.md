@@ -5,7 +5,32 @@ title: HGG-Blog
 
 # HGG's Blog
 
-## November 8, 2021: Nikolay Shpakovsky has fallen victim to the Corona pandemic
+## December 29, 2021: Mikhail Rubin's congratulations to all for 2022
+
+Высылаю Вам итоговое письмо конференции Саммита разработчиков ТРИЗ, которое
+было подготовлено после проведенной конференции и опубликовано на сайте
+<https://triz-summit.ru/confer/tds2021/fin-2021/>. В работе конференции в этом
+году приняло участие около 500 человек из 33 стран мира.
+
+Следующая конференция ТРИЗ Саммита запланирована на 14-16 октября 2022
+года. Мы сообщим Вам, как только начнется подготовка к этой международной
+конференции по ТРИЗ.
+
+Поздравляю с Новым Годом!  Удачи Вам и Добра!  Всего доброго!
+
+Михаил Рубин, президент Международного Совета Мастеров ТРИЗ"
+
+* [English translation of the conference letter](2021-12-29.md)
+
+## December 21, 2021: Evgeny Pokalo reports on his experience as tracker
+
+<https://www.facebook.com/evgeny.pokalo/posts/4428737770568508>
+
+## December 16, 2021: Rainer Thiel passed away
+
+<https://www.facebook.com/hg.graebe/posts/10223557580985897>
+
+## November 8, 2021: Nikolay Shpakovsky passed away 
 
 It is with grief and consternation that I was informed today that Nikolay
 Shpakovsky has fallen victim to the Corona pandemic. We worked closely

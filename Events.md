@@ -37,6 +37,8 @@ title: Events
     - Final submission: 30 June 2022
     - Registration opening: 15 July 2022
 
+* Oct 14-16, 2022 - TRIZ Developer Summit 2022
+  
 ## Past Events
 
 Selected past events are compiled in an RDF metadata collection.  Links to
