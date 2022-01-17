@@ -133,21 +133,95 @@ title: GIS
 
 ## Rainer Thiel
 
-* (with Hans-Joachim Rindfleisch). Erfinderschulen in der DDR. Trafo Verlag,
-  Berlin 1994.
+* Über einen Fortschritt in der Aufklärung schöpferischer Denkprozesse (On an
+  advance in the understanding of inventive thought processes). Deutsche
+  Zeitschrift für Philosophie 1976, Nr. 3.
+* Methodologie und Schöpfertum (Methodology and Creativity). Forschungsbericht
+  und Konferenz-Protokoll 1977.
+* Dialektische Widersprüche in Entwicklungsaufgaben (Dialectical
+  Contradictions in Development Tasks). Berlin 1980. Integriert in das erste
+  Lehrmaterial für Erfinderschulen der KDT 1983.
+* (with Dieter Herrig, Herbert Müller). Technische Probleme – methodische
+  Mittel – erfinderische Lösungen (Technical problems – methodical means –
+  inventive solutions). In Maschinenbautechnik, Nr. 6 und Nr. 7, 1985.
+* (with Hans-Jochen Rindfleisch). Programm zum Herausarbeiten von
+  Erfindungsaufgaben (Programme for working out inventive tasks).
+  Bau-Akademie der DDR, 1986.
+* (with Hans-Jochen Rindfleisch). Erfindungsmethodische Grundlagen.
+  Lehrmaterial zur Erfinderschule (Invention Methodology Basics.  Teaching
+  material for the inventor school). Lehrbriefe 1 und 2, Kammer der Technik,
+  Berlin 1988 und 1989.
+  - Republished as [Rohrbacher Manuskripte, Heft 21](http://www.dorfwiki.org/wiki.cgi?HansGertGraebe/RohrbacherKreis/RohrbacherManuskripte)
+* Komplexitätsbewältigung – Dialektikbewältigung, theoretisch und praktisch
+  (Complexity management - dialectics management, theoretical and practical).
+  Deutsche Zeitschrift für Philosophie 1990, Nr. 5.
+* (with Hans-Joachim Rindfleisch). Erfinderschulen in der DDR (Inventor
+  schools in the GDR). Trafo Verlag, Berlin 1994.
 * Wie wird Dialektik nutzbar als Heuristik? (How is dialectic usable as a
-  heuristic?) EWE 17 (2006) 2: 230–233.  [pdf, in
-  German](GDR-InventorSchools/HegelHoerz-05.pdf).
+  heuristic?) EWE 17 (2006) 2: 230–233.
+  [pdf, in German](GDR-InventorSchools/HegelHoerz-05.pdf).
 * Zur Lehrbarkeit dialektischen Denkens – Chance der Philosophie, Mathematik
   und Kybernetik helfen (On the Teachability of Dialectical Thinking - Chance
-  of Philosophy, Mathematics and Cybernetics help). Manuscript 2007. [pdf, in
-  German](GDR-InventorSchools/Thiel-07.pdf).
-* Hegel, Altschuller, TRIZ.  [LIFIS-ONLINE
-  25.09.2016.](http://dx.doi.org/10.14625/thiel_20160925)
-* Erfinderschulen – Problemlöse-Workshops.  Projekt und Praxis.  (Inventor
-  schools - problem solving workshops. Project and practice).  [LIFIS-ONLINE
-  03.07.2016.](http://dx.doi.org/10.14625/thiel_20160703) - [Excerpt on the
-  ABER matrix in Russian](GDR-InventorSchools/Thiel-16-ru.pdf)
+  of Philosophy, Mathematics and Cybernetics help). Manuscript 2007.
+  [pdf, in German](GDR-InventorSchools/Thiel-07.pdf).
+* Autobiografie „Neugier, Liebe, Revolution“. Verlag am Park, 2010. Spätere
+  Auflagen im Trafo Verlag.
+* Erfinderschulen – Problemlöse-Workshops. Projekt und Praxis. (Inventor
+  schools - problem solving workshops. Project and practice).
+  [LIFIS-Online, 03.07.2016](http://dx.doi.org/10.14625/thiel_20160703)
+  - [Excerpt on the ABER matrix in Russian](GDR-InventorSchools/Thiel-16-ru.pdf)
+* Hegel, Altschuller, TRIZ.
+  [LIFIS-ONLINE 25.09.2016.](http://dx.doi.org/10.14625/thiel_20160925)
+* Kreativität und Industrie 4.0. Interdisziplinäre Konsequenzen. 
+  [LIFIS Online, 20.01.2020](http://dx.doi.org/10.14625/thiel_20200120).
+* Zur Lehrbarkeit dialektischen Denkens – Chance der Philosophie, Mathematik
+  und Kybernetik helfen. In: Erfinderschulen, TRIZ und Dialektik.
+  [Rohrbacher Manuskripte](http://www.dorfwiki.org/wiki.cgi?HansGertGraebe/RohrbacherKreis/RohrbacherManuskripte),
+  Heft 20, 2020. S. 115-149.
 * [Rainer Thiel und die Kybernetik](GDR-InventorSchools/Thiel-Kybernetik.pdf).
   Ein Interview.  September 2020.
-  
+* ProHEAL und TRIZ - Erfindemethodik seit 50 Jahren.
+  [LIFIS Online, 26.01.2021](http://dx.doi.org/10.14625/thiel_20210126)
+* (with Hans-Gert Gräbe).  ProHEAL – Social Needs and Sustainability Aspects
+  in the Methodology of the GDR Inventor Schools.
+  [LIFIS Online, 15.08.2021][http://dx.doi.org/10.14625/graebe_20210815)
+* (with Hans-Gert Gräbe).  ProHEAL Basics – Extended Version.
+  [LIFIS Online, 18.12.2021][http://leibniz-institut.de/archiv/graebe_thiel_20211218.pdf)
+
+## Dietmar Zobel
+
+* Systematisches Erfinden in Chemie und Chemischer Technologie. In:
+  Chem. Techn. 34 (1982), S. 445-450.
+* Erfinderfibel. Deutscher Verlag der Wissenschaften, Berlin 1985, 1987. (ISBN
+  3-326-00131-2)
+* Der Piesteritzer Hypophosphitprozeß. In: Chem. Techn. 42 (1990) S. 47-51.
+* Erfinderpraxis – Ideenvielfalt durch Systematisches Erfinden. Deutscher
+  Verlag der Wissenschaften, Berlin 1991. (ISBN 3-326-00654-3)
+* Erfinden mit System. DABEI-Materialien Nr 10, Bonn 1995. (ISBN
+  3-930903-08-3)
+* Systematisches Erfinden – Methoden und Beispiele für den Praktiker.
+  Expert-Verlag, Renningen 2001, 2002, 2004, 2006, 2009, 2019. (ISBN
+  978-3-8169-2613-4, 978-3-8169-2939-0)
+* Kreativität braucht ein System. In: Wissenschaftsmanagement 7 (2001) H. 2,
+  S. 16-23. Bonn 2001.
+* Kein Privileg von Tüftlern und Genies – Systematisches Erfinden. In:
+  Unternehmermagazin 49 (2001) H. 11, S. 17, Bonn 2001.
+* Widerspruchssituationen und das Wirken der Lösungsprinzipien im
+  nicht-technischen Bereich. In: triz-online-magazin.de, Ausgabe 2/2003
+  <http://www.dietmar-zobel.de/TRIZ-Denken.htm>
+* ARIZ und TRIZ – nichts ist so praktisch wie eine gute Theorie. In:
+  Innovations-Forum im Deutschen Erfinderverband 3/2003, S. 16-17. Beutter &
+  Langen, Köln 2003.
+* TRIZ FÜR ALLE – Der systematische Weg zur Problemlösung. Expert-Verlag
+  Renningen, 2006, 2007. (ISBN 978-3-8169-2760-0)
+* Kreatives Arbeiten – Methoden, Erfahrungen, Beispiele. Expert-Verlag,
+  Renningen, 2007. (ISBN 978-3-8169-2713-6).
+* Innovative Prinzipien wirken auch außerhalb der Technik. In: P. Rietsch
+  (Hrsg.). „TRIZ – Anwendung und Weiterentwicklung in nicht-technischen
+  Bereichen“. Wien 2007. S. 21-60.
+* (with R. Hartmann). Erfindungsmuster – TRIZ: Prinzipien, Analogien,
+  Ordnungskriterien, Beispiele. Expert-Verlag, Renningen 2009. (ISBN
+  978-3-8169-2904-8).
+* Beiträge zur Weiterentwicklung der TRIZ.
+  [LIFIS Online, 19.01.2020](http://dx.doi.org/10.14625/zobel_20200119)
+  - English translation in The TRIZ Journal, 07.03.2020
