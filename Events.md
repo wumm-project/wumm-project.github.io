@@ -7,12 +7,10 @@ title: Events
 
 ## Upcoming Events
 
-* Jan 13-14, 2022 TRIZ-Expert Meeting (in German)
-  - Location: Sulzbach-Rosenberg
-  - Languages: German
-  - Main theme: tba.  
-  - Organized by the TRIZ Consulting Group
-  - <https://www.triz-consulting.de/angebote/triz-schulungen-kurse/triz-expertentreffen-2022/>
+* July 21-22, 2022 German TRIZ-Anwendertag (in German)
+  - Location: Nürnberg
+  - Languages: English, German
+  - Organized by Bayern innovativ
 
 * Aug 31 - Sept 3, 2022 - TRIZFest 2022
   - Location: Graz, Austria
