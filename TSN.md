@@ -15,9 +15,10 @@ subproject](https://github.com/wumm-project/RDFData).  For the moment the
 `People` and the `TRIZ-Summit-2019` data is mirrored (due to performance
 reasons) and links are produced to view this data. 
 
-* [Frequently asked questions](TSN-QA "wikilink")
+* [Frequently asked questions](TSN-QA)
 * The WTSP Project of Toru Nakagawa
   * <https://www.osaka-gu.ac.jp/php/nakagawa/TRIZ/eTRIZ/eWTSP/eWTSP-WorldCatalog/eWTSP-World%20Catalog-World/World-SourceDocuments.html>
+* The [German TRIZ Network](GTN)
 
 ## People in the TRIZ Social Network
 
