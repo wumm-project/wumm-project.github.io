@@ -15,11 +15,14 @@ title: Events
 * Aug 31 - Sept 3, 2022 - TRIZFest 2022
   - Location: Graz, Austria
   - Languages: English
-  - Main theme: tba.
   - The TRIZFest 2022 is organized by the International TRIZ Association
     (MATRIZ) together with Juergen Jantschgi.
-  - <https://matriz.org>
-  - Deadlines: Not yet announced
+  - <https://matriz.org/TRIZFest-2022>
+  - Deadlines:
+    - March 6, 2022 - full paper
+    - April 17, 2022 - notification of acceptance
+    - June 5, 2022 - revised full paper
+    - July 3, 2022 - notification of final acceptance
 
 * Sept 27-29, 2022 - TRIZ Future 2022
   - Location: Warsaw, Poland
