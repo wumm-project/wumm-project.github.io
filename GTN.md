@@ -10,26 +10,26 @@ Sulzbach-Rosenberg geboren.
 
 ## Koordination des Netzwerks
 
-zu ergänzen
+Noch nicht besprochen.
 
-## Aktivitäten (Auszug)
+## Informationsquellen (Auszug) 
 
-* 04.02.2022:
-  [19. Interdisziplinary Seminar](http://mint-leipzig.de/2022-02-04.html)
-  "Continuous Improvement, Engineering Systems, and Systems Engineering"
+* Informationsblog von [TRIZ
+  Consulting](https://www.triz-consulting.de/aktuelles/), Robert Adunka (TRIZ
+  L5)
+* News auf den Seiten der
+  [TRIZ-Akademie](https://triz-akademie.de/veranstaltungen/), Barbara Gronauer
+  (TRIZ L4), Horst Nähler (TRIZ L3)
+* [TRIZ-Gruppe](https://www.xing.com/communities/groups/triz-3ef0-1010339/posts)
+  bei XING
+
+## Übergreifende Aktivitäten (Auszug)
+
 * 13.-14.01.2022:
   [TRIZ-Expertentreffen](http://wumm.uni-leipzig.de/conferences.php?conference=http://wumm.uni-leipzig.de/rdf/GermanTEX-2022.rdf)
-* 23.07.2021:
-  [18. Interdisziplinary Seminar](http://mint-leipzig.de/2021-07-23.html)
-  "Systems, Processes, and their Management"
-* 05.02.2021:
-  [17. Interdisziplinary Seminar](http://mint-leipzig.de/2021-02-05.html)
-  "Evolution of Technical and General Systems"
 * 02.10.2020:
   [1. Deutsche TRIZ-Konferenz Online 2020](http://wumm.uni-leipzig.de/conferences.php?conference=http://wumm.uni-leipzig.de/rdf/GermanTRIZOnline-2020.rdf)
-* 07.02.2020:
-  [16. Interdisziplinäres Gespräch](http://mint-leipzig.de/2020-02-07.html)
-  "Das Konzept Resilienz als emergente Eigenschaft in offenen Systemen"
+* TRIZ-Barcamp 2019
 * 13-14.11.2019: [25. Leibniz-Konferenz "Kreativität 4.0"](https://leibniz-institut.de/25-leibniz-konferenz)
 * 24.-25.11.2016: [21. Leibniz-Konferenz "Systematisches Erfinden"](https://leibniz-institut.de/21-leibniz-konferenz)
 
