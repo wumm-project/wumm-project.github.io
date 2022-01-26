@@ -17,6 +17,8 @@ Noch nicht besprochen.
 * Informationsblog von [TRIZ
   Consulting](https://www.triz-consulting.de/aktuelles/), Robert Adunka (TRIZ
   L5)
+  * [Dort](https://www.triz-consulting.de) kann auch der Newsletter des GTN
+    abonniert werden.
 * News auf den Seiten der
   [TRIZ-Akademie](https://triz-akademie.de/veranstaltungen/), Barbara Gronauer
   (TRIZ L4), Horst Nähler (TRIZ L3)
