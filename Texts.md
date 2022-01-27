@@ -37,6 +37,12 @@ Innovation](https://www.ijosi.org).
   business problem analysis considering the example of the mentoring problem
   in a sales department. [TRIZ Review 2.1 (2021)](https://matriz.org/wp-content/uploads/2020/04/TRIZ-Review-vol-2-1-April-2020.pdf) 
 
+* Yuri Salamatov (1999): TRIZ - The right solution at the right time. A Guide
+  to Innovative Problem Solving.
+  * Insytec B.V. (1999), ISBN 13: 9789080468016.
+  * 2nd edition (2005).
+  * [Chapter 2](http://xtriz.com/publications/Chapter2SalamatovBook.pdf)
+
 * Leonid Shub (2006-07): Осторожно! Таблица технических противоречий (Be
   careful! Table of technical contradictions.)
   * [11 parts of the text in one document](Texts/Shub/Shub-2006-Web.pdf) in
