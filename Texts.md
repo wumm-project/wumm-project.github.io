@@ -37,6 +37,10 @@ Innovation](https://www.ijosi.org).
   business problem analysis considering the example of the mentoring problem
   in a sales department. [TRIZ Review 2.1 (2021)](https://matriz.org/wp-content/uploads/2020/04/TRIZ-Review-vol-2-1-April-2020.pdf) 
 
+* Yuri Lebedyev, Sergey Logvinov: Integration of Flow Analysis with Function
+  Analysis (TRIZ Developer Summit 2014)
+  * [English Version](https://triz-summit.ru/file.php/id/f300083-file-original.pdf)
+
 * Yuri Salamatov (1999): TRIZ - The right solution at the right time. A Guide
   to Innovative Problem Solving.
   * Insytec B.V. (1999), ISBN 13: 9789080468016.
