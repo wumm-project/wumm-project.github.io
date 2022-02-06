@@ -94,5 +94,5 @@ Innovation](https://www.ijosi.org).
   Geschäftsmodelle durch den Einsatz von TRIZ (Business Model Revolution:
   Creative ideas for new business models through the use of TRIZ).
   Master Thesis at HS Aalen.
-  [pdf, in German](Texts/WagnerLuisa-2019.pdf)
+  [pdf, in German](Texts/WagnerLuisa-2021.pdf)
   * [Trend-Leporellos, in German](Texts/Trend-Leporellos.pdf)
