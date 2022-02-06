@@ -95,4 +95,4 @@ Innovation](https://www.ijosi.org).
   Creative ideas for new business models through the use of TRIZ).
   Master Thesis at HS Aalen.
   [pdf, in German](Texts/WagnerLuisa-2019.pdf)
-  * [Trend-Leporellos, in German](Texts/.pdf)
+  * [Trend-Leporellos, in German](Texts/Trend-Leporellos.pdf)
