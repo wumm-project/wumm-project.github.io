@@ -128,6 +128,18 @@ different Facebook channels as
 * <https://www.facebook.com/sales.metodika/>
 * <https://www.facebook.com/minsktrizclub/>
 
+## TRIZ on Youtube
+
+* <https://www.youtube.com/hashtag/тризофикация>
+  - Channel language: Russian
+* <https://www.youtube.com/hashtag/триз>
+  - Channel language: Russian
+* <https://www.youtube.com/c/Trizofication/featured> 
+  - Channel language: Russian
+* <https://www.youtube.com/channel/UCfaC3zYMDjr0on5Rj5oXwAA>
+  - Maintainer: Alexander Shchinnkov
+  - Channel language: Russian
+
 ## Presentations
 
 We collect [Presentations](http://wumm.uni-leipzig.de/presentations.php) from

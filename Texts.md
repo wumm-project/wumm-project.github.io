@@ -28,7 +28,7 @@ Innovation](https://www.ijosi.org).
 * Tobias Bayer (2019): Ausarbeitung einer potenziellen Methodenintegration aus
   der TRIZ Lehre in den Design Thinking Prozess. (Elaboration of a potential
   method to integrate the TRIZ teaching in the Design Thinking process.)
-  Bachelorarbeit an der HS Landshut.
+  Bachelor Thesis at HS Landshut.
   [pdf, in German](Texts/BayerTobias-2019.pdf).
   * The paper got one of the 3 TRIZ student's awards at the TRIZ-Fest 2019 in
     Heilbronn.
@@ -89,3 +89,10 @@ Innovation](https://www.ijosi.org).
   * Ian Angus (2018). Vladimir Vernadsky and the Disruption of the Biosphere.
     * <https://climateandcapitalism.com/2018/06/05>
     * [Local copy](Texts/Angus-2018.pdf)
+
+* Luisa Wagner (2021). Business Model Revolution: Kreative Ideen für neue
+  Geschäftsmodelle durch den Einsatz von TRIZ (Business Model Revolution:
+  Creative ideas for new business models through the use of TRIZ).
+  Master Thesis at HS Aalen.
+  [pdf, in German](Texts/WagnerLuisa-2019.pdf)
+  * [Trend-Leporellos, in German](Texts/.pdf)
