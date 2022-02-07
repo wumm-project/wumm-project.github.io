@@ -44,17 +44,18 @@ title: TTS
   their technical systems).
   * German Original.
     [LIFIS Online, 19 May 2020](http://dx.doi.org/10.14625/graebe_20200519)
-  * [Human and their technical systems](https://hg-graebe.de/EigeneTexte/mts-20-en.pdf).
-    Trimmed and enlarged English version, containing part of the
-    argumentation, prepared for the TFC 2020.  
+  * [Human and their technical systems](https://hg-graebe.de/EigeneTexte/tfc-20.pdf).
+    Published in the Proceedings of the TRIZ Future Conference 2020, p. 399-410.
   * [Человек и его технические системы](https://hg-graebe.de/EigeneTexte/TDS-2020.pdf).  
     Differently trimmed Russian version, containing another part of the
-    argumentation, prepared for the TDS 2020.
+    argumentation, presented at the TRIZ Developer Summit 2020.
 
 * Hans-Gert Gräbe (2020): Technical Systems and Purposes. July 2020
     * A Variation on the theme "Men and their technical systems" for the First German
-      TRIZ Online Conference. 
-    * [English Original, Juli 2020](https://hg-graebe.de/EigeneTexte/DAT-20-en.pdf)
+      TRIZ Online Conference.  
+    * Published in _TRIZ-Anwendertag 2020_ (Oliver Mayer ed.), Springer Verlag
+      2021, S. 1-13. DOI 10.1007/978-3-662-63073-0_1.
+    * [English Original](https://hg-graebe.de/EigeneTexte/DAT-20-en.pdf)
     * [German Translation](https://hg-graebe.de/EigeneTexte/DAT-20-de.pdf)
 
 * Hans-Gert Gräbe (2020): TRIZ und Transformationen sozio-technischer und
@@ -62,15 +63,9 @@ title: TTS
   socio-technical and socio-ecological systems. A comparison).
   * German Original. [LIFIS Online, June 2020](http://dx.doi.org/10.14625/graebe_20200627)
   * [English Translation, June 2020](https://hg-graebe.de/EigeneTexte/sys-20-en.pdf).
-    Submitted to TRIZ Review.
   * Poster for the MATRIZ Online Forum 2020, August 2020.
     ([english](https://hg-graebe.de/EigeneTexte/MOF-20-en.pdf),
     [russian](https://hg-graebe.de/EigeneTexte/MOF-20-ru.pdf))
-
-* Hans-Gert Gräbe (2020): Technical Systems and Purposes.  To appear in the
-  Proceedings of the First German TRIZ Online Conference.
-  * [English](https://hg-graebe.de/EigeneTexte/DAT-20-en.pdf)
-  * [German Translaton](https://hg-graebe.de/EigeneTexte/DAT-20-de.pdf)
 
 * Hans-Gert Gräbe (2021): Solving problems with TRIZ and AIPS-2015. 
   * [English](Texts/Graebe/Graebe-2021a-en.pdf)
