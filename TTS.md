@@ -29,13 +29,13 @@ title: TTS
   Creation of information in creative learning organizations)
   * [German Original](http://www.informatik.uni-leipzig.de/~graebe/Texte/Fuchs-02.pdf)
 
-* B.I. Goldovski (1983): Система закономерностей построения и развития
+* B.I. Goldovsky (1983): Система закономерностей построения и развития
   технических систем (The system of laws of construction and development of
   technical systems).
   * [Russian Original](https://triz-summit.ru/file.php/id/f303253-file-original.pdf)
   * [German Translation](Texts/Goldovski/Goldovski-1983-de.pdf)
 
-* B.I. Goldovski (2017): О законах построения технических систем (On the laws
+* B.I. Goldovsky (2017): О законах построения технических систем (On the laws
   of building technical systems)
   * [Russian Original](https://www.metodolog.ru/node/2164)
   * [German Translation](Texts/Goldovski/Goldovski-2017-de.pdf)
@@ -82,6 +82,9 @@ title: TTS
 * Alex Lyubomirsky, Simon Litvin, Sergei Ikovenko et al. (2018). Trends of
   Engineering System Evolution (TESE). TRIZ Consulting Group. ISBN
   978-3-00-059846-3.
+
+* Oliver Mayer (2017): Increased Addressing of Human Senses as a Trend.
+  [TRIZ Master Thesis](Texts/Mayer-2017.pdf).
 
 * Vladimir Petrov (2020): Законы и закономерности развития систем (Laws and
   patterns of systems development). Book in 4 volumes (in Russian), ISBN
