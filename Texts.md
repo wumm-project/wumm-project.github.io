@@ -13,6 +13,7 @@ See
 * [Texts](TTS) about TRIZ, Technical and General Systems
 * [Texts](GIS) about the heritage of the GDR Inventor Schools
 * [Texts](PhiloBasics) about philosophical roots of TRIZ
+* Darrell Mann's [E-Zine](http://www.systematic-innovation.com/past-e-zines-2011-2020.html)
 
 The TRIZ Journal "triz-journal.com" (1996-2010) is no more online but an
 [archive](https://metodolog.ru/triz-journal/) of all publications is available
@@ -22,6 +23,8 @@ Also the new version of "triz-journal.com" operated by Darrell Mann is at the
 moment not online due to an internet attack.  Darrell recommends to submit new
 papers to the Open Access [International Journal of Systematic
 Innovation](https://www.ijosi.org).
+
+
 
 ## More Texts
 
