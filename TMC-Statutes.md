@@ -1,9 +1,9 @@
 ---
 layout: default
-title: TMC-Bylaws
+title: TMC-Statutes
 ---
 
-# Bylaws of the International Council of TRIZ Masters
+# Statutes of the International Council of TRIZ Masters
 
 This is a (not authorised) English translations of the Russian original at
 <https://triz-summit.ru/certif/master/ustav/>
@@ -12,10 +12,12 @@ Adopted at the inaugural meeting of the International Public Association of
 Masters of Theory of Inventive Problem Solving, the "International Council of
 TRIZ Masters".
 
-Moscow, 09.09.2019
+Moscow, September 9, 2019
 
-Bylaws of the International Public Association of Inventive Problem Solving
+Statutes of the International Public Association of Inventive Problem Solving
 Theory Masters "International Council of TRIZ Masters"
+
+in the redactional version of October 8, 2019
 
 ## 1. GENERAL PROVISIONS.
 

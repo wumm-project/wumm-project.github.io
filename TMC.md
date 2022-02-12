@@ -3,7 +3,7 @@ layout: default
 title: The TRIZ Master Council
 ---
 
-# The International Council of TRIZ Masters
+# The International Council of TRIZ Masters (TMC)
 
 We offer (not authorised) English translations of informations about the
 activities of the International Public Association of Masters of Inventive
@@ -11,8 +11,12 @@ Problem Solving "International Council of TRIZ Masters".
 
 For the Russian orginals see <https://triz-summit.ru/certif/master/>.
 
-Below at this page the founding process of the International TRIZ Master
-Council is outlined.
+More documents
+- [Statutes](TMC-Statutes) of the TMC
+- [TMC members](TMC-Members) 
+
+Below at this page the founding of the International Council of TRIZ Masters
+is outlined.
 
 ## Letter to the TRIZ Masters (September 8, 2019)
 
