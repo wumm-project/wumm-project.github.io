@@ -100,4 +100,4 @@ Innovation](https://www.ijosi.org).
 
 * Dietmar Zobel (2020). Contributions to the further development of TRIZ.
   - [German original](http://dx.doi.org/10.14625/zobel_20200119)
-  - [English Translation](Texts/Zobel-en-20.pdf), appeared in _TRIZ Journal_.
+  - [English Translation](Texts/Zobel-20-en.pdf), appeared in _TRIZ Journal_.
