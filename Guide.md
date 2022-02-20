@@ -19,35 +19,35 @@ compile a little guide to that debates within our [TRIZ Social Network](TSN
 "wikilink").
 
 ## This Wiki
-* [About](About "wikilink") &ndash; A general description about the background
+* [About](About) &ndash; A general description about the background
   and goals of the WUMM project
-* [Projects](Projects "wikilink") &ndash; different project ideas and
+* [Projects](Projects) &ndash; different project ideas and
   applications, ongoing, pending, successful and failed
-  * [TRIZ Trainings Network](TTN "wikilink") &ndash; Material of the (in a
+  * [TRIZ Trainings Network](TTN) &ndash; Material of the (in a
     first try not successful) application for an EU Knowledge Alliance
-* [Events](Events "wikilink") &ndash; a list of upcoming events
+* [Events](Events) &ndash; a list of upcoming events
   * See the RDF based summary on [past
     conferences](wumm.uni-leipzig.de/conferences.php).
-* [TRIZ Social Network](TSN "wikilink") &ndash; Building a semantically backed
+* [TRIZ Social Network](TSN) &ndash; Building a semantically backed
   up Social Network of people interested in TRIZ and more general innovation
   methodologies
   * [People](http://wumm.uni-leipzig.de/people.php)
   * [Conferences](http://wumm.uni-leipzig.de/conferences.php)
   * [Presentations](http://wumm.uni-leipzig.de/presentations.php)
-  * [Upcoming Events](Events "wikilink")
-* [Ontologies](Ontology "wikilink") &ndash; Entry page to different activities
+  * [Upcoming Events](Events)
+* [Ontologies](Ontology) &ndash; Entry page to different activities
   concerning TRIZ ontology and glossary projects  
-* [Texts](Texts "wikilink") &ndash; A list of links to several texts relevant
+* [Texts](Texts) &ndash; A list of links to several texts relevant
   within ongoing TRIZ discussions that are otherwise difficult to find.
-  * A very first and provisional [list of links](Material "wikilink")
-* [Tools](Tools "wikilink") &ndash; Entry page to different WUMM Tools
-* [Topics](Texts "wikilink") &ndash; Entry page to different TRIZ related
+  * A very first and provisional [list of links](Material)
+* [Tools](Tools) &ndash; Entry page to different WUMM Tools
+* [Topics](Texts) &ndash; Entry page to different TRIZ related
   topics and ongoing discussions within the WUMM project
 * Personal pages
-  * [Hans-Gert Gräbe, Leipzig](HGG "wikilink")
-    * [HGG's Blog](HGG-Blog "wikilink") - HGG's personal blog with reports
+  * [Hans-Gert Gräbe, Leipzig](HGG)
+    * [HGG's Blog](HGG-Blog) - HGG's personal blog with reports
       about and links to discussions that he is interested and involved in.
-  * [Justus Schollmeyer](JustusSchollmeyer "wikilink")
+  * [Justus Schollmeyer](JustusSchollmeyer)
   
 ## Other Parts of the WUMM Project
 

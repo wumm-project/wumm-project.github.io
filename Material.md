@@ -8,27 +8,33 @@ title: Material
 ## Publication lists
 
 * [Publication list maintained by Valeri Souchkov](http://www.xtriz.com/publications)
-* [TRIZ Body of Knowledge](http://wumm.uni-leipzig.de/Presentations/TRIZ-Body-of-Knowledge.pdf) (2012)
+* [TRIZ Body of Knowledge](https://matriz.org/wp-content/uploads/2012/07/TRIZ-Body-of-Knowledge-final.pdf) (2012)
+  * [Local copy](Texts/TBK-2012.pdf)
 
-## Some More Single Readings 
+## Some More Texts in English
 
-* Altschuller, G.S. Algorithm of Inventive Problem Solving.
-  * [english version](http://wumm.uni-leipzig.de/Presentations/ariz85c.pdf) compiled at the Altshuller
-    Institute
-  * see also Seljutzki, A.B. (ed.). [Правила игры без правил](http://ratriz.ru/wp-content/uploads/2015/07/%D0%A1%D0%B5%D0%BB%D1%8E%D1%86%D0%BA%D0%B8%D0%B9-%D0%90.%D0%91.-%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0-%D0%B8%D0%B3%D1%80%D1%8B-%D0%B1%D0%B5%D0%B7-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB.pdf). Petrozavodsk, 1989. (in russian)
-* Altschuller G.S. Erfinden – (k)ein Problem. Berlin, 1973. Original «Алгоритм
-  изобретения». Moskau, 1969.
-* Altschuller G.S., Seljuzki A.B. Flügel für Ikarus. Über die moderne Technik
-  des Erfindens. Leipzig, 1983. Original «Крылья для Икара». Moskau, 1983. 
-* Koltze, K., Souchkov, V. Systematische Innovation: TRIZ-Anwendung in der
-  Produkt- und Prozessentwicklung. München: Hanser, 2010. 
-* Linde H., Hill B. Erfolgreich erfinden: Widerspruchsorientierte
-  Innovationsstrategie für Entwickler und Konstrukteure. Darmstadt, 1993. 
-* Litvin S., Petrov V., Rubin M., Fey V. [TRIZ Body of
-  Knowledge](Material/TRIZ-Body-of-Knowledge.pdf). Published by MATRIZ, AI and
+* G.S. Altschuller (1979). Algorithm of Inventive Problem Solving.
+  * [english version](http://wumm.uni-leipzig.de/Presentations/ariz85c.pdf)
+    compiled at the Altshuller Institute
+  * see also A.B. Seljutzky (ed.). [Правила игры без правил](http://ratriz.ru/wp-content/uploads/2015/07/%D0%A1%D0%B5%D0%BB%D1%8E%D1%86%D0%BA%D0%B8%D0%B9-%D0%90.%D0%91.-%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0-%D0%B8%D0%B3%D1%80%D1%8B-%D0%B1%D0%B5%D0%B7-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB.pdf). Petrozavodsk, 1989. (in russian)
+* S. Litvin, V. Petrov, M. Rubin, V. Fey. [TRIZ Body of
+  Knowledge](Texts/TBK-2012.pdf). Version 2. Published by MATRIZ, AI and
   ETRIA, 2012.
-* Mann, D.L. (2004): Hands on systematic Innovation for Business and
-  Management.  IFR, Claredon 2007.
+  * First version 2007 in Russian, another version by V.M. Petrov 2019. 
+
+* D. Mann (2004): Hands on systematic Innovation for Business and Management.
+  IFR, Claredon 2007.
+
+## Some More Texts in German
+
+* G.S. Altschuller. Erfinden – (k)ein Problem. Berlin, 1973. Original «Алгоритм
+  изобретения». Moskau, 1969.
+* G.S. Altschuller, A.B. Seljuzki. Flügel für Ikarus. Über die moderne Technik
+  des Erfindens. Leipzig, 1983. Original «Крылья для Икара». Moskau, 1983. 
+* K. Koltze, V. Souchkov. Systematische Innovation: TRIZ-Anwendung in der
+  Produkt- und Prozessentwicklung. München: Hanser, 2010. 
+* H. Linde, B. Hill. Erfolgreich erfinden: Widerspruchsorientierte
+  Innovationsstrategie für Entwickler und Konstrukteure. Darmstadt, 1993. 
 * VDI-Richtlinie 4521
   * VDI 4521 Blatt 1. Erfinderisches Problemlösen mit TRIZ - Grundlagen und
     Begriffe
@@ -36,14 +42,3 @@ title: Material
     Problemdefinition und Lösungspriorisierung
 * Zobel, D., Hartmann R. Erfindungsmuster. Expert Verlag, Renningen 2009.
 
-# Presentations
-
-* Hans-Gert Gräbe: The WUMM Project. TRIZ and Innovation Management.
-  * [Short presentation](IHK-20190529.pdf) at the IHK business meeting with
-    partners from Ukraine and Belarus on May 29, 2019.
-* Hans-Gert Gräbe: The WUMM Project. Semantic Data and Innovation Management. 
-  * [Presentation](Material/LSWT-2019.pdf) at the Leipzig Semantic Web Day on
-    May 22, 2019.  
-* Hans-Gert Gräbe: Das [ProHEAL Wegemodell](Material/Wegemodell.pdf)
-  * Presentation given at the Leipzig Seminar on April 04, 2019. 
-* [ARIZ-Grundmuster](Material/ARIZ-Folien.pdf) 

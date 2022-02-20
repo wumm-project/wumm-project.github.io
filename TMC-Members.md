@@ -14,7 +14,7 @@ This is a (not authorised) English translations of the Russian orginal at
 - Isak Bukhman, USA (TRIZ Master diploma No. 4)
 - Marat Semenovich Gafitulin, RF (TRIZ Master diploma No. 14)
 - Oleg Gerasimov, RF (TRIZ Master diploma No. 76)
-- Boris Izrailevich Goldovsky, RF (TRIZ Master diploma No. 82)
+- Boris Izrailevich Goldovsky, RF (TRIZ Master diploma No. 82, passed away in 2021)
 - Leonid Abramovich Kaplan, USA, (TRIZ Master diploma No. 80)
 - Valentina Borisovna Kryachko, RF (TRIZ Master diploma No. 22)
 - Sergey Anatolievich Logvinov, RF (TRIZ Master diploma No. 79)
@@ -29,7 +29,7 @@ This is a (not authorised) English translations of the Russian orginal at
 - Alexander Borisovich Selyutskiy, RF (TRIZ Master diploma No. 48)
 - Vissarion Grigorievich Sibiryakov, RF (TRIZ Master diploma No. 47)
 - Yuri Iosifovich Stupniker, Israel (TRIZ Master diploma No. 52)
-- Nikolay Andreevich Shpakovsky, Belarus (TRIZ Master diploma No. 69)
+- Nikolay Andreevich Shpakovsky, Belarus (TRIZ Master diploma No. 69, passed away in 2021)
 - Mikhail Naumovich Shusterman, RF (TRIZ Master diploma No. 62)
 - Farber Boris Slavinovich, USA (TRIZ Master diploma No. I&D-V-001-2019-P)
  
