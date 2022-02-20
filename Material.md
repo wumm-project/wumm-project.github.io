@@ -20,8 +20,10 @@ title: Material
 * S. Litvin, V. Petrov, M. Rubin, V. Fey. [TRIZ Body of
   Knowledge](Texts/TBK-2012.pdf). Version 2. Published by MATRIZ, AI and
   ETRIA, 2012.
-  * First version 2007 in Russian, another version by V.M. Petrov 2019. 
-
+  * [First version 2007](https://triz-summit.ru/triz/metod/basics/1/203703/)
+    in Russian,
+    [republication](https://ridero.ru/books/osnovy_znanii_po_triz/) 2020 by
+    V. Petrov, M. Rubin.
 * D. Mann (2004): Hands on systematic Innovation for Business and Management.
   IFR, Claredon 2007.
 
