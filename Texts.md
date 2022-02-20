@@ -24,8 +24,6 @@ moment not online due to an internet attack.  Darrell recommends to submit new
 papers to the Open Access [International Journal of Systematic
 Innovation](https://www.ijosi.org).
 
-
-
 ## More Texts
 
 * Tobias Bayer (2019): Ausarbeitung einer potenziellen Methodenintegration aus
@@ -99,3 +97,7 @@ Innovation](https://www.ijosi.org).
   Master Thesis at HS Aalen.
   [pdf, in German](Texts/WagnerLuisa-2021.pdf)
   * [Trend-Leporellos, in German](Texts/Trend-Leporellos.pdf)
+
+* Dietmar Zobel (2020). Contributions to the further development of TRIZ.
+  - [German original](http://dx.doi.org/10.14625/zobel_20200119)
+  - [English Translation](Texts/Zobel-en-20.pdf), appeared in _TRIZ Journal_.
