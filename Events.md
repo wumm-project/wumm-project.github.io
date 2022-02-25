@@ -8,9 +8,12 @@ title: Events
 ## Upcoming Events
 
 * July 21-22, 2022 German TRIZ-Anwendertag (in German)
-  - Location: Nürnberg
+  - Location: Nürnberg, Energie Campus
   - Languages: English, German
   - Organized by Bayern innovativ
+  - <https://www.bayern-innovativ.de/veranstaltung/triz-anwendertage-2022>
+  - Deadlines:
+    - April 28, 2022 - full paper
 
 * Aug 31 - Sept 3, 2022 - TRIZFest 2022
   - Location: Graz, Austria
