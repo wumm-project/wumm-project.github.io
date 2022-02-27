@@ -11,6 +11,7 @@ otherwise or we compiled translations.
 See
 * Some [Translations of Altshuller Texts](Altshuller)
 * [Texts](TTS) about TRIZ, Technical and General Systems
+* [Texts](FlowAnalysis) about Flow Analysis
 * [Texts](GIS) about the heritage of the GDR Inventor Schools
 * [Texts](PhiloBasics) about philosophical roots of TRIZ
 * Darrell Mann's [E-Zine](http://www.systematic-innovation.com/past-e-zines-2011-2020.html)
