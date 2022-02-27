@@ -35,6 +35,7 @@ title: FlowAnalysis
   вещества, энергии и информации (The Law of Improving the Efficiency of
   Matter, Energy and Information Flows) (TRIZ Developer Summit 2016)
   * [Russian version](https://triz-summit.ru/confer/tds-2006/203452/203525/)
+  * [English translation](Texts/Lyubomirsky/TDS-2006-en.pdf)
 
 * Uwe Schaumann (2020): Flussanalyse in TRIZ - ein anderer Zugang zur
   Problemlösung (Flow analysis in TRIZ - a different approach to problem
