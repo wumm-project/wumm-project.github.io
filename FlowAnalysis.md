@@ -13,14 +13,8 @@ title: FlowAnalysis
   * <https://www.metodolog.ru/node/967>
   * Contains a large number of comments (in Russian)
 
-* Yuri Lebedyev, Sergey Logvinov: Integration of Flow Analysis with Function
-  Analysis (TRIZ Developer Summit 2014)
-  * [English Version](https://triz-summit.ru/file.php/id/f300083-file-original.pdf)
-  * [Local copy](Texts/Lebedyev/TDS-2014-en.pdf) of the English version
-  * [Local copy](Texts/Lebedyev/TDS-2014-ru.pdf) of the Russian version
-
-* Yuri Lebedyev (2014): Integration of Flow Analysis with Function
-  Analysis (TRIZ Developer Summit 2014)
+* Yuri Lebedyev, Sergey Logvinov (2014): Integration of Flow Analysis with
+  Function Analysis (TRIZ Developer Summit 2014)
   * [English Version](https://triz-summit.ru/file.php/id/f300083-file-original.pdf)
   * [Local copy](Texts/Lebedyev/TDS-2014-en.pdf) of the English version
   * [Local copy](Texts/Lebedyev/TDS-2014-ru.pdf) of the Russian version
