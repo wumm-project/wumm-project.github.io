@@ -26,31 +26,152 @@ Innovation Methodologies and the spiritus rector of this WUMM project.
 
 ## TRIZ Related Publications
 
-<ul>
-<li>Peter Koch, Klaus Stanke. 50 Jahre Systematische Heuristik.<br />
-Rohrbacher Manuskripte, Heft 23. <a href="https://www.bod.de/buchshop/50-jahre-systematische-heuristik-peter-koch-9783754308394">Book on Demand 2021</a>. ISBN 9783754308394.</li>
-<li>Hans-Gert Gräbe, Rainer Thiel. ProHEAL – о Методологии Школ Изобретателей ГДР. June 2021. Presented at the TRIZ Developer Summit 2021.</li>
-<li>Hans-Gert Gräbe, Rainer Thiel. ProHEAL – Social Needs and Sustainability Aspects in the Methodology of the GDR Inventor Schools. <a href="http://dx.doi.org/10.14625/graebe_20210815">LIFIS Online</a>, 15.08.2021.<br />
-Presented at the <a href="https://tfc21.events.unibz.it/">TRIZ Future Conference 2021</a>.</li>
-<li>Towards a Linked Open Data TRIZ Ontology. <a href="http://dx.doi.org/10.14625/graebe_20210813">LIFIS Online</a>, 13.08.2021.<br />
-Presented at the <a href="https://tfc21.events.unibz.it/">TRIZ Future Conference 2021</a>.</li>
-<li>Hans-Gert Gräbe, Tom Strempel. Semantic Web Modelling of TRIZ System Evolution Concepts. Proceedings of the <a href="https://matriz.org/trizfest-2021/">MATRIZ </a><a href="https://matriz.org/trizfest-2021/">TRIZfest-2021</a>.</li>
-<li>Hans-Gert Gräbe, Ken P. Kleemann. Seminar Systemtheorie.<br />
-Rohrbacher Manuskripte, Heft 22. <a href="https://www.bod.de/buchshop/seminar-systemtheorie-9783752620023">Book on Demand 2020</a>. ISBN 9783752620023.</li>
-<li>Hans-Gert Gräbe, Rainer Thiel (Hrsg.). Dialektik, TRIZ und ProHEAL.<br />
-Rohrbacher Manuskripte, Heft 21. <a href="https://www.bod.de/buchshop/dialektik-triz-und-proheal-rainer-thiel-9783752620153">Book on Demand 2020</a>. ISBN 9783752620153.</li>
-<li>Hans-Gert Gräbe (Hrsg.) Erfinderschulen, TRIZ und Dialektik. Rainer Thiel zum 90. Geburtstag.<br />
-Rohrbacher Manuskripte, Heft 20. <a href="https://www.bod.de/buchshop/erfinderschulen-triz-und-dialektik-9783751983228">Book on Demand 2020</a>. ISBN 9783751983228.</li>
-<li>Hans-Gert Gräbe. TRIZ und Transformationen sozio-technischer und sozio-ökologischer Systeme. <a href="http://dx.doi.org/10.14625/graebe_20200627">LIFIS Online</a>, 27.06.2020.</li>
-<li>Hans-Gert Gräbe. Technical Systems and Purposes.<br />
-Publiziert im Sammelband <em>TRIZ-Anwendertag 2020</em> (Oliver Mayer, Hrsg.), Springer Verlag 2021, S. 1-13. DOI 10.1007/978-3-662-63073-0_1.</li>
-<li>Hans-Gert Gräbe. Человек и его технические системы.<br />
-Proceedings of the TRIZ Developer Summit 2020.</li>
-<li>Hans-Gert Gräbe. Men and their technical systems.<br />
-<a href="https://link.springer.com/book/10.1007/978-3-030-61295-5">Proceedings of the TRIZ Future Conference 2020</a>, p. 399-410.</li>
-<li>Hans-Gert Gräbe. Die Menschen und ihre Technischen Systeme. <a href="http://dx.doi.org/10.14625/graebe_20200519">LIFIS Online</a>, Mai 2020.</li>
-<li>Hans-Gert Gräbe. A TRIZ Newbee&#8217;s Report. <a href="https://triz-journal.com/a-triz-newbees-report/">TRIZ Journal</a>, 28.08.2019</li>
-<li>Hans-Gert Gräbe. The Contribution to TRIZ by the Inventor Schools in the GDR.<br />
-Proceedings of the <a href="https://matriz.org/trizfest-2019/">MATRIZ TRIZfest-2019</a>. ISBN 978-0-578-62617-8, S. 346-352.</li>
-<li>Hans-Gert Gräbe. Наследие Движения Школ Изобретателeй в ГДР и Развитиe ТРИЗ. <a href="http://triz-summit.ru/confer/tds-2019/articles/it/">Online-Protokollband</a> des <a href="http://triz-summit.ru/confer/tds-2019/">TRIZ Summit 2019</a></li>
-</ul>
+- Peter Koch, Klaus Stanke. 50 Jahre Systematische Heuristik (50 Years
+  Systematic Heuristics).
+  - Rohrbacher Manuskripte, Heft 23.
+  - Open Access.
+  - Book on Demand 2021. ISBN 9783754308394.
+  
+- (with Rainer Thiel). ProHEAL – о Методологии Школ Изобретателей ГДР
+  (ProHEAL - About the Methodology of the GDR Inventor Schools).
+  - Imprint
+  - Presented at the TRIZ Developer Summit 2021.
+
+- (with Rainer Thiel). ProHEAL – Social Needs and Sustainability Aspects in
+  the Methodology of the GDR Inventor Schools.
+  - [LIFIS Online](http://dx.doi.org/10.14625/graebe_20210815), 15.08.2021.
+  - Presented at the
+    [TRIZ Future Conference 2021](https://tfc21.events.unibz.it).
+
+- Towards a Linked Open Data TRIZ Ontology.
+  - [LIFIS Online](http://dx.doi.org/10.14625/graebe_20210813), 13.08.2021.
+  - Presented at the
+    [TRIZ Future Conference 2021](https://tfc21.events.unibz.it).
+      
+- (with Tom Strempel). Semantic Web Modelling of TRIZ System Evolution
+  Concepts.
+  - Proceedings of the <a href="https://matriz.org/trizfest-2021/">MATRIZ
+    TRIZfest-2021</a>.
+
+- (with Ken P. Kleemann). Seminar Systemtheorie (Seminar on System Theories).
+  - Rohrbacher Manuskripte, Heft 22. 
+  - Open Access.
+  - Book on Demand 2020. ISBN 9783752620023.
+
+- Hans-Gert Gräbe, Rainer Thiel (Hrsg.). Dialektik, TRIZ und ProHEAL.
+  - Rohrbacher Manuskripte, Heft 21.
+  - Open Access.
+  - Book on Demand 2020. ISBN 9783752620153.
+
+- Hans-Gert Gräbe (Hrsg.) Erfinderschulen, TRIZ und Dialektik . Rainer Thiel
+  zum 90. Geburtstag. (GDR Inventor Schools, TRIZ and Dialectics. On the 90th
+  Birthday of Rainer Thiel)
+  - Rohrbacher Manuskripte, Heft 20.
+  - Open Access.
+  - Book on Demand 2020. ISBN 9783751983228.
+
+- TRIZ und Transformationen sozio-technischer und sozio-ökologischer Systeme
+  (TRIZ and transformations of socio-technical and socio-ecological systems).
+  - [LIFIS Online](http://dx.doi.org/10.14625/graebe_20200627), 27.06.2020.
+  
+- Technical Systems and Purposes.
+  - In: Proceedings <em>TRIZ-Anwendertag 2020</em> (Oliver Mayer, ed.),
+    Springer Nature 2021, S. 1-13.
+  - <http://dx.doi.org/10.1007/978-3-662-63073-0_1>
+
+- Человек и его технические системы (Human and their technical systems).
+  - Proceedings of the TRIZ Developer Summit 2020.
+
+- Men and their technical systems.
+  - In <em>Proceedings of the TRIZ Future Conference 2020</em>, p. 399-410.
+  - <http://dx.doi.org/10.1007/978-3-030-61295-5>
+
+- Die Menschen und ihre Technischen Systeme (Human and their technical
+  systems).
+  - [LIFIS Online](http://dx.doi.org/10.14625/graebe_20200519), 19.05.2020.
+
+- A TRIZ Newbee&#8217;s Report.
+  - [TRIZ Journal](https://triz-journal.com/a-triz-newbees-report)</a>,
+    28.08.2019
+
+- The Contribution to TRIZ by the Inventor Schools in the GDR.
+  - Proceedings of the <a href="https://matriz.org/trizfest-2019/">MATRIZ
+    TRIZfest-2019</a>. S. 346-352.
+  
+- Наследие Движения Школ Изобретателeй в ГДР и Развитиe ТРИЗ (The heritage of
+  the Inventor School Movement in the GDR and the development of TRIZ).
+  - Online Proceedings of the
+    <a href="http://triz-summit.ru/confer/tds-2019/">TRIZ Summit 2019</a>
+  
+## TRIZ Related Talks
+
+- TRIZ als Systematische Innovationsmethodik (TRIZ as systematical innovation
+  methodology)
+  - Contribution to the Workshop &#8222;TRIZ &amp; TRIZ Reverse – a Transfer
+    Tool&#8220; at the FutureSAX Transfer Forum Dresden, November 3, 2021.
+  - [Slides](https://hg-graebe.de/EigeneTexte/FutureSax-21.pdf)
+
+- ProHEAL – о Методологии Школ Изобретателей ГДР (ProHEAL – on the Methodology
+  of the GDR Inventor Schools)
+  - Presentation at the TRIZ Developer Summit 2021, Online, Oktober 16, 2021.
+  - [Slides](https://hg-graebe.de/EigeneTexte/TDS-21-Folien.pdf)
+
+- Five Minutes on a Linked Open Data TRIZ Ontology
+  - Talk at the <a href="https://tfc21.events.unibz.it/">TRIZ Future
+    Conference</a> Online, September 23, 2021.
+  - [Slides](https://hg-graebe.de/EigeneTexte/TFC21-LOD.pdf) 
+  - [Video](https://hg-graebe.de/Videos/TFC2021-Graebe-LinkedOpenData.mp4)
+
+- Five Minutes on ProHEAL and the GDR Inventor Schools
+  - Talk at the <a href="https://tfc21.events.unibz.it/">TRIZ Future
+    Conference</a> Online, September 23, 2021.
+  - [Slides](https://hg-graebe.de/EigeneTexte/TFC21-ProHEALLOD.pdf)
+  - [Video](https://hg-graebe.de/Videos/TFC2021-GraebeThiel-ProHEAL.mp4)
+
+- Semantic Web Modelling of TRIZ System Evolution Concepts
+  - Talk at the TRIZfest 2021 Online, September 17, 2021.
+  - [Slides](https://hg-graebe.de/EigeneTexte/TRIZfest-2021-Folien.pdf)
+  - [Transkript](https://hg-graebe.de/EigeneTexte/TRIZfest-2021.txt)
+
+- Human and their technical systems.
+  - Talk at the <a href="https://tfc20.eu/">TRIZ Future Konferenz 2020</a>.
+    Online Oktober 14. 2020.
+  - [Slides](https://hg-graebe.de/EigeneTexte/TFC-20-Folien.pdf)
+  
+- Technische Systeme und deren Zwecke (Technical systems and their purposes).
+  - Talk at the First German TRIZ Online Conference, Oktober 2, 2020.
+  - [Slides](https://hg-graebe.de/EigeneTexte/DAT-20-Folien.pdf)
+  
+- Человек и его технические системы (Human and their technical systems).<br />
+  - Talk at the <a href="https://triz-summit.ru/confer/tds-2020/">TRIZ
+    Developer Summit</a> Online, July 2020.
+  - [Slides](https://hg-graebe.de/EigeneTexte/TDS-20-Slides-ru.pdf)
+
+- Nachhaltigkeit – eine Analyse nach der TRIZ-Methodik (Sustainability - an
+  analysis along the TRIZ methodology).
+  - Concept of a presentation, November 19, 2019.
+  - [Slides](https://hg-graebe.de/EigeneTexte/PeakOil.pdf)
+
+- TRIZ, Nachhaltigkeit und das Erbe der Erfinderschulen der DDR (TRIZ,
+  Sustainability, and the Heritage of the GDR Inventor Schools).
+  - Talk at the 25. Leibniz Conference, LIFIS, Berlin, November 13, 2019.
+  - [Slides](https://hg-graebe.de/EigeneTexte/LK25-2019.pdf)
+
+- The Contribution to TRIZ by the Inventor Schools in the GDR.
+  - Presentation at the TRIZfest 2019 in Heilbronn.
+  - [Slides](https://hg-graebe.de/EigeneTexte/Heilbronn-2019-Slides.pdf)
+  
+- The Heritage of the Inventor School Movement in the GDR.
+  - Presentation at the TRIZ Summit 2019 in Minsk.
+  - [Slides](https://hg-graebe.de/EigeneTexte/Minsk-2019-Slides.pdf)
+
+- The WUMM Project. TRIZ and Innovation Management.
+  - Short presentation as part of the cooperation talks with entrepreneurs
+    from Ukraine and the Republic of Belarus of the Leipzig Chamber of
+    Industry and Commerce (IHK), May 29, 2019.
+  - [Slides](https://hg-graebe.de/EigeneTexte/IHK-20190529.pdf)
+
+- The WUMM Project. Semantic Data and Innovation Management.
+  - Talk at the <a href="https://lswt2019.aksw.org/">Leipzig Semantic Web
+    Day</a>, May 22, 2019.
+  - [Slides](https://hg-graebe.de/EigeneTexte/LSWT-2019.pdf)
