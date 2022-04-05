@@ -20,6 +20,19 @@ direction of TRIZ practices and the activities going on there.
 
 ## A not at all complete survey
 
+### TA Teachers
+
+From the Introduction:
+> The Thinking Approach (TA) teacher is the one interested in simultaneous
+> development of thinking and subject matter skills of learners. Thinking
+> skills are developed by learning to apply models that originate from the
+> General Theory of Powerful Thinking (OTSM) based on the Theory of Inventive
+> Problem Solving (TRIZ) to construct tools for solving specific problems in
+> various disciplines.
+
+- It is an ongoing project with partners from several EU countries. 
+- <http://www.ta-teachers.eu/>
+
 ### The TRIZ Developers Summit Cup
 
 The TRIZ Developers Summit Cup competition is an annually offered
@@ -52,6 +65,7 @@ LaTeX versions and provide a German translation.
 
 * The [Jonathan Livingston Project](https://www.jlproj.org)
   * <https://www.jlproj.org/this_bibl_e/present_Nesterenko_en.pdf>
+* <https://otsm-triz.org/en> - Link "OTSM-TRIZ education"
 
 ### [Education for a New Era](https://trizway.com/)
 
