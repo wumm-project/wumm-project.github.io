@@ -14,6 +14,7 @@ See
 * [Texts](FlowAnalysis) about Flow Analysis
 * [Texts](GIS) about the heritage of the GDR Inventor Schools
 * [Texts](PhiloBasics) about philosophical roots of TRIZ
+* [Texts](BusinessTRIZ) about Business TRIZ
 * Darrell Mann's [E-Zine](http://www.systematic-innovation.com/past-e-zines-2011-2020.html)
 
 The TRIZ Journal "triz-journal.com" (1996-2010) is no more online but an
@@ -34,14 +35,6 @@ Innovation](https://www.ijosi.org).
   [pdf, in German](Texts/BayerTobias-2019.pdf).
   * The paper got one of the 3 TRIZ student's awards at the TRIZ-Fest 2019 in
     Heilbronn.
-
-* Anton Kozhemyako (2020): Comparison of three different TRIZ tools for a
-  business problem analysis considering the example of the mentoring problem
-  in a sales department. [TRIZ Review 2.1 (2021)](https://matriz.org/wp-content/uploads/2020/04/TRIZ-Review-vol-2-1-April-2020.pdf) 
-
-* Yuri Lebedyev, Sergey Logvinov: Integration of Flow Analysis with Function
-  Analysis (TRIZ Developer Summit 2014)
-  * [English Version](https://triz-summit.ru/file.php/id/f300083-file-original.pdf)
 
 * Yuri Salamatov (1999): TRIZ - The right solution at the right time. A Guide
   to Innovative Problem Solving.
@@ -64,14 +57,6 @@ Innovation](https://www.ijosi.org).
   * [Russian Original](Texts/Smirnov-2016-ru.pdf)
   * [German Translation](Texts/Smirnov-2016-de.pdf)
 
-* Alexander Solodkin (2020): Discovery of key problem causes in organizations.
-  Presented at the TDS 2020.
-  * [Russian Version](https://r1.nubex.ru/s828-c8b/f3240_e9/Solodkin-TDS-2020-key-problem[1].pdf)
-  * [English Version](Texts/Solodkin-TDS2020-en.pdf)
-
-* Valeri Souchkov (2010): TRIZ and Systematic Business Model Innovation.
-  Paper presented at the TRIZ Future 2010. [pdf](Texts/Souchkov-TFC2010.pdf)
-
 * Anton Tyukov (2020): Применение ТРИЗ при проектировании архитектуры системы
   управления на основе данных в энергетике (TRIZ application to architecture
   design of data-driven management systems in the energy industry)
@@ -91,13 +76,6 @@ Innovation](https://www.ijosi.org).
   * Ian Angus (2018). Vladimir Vernadsky and the Disruption of the Biosphere.
     * <https://climateandcapitalism.com/2018/06/05>
     * [Local copy](Texts/Angus-2018.pdf)
-
-* Luisa Wagner (2021). Business Model Revolution: Kreative Ideen für neue
-  Geschäftsmodelle durch den Einsatz von TRIZ (Business Model Revolution:
-  Creative ideas for new business models through the use of TRIZ).
-  Master Thesis at HS Aalen.
-  [pdf, in German](Texts/WagnerLuisa-2021.pdf)
-  * [Trend-Leporellos, in German](Texts/Trend-Leporellos.pdf)
 
 * Dietmar Zobel (2020). Contributions to the further development of TRIZ.
   - [German original](http://dx.doi.org/10.14625/zobel_20200119)

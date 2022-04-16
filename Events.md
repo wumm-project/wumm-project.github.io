@@ -12,7 +12,7 @@ title: Events
   - Languages: English
   - <http://www.biztriz.net/2-uncategorised/41-conference-business-triz-online-spring-2022.html>
   - Deadlines:
-    - April 15, 2022 - Title and abstract of the presentation (6-10 sentences).
+    - May 1, 2022 - Title and abstract of the presentation (6-10 sentences).
 
 * July 21-22, 2022 German TRIZ-Anwendertag (in German)
   - Location: Nürnberg, Energie Campus
