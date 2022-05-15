@@ -26,6 +26,25 @@ Innovation Methodologies and the spiritus rector of this WUMM project.
 
 ## TRIZ Related Publications
 
+- Components as Resources and Cooperative Action. 
+  - [Preprint](https://hg-graebe.de/EigeneTexte/DAT-22-en.pdf), April 2022.
+  - Submitted to "Deutscher TRIZ-Anwendertag" 2022.
+  </li>
+
+- Systems and systemic development in TRIZ. 
+  - [Preprint](https://hg-graebe.de/EigeneTexte/TFC2022-en.pdf), March 2022.
+  - Submitted to the TRIZ Future Conference 2022.
+
+- On some aspects of TRIZ flow analysis.
+  - [Preprint](https://hg-graebe.de/EigeneTexte/TRIZfest-2022.pdf), March 2022
+  - Submitted to the TRIZfest 2022.
+      
+- Nachruf auf Rainer Thiel (In Obituary of Rainer Thiel).
+  - [LIFIS ONLINE](https://doi.org/10.14625/KXP:1786342723), 26.12.2021.
+      
+- (with Rainer Thiel) ProHEAL Basics – Extended Version.
+  - [LIFIS ONLINE](https://doi.org/10.14625/KXP:1786341522), 19.12.2021.
+
 - Peter Koch, Klaus Stanke. 50 Jahre Systematische Heuristik (50 Years
   Systematic Heuristics).
   - Rohrbacher Manuskripte, Heft 23.
@@ -34,17 +53,17 @@ Innovation Methodologies and the spiritus rector of this WUMM project.
   
 - (with Rainer Thiel). ProHEAL – о Методологии Школ Изобретателей ГДР
   (ProHEAL - About the Methodology of the GDR Inventor Schools).
-  - Imprint
+  - [Imprint](https://hg-graebe.de/EigeneTexte/TDS-21-ru.pdf)
   - Presented at the TRIZ Developer Summit 2021.
 
 - (with Rainer Thiel). ProHEAL – Social Needs and Sustainability Aspects in
   the Methodology of the GDR Inventor Schools.
-  - [LIFIS Online](http://dx.doi.org/10.14625/graebe_20210815), 15.08.2021.
+  - [LIFIS ONLINE](http://dx.doi.org/10.14625/graebe_20210815), 15.08.2021.
   - Presented at the
     [TRIZ Future Conference 2021](https://tfc21.events.unibz.it).
 
 - Towards a Linked Open Data TRIZ Ontology.
-  - [LIFIS Online](http://dx.doi.org/10.14625/graebe_20210813), 13.08.2021.
+  - [LIFIS ONLINE](http://dx.doi.org/10.14625/graebe_20210813), 13.08.2021.
   - Presented at the
     [TRIZ Future Conference 2021](https://tfc21.events.unibz.it).
       
@@ -72,7 +91,7 @@ Innovation Methodologies and the spiritus rector of this WUMM project.
 
 - TRIZ und Transformationen sozio-technischer und sozio-ökologischer Systeme
   (TRIZ and transformations of socio-technical and socio-ecological systems).
-  - [LIFIS Online](http://dx.doi.org/10.14625/graebe_20200627), 27.06.2020.
+  - [LIFIS ONLINE](http://dx.doi.org/10.14625/graebe_20200627), 27.06.2020.
   
 - Technical Systems and Purposes.
   - In: Proceedings <em>TRIZ-Anwendertag 2020</em> (Oliver Mayer, ed.),
@@ -88,7 +107,7 @@ Innovation Methodologies and the spiritus rector of this WUMM project.
 
 - Die Menschen und ihre Technischen Systeme (Human and their technical
   systems).
-  - [LIFIS Online](http://dx.doi.org/10.14625/graebe_20200519), 19.05.2020.
+  - [LIFIS ONLINE](http://dx.doi.org/10.14625/graebe_20200519), 19.05.2020.
 
 - A TRIZ Newbee&#8217;s Report.
   - [TRIZ Journal](https://triz-journal.com/a-triz-newbees-report)</a>,
@@ -104,6 +123,11 @@ Innovation Methodologies and the spiritus rector of this WUMM project.
     <a href="http://triz-summit.ru/confer/tds-2019/">TRIZ Summit 2019</a>
   
 ## TRIZ Related Talks
+
+- On the Interconnection of Project- and Product-Centered Systemic Modelling.
+  - Talk at the Business TRIZ Online Spring 2022, May 21, 2022.
+  - [Slides](https://hg-graebe.de/EigeneTexte/BTO-Spring-22-Slides.pdf)
+  - [Transkript](https://hg-graebe.de/EigeneTexte/BTO-Spring-22.txt)
 
 - TRIZ als Systematische Innovationsmethodik (TRIZ as systematical innovation
   methodology)
