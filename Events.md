@@ -49,7 +49,20 @@ title: Events
     - Registration opening: July 15, 2022
 
 * Oct 14-16, 2022 - TRIZ Developer Summit 2022
-  
+  - Location: Online
+  - Languages: English, Russian
+  - The annual TRIZ Developers Summit conference is one of the key events in
+    the international TRIZ community. In 2021, experts from 33 countries
+    participated in the conference. Participation in the summit is free of
+    charge for authors and visitors.
+  - <https://triz-summit.ru/confer/2022/leter/1/>,
+    <https://wearecommunity.io/events/triz_summit_2022>
+  - Deadlines  
+    - Register presentation: May 31, 2022
+    - Decision on the presentation proposals: June 10, 2022
+    - Submission of presentation: August 31, 2022
+    - Review: September 15, 2022
+
 ## Past Events
 
 Selected past events are compiled in an RDF metadata collection.  Links to
