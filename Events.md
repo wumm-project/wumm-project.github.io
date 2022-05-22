@@ -7,13 +7,6 @@ title: Events
 
 ## Upcoming Events
 
-* May 20-21, 2022 - Business TRIZ Online. Spring 2022
-  - Location: online
-  - Languages: English
-  - <http://www.biztriz.net/2-uncategorised/41-conference-business-triz-online-spring-2022.html>
-  - Deadlines:
-    - May 1, 2022 - Title and abstract of the presentation (6-10 sentences).
-
 * July 21-22, 2022 German TRIZ-Anwendertag (in German)
   - Location: Nürnberg, Energie Campus
   - Languages: English, German
@@ -55,8 +48,8 @@ title: Events
     the international TRIZ community. In 2021, experts from 33 countries
     participated in the conference. Participation in the summit is free of
     charge for authors and visitors.
-  - <https://triz-summit.ru/confer/2022/leter/1/>,
-    <https://wearecommunity.io/events/triz_summit_2022>
+  - <https://triz-summit.ru/confer/2022/leter/1/> (Russian),
+    <https://wearecommunity.io/events/triz_summit_2022> (English)
   - Deadlines  
     - Register presentation: May 31, 2022
     - Decision on the presentation proposals: June 10, 2022

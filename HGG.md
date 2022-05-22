@@ -28,8 +28,7 @@ Innovation Methodologies and the spiritus rector of this WUMM project.
 
 - Components as Resources and Cooperative Action. 
   - [Preprint](https://hg-graebe.de/EigeneTexte/DAT-22-en.pdf), April 2022.
-  - Submitted to "Deutscher TRIZ-Anwendertag" 2022.
-  </li>
+  - Accepted for presentation at "Deutscher TRIZ-Anwendertag" 2022.
 
 - Systems and systemic development in TRIZ. 
   - [Preprint](https://hg-graebe.de/EigeneTexte/TFC2022-en.pdf), March 2022.
@@ -70,7 +69,7 @@ Innovation Methodologies and the spiritus rector of this WUMM project.
 - (with Tom Strempel). Semantic Web Modelling of TRIZ System Evolution
   Concepts.
   - Proceedings of the <a href="https://matriz.org/trizfest-2021/">MATRIZ
-    TRIZfest-2021</a>.
+    TRIZfest-2021.
 
 - (with Ken P. Kleemann). Seminar Systemtheorie (Seminar on System Theories).
   - Rohrbacher Manuskripte, Heft 22. 
