@@ -66,8 +66,6 @@ title: BusinessTRIZ
 * Valeri Souchkov (2020).  TRIZ. 40 Inventive Principles with Examples for
   Business and Management Systems and Applications.
   - Distributed at the Business TRIZ Online Spring 2022.
-  - Local Copy ([English](Texts/BusinessPrinciples-en.pdf) and
-    [Russian](Texts/BusinessPrinciples-en.pdf))
 
 * Luisa Wagner (2021). Business Model Revolution: Kreative Ideen für neue
   Geschäftsmodelle durch den Einsatz von TRIZ (Business Model Revolution:
