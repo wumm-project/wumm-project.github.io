@@ -12,6 +12,7 @@ title: BusinessTRIZ
 ## Conferences
 
 - Business TRIZ Online Spring 2022. May 20-21, 2022
+  - <http://wumm.uni-leipzig.de/conferences.php>
 
 - Business TRIZ Online Fall 2021. October 29, 2021 
   - <http://wumm.uni-leipzig.de/conferences.php>
@@ -61,6 +62,12 @@ title: BusinessTRIZ
 
 * Valeri Souchkov (2019).  TRIZ for Business and Management: State of the Art.
   TRIZ Developers Summit 2019.
+  
+* Valeri Souchkov (2020).  TRIZ. 40 Inventive Principles with Examples for
+  Business and Management Systems and Applications.
+  - Distributed at the Business TRIZ Online Spring 2022.
+  - Local Copy ([English](Texts/BusinessPrinciples-en.pdf) and
+    [Russian](Texts/BusinessPrinciples-en.pdf))
 
 * Luisa Wagner (2021). Business Model Revolution: Kreative Ideen für neue
   Geschäftsmodelle durch den Einsatz von TRIZ (Business Model Revolution:
