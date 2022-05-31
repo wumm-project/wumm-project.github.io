@@ -127,7 +127,8 @@ Innovation Methodologies and the spiritus rector of this WUMM project.
   - Talk at the Business TRIZ Online Spring 2022, May 21, 2022.
   - [Slides](https://hg-graebe.de/EigeneTexte/BTO-Spring-22-Slides.pdf)
   - [Transkript](https://hg-graebe.de/EigeneTexte/BTO-Spring-22.txt)
-
+  - [Video](https://www.youtube.com/watch?v=tGyyXu4KUgE)
+  
 - TRIZ als Systematische Innovationsmethodik (TRIZ as systematical innovation
   methodology)
   - Contribution to the Workshop &#8222;TRIZ &amp; TRIZ Reverse – a Transfer

@@ -184,9 +184,9 @@ title: GIS
   [LIFIS Online, 26.01.2021](http://dx.doi.org/10.14625/thiel_20210126)
 * (with Hans-Gert Gräbe).  ProHEAL – Social Needs and Sustainability Aspects
   in the Methodology of the GDR Inventor Schools.
-  [LIFIS Online, 15.08.2021][http://dx.doi.org/10.14625/graebe_20210815)
+  [LIFIS Online, 15.08.2021](http://dx.doi.org/10.14625/graebe_20210815)
 * (with Hans-Gert Gräbe).  ProHEAL Basics – Extended Version.
-  [LIFIS Online, 18.12.2021][http://leibniz-institut.de/archiv/graebe_thiel_20211218.pdf)
+  [LIFIS Online, 18.12.2021](https://doi.org/10.14625/KXP:1786341522)
 
 ## Dietmar Zobel
 
