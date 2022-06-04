@@ -109,7 +109,7 @@ Innovation Methodologies and the spiritus rector of this WUMM project.
   - [LIFIS ONLINE](http://dx.doi.org/10.14625/graebe_20200519), 19.05.2020.
 
 - A TRIZ Newbee&#8217;s Report.
-  - [TRIZ Journal](https://triz-journal.com/a-triz-newbees-report)</a>,
+  - [TRIZ Journal](https://triz-journal.com/a-triz-newbees-report),
     28.08.2019
 
 - The Contribution to TRIZ by the Inventor Schools in the GDR.
