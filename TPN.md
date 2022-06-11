@@ -3,9 +3,9 @@ layout: default
 title: TPN
 ---
 
-# TRIZ Pedagogics Network
+# TRIZ Pedagogy Network
 
-More on [TRIZ Online Courses](TOC "wikilink")  
+More on [TRIZ Online Courses](TOC)  
 
 ## Background
 
@@ -32,6 +32,21 @@ From the Introduction:
 
 - It is an ongoing project with partners from several EU countries. 
 - <http://www.ta-teachers.eu/>
+
+They organise a '''TA Teachers Conference Series'''
+<http://www.ta-teachers.eu/conferences>
+- 2012, Riga: [Bringing Creativity and Thinking into the Educational
+  Process](http://www.ta-teachers.eu/conference2012)
+- 2014, Riga: [Creativity and Thinking Skills in Learning, Teaching and
+  Management](http://www.ta-teachers.eu/conference2014)
+- 2016, Riga: [Thinking as a Key Competence: Implications for Learning,
+  Teaching and Management](http://www.ta-teachers.eu/conference2016)
+- 2018, Riga: [Learning to Teach
+  Thinking](http://www.ta-teachers.eu/conference2018)
+- 2020, Online: [Assessment for Teaching
+  Thinking](http://www.ta-teachers.eu/conference2020)
+- 2020, Online: [Towards Thinking
+  Curriculum](http://www.ta-teachers.eu/conference2022)
 
 ### The TRIZ Developers Summit Cup
 
