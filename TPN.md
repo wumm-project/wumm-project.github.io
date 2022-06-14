@@ -45,7 +45,7 @@ They organise a '''TA Teachers Conference Series'''
   Thinking](http://www.ta-teachers.eu/conference2018)
 - 2020, Online: [Assessment for Teaching
   Thinking](http://www.ta-teachers.eu/conference2020)
-- 2020, Online: [Towards Thinking
+- 2022, Online: [Towards Thinking
   Curriculum](http://www.ta-teachers.eu/conference2022)
 
 ### The TRIZ Developers Summit Cup
