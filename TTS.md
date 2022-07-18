@@ -86,6 +86,12 @@ title: TTS
 * Oliver Mayer (2017): Increased Addressing of Human Senses as a Trend.
   [TRIZ Master Thesis](Texts/Mayer-2017.pdf).
 
+* [Michael Patra](https://www.michael-patra.de/triz/) (in German) about
+  - Problem definition and analysis
+  - Functional analysis
+  - Resources
+  - Solution procedures
+
 * Vladimir Petrov (2020): Законы и закономерности развития систем (Laws and
   patterns of systems development). Book in 4 volumes (in Russian), ISBN
   978-5-0051-5728-7.
