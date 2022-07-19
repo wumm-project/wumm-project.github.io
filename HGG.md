@@ -123,6 +123,10 @@ Innovation Methodologies and the spiritus rector of this WUMM project.
   
 ## TRIZ Related Talks
 
+- Components as Resources and Cooperative Action.
+  - Talk at the Second German TRIZ-Online Conference, July 22, 2022.
+  - [Slides](https://hg-graebe.de/EigeneTexte/DAT-22-Slides.pdf)
+  
 - On the Interconnection of Project- and Product-Centered Systemic Modelling.
   - Talk at the Business TRIZ Online Spring 2022, May 21, 2022.
   - [Slides](https://hg-graebe.de/EigeneTexte/BTO-Spring-22-Slides.pdf)
