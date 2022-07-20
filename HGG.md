@@ -31,8 +31,8 @@ Innovation Methodologies and the spiritus rector of this WUMM project.
   - Accepted for presentation at "Deutscher TRIZ-Anwendertag" 2022.
 
 - Systems, resources and systemic development in TRIZ. 
-  - [Preprint](https://hg-graebe.de/EigeneTexte/TFC2022-en.pdf), March 2022.
-  - Submitted to the TRIZ Future Conference 2022.
+  - [Preprint](https://hg-graebe.de/EigeneTexte/TFC2022-en.pdf), June 2022.
+  - Accepted for presentation at the TRIZ Future Conference 2022.
 
 - On some aspects of TRIZ flow analysis.
   - [Preprint](https://hg-graebe.de/EigeneTexte/TRIZfest-2022.pdf), March 2022

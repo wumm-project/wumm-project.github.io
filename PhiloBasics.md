@@ -81,6 +81,9 @@ Ernst Bloch.
 
 ## Links to material about and from the MMK and its follow-ups
 
+* https://www.kentavr.mathedu.ru
+  - Reports on 20 years of methodological research (1990-2007) in the wake of
+    G.P. Shchedrovitsky, among others.
 * [Georgi Petrovich Shchedrovitsky](https://www.fondgp.ru/)
   * [English translation of a biography](Texts/Shchedrovitsky-Biography.pdf) 
   * <https://en.wikipedia.org/wiki/Georgy_Shchedrovitsky>
