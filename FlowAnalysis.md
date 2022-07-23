@@ -30,6 +30,8 @@ title: FlowAnalysis
   - <https://triz-summit.ru/certif/master/matriz/15/302897/>
   - <https://matriz.org/yu-lebedev/> - all material of the defense process,
     partly in English
+  - [English translation](Texts/Lebedyev/Lebedev-2015-en.pdf), proofreading
+    yet required. 
   
 - A. Lyubomirsky (2006): Закон повышения эффективности использования потоков
   вещества, энергии и информации (The Law of Improving the Efficiency of
