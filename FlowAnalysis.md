@@ -42,23 +42,23 @@ title: FlowAnalysis
 ## More about Flow Analysis
 
 ### Flow analysis from a physical point of view
-- https://en.wikipedia.org/wiki/Material_flow_analysis
-- https://de.wikipedia.org/wiki/Continuous_Flow_Analysis
-- https://www.sciencedirect.com/topics/chemistry/flow-analysis
-- https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/material-flow-analysis
+- <https://en.wikipedia.org/wiki/Material_flow_analysis>
+- <https://de.wikipedia.org/wiki/Continuous_Flow_Analysis>
+- <https://www.sciencedirect.com/topics/chemistry/flow-analysis>
+- <https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/material-flow-analysis>
 
 ### Data flow analysis
-- https://en.wikipedia.org/wiki/Data-flow_analysis
+- <https://en.wikipedia.org/wiki/Data-flow_analysis>
 
 ### Control flow in information systems
-- https://people.cs.umu.se/~larsson/2018/08/introduction-to-information-flow-control-ifc/
-- https://www.sciencedirect.com/topics/computer-science/information-flow-control
+- <https://people.cs.umu.se/~larsson/2018/08/introduction-to-information-flow-control-ifc/>
+- <https://www.sciencedirect.com/topics/computer-science/information-flow-control>
 
 ### Information flow in distributed systems
 
 - Jon Barwise (2009). Information Flow: The Logic of Distributed Systems.
   (Cambridge Tracts in Theoretical Computer Science, vol. 44)
-- http://www.cs.cornell.edu/andru/papers/kv-thesis.pdf
+- <http://www.cs.cornell.edu/andru/papers/kv-thesis.pdf>
 
 ### Flows in component-based software architectures
 
