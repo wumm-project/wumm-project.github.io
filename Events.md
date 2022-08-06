@@ -7,15 +7,29 @@ title: Events
 
 ## Upcoming Events
 
-* July 22, 2022 German TRIZ-Anwendertag (in German)
-  - Location: Nürnberg, Energie Campus, and online
-  - Languages: English, German
-  - Organized by Bayern innovativ
-  - <https://www.bayern-innovativ.de/de/veranstaltung/triz-online-konferenz>
-  - Deadlines:
-    - April 28, 2022 - full paper
-
-* Aug 31 - Sept 3, 2022 - TRIZFest 2022
+* Aug 23, 2022 - TRIZ in Education as part of the 17th TRIZFest 2022
+  - The topic of the meeting is
+    __"Alternative TRIZ approaches in the educational process"__.
+  - Location: Online
+  - Language: Russian
+  - [Program](https://docs.google.com/document/d/1b3FQOCfgvYPxow7P2mDaqd8yKtgi3BNz)
+  - [Registration](https://docs.google.com/forms/d/e/1FAIpQLSekGtZgrv3pmWFfgk9bjviIUPX_tmX7iq2gXlQc-_D2saeOgw/viewform)
+  - The session will be held in Russian. In order to improve the quality of
+    education as well as to disseminate TRIZ and MATRIZ, it was decided to
+    conduct the conference for teachers without payment.
+    
+* Aug 29-31, 2022 - Sixth TA Teachers Conference __Towards Thinking Curriculum__
+  - Location: Online
+  - Languages: English, Russian
+  - <http://www.ta-teachers.eu/conference2022>
+  - [Program](http://www.ta-teachers.eu/conference2022/programme.html)
+  - The conference programme includes 28 presentations from speakers coming
+    from 14 countries. The English track will comprise 12 presentations and 16
+    colleagues will share their experience in the Russian track. When
+    registering, conference participants can choose to follow one of the
+    tracks or both of them.
+  
+* Aug 31 - Sept 3, 2022 - 17th TRIZFest 2022
   - Location: Graz, Austria
   - Languages: English
   - The TRIZFest 2022 is organized by the International TRIZ Association
