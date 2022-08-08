@@ -21,10 +21,11 @@ compile a little guide to that debates within our [TRIZ Social Network](TSN
 ## This Wiki
 * [About](About) &ndash; A general description about the background
   and goals of the WUMM project
-* [Projects](Projects) &ndash; different project ideas and
-  applications, ongoing, pending, successful and failed
-  * [TRIZ Trainings Network](TTN) &ndash; Material of the (in a
-    first try not successful) application for an EU Knowledge Alliance
+* Themes &ndash; different themes, project ideas and applications
+  * [TRIZ Trainings Network](Projects) &ndash; Material of the (not
+    successful) application for an EU Knowledge Alliance in 2020
+  * [Business TRIZ](BusinessTRIZ)
+  * [TRIZ and Pedagogy](TPN)
 * [Events](Events) &ndash; a list of upcoming events
   * See the RDF based summary on [past
     conferences](wumm.uni-leipzig.de/conferences.php).

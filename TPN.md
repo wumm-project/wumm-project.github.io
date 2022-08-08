@@ -117,6 +117,7 @@ German, with links to sites in Russian).
 
 ## More Links (just started)
 
+* [TRIZ Pedagogy Online](http://localhost/graebe/git/WUMM/web/conferences.php?conference=http://wumm.uni-leipzig.de/rdf/TRIZFest-Pedagogy-2022.rdf) at the TRIZFest 2022.
 * TRIZ Summit 2019 in Minsk, Track "TRIZ in Education" (in Russian)
   * <https://triz-summit.ru/confer/tds-2019/articles/education/>
-* TRIZ Pedagogy at the TRIZ Fest 2019 in Heilbronn, a [short report](https://matriz.org/wp-content/uploads/2019/07/Session-on-TRIZ-Pedagogy-at-TRIZfest-2019.docx).
+* TRIZ Pedagogy at the TRIZFest 2019 in Heilbronn, a [short report](https://matriz.org/wp-content/uploads/2019/07/Session-on-TRIZ-Pedagogy-at-TRIZfest-2019.docx).
