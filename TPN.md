@@ -20,6 +20,8 @@ direction of TRIZ practices and the activities going on there.
 
 ## A not at all complete survey
 
+- [TRIZFest Pedagogy 2022](Conferences/TRIZFest-Pedagogy-2022.pdf)
+
 ### TA Teachers
 
 From the Introduction:
