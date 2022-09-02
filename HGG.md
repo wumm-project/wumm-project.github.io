@@ -123,6 +123,11 @@ Innovation Methodologies and the spiritus rector of this WUMM project.
   
 ## TRIZ Related Talks
 
+- On some aspects of TRIZ flow analysis.
+  - [Slides](https://hg-graebe.de/EigeneTexte/TRIZfest-2022-Slides.pdf)
+  - [Transkript](https://hg-graebe.de/EigeneTexte/TRIZfest-2022.txt)
+  - Talk at the TRIZfest 2022, September 1, 2022.
+
 - Components as Resources and Cooperative Action.
   - Talk at the Second German TRIZ-Online Conference, July 22, 2022.
   - [Slides](https://hg-graebe.de/EigeneTexte/DAT-22-Slides.pdf)
