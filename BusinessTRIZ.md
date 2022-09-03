@@ -26,7 +26,7 @@ title: BusinessTRIZ
   - <http://wumm.uni-leipzig.de/conferences.php>
   - [The Chat](Texts/BusinessTRIZ-2020-Chat.txt) 
 
-## Papers and Texts
+## Papers, Texts and Presentations
 
 - Anton Kozhemyako (2016). Psychological effects in management and
   marketing. 100+ ways to improve efficiency in management and sales (in
@@ -44,6 +44,10 @@ title: BusinessTRIZ
 * Darrell Mann (2012). Innovation Capability Maturity Model.  An Introduction.
   IFR Press.
   - <https://store.systematic-innovation.com/books/ebooks/>
+
+* Oliver Mayer (2022). Sustainability Modelling with TRIZ.  Presentation at
+  TRIZfest 2022.
+  [Slides](http://wumm.uni-leipzig.de/Presentations/Mayer-20220902.pdf)
 
 * Alexander Solodkin (2020): Discovery of key problem causes in organizations.
   Presented at the TDS 2020.
