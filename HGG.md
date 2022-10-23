@@ -31,7 +31,7 @@ Innovation Methodologies and the spiritus rector of this WUMM project.
 
 - Systems, resources and systemic development in TRIZ. 
   - [Preprint](https://hg-graebe.de/EigeneTexte/TFC2022-en.pdf), June 2022.
-  - Accepted for presentation at the TRIZ Future Conference 2022.
+  - [Proceedings](https://link.springer.com/chapter/10.1007/978-3-031-17288-5_9) of the TRIZ Future Conference 2022, p. 96-108.
 
 - Components as Resources and Cooperative Action. 
   - [Preprint](https://hg-graebe.de/EigeneTexte/DAT-22-en.pdf), April 2022.
@@ -40,6 +40,7 @@ Innovation Methodologies and the spiritus rector of this WUMM project.
 - On some aspects of TRIZ flow analysis.
   - [Preprint](https://hg-graebe.de/EigeneTexte/TRIZfest-2022.pdf), March 2022
   - Presented at the TRIZfest 2022.
+  - [Proceedings](https://www.researchgate.net/publication/363266497_Proceedings_of_the_17th_International_Conference_TRIZfest_2022) of TRIZfest 2022, p. 151-160. 
       
 - Nachruf auf Rainer Thiel (In Obituary of Rainer Thiel).
   - [LIFIS ONLINE](https://doi.org/10.14625/KXP:1786342723), 26.12.2021.

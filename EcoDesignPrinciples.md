@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EcoDesignPinciples
+title: EcoDesignPrinciples
 ---
 
 # Links on Eco-Design collected so far
