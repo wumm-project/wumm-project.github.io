@@ -7,70 +7,7 @@ title: Events
 
 ## Upcoming Events
 
-* Aug 23, 2022 - TRIZ in Education as part of the 17th TRIZFest 2022
-  - The topic of the meeting is
-    __"Alternative TRIZ approaches in the educational process"__.
-  - Location: Online
-  - Language: Russian
-  - [Program](https://docs.google.com/document/d/1b3FQOCfgvYPxow7P2mDaqd8yKtgi3BNz)
-  - [Registration](https://docs.google.com/forms/d/e/1FAIpQLSekGtZgrv3pmWFfgk9bjviIUPX_tmX7iq2gXlQc-_D2saeOgw/viewform)
-  - The session will be held in Russian. In order to improve the quality of
-    education as well as to disseminate TRIZ and MATRIZ, it was decided to
-    conduct the conference for teachers without payment.
-    
-* Aug 29-31, 2022 - Sixth TA Teachers Conference __Towards Thinking Curriculum__
-  - Location: Online
-  - Languages: English, Russian
-  - <http://www.ta-teachers.eu/conference2022>
-  - [Program](http://www.ta-teachers.eu/conference2022/programme.html)
-  - The conference programme includes 28 presentations from speakers coming
-    from 14 countries. The English track will comprise 12 presentations and 16
-    colleagues will share their experience in the Russian track. When
-    registering, conference participants can choose to follow one of the
-    tracks or both of them.
-  
-* Aug 31 - Sept 3, 2022 - 17th TRIZFest 2022
-  - Location: Graz, Austria
-  - Languages: English
-  - The TRIZFest 2022 is organized by the International TRIZ Association
-    (MATRIZ) together with Juergen Jantschgi.
-  - <https://matriz.org/TRIZFest-2022>
-  - Deadlines:
-    - April 10, 2022 - full paper
-    - April 17, 2022 - notification of acceptance
-    - June 5, 2022 - revised full paper
-    - July 3, 2022 - notification of final acceptance
-
-* Sept 27-29, 2022 - TRIZ Future 2022
-  - Location: Warsaw, Poland
-  - Languages: English
-  - Main theme: Artificial Intelligence methods and Information Technology
-  - The TRIZ Future 2022 is organized by ETRIA.
-  - <https://tfc2022.elka.pw.edu.pl/>
-  - Deadlines  
-    - Submission of abstracts: January 15, 2022
-    - Abstract review: February 10, 2022
-    - First submission of full papers: April 30, 2022
-    - Paper review: May 31, 2022
-    - Final submission: June 30, 2022
-    - Registration opening: July 15, 2022
-
-* Oct 14-16, 2022 - TRIZ Developer Summit 2022
-  - Location: Online
-  - Languages: English, Russian
-  - The annual TRIZ Developers Summit conference is one of the key events in
-    the international TRIZ community. In 2021, experts from 33 countries
-    participated in the conference. Participation in the summit is free of
-    charge for authors and visitors.
-  - <https://triz-summit.ru/confer/2022/leter/1/> (Russian),
-    <https://wearecommunity.io/events/triz_summit_2022> (English)
-  - Deadlines  
-    - Register presentation: May 31, 2022
-    - Decision on the presentation proposals: June 10, 2022
-    - Submission of presentation: August 31, 2022
-    - Review: September 15, 2022
-
-* Dec 1-3, 2022 - MSU Symposium - TRIZ.2022
+* Dec 1-2, 2022 - MSU Symposium - TRIZ.2022
   - Location: Online
   - Languages: English, Russian
   - Title: Modern Theory of Inventive Problem Solving (TRIZ) within Academic
@@ -84,6 +21,7 @@ title: Events
     and development in Russian and international formats.
   - Submission of abstracts: August 1, 2022
   - Decision by the program committee: September 1, 2022
+  - <https://mostrizclub.com/en/conference-msu-triz/>
 
 ## Past Events
 
