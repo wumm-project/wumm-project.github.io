@@ -16,15 +16,15 @@ See
 * [Texts](PhiloBasics) about philosophical roots of TRIZ
 * [Texts](BusinessTRIZ) about Business TRIZ
 * Darrell Mann's [E-Zine](http://www.systematic-innovation.com/past-e-zines-2011-2020.html)
+* [More Texts](Material) 
 
 The TRIZ Journal "triz-journal.com" (1996-2010) is no more online but an
 [archive](https://metodolog.ru/triz-journal/) of all publications is available
 at _metodolog.ru_.
 
-Also the new version of "triz-journal.com" operated by Darrell Mann is at the
-moment not online due to an internet attack.  Darrell recommends to submit new
-papers to the Open Access [International Journal of Systematic
-Innovation](https://www.ijosi.org).
+Also the new version of "triz-journal.com" operated by Darrell Mann is no more
+online.  Darrell recommends to submit new papers to the Open Access
+[International Journal of Systematic Innovation](https://www.ijosi.org).
 
 ## More Texts
 
