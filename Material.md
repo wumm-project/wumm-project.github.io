@@ -42,5 +42,10 @@ title: Material
     Begriffe
   * VDI 4521 Blatt 2. Erfinderisches Problemlösen mit TRIZ - Zielbeschreibung,
     Problemdefinition und Lösungspriorisierung
-* Zobel, D., Hartmann R. Erfindungsmuster. Expert Verlag, Renningen 2009.
-
+* D. Zobel.  TRIZ FÜR ALLE – Der systematische Weg zur Problemlösung.
+  Expert-Verlag, Renningen, 2006, 2007. 
+* D. Zobel.  Kreatives Arbeiten – Methoden, Erfahrungen, Beispiele.
+  Expert-Verlag, Renningen, 2007.
+* D. Zobel, R. Hartmann. Erfindungsmuster. Expert Verlag, Renningen 2009.
+* D. Zobel. Von der Idee über die Erfindung zum Patent. Expert Verlag,
+  Renningen 2022.
