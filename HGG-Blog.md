@@ -5,6 +5,38 @@ title: HGG-Blog
 
 # HGG's Blog
 
+## December 18, 2022: Grandchild introduction - Videos provided by Yuri Danilovsky
+
+9 резиномоторы ВНУКОВЕДЕНИЕ <https://youtu.be/Rp-XVekCf6I>
+
+Для того, чтобы развивать Творческое Воображение ТРИЗ подходит как нельзя
+лучше по одной простой причине. Ты что то придумал – потом сделал – оно
+заработало (повезло !) и теперь ты точно ЗНАЕШЬ, что ты умеешь придумывать
+новое и твои фантазии не беспомощное перечисление невероятных идей. Появилась
+идея - проверь её, сделай её своими ПАЛЬЦАМИ и только так ты сможешь получить
+критическое мышление, и по другому оно не формируется, а дедушка тебе всю
+теорию изобретательства сможет доступно рассказать по нашим рабочим тетрадям.
+Теорию тоже нужно знать, чтобы быстрее находить конструкции.
+
+In order to develop Creative Imagination, TRIZ is the best way for one simple
+reason. You think of something - then you do it - it works (good luck!) and
+now you KNOW for sure that you can think of and your fantasies are not a
+helpless listing of unbelievable ideas. You've got an idea - check it out, do
+it with your FINGERS and that's the only way you can get critical thinking,
+which is the only way to get it, and Grandpa can tell you all of the theory of
+invention and can explain it to you from our workbooks.  You need to know
+theory too, to find designs faster.
+
+The accompanying text of <https://youtu.be/Rp-XVekCf6I> contains a large link
+list to video examples (in Russian) of applications of different TRIZ
+principles.
+
+## December 15, 2022: [The site](http://triz-solver.com) of Yuri Danilovsky 
+
+In particular severe material in English (but most of course in Russian)
+- <http://triz-solver.com/index.php/lyubopytno/252-game-ifr-plus>
+- <http://triz-solver.com/index.php/vse-publikatsii-sajta>
+
 ## January 26, 2022: Dmitri Bakhturin on TRIZ and Career
 
 <https://www.youtube.com/watch?v=M6iuxnluLK8> 
