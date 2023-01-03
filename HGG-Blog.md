@@ -5,9 +5,15 @@ title: HGG-Blog
 
 # HGG's Blog
 
-## December 18, 2022: Grandchild introduction - Videos provided by Yuri Danilovsky
+## January 3, 2023: [Website of Yuri Danilovsky]<http://triz-solver.com>
 
-9 резиномоторы ВНУКОВЕДЕНИЕ <https://youtu.be/Rp-XVekCf6I>
+In particular see
+<http://triz-solver.com/index.php/9-uncategorised/191-novosti-news>
+
+## December 13, 2022: Videos provided by Yuri Danilovsky
+
+- 9 резиномоторы ВНУКОВЕДЕНИЕ <https://youtu.be/Rp-XVekCf6I>
+- <https://www.facebook.com/yury.danilovsky/posts/pfbid02q89nLt98mYBRwnHq9mfyVBio9AHLoSeNehuh8WJaL5W3ABM8DgTh8yuQ6cK574qil>
 
 Для того, чтобы развивать Творческое Воображение ТРИЗ подходит как нельзя
 лучше по одной простой причине. Ты что то придумал – потом сделал – оно
@@ -31,11 +37,18 @@ The accompanying text of <https://youtu.be/Rp-XVekCf6I> contains a large link
 list to video examples (in Russian) of applications of different TRIZ
 principles.
 
-## December 15, 2022: [The site](http://triz-solver.com) of Yuri Danilovsky 
+## December 12, 2022: [The site](http://triz-solver.com) of Yuri Danilovsky 
 
 In particular severe material in English (but most of course in Russian)
 - <http://triz-solver.com/index.php/lyubopytno/252-game-ifr-plus>
 - <http://triz-solver.com/index.php/vse-publikatsii-sajta>
+
+## December 11, 2022: TRIZ and TOS
+
+Valery Souchkov explains the relation between TRIZ and TOS (ТРИЗ и ТОС, что
+общего у теории решения изобретательских задач и теории ограничения систем?)
+
+<https://www.youtube.com/watch?v=igYQ7LdlM-4>
 
 ## January 26, 2022: Dmitri Bakhturin on TRIZ and Career
 
