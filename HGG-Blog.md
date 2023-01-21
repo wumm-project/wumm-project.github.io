@@ -5,11 +5,6 @@ title: HGG-Blog
 
 # HGG's Blog
 
-## January 3, 2023: [Website of Yuri Danilovsky]<http://triz-solver.com>
-
-In particular see
-<http://triz-solver.com/index.php/9-uncategorised/191-novosti-news>
-
 ## December 13, 2022: Videos provided by Yuri Danilovsky
 
 - 9 резиномоторы ВНУКОВЕДЕНИЕ <https://youtu.be/Rp-XVekCf6I>
@@ -42,6 +37,7 @@ principles.
 In particular severe material in English (but most of course in Russian)
 - <http://triz-solver.com/index.php/lyubopytno/252-game-ifr-plus>
 - <http://triz-solver.com/index.php/vse-publikatsii-sajta>
+- <http://triz-solver.com/index.php/9-uncategorised/191-novosti-news>
 
 ## December 11, 2022: TRIZ and TOS
 
