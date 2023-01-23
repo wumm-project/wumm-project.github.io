@@ -5,6 +5,16 @@ title: HGG-Blog
 
 # HGG's Blog
 
+## January 9, 2023: Business TRIZ and Troubleshooting 
+
+Alexey Blagich and Valeri Souchkov (in Russian)
+<https://www.facebook.com/blagih.a/videos/630986632132926>
+
+1. What is troubleshooting and who is a troubleshooter really?
+2. Myths about troubleshooters making millions.
+3. How do you become a troubleshooter and make good money?
+4. Do you need to know TRIZ and Business TRIZ in troubleshooting?
+
 ## December 13, 2022: Videos provided by Yuri Danilovsky
 
 - 9 резиномоторы ВНУКОВЕДЕНИЕ <https://youtu.be/Rp-XVekCf6I>
