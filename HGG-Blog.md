@@ -5,10 +5,17 @@ title: HGG-Blog
 
 # HGG's Blog
 
+## January 22, 2023. "Don't be afraid of challenging tasks".
+
+TRIZ Master Oleg Gerasimov in interview at Trizofication
+- <https://www.youtube.com/watch?v=bbsfVq6IaPg>
+
+See also <https://trizofication.ru/>
+
 ## January 9, 2023: Business TRIZ and Troubleshooting 
 
 Alexey Blagich and Valeri Souchkov (in Russian)
-<https://www.facebook.com/blagih.a/videos/630986632132926>
+- <https://www.facebook.com/blagih.a/videos/630986632132926>
 
 1. What is troubleshooting and who is a troubleshooter really?
 2. Myths about troubleshooters making millions.
@@ -44,7 +51,7 @@ principles.
 
 ## December 12, 2022: [The site](http://triz-solver.com) of Yuri Danilovsky 
 
-In particular severe material in English (but most of course in Russian)
+In particular several material in English (but most of course in Russian)
 - <http://triz-solver.com/index.php/lyubopytno/252-game-ifr-plus>
 - <http://triz-solver.com/index.php/vse-publikatsii-sajta>
 - <http://triz-solver.com/index.php/9-uncategorised/191-novosti-news>

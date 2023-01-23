@@ -7,21 +7,59 @@ title: Events
 
 ## Upcoming Events
 
-* Dec 1-2, 2022 - MSU Symposium - TRIZ.2022
-  - Location: Online
-  - Languages: English, Russian
-  - Title: Modern Theory of Inventive Problem Solving (TRIZ) within Academic
-    Context
-  - The aim of the Symposium is to update and comprehensively examine the
-    problems and the achievements of modern TRIZ within the context of the
-    development of academic philosophical disciplines (philosophy of
-    consciousness, logic, philosophy of education) as well as within the
-    context of the dynamics of current philosophical paradigms (pragmatism,
-    Marxism, postmodernism), and to generate promising directions for research
-    and development in Russian and international formats.
-  - Submission of abstracts: August 1, 2022
-  - Decision by the program committee: September 1, 2022
-  - <https://mostrizclub.com/en/conference-msu-triz/>
+* February 9-10, 2023. TRIZ-Expertentreffen 2023 (TRIZ Expert Meeting)
+  - Location: Hotel-Gasthof „Am Forsthof“, Sulzbach-Rosenberg
+  - Language: German
+  - The TRIZ Expert Meeting was created exclusively for TRIZ trainees.  In
+    order to participate in this meeting, you should have at least attended a
+    basic training course or have already successfully applied the TRIZ
+    methods to your own problems.    
+  - The motto of the Expert Day 2023 is "Beyond MATRIZ-TRIZ". It is about
+    developments of TRIZ that already exist and are used in practice.  
+  - <https://www.triz-consulting.de/angebote/triz-schulungen-kurse/triz-expertentreffen-2023/>
+
+* August 30 - September 2, 2023. First MATRIZ Official Conference “The
+  International TRIZ Conference 2023”.
+  - Location: Graz University of Technology, Austria
+  - Language: English
+  - The event is organized by the International TRIZ Official Association -
+    (MATRIZ Official), Graz University of Technology, and Higher College for
+    Engineering Wolfsberg.
+  - We invite everybody, who is engaged in TRIZ research, development, and
+    practical applications, as well as those who are interested in TRIZ and
+    desire to meet TRIZ professionals and learn more about TRIZ.
+  - Important dates:
+    - Deadline for submitting abstracts: March 1, 2023
+    - Notification of abstracts acceptance: March 15, 2023
+    - Deadline for submitting full papers: June 1, 2023
+    - Notification of full papers acceptance: June 30, 2023
+    - Deadline for submitting final papers: August 1, 2023
+  - <https://www.matriz-official.net/index.php/2-uncategorised/34-itc-2023-call-for-papers>
+
+* September 12-14, 2023. 23rd International TRIZ Future Conference TFC2023
+  - Location: Coburg University of Applied Sciences, Coburg, Germany
+  - Organisers: The European TRIZ Association ETRIA and the Coburg University
+    of Applied Sciences
+  - Title: Inventing and Developing Sustainable Solutions in a Disruptive
+    World
+  - The 23rd edition of ETRIA World Conference "TRIZ Future" invites the
+    submission of original papers, posters, and best practices that combine
+    systematic innovation in industry and society, TRIZ, and IT.
+  - Important dates:
+    - Submission of abstracts: 05 February 2023
+    - Abstract review: 19 February 2023
+    - First version of full papers: 23 April 2023
+    - Paper review: 21 May 2023
+    - Final submission: 18 June 2023
+    - Registration opening: 15 May 2023
+    - Workshop and tutorial day: 11 September 2023
+    - Conference: 12-14 September 2023
+  - <https://www.etria.eu/portal/index.php/next-etria-conference-mainmenu-60>
+
+
+* September 14-17, 2023. 18th TRIZfest-2023 by matriz.org
+  - Location: Bengaluru, India
+
 
 ## Past Events
 
