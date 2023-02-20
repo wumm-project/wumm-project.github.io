@@ -7,19 +7,15 @@ title: Events
 
 ## Upcoming Events
 
-* February 9-10, 2023. TRIZ-Expertentreffen 2023 (TRIZ Expert Meeting)
-  - Location: Hotel-Gasthof „Am Forsthof“, Sulzbach-Rosenberg
-  - Language: German
-  - The TRIZ Expert Meeting was created exclusively for TRIZ trainees.  In
-    order to participate in this meeting, you should have at least attended a
-    basic training course or have already successfully applied the TRIZ
-    methods to your own problems.    
-  - The motto of the Expert Day 2023 is "Beyond MATRIZ-TRIZ". It is about
-    developments of TRIZ that already exist and are used in practice.  
-  - <https://www.triz-consulting.de/angebote/triz-schulungen-kurse/triz-expertentreffen-2023/>
-
+* August 3-4, 2023. TRIZ Retreat
+  - Location: Hotel "Am Forsthof", Sulzbach-Rosenberg
+  - Language: German 
+  - The event is organized by the TRIZ Consulting Group GmbH.
+  - <https://www.triz-consulting.de/angebote/triz-schulungen-kurse/triz-retreat-2023/>
+  - Trainers: Prof. Dr. Oliver Mayer, Dr. Robert Adunka, Jochen Wessner
+  
 * August 30 - September 2, 2023. First MATRIZ Official Conference “The
-  International TRIZ Conference 2023”.
+  International TRIZ Conference 2023” (ITC-2023).
   - Location: Graz University of Technology, Austria
   - Language: English
   - The event is organized by the International TRIZ Official Association -
@@ -36,7 +32,7 @@ title: Events
     - Deadline for submitting final papers: August 1, 2023
   - <https://www.matriz-official.net/index.php/2-uncategorised/34-itc-2023-call-for-papers>
 
-* September 12-14, 2023. 23rd International TRIZ Future Conference TFC2023
+* September 12-14, 2023. 23rd International TRIZ Future Conference TFC-2023
   - Location: Coburg University of Applied Sciences, Coburg, Germany
   - Organisers: The European TRIZ Association ETRIA and the Coburg University
     of Applied Sciences
@@ -46,7 +42,7 @@ title: Events
     submission of original papers, posters, and best practices that combine
     systematic innovation in industry and society, TRIZ, and IT.
   - Important dates:
-    - Submission of abstracts: 05 February 2023
+    - Submission of abstracts: 15 February 2023
     - Abstract review: 19 February 2023
     - First version of full papers: 23 April 2023
     - Paper review: 21 May 2023
@@ -56,10 +52,8 @@ title: Events
     - Conference: 12-14 September 2023
   - <https://www.etria.eu/portal/index.php/next-etria-conference-mainmenu-60>
 
-
 * September 14-17, 2023. 18th TRIZfest-2023 by matriz.org
   - Location: Bengaluru, India
-
 
 ## Past Events
 

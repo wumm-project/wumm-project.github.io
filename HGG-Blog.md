@@ -12,6 +12,28 @@ TRIZ Master Oleg Gerasimov in interview at Trizofication
 
 See also <https://trizofication.ru/>
 
+## January 17, 2023: TRIZ today - Report given by Boris Zlotin (in Russian)
+
+<https://www.youtube.com/watch?v=xMg06W3TMWA>
+
+From Youtube abstract (translated to English):
+
+I always listen with interest to an amazing TRIZ Master Boris Zlotin, and
+once, 16 years ago, in 2007, Boris Lvovitch told in great detail how he came
+to TRIZ, how this process developed from the first "TRIZ + FVA department" at
+Electrosila to his move to Chisinau, and then to Detroit of the whole TRIZ
+school.
+
+8 hours of Boris Zlotin's stories about TRIZ formation in 2007. Download from
+<https://disk.yandex.ru/d/JjEG1onOiENOGA> and all transcripts of the talks
+from <http://triz-solver.com/index.php/lyubopytno/182-triz-history>
+
+A special story is about software IWB to support the invention process
+training of a group of Russian and Korean TRIZ experts in Seoul in 2012
+<http://triz-solver.com/index.php/soft>. No one has created anything similar
+to the analytical block "Problem Formulator" so far, which works equally well
+in technical, social or managerial fields.
+
 ## January 9, 2023: Business TRIZ and Troubleshooting 
 
 Alexey Blagich and Valeri Souchkov (in Russian)
@@ -21,6 +43,7 @@ Alexey Blagich and Valeri Souchkov (in Russian)
 2. Myths about troubleshooters making millions.
 3. How do you become a troubleshooter and make good money?
 4. Do you need to know TRIZ and Business TRIZ in troubleshooting?
+
 
 ## December 13, 2022: Videos provided by Yuri Danilovsky
 
