@@ -33,11 +33,10 @@ title: Events
   - <https://www.matriz-official.net/index.php/2-uncategorised/34-itc-2023-call-for-papers>
 
 * September 12-14, 2023. 23rd International TRIZ Future Conference TFC-2023
-  - Location: Coburg University of Applied Sciences, Coburg, Germany
+  - Location: completely online at the Offenburg University, Germany
   - Organisers: The European TRIZ Association ETRIA and the Coburg University
     of Applied Sciences
-  - Title: Inventing and Developing Sustainable Solutions in a Disruptive
-    World
+  - Title: Towards AI aided Invention and Innovation
   - The 23rd edition of ETRIA World Conference "TRIZ Future" invites the
     submission of original papers, posters, and best practices that combine
     systematic innovation in industry and society, TRIZ, and IT.
@@ -54,6 +53,15 @@ title: Events
 
 * September 14-17, 2023. 18th TRIZfest-2023 by matriz.org
   - Location: Bengaluru, India
+  - Language: English
+  - Pre-conference tutorials day on September 14th, 2023.
+  - The event is organized by the International TRIZ Association (MATRIZ) and
+    ATTI, (India’s regional MATRIZ Association) as the local host in India.
+  - We invite everybody, who is engaged in TRIZ research and development, who
+    uses TRIZ, as well as those who are interested in TRIZ and desire to meet
+    TRIZ professionals and learn more about TRIZ.
+  - [Information Letter 1](https://matriz.org/wp-content/uploads/2023/02/TRIZfest2023-Information-letter-no1.pdf
+
 
 ## Past Events
 

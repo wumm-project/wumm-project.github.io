@@ -5,6 +5,13 @@ title: HGG-Blog
 
 # HGG's Blog
 
+## February 22, 2023. Sergey Yatsunenko about MATRIZ
+
+Яцуненко Сергей Анатольевич: Развитие МА ТРИЗ и перспективы развития ТРИЗ
+сообществ
+
+<https://www.youtube.com/watch?v=Rn7uycHiXMk> (in Russian)
+
 ## January 22, 2023. "Don't be afraid of challenging tasks".
 
 TRIZ Master Oleg Gerasimov in interview at Trizofication
