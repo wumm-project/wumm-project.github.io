@@ -141,6 +141,12 @@ title: GIS
   Zeitschrift für Philosophie 1976, Nr. 3.
 * Methodologie und Schöpfertum (Methodology and Creativity). Forschungsbericht
   und Konferenz-Protokoll 1977.
+* Heuristische Mittel zur Unterstützung von Problemlösungsprozessen.  In:
+  Materialien der 3. bilateralen Konferenz DDR-UdSSR zu Problemen der
+  Methodologie der Wissenschaft.  Teil 5: Aspekte der
+  Wissenschaftsmethodologie.  Wissenschaftliche Beiträge der HU Berlin, Heft
+  19 (1982), 68-95.  
+  - [Scan](Texts/Thiel/WB-HUBerlin-1982.pdf)
 * Dialektische Widersprüche in Entwicklungsaufgaben (Dialectical
   Contradictions in Development Tasks). Berlin 1980. Integriert in das erste
   Lehrmaterial für Erfinderschulen der KDT 1983.
