@@ -133,6 +133,9 @@ title: GIS
 
 ## Rainer Thiel
 
+* Newton, Marx und Einstein. Aufbau 5 (1957), 512-516; 6 (1957), 625-637.
+  - [Scan, Teil 1](Texts/Thiel/aufbau_1957_05.pdf)
+  - [Scan, Teil 2](Texts/Thiel/aufbau_1957_06.pdf)
 * Über einen Fortschritt in der Aufklärung schöpferischer Denkprozesse (On an
   advance in the understanding of inventive thought processes). Deutsche
   Zeitschrift für Philosophie 1976, Nr. 3.
@@ -152,9 +155,9 @@ title: GIS
   material for the inventor school). Lehrbriefe 1 und 2, Kammer der Technik,
   Berlin 1988 und 1989.
   - Republished as [Rohrbacher Manuskripte, Heft 21](http://www.dorfwiki.org/wiki.cgi?HansGertGraebe/RohrbacherKreis/RohrbacherManuskripte)
-* Komplexitätsbewältigung – Dialektikbewältigung, theoretisch und praktisch
-  (Complexity management - dialectics management, theoretical and practical).
+* Komplexitätsbewältigung – Dialektikbewältigung, theoretisch und praktisch.
   Deutsche Zeitschrift für Philosophie 1990, Nr. 5.
+  - [Scan](Texts/Thiel/DZfPh-1990_5.pdf)
 * (with Hans-Joachim Rindfleisch). Erfinderschulen in der DDR (Inventor
   schools in the GDR). Trafo Verlag, Berlin 1994.
 * Wie wird Dialektik nutzbar als Heuristik? (How is dialectic usable as a
@@ -164,6 +167,14 @@ title: GIS
   und Kybernetik helfen (On the Teachability of Dialectical Thinking - Chance
   of Philosophy, Mathematics and Cybernetics help). Manuscript 2007.
   [pdf, in German](GDR-InventorSchools/Thiel-07.pdf).
+* Kybernetik und Entwicklung der Dialektik – Ergebnis und Perspektiven.
+  Vortrag bei der Gesellschaft für Kybernetik (GfK) am 22. November 2008,
+  II. Kolloquium der GfK „1948 – 2008: 60 Jahre Kybernetik“.
+  - [Manuscript](Texts/Thiel/Thiel-08.pdf)
+* Erfinderschulen der DDR – Silbernes fürs ganze Deutschland. In: MINT –
+  Zukunft schaffen.  Innovation und Arbeit in der modernen Gesellschaft
+  Hans-Gert Gräbe, Ingo Groepler-Roeser (Hrsg.) – Leipzig, 2012.
+  - [Separatum](Texts/Thiel/ThielTafelsilber.pdf)
 * Autobiografie „Neugier, Liebe, Revolution“. Verlag am Park, 2010. Spätere
   Auflagen im Trafo Verlag.
 * Erfinderschulen – Problemlöse-Workshops. Projekt und Praxis. (Inventor
