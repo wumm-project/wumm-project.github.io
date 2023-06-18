@@ -60,7 +60,13 @@ title: Events
   - We invite everybody, who is engaged in TRIZ research and development, who
     uses TRIZ, as well as those who are interested in TRIZ and desire to meet
     TRIZ professionals and learn more about TRIZ.
-  - [Information Letter 1](https://matriz.org/wp-content/uploads/2023/02/TRIZfest2023-Information-letter-no1.pdf
+  - [Information Letter 1](https://matriz.org/wp-content/uploads/2023/02/TRIZfest2023-Information-letter-no1.pdf)
+
+* October 7-8 + 14-15, 2023. TRIZ Developers Summit 
+  - Location: online
+  - Language: Russian, English
+  - [Information Letter 1](https://triz-summit.ru/confer/tds-2023/inform-letter/inform-letter-1) (in Russian)
+  - See also [TRIZ-Consulting Announcement](https://www.triz-consulting.de/2023/02/28/triz-developers-summit-2023/) 
 
 
 ## Past Events
