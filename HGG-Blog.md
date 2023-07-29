@@ -5,6 +5,15 @@ title: HGG-Blog
 
 # HGG's Blog
 
+## July 29, 2023. Volume 24 of "Rohrbacher Manuskripte" published
+
+> Peter Koch. Methodological foundations of the creative, innovative
+> problem-solving process (in German). Rohrbacher Manuskripte, Heft 24. Book
+> on Demand 2023. 188 S. ISBN 9783757827656.
+> [Book on Demand 2023](https://www.bod.de/buchshop/methodische-grundlagen-des-kreativen-innovativen-problem-bearbeitungs-prozesses-peter-koch-9783757827656). 188 S. ISBN 9783757827656.
+
+See [a short annotation](2023-07-29) of the publication in German and English.
+
 ## February 22, 2023. Sergey Yatsunenko about MATRIZ
 
 Яцуненко Сергей Анатольевич: Развитие МА ТРИЗ и перспективы развития ТРИЗ
