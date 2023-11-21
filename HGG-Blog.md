@@ -5,6 +5,12 @@ title: HGG-Blog
 
 # HGG's Blog
 
+## December 7-9, 2023. [2nd International Conference “TRIZ In Today’s Academic Context”](MTC-2023-12)
+
+Subject: Development of TRIZ ontology for organization and management
+
+Organised by the Moscow TRIZ Club and Moscow Financial University.
+
 ## July 29, 2023. Volume 24 of "Rohrbacher Manuskripte" published
 
 > Peter Koch. Methodological foundations of the creative, innovative
