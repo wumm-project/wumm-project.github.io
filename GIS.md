@@ -134,8 +134,8 @@ title: GIS
 ## Rainer Thiel
 
 * Newton, Marx und Einstein. Aufbau 5 (1957), 512-516; 6 (1957), 625-637.
-  - [Scan, Teil 1](Texts/Thiel/aufbau_1957_05.pdf)
-  - [Scan, Teil 2](Texts/Thiel/aufbau_1957_06.pdf)
+  - [Scan, Teil 1](Texts/ThielRainer/aufbau_1957_05.pdf)
+  - [Scan, Teil 2](Texts/ThielRainer/aufbau_1957_06.pdf)
 * Über einen Fortschritt in der Aufklärung schöpferischer Denkprozesse (On an
   advance in the understanding of inventive thought processes). Deutsche
   Zeitschrift für Philosophie 1976, Nr. 3.
@@ -146,7 +146,7 @@ title: GIS
   Methodologie der Wissenschaft.  Teil 5: Aspekte der
   Wissenschaftsmethodologie.  Wissenschaftliche Beiträge der HU Berlin, Heft
   19 (1982), 68-95.  
-  - [Scan](Texts/Thiel/WB-HUBerlin-1982.pdf)
+  - [Scan](Texts/ThielRainer/WB-HUBerlin-1982.pdf)
 * Dialektische Widersprüche in Entwicklungsaufgaben (Dialectical
   Contradictions in Development Tasks). Berlin 1980. Integriert in das erste
   Lehrmaterial für Erfinderschulen der KDT 1983.
@@ -163,7 +163,7 @@ title: GIS
   - Republished as [Rohrbacher Manuskripte, Heft 21](http://www.dorfwiki.org/wiki.cgi?HansGertGraebe/RohrbacherKreis/RohrbacherManuskripte)
 * Komplexitätsbewältigung – Dialektikbewältigung, theoretisch und praktisch.
   Deutsche Zeitschrift für Philosophie 1990, Nr. 5.
-  - [Scan](Texts/Thiel/DZfPh-1990_5.pdf)
+  - [Scan](Texts/ThielRainer/DZfPh-1990_5.pdf)
 * (with Hans-Joachim Rindfleisch). Erfinderschulen in der DDR (Inventor
   schools in the GDR). Trafo Verlag, Berlin 1994.
 * Wie wird Dialektik nutzbar als Heuristik? (How is dialectic usable as a
@@ -176,11 +176,11 @@ title: GIS
 * Kybernetik und Entwicklung der Dialektik – Ergebnis und Perspektiven.
   Vortrag bei der Gesellschaft für Kybernetik (GfK) am 22. November 2008,
   II. Kolloquium der GfK „1948 – 2008: 60 Jahre Kybernetik“.
-  - [Manuscript](Texts/Thiel/Thiel-08.pdf)
+  - [Manuscript](Texts/ThielRainer/Thiel-08.pdf)
 * Erfinderschulen der DDR – Silbernes fürs ganze Deutschland. In: MINT –
   Zukunft schaffen.  Innovation und Arbeit in der modernen Gesellschaft
   Hans-Gert Gräbe, Ingo Groepler-Roeser (Hrsg.) – Leipzig, 2012.
-  - [Separatum](Texts/Thiel/ThielTafelsilber.pdf)
+  - [Separatum](Texts/ThielRainer/ThielTafelsilber.pdf)
 * Autobiografie „Neugier, Liebe, Revolution“. Verlag am Park, 2010. Spätere
   Auflagen im Trafo Verlag.
 * Erfinderschulen – Problemlöse-Workshops. Projekt und Praxis. (Inventor
